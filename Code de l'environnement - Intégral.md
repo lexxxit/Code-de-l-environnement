@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-05-29
+Version Consolidée au 2004-06-05
 
 # Partie législative
 
@@ -622,7 +622,9 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent c
 	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
 
 
-#### Chapitre II : Etudes d'impact
+#### Chapitre II : Evaluation environnementale
+
+##### Section 1 : Etudes d'impact des travaux et projets d'aménagement
 
 ###### Article L122-1
 
@@ -800,11 +802,16 @@ les informations suivantes :
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 147 () JORF 28 février 2002
+	  - Ordonnance 2004-489 2004-06-03 art. 1 I, II JORF 5 juin 2004
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cite**:
 
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 
 ###### Article L122-2
@@ -826,7 +833,8 @@ demande de suspension de la décision attaquée, y fait droit dès que cette abs
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 art. 12 1° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
+	  - Ordonnance 2004-489 2004-06-03 art. 1 I, II JORF 5 juin 2004
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -838,6 +846,7 @@ demande de suspension de la décision attaquée, y fait droit dès que cette abs
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de justice administrative. - art. L554-11 (V)
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Cite**:
 
@@ -871,6 +880,10 @@ soumis à la procédure de l'étude d'impact ;
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
 	**Anciens textes**:
 
 	  - Loi n°76-629 1976-07-10 art. 2 al. 3, al. 4, al. 5
@@ -883,7 +896,8 @@ soumis à la procédure de l'étude d'impact ;
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 147 () JORF 28 février 2002
+	  - Ordonnance 2004-489 2004-06-03 art. 1 I, II JORF 5 juin 2004
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -900,6 +914,471 @@ soumis à la procédure de l'étude d'impact ;
 	  - Code de l'urbanisme - art. L122-5-1 (VT)
 	  - Code de l'urbanisme - art. L122-5-2 (VT)
 	  - Code des ports maritimes - art. R*115-4 (M)
+
+
+##### Section 2 : Evaluation de certains plans et documents ayant une incidence notable sur l'environnement
+
+###### Article L122-4
+
+I. - Les plans, schémas, programmes et autres documents de planification figurant sur une liste établie par décret en Conseil
+d'Etat qui, sans autoriser par eux-mêmes la réalisation de travaux ou prescrire des projets d'aménagement, sont applicables à
+la réalisation de tels travaux ou projets doivent faire l'objet d'une évaluation environnementale dans les conditions prévues
+par la présente section.
+
+Doivent comporter une telle évaluation :
+
+1° Les plans, schémas, programmes et autres documents de planification adoptés par l'Etat, les collectivités territoriales ou
+leurs groupements et les établissements publics en dépendant, relatifs à l'agriculture, à la sylviculture, à la pêche, à
+l'énergie ou à l'industrie, aux transports, à la gestion des déchets ou à la gestion de l'eau, aux télécommunications, au
+tourisme ou à l'aménagement du territoire qui ont pour objet de fixer des prescriptions ou des orientations avec lesquelles
+doivent être compatibles les travaux et projets d'aménagement entrant dans le champ d'application de l'étude d'impact en
+application de l'article L. 122-1 ;
+
+2° Les plans, schémas, programmes et autres documents de planification adoptés par l'Etat, les collectivités territoriales ou
+leurs groupements et les établissements publics en dépendant, autres que ceux mentionnés au 1° du présent article, qui ont
+pour objet de fixer des prescriptions ou des orientations avec lesquelles doivent être compatibles des travaux ou projets
+d'aménagement s'ils sont susceptibles d'avoir des incidences notables sur l'environnement.
+
+La liste des documents mentionnés au 2° est établie en prenant en compte la nature des travaux ou projets auxquels ils sont
+applicables et la sensibilité du milieu dans lequel ceux-ci doivent être réalisés.
+
+II. - L'évaluation environnementale des plans, schémas, programmes et autres documents de planification mentionnés aux
+articles L. 121-10 du code de l'urbanisme et aux articles L. 4424-9 et L. 4433-7 du code général des collectivités
+territoriales est régie par les dispositions des articles L. 121-10 à L. 121-15 du code de l'urbanisme.
+
+III. - Les projets de plans, schémas, programmes et autres documents de planification qui déterminent l'utilisation de
+territoires de faible superficie ne sont pas soumis à l'évaluation prévue par la présente section si leur application n'est
+pas susceptible d'avoir d'incidence notable sur l'environnement compte tenu notamment de la sensibilité du milieu, de l'objet
+du plan ou du contenu du projet.
+
+IV. - Les plans et documents établis uniquement à des fins de défense nationale ou de protection civile ne sont pas soumis à
+une évaluation environnementale.
+
+**Nota:**
+
+Voir le décret n° 2005-613 publié au JO du 29 mai 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°2004-489 du 3 juin 2004 - art. 5, v. init.
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
+	  - Décret n°2005-613 du 27 mai 2005 - art. 1 (Ab)
+	  - Décret n°2015-1229 du 2 octobre 2015 - art. 17 (V)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 3
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 4
+	  - Code de l'environnement - art. L121-1-A (V)
+	  - Code de l'environnement - art. L121-15-1 (V)
+	  - Code de l'environnement - art. L121-18 (V)
+	  - Code de l'environnement - art. L121-8 (V)
+	  - Code de l'environnement - art. L122-10 (V)
+	  - Code de l'environnement - art. L122-12 (T)
+	  - Code de l'environnement - art. L122-14 (V)
+	  - Code de l'environnement - art. L122-5 (V)
+	  - Code de l'environnement - art. L122-7 (V)
+	  - Code de l'environnement - art. L122-8 (V)
+	  - Code de l'environnement - art. L123-1-A (V)
+	  - Code de l'environnement - art. L123-19 (V)
+	  - Code de l'environnement - art. L123-2 (VD)
+	  - Code de l'environnement - art. L212-2 (V)
+	  - Code de l'environnement - art. L411-1 A (V)
+	  - Code de l'environnement - art. L414-4 (V)
+	  - Code de l'environnement - art. L651-5 (V)
+	  - Code de l'environnement - art. R*214-34 (MMN)
+	  - Code de l'environnement - art. R*214-36 (Ab)
+	  - Code de l'environnement - art. R122-17 (VD)
+	  - Code de l'environnement - art. R122-18 (V)
+	  - Code de l'environnement - art. R123-8 (VD)
+	  - Code de l'environnement - art. R211-81-3 (V)
+	  - Code de l'environnement - art. R219-9 (V)
+	  - Code de l'environnement - art. R414-19 (V)
+	  - Code de l'environnement - art. R414-21 (V)
+	  - Code de l'environnement - art. R541-15 (V)
+	  - Code de l'environnement - art. R541-31 (Ab)
+	  - Code de l'environnement - art. R651-3 (V)
+	  - Code de l'urbanisme - art. L122-4-2 (VD)
+	  - Code de l'urbanisme - art. L122-5-1 (VT)
+	  - Code de l'urbanisme - art. L122-5-2 (VT)
+	  - Code de l'urbanisme - art. L122-5-3 (VT)
+	  - Code de l'urbanisme - art. L122-7 (VD)
+	  - Code de l'urbanisme - art. R*111-28 (VT)
+	  - Code de l'urbanisme - art. R*121-18 (VT)
+	  - Code de l'urbanisme - art. R*122-2 (VT)
+	  - Code de l'urbanisme - art. R*123-2-1 (VT)
+	  - Code de l'urbanisme - art. R*124-2-1 (VT)
+	  - Code de l'urbanisme - art. R*141-1 (VT)
+	  - Code de l'urbanisme - art. R104-18 (V)
+	  - Code de l'urbanisme - art. R123-1 (V)
+	  - Code de l'urbanisme - art. R151-3 (V)
+	  - Code de l'urbanisme - art. R161-3 (V)
+	  - Code de l'urbanisme - art. R172-2 (V)
+	  - Code forestier - art. R133-1 (VD)
+	  - Code forestier - art. R222-1 (VD)
+	  - Code général des collectivités territoriales - art. R4424-6-1 (V)
+	  - Code général des collectivités territoriales - art. R4433-1 (V)
+	  - Code minier (nouveau) - art. L621-2 (VD)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4424-9 (T)
+	  - Code général des collectivités territoriales - art. L4433-7 (M)
+	  - Code de l'urbanisme L121-10 à L121-15
+	  - Code de l'environnement - art. L122-1 (M)
+
+
+###### Article L122-5
+
+A l'exception de celles qui n'ont qu'un caractère mineur, les modifications apportées aux plans et documents soumis aux
+dispositions du I de l'article L. 122-4 donnent lieu soit à une nouvelle évaluation environnementale, soit à une
+actualisation de celle qui a été réalisée lors de leur élaboration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R122-17 (VD)
+	  - Code de l'environnement - art. R331-15 (M)
+	  - Code de l'urbanisme - art. L122-24 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+
+###### Article L122-6
+
+L'évaluation environnementale comporte l'établissement d'un rapport qui identifie, décrit et évalue les effets notables que
+peut avoir la mise en oeuvre du plan ou du document sur l'environnement. Ce rapport présente les mesures prévues pour réduire
+et, dans la mesure du possible, compenser les incidences négatives notables que l'application du plan peut entraîner sur
+l'environnement. Il expose les autres solutions envisagées et les raisons pour lesquelles, notamment du point de vue de la
+protection de l'environnement, le projet a été retenu.
+
+Le rapport environnemental contient les informations qui peuvent être raisonnablement exigées, compte tenu des connaissances
+et des méthodes d'évaluation existant à la date à laquelle est élaboré ou révisé le plan ou le document, de son contenu et de
+son degré de précision et, le cas échéant, de l'existence d'autres documents ou plans relatifs à tout ou partie de la même
+zone géographique ou de procédures d'évaluation environnementale prévues à un stade ultérieur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°86-1252 du 5 décembre 1986 - art. 11 (V)
+	  - Décret n°86-1252 du 5 décembre 1986 - art. 12 (V)
+	  - Décret n°96-1008 du 18 novembre 1996 - art. 5 (Ab)
+	  - Décret n°96-1008 du 18 novembre 1996 - art. 7 (Ab)
+	  - Décret n°96-1009 du 18 novembre 1996 - art. 5 (Ab)
+	  - Décret n°96-1009 du 18 novembre 1996 - art. 7 (Ab)
+	  - Arrêté du 17 mars 2006 - art. 2 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 3 (VD)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 3-1 (VT)
+	  - Décret n°2011-724 du 24 juin 2011 - art. 11 (V)
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 4
+	  - Code de l'environnement - art. L122-10 (V)
+	  - Code de l'environnement - art. L122-13 (V)
+	  - Code de l'environnement - art. L122-4 (V)
+	  - Code de l'environnement - art. L122-5 (V)
+	  - Code de l'environnement - art. R212-39 (VT)
+	  - Code de l'environnement - art. R219-9 (V)
+	  - Code de l'environnement - art. R541-18 (VD)
+	  - Code de l'environnement - art. R541-19 (VD)
+	  - Code de l'environnement - art. R541-20 (Ab)
+	  - Code de l'environnement - art. R541-22 (V)
+	  - Code de l'environnement - art. R541-34 (Ab)
+	  - Code de l'environnement - art. R541-35 (Ab)
+	  - Code de l'environnement - art. R541-36 (Ab)
+	  - Code de l'environnement - art. R541-41-7 (Ab)
+	  - Code de l'environnement - art. R541-41-8 (Ab)
+	  - Code de l'environnement - art. R541-41-9 (Ab)
+	  - Code de l'environnement - art. R655-14-2 (Ab)
+	  - Code forestier (nouveau) - art. D122-27 (V)
+	  - Code forestier (nouveau) - art. D122-3 (M)
+	  - Code forestier (nouveau) - art. D122-4 (V)
+	  - Code forestier (nouveau) - art. D122-9 (M)
+	  - Code forestier (nouveau) - art. D123-1 (M)
+	  - Code minier (nouveau) - art. L621-2 (V)
+	  - Code minier - art. 68-20-1 (VT)
+	  - Code rural - art. L181-12 (VD)
+	  - Code rural et de la pêche maritime - art. L181-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+
+###### Article L122-7
+
+La personne publique responsable de l'élaboration d'un plan ou d'un document transmet pour avis à une autorité administrative
+de l'Etat compétente en matière d'environnement :
+
+- soit le projet de plan ou de document élaboré en application du I de l'article L. 122-4, accompagné du rapport
+environnemental ;
+
+- soit la décision motivée de ne pas réaliser l'évaluation environnementale d'un projet de plan ou de document en application
+du III de l'article L. 122-4.
+
+A défaut d'être émis dans un délai de trois mois, l'avis est réputé favorable.
+
+L'autorité de l'Etat compétente en matière d'environnement est consultée, en tant que de besoin, sur le degré de précision
+des informations que doit contenir le rapport environnemental.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Cité par**:
+
+	  - Décret n°86-1252 du 5 décembre 1986 - art. 12 (V)
+	  - Décret n°2005-613 du 27 mai 2005 - art. 2 (Ab)
+	  - Décret n°2005-613 du 27 mai 2005 - art. 3 (Ab)
+	  - Décret n°2005-613 du 27 mai 2005 - art. 5 (Ab)
+	  - Arrêté du 17 mars 2006 - art. 2 (V)
+	  - Décret n°2009-951 du 29 juillet 2009 (V)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 5 (V)
+	  - Code de l'environnement - art. L122-8 (V)
+	  - Code de l'environnement - art. L123-10 (VD)
+	  - Code de l'environnement - art. L123-14 (V)
+	  - Code de l'environnement - art. L123-19 (V)
+	  - Code de l'environnement - art. R122-18 (V)
+	  - Code de l'environnement - art. R122-19 (VT)
+	  - Code de l'environnement - art. R122-21 (VT)
+	  - Code de l'environnement - art. R123-22 (M)
+	  - Code de l'environnement - art. R123-8 (VD)
+	  - Code de l'environnement - art. R123-9 (M)
+	  - Code forestier (nouveau) - art. D122-10 (V)
+	  - Code forestier (nouveau) - art. D122-14 (V)
+	  - Code forestier (nouveau) - art. D122-5 (V)
+	  - Code forestier (nouveau) - art. R122-20 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-4 (V)
+
+
+###### Article L122-8
+
+Le rapport environnemental est rendu public avant l'adoption du plan ou du document.
+
+Le projet de plan ou de document et le rapport environnemental auquel sont annexés, le cas échéant, les avis recueillis en
+application de l'article L. 122-7 sont mis à la disposition du public dans les conditions fixées par décret en Conseil
+d'Etat.
+
+Lorsque le projet de plan ou de document est soumis à enquête publique, celle-ci tient lieu de mise à disposition du public
+au sens du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-7 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L123-16 (VT)
+	  - Code de l'environnement - art. L515-3 (VD)
+	  - Code de l'environnement - art. R122-22 (V)
+	  - Code de l'environnement - art. R122-23 (T)
+	  - Code de l'environnement - art. R515-5 (V)
+	  - Code de l'environnement - art. R515-8-2 (V)
+	  - Code forestier (nouveau) - art. L122-2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+
+###### Article L122-9
+
+Les projets de plans ou de documents dont la mise en oeuvre est susceptible de produire des effets notables sur
+l'environnement d'un autre Etat membre de la Communauté européenne sont transmis aux autorités de cet Etat, à la demande de
+celles-ci ou à l'initiative des autorités françaises. L'Etat intéressé est invité à donner son avis dans le délai fixé par
+décret en Conseil d'Etat. En l'absence de réponse dans ce délai, l'avis est réputé émis.
+
+Lorsqu'un projet de plan ou de document dont la mise en oeuvre est susceptible de produire des effets notables sur le
+territoire national est transmis pour avis aux autorités françaises par un autre Etat, il peut être décidé de consulter le
+public sur le projet.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+	  - TRANSFERE: Ordonnance n°2016-1058 du 3 août 2016 - art. 1
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+	**Cité par**:
+
+	  - Décret n°2017-155 du 8 février 2017 - art. 2 (V)
+	  - Code de l'environnement - art. R122-20 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L122-8 (V)
+
+
+###### Article L122-10
+
+I. - Lorsque le plan ou le document a été adopté, l'autorité qui l'a arrêté en informe le public, l'autorité administrative
+de l'Etat compétente en matière d'environnement et, le cas échéant, les autorités des autres Etats membres de la Communauté
+européenne consultés. Elle met à leur disposition les informations suivantes :
+
+1° Le plan ou le document ;
+
+2° Une déclaration résumant :
+
+- la manière dont il a été tenu compte du rapport établi en application de l'article L. 122-6 et des consultations auxquelles
+il a été procédé ;
+
+- les motifs qui ont fondé les choix opérés par le plan ou le document, compte tenu des diverses solutions envisagées ;
+
+- les mesures destinées à évaluer les incidences sur l'environnement de la mise en oeuvre du plan ou du document.
+
+II. - Lorsqu'un projet de plan ou de document n'a pas été soumis à l'évaluation environnementale en application du III de
+l'article L. 122-4, l'autorité responsable de son élaboration informe le public des motifs de cette décision.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°96-1008 du 18 novembre 1996 - art. 9 (Ab)
+	  - Décret n°96-1009 du 18 novembre 1996 - art. 9 (Ab)
+	  - Décret n°2005-613 du 27 mai 2005 - art. 8 (Ab)
+	  - Arrêté du 17 mars 2006 - art. 1 (V)
+	  - Arrêté du 17 mars 2006 - art. 12 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 13 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 17 (VD)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 2 (V)
+	  - Décret n°2011-1011 du 24 août 2011 - art. 2 (V)
+	  - Décret n°2011-2105 du 30 décembre 2011 - art. 2 (V)
+	  - Code de l'environnement - art. L515-3 (VD)
+	  - Code de l'environnement - art. R122-24 (V)
+	  - Code de l'environnement - art. R212-42 (VD)
+	  - Code de l'environnement - art. R212-43 (V)
+	  - Code de l'environnement - art. R331-12 (V)
+	  - Code de l'environnement - art. R371-33 (VD)
+	  - Code de l'environnement - art. R541-23 (V)
+	  - Code de l'environnement - art. R541-24 (VD)
+	  - Code de l'environnement - art. R541-39 (Ab)
+	  - Code de l'environnement - art. R541-41-12 (Ab)
+	  - Code de l'environnement - art. R541-41-13 (Ab)
+	  - Code forestier - art. R133-1-2 (Ab)
+	  - Code forestier - art. R222-2 (VD)
+	  - Code minier (nouveau) - art. L621-2 (VD)
+	  - Code minier - art. 68-20-1 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-4 (V)
+	  - Code de l'environnement - art. L122-6 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+
+###### Article L122-11
+
+Les conditions d'application de la présente section pour chaque catégorie de plans ou de documents sont précisées, en tant
+que de besoin, par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+	  - TRANSFERE: Ordonnance n°2016-1058 du 3 août 2016 - art. 1
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L122-10 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L651-4 (V)
+	  - Code de l'environnement - art. R655-13 (V)
+	  - Code de l'environnement - art. R655-14-1 (Ab)
+	  - Code de l'environnement - art. R655-9 (Ab)
 
 
 #### Chapitre III : Enquêtes publiques relatives aux opérations susceptibles d'affecter l'environnement
@@ -18862,7 +19341,9 @@ Les litiges relatifs à l'exécution de ce contrat sont portés devant la juridi
 
 I. - Les programmes ou projets de travaux, d'ouvrage ou d'aménagement soumis à un régime d'autorisation ou d'approbation
 administrative, et dont la réalisation est de nature à affecter de façon notable un site Natura 2000, font l'objet d'une
-évaluation de leurs incidences au regard des objectifs de conservation du site.
+évaluation de leurs incidences au regard des objectifs de conservation du site. Pour ceux de ces programmes qui sont prévus
+par des dispositions législatives et réglementaires et qui ne sont pas soumis à étude d'impact, l'évaluation est conduite
+selon la procédure prévue aux articles L. 122-4 et suivants du présent code.
 
 Les travaux, ouvrages ou aménagements prévus par les contrats Natura 2000 sont dispensés de la procédure d'évaluation
 mentionnée à l'alinéa précédent.
@@ -18958,13 +19439,13 @@ public.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 8 () JORF 14 avril 2001
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 2 () JORF 5 juin 2004 rectificatif JORF 10 juillet 2004
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L414-7 (V)
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 	  - TXT_SOURCE: Directive 79-409 CEE 1979-04-02
 	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
@@ -39452,7 +39933,7 @@ la puissance installée totale sur un même site de production, au sens du trois
 2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, excède 2,5
 mégawatts, est subordonnée à la réalisation préalable :
 
-a) De l'étude d'impact définie au chapitre II du titre II du livre Ier du présent code ;
+a) De l'étude d'impact définie à la section 1 du chapitre II du titre II du livre Ier du présent code ;
 
 b) D'une enquête publique soumise aux prescriptions du chapitre III du titre II du livre Ier du présent code.
 
@@ -39460,6 +39941,10 @@ II. - Les projets d'implantation qui ne sont pas subordonnés à la réalisation
 l'objet d'une notice d'impact.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Cite**:
 
@@ -39470,9 +39955,9 @@ l'objet d'une notice d'impact.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 juillet 2003
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
 
 	**Cité par**:
 
