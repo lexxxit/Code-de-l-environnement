@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-23
 
 # Partie législative
 
@@ -4751,7 +4751,15 @@ la ressource en eau est naturellement abondante, et si le nombre d'usagers racco
 la commune connaît habituellement de fortes variations de sa population, autoriser la mise en oeuvre d'une tarification ne
 comportant pas de terme directement proportionnel au volume total consommé.
 
+En Corse, la mise en oeuvre du régime de tarification prévu à l'alinéa précédent est autorisée, selon les mêmes conditions,
+par l'Assemblée de Corse, à la demande du maire, du président de l'établissement public de coopération intercommunale ou du
+président du syndicat mixte compétent.
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 	**Anciens textes**:
 
@@ -4763,13 +4771,17 @@ comportant pas de terme directement proportionnel au volume total consommé.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 27 () JORF 23 janvier 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L5721-2 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L214-16 (Ab)
 
 	**Cité par**:
 
@@ -9414,13 +9426,16 @@ information aux organismes agréés prévus à l'article L. 221-3.
 
 ###### Article L222-1
 
-Le préfet de région, et en Corse le préfet de Corse, élabore un plan régional pour la qualité de l'air qui fixe des
-orientations permettant, pour atteindre les objectifs de qualité de l'air mentionnés à l'article L. 221-1, de prévenir ou de
-réduire la pollution atmosphérique ou d'en atténuer les effets. Ce plan fixe également des objectifs de qualité de l'air
-spécifiques à certaines zones lorsque les nécessités de leur protection le justifient.
+Le préfet de région, élabore un plan régional pour la qualité de l'air qui fixe des orientations permettant, pour atteindre
+les objectifs de qualité de l'air mentionnés à l'article L. 221-1, de prévenir ou de réduire la pollution atmosphérique ou
+d'en atténuer les effets. Ce plan fixe également des objectifs de qualité de l'air spécifiques à certaines zones lorsque les
+nécessités de leur protection le justifient.
 
 A ces fins, le plan régional pour la qualité de l'air s'appuie sur un inventaire des émissions et une évaluation de la
 qualité de l'air et de ses effets sur la santé publique et sur l'environnement.
+
+En Corse, le plan régional pour la qualité de l'air est élaboré par le président du conseil exécutif. Les services de l'Etat
+sont associés à son élaboration.
 
 **Liens relatifs à cet article**
 
@@ -9477,9 +9492,17 @@ qualité de l'air et de ses effets sur la santé publique et sur l'environnement
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L221-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ###### Article L222-2
@@ -9491,7 +9514,8 @@ Le projet de plan est mis à la disposition du public pour consultation. Il est 
 communes où il existe un plan de déplacements urbains ou un plan de protection de l'atmosphère, ainsi qu'aux autorités
 compétentes pour l'organisation des transports urbains et aux conseils généraux. Après modifications éventuelles afin de
 tenir compte des observations du public et des avis des collectivités consultées, il est arrêté par le préfet après avis du
-conseil régional ou, en Corse, de l'assemblée de Corse.
+conseil régional ou, en Corse, par délibération de l'Assemblée de Corse sur proposition du président du conseil exécutif et
+après avis du représentant de l'Etat.
 
 Au terme d'une période de cinq ans, le plan fait l'objet d'une évaluation et est révisé, le cas échéant, si les objectifs de
 qualité de l'air n'ont pas été atteints.
@@ -9503,6 +9527,10 @@ En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et 
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
+
 	**Anciens textes**:
 
 	  - Loi n°96-1236 du 30 décembre 1996 - art. 6 (Ab)
@@ -9511,6 +9539,10 @@ En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -12623,6 +12655,12 @@ activités humaines.
 
 La décision de classement est prononcée par décret, après consultation de toutes les collectivités locales intéressées.
 
+En Corse, la décision de classement est prononcée par délibération de l'Assemblée de Corse, après consultation de toutes les
+collectivités locales intéressées et avis du représentant de l'Etat. Celui-ci peut demander à la collectivité territoriale de
+Corse de procéder au classement d'une réserve naturelle afin d'assurer la mise en oeuvre d'une réglementation communautaire
+ou d'une obligation résultant d'une convention internationale. S'il n'est pas fait droit à cette demande, l'Etat procède à ce
+classement selon des modalités définies par décret en Conseil d'Etat.
+
 A défaut du consentement du propriétaire, le classement est prononcé par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -12631,6 +12669,10 @@ A défaut du consentement du propriétaire, le classement est prononcé par déc
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -12650,7 +12692,10 @@ A défaut du consentement du propriétaire, le classement est prononcé par déc
 	**Anciens textes**:
 
 	  - Code rural - art. L242-2 (Ab)
-	  - Code rural L242-2
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ###### Article L332-3
@@ -12773,7 +12818,8 @@ A compter du jour où l'autorité administrative notifie au propriétaire intér
 naturelle, aucune modification ne peut être apportée à l'état des lieux ou à leur aspect pendant un délai de quinze mois,
 sauf autorisation spéciale de l'autorité administrative et sous réserve de l'exploitation des fonds ruraux selon les
 pratiques antérieures. Ce délai est renouvelable une fois par arrêté préfectoral à condition que les premières consultations
-ou l'enquête publique aient commencé.
+ou l'enquête publique aient commencé. Lorsque la notification a été effectuée en Corse par le président du conseil exécutif,
+le délai est renouvelable aux mêmes conditions par décision du conseil exécutif.
 
 **Liens relatifs à cet article**
 
@@ -12781,6 +12827,10 @@ ou l'enquête publique aient commencé.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -12819,7 +12869,10 @@ ou l'enquête publique aient commencé.
 	**Anciens textes**:
 
 	  - Code rural - art. L242-6 (Ab)
-	  - Code rural L242-6
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ###### Article L332-7
@@ -12893,6 +12946,33 @@ La gestion des réserves naturelles peut être confiée à des établissements p
 
 	  - Code rural - art. L242-8 (Ab)
 	  - Code rural L242-8
+
+
+###### Article L332-8-1
+
+En Corse, les modalités de gestion des réserves naturelles ainsi que de contrôle des prescriptions contenues dans l'acte de
+classement sont définies par l'Assemblée de Corse, après accord de l'Etat lorsque la décision de classement a été prise par
+celui-ci, ou à sa demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'environnement - art. L332-18 (V)
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ##### Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle
@@ -12991,12 +13071,20 @@ en Conseil d'Etat.
 
 Il fait l'objet des mesures prévues à l'article L. 332-4.
 
+L'Assemblée de Corse peut, après enquête publique, décider le déclassement total ou partiel d'un territoire dont elle a
+prononcé le classement en réserve naturelle, à l'exception des terrains classés en réserves naturelles à la demande du
+représentant de l'Etat. La décision de déclassement fait l'objet des mesures prévues à l'article L. 332-4.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cite**:
 
@@ -13010,7 +13098,10 @@ Il fait l'objet des mesures prévues à l'article L. 332-4.
 	**Anciens textes**:
 
 	  - Code rural - art. L242-10 (Ab)
-	  - Code rural L242-10
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ##### Section 2 : Réserves naturelles volontaires
@@ -13021,12 +13112,20 @@ Afin de protéger, sur les propriétés privées, les espèces de la flore et de
 scientifique et écologique, les propriétaires peuvent demander qu'elles soient agréées comme réserves naturelles volontaires
 par l'autorité administrative après consultation des collectivités territoriales intéressées.
 
+En Corse, l'Assemblée de Corse peut, par délibération prise après consultation des collectivités territoriales intéressées et
+avis du représentant de l'Etat, agréer comme réserves naturelles volontaires des propriétés privées à la demande de leur
+propriétaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -13038,7 +13137,10 @@ par l'autorité administrative après consultation des collectivités territoria
 	**Anciens textes**:
 
 	  - Code rural - art. L242-11 (Ab)
-	  - Code rural L242-11
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ###### Article L332-12
@@ -13080,19 +13182,27 @@ Nul ne peut acquérir par prescription, sur une réserve naturelle, des droits d
 l'aspect des lieux.
 
 Aucune servitude ne peut être établie par convention dans une réserve naturelle qu'avec l'accord du ministre chargé de la
-protection de la nature.
+protection de la nature. En Corse, l'accord requis est délivré par l'Assemblée de Corse lorsque celle-ci a pris la décision
+de classement ou d'agrément.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code rural L242-13
 	  - Code rural - art. L242-13 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 
 ###### Article L332-14
@@ -13262,6 +13372,42 @@ présent chapitre.
 	**Cite**:
 
 	  - Loi n°1930-05-02 du 2 mai 1930 - art. 8 bis (Ab)
+
+
+###### Article L332-19-1
+
+Dans les sections 1 et 3 du présent chapitre, les mots :
+
+l'autorité administrative désignent, pour l'application des articles L. 332-9 et L. 332-16, l'Assemblée de Corse et, pour
+celle des articles L. 332-4, L. 332-6 et L. 332-7, le président du conseil exécutif lorsque la collectivité territoriale a
+pris la décision de classement ou d'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L332-16 (M)
+	  - Code de l'environnement - art. L332-4 (M)
+	  - Code de l'environnement - art. L332-6 (M)
+	  - Code de l'environnement - art. L332-7 (M)
+	  - Code de l'environnement - art. L332-9 (M)
+
+	**Anciens textes**:
+
+	  - Code rural L242-19
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ##### Section 4 : Dispositions pénales
@@ -13803,11 +13949,11 @@ La commission départementale des sites, perspectives et paysages prend l'initia
 donne son avis sur les propositions d'inscription qui lui sont soumises, après en avoir informé le conseil municipal de la
 commune intéressée et avoir obtenu son avis.
 
-L'inscription sur la liste est prononcée par arrêté du ministre chargé des sites. Un décret en Conseil d'Etat fixe la
-procédure selon laquelle cette inscription est notifiée aux propriétaires ou fait l'objet d'une publicité. La publicité ne
-peut être substituée à la notification que dans les cas où celle-ci est rendue impossible du fait du nombre élevé de
-propriétaires d'un même site ou monument naturel, ou de l'impossibilité pour l'administration de connaître l'identité ou le
-domicile du propriétaire.
+L'inscription sur la liste est prononcée par arrêté du ministre chargé des sites et, en Corse, par délibération de
+l'Assemblée de Corse après avis du représentant de l'Etat. Un décret en Conseil d'Etat fixe la procédure selon laquelle cette
+inscription est notifiée aux propriétaires ou fait l'objet d'une publicité. La publicité ne peut être substituée à la
+notification que dans les cas où celle-ci est rendue impossible du fait du nombre élevé de propriétaires d'un même site ou
+monument naturel, ou de l'impossibilité pour l'administration de connaître l'identité ou le domicile du propriétaire.
 
 L'inscription entraîne, sur les terrains compris dans les limites fixées par l'arrêté, l'obligation pour les intéressés de ne
 pas procéder à des travaux autres que ceux d'exploitation courante en ce qui concerne les fonds ruraux et d'entretien normal
@@ -13819,6 +13965,10 @@ en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -15622,6 +15772,11 @@ scientifique du Muséum national d'histoire naturelle.
 Lors de l'élaboration d'un plan d'occupation des sols, le préfet communique à la commune ou à l'établissement public
 compétent toutes informations contenues dans ces inventaires utiles à cette élaboration.
 
+En Corse, l'initiative de l'élaboration des inventaires appartient à la collectivité territoriale. Cette élaboration est
+assurée dans les conditions prévues au premier alinéa, après information du représentant de l'Etat. Celui-ci peut demander à
+la collectivité territoriale de Corse de faire procéder à un inventaire. S'il n'est pas fait droit à cette demande, l'Etat
+peut décider de son élaboration, dans les conditions prévues au premier alinéa.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -15633,6 +15788,10 @@ compétent toutes informations contenues dans ces inventaires utiles à cette é
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -15653,6 +15812,10 @@ compétent toutes informations contenues dans ces inventaires utiles à cette é
 	  - Code de l'environnement - art. R411-47 (V)
 	  - Code du domaine de l'Etat - art. L91-1 (Ab)
 	  - Code général de la propriété des personnes publ... - art. L5141-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ###### Article L411-6
@@ -18174,12 +18337,19 @@ Un décret en Conseil d'Etat fixe les conditions d'institution et de fonctionnem
 notamment les conditions dans lesquelles sont prises les mesures propres à prévenir les dommages aux activités humaines, à
 favoriser la protection du gibier et de ses habitats, à maintenir les équilibres biologiques.
 
+En Corse, les conditions d'institution et de fonctionnement des réserves de chasse sont fixées par délibération de
+l'Assemblée corse.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -18207,7 +18377,10 @@ favoriser la protection du gibier et de ses habitats, à maintenir les équilibr
 	**Anciens textes**:
 
 	  - Code rural - art. L222-25 (Ab)
-	  - Code rural L222-25
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ##### Section 3 : Chasse maritime
@@ -19933,13 +20106,24 @@ Lorsqu'il s'agit du sanglier, le plan de chasse est mis en oeuvre après avis de
 Le plan de chasse, qui prend en compte les orientations du schéma départemental de gestion cynégétique, est mis en oeuvre
 après avis du conseil départemental de la chasse et de la faune sauvage par le représentant de l'Etat dans le département. En
 cas de circonstances exceptionnelles, il peut être fixé un nouveau plan de chasse se substituant au plan de chasse en cours.
+En Corse, ce plan est établi et mis en oeuvre par la collectivité territoriale de Corse.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+
 	**Nouveaux textes**:
 
+	  - Code de l'environnement - art. L425-8 (M)
 	  - Code de l'environnement - art. L425-8 (V)
 
 	**Cité par**:
@@ -19949,12 +20133,10 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	**Anciens textes**:
 
 	  - Code rural - art. L225-3 (Ab)
-	  - Code rural L225-3
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ###### Article L425-4
@@ -25143,10 +25325,11 @@ alternativement dans les eaux douces et dans les eaux salées :
 
 ###### Article L436-12
 
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles la pêche est interdite dans certaines sections de cours
-d'eau, canaux ou plans d'eau afin de favoriser la protection ou la reproduction du poisson. Les indemnités auxquelles ont
-droit les propriétaires riverains qui sont privés totalement de l'exercice du droit de pêche plus d'une année entière en
-vertu du présent article sont fixées, à défaut d'accord amiable, par les juridictions administratives.
+Un décret en Conseil d'Etat ou, en Corse, une délibération de l'Assemblée de Corse fixe les conditions dans lesquelles la
+pêche est interdite dans certaines sections de cours d'eau, canaux ou plans d'eau afin de favoriser la protection ou la
+reproduction du poisson. Les indemnités auxquelles ont droit les propriétaires riverains qui sont privés totalement de
+l'exercice du droit de pêche plus d'une année entière en vertu du présent article sont fixées, à défaut d'accord amiable, par
+les juridictions administratives.
 
 **Liens relatifs à cet article**
 
@@ -25154,6 +25337,10 @@ vertu du présent article sont fixées, à défaut d'accord amiable, par les jur
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -25165,11 +25352,11 @@ vertu du présent article sont fixées, à défaut d'accord amiable, par les jur
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 	**Anciens textes**:
 
 	  - Code rural - art. L236-12 (Ab)
-	  - Code rural L236-12
 
 
 ##### Section 5 : Commercialisation
