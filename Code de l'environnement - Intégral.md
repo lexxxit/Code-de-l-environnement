@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-07-10
 
 # Partie législative
 
@@ -40709,24 +40709,24 @@ Décret n° 2005-233 du 14 mars 2005, publié au JORF du 16 mars 2005.
 
 ###### Article L563-4
 
-Les dispositions prévues aux articles L. 54 à L. 56-1 du code des postes et télécommunications s'appliquent également aux
-radars hydrométéorologiques dont la liste est fixée par arrêté conjoint du ministre chargé des transports et du ministre
-chargé de l'environnement.
+Les dispositions prévues aux articles L. 54 à L. 56-1 du code des postes et des communications électroniques s'appliquent
+également aux radars hydrométéorologiques dont la liste est fixée par arrêté conjoint du ministre chargé des transports et du
+ministre chargé de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L54 à L56-1
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 47 () JORF 31 juillet 2003
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. L54 (V)
 
 	**Cité par**:
 
