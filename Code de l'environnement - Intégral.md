@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-04-14
+Version Consolidée au 2001-05-04
 
 # Partie législative
 
@@ -1149,169 +1149,6 @@ par les secrets protégés est communiquée au demandeur.
 
 	  - TXT_SOURCE: Directive 79-409 CEE 1979-04-02
 	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
-
-
-#### Chapitre IV : Autres modes d'information
-
-###### Article L124-2
-
-Les citoyens ont un droit à l'information sur les risques majeurs auxquels ils sont soumis dans certaines zones du territoire
-et sur les mesures de sauvegarde qui les concernent. Ce droit s'applique aux risques technologiques et aux risques naturels
-prévisibles.
-
-Un décret en Conseil d'Etat définit les conditions d'exercice de ce droit. Il détermine notamment les modalités selon
-lesquelles les mesures de sauvegarde sont portées à la connaissance du public ainsi que les catégories de locaux dans
-lesquels les informations sont affichées.
-
-L'exploitant est tenu de participer à l'information générale du public sur les mesures prises aux abords des ouvrages ou
-installations faisant l'objet d'un plan particulier d'intervention.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-565 1987-07-22 art. 21
-	  - Loi n°87-565 du 22 juillet 1987 - art. 21 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°88-622 du 6 mai 1988 - art. 9 (Ab)
-	  - Code de l'environnement - art. L124-5 (V)
-	  - Code de l'environnement - art. L213-16 (V)
-	  - Code de l'environnement - art. R124-5 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Transféré par**:
-
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 9 () JORF 14 avril 2001
-
-	**Nouveaux textes**:
-
-	  - Code de l'environnement - art. L125-2 (M)
-	  - Code de l'environnement - art. L125-2 (V)
-
-
-###### Article L124-3
-
-Toute personne a le droit d'être informée sur les effets que la dissémination volontaire d'organismes génétiquement modifiés
-au sens du titre III du livre V peut avoir pour la santé publique ou l'environnement, dans le respect de la confidentialité
-des informations protégées par la loi.
-
-Un décret en Conseil d'Etat définit les modalités selon lesquelles l'autorité administrative assure l'information du public
-sur les effets que la dissémination volontaire peut avoir pour la santé publique ou l'environnement. Ce décret détermine
-également les obligations qui peuvent être imposées à ce titre au détenteur de l'autorisation, notamment en ce qui concerne
-la prise en charge de tout ou partie des frais correspondants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-654 1992-07-13 art. 12
-	  - Loi n°92-654 du 13 juillet 1992 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Transféré par**:
-
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 9 () JORF 14 avril 2001
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L124-1 (V)
-	  - Code de l'environnement - art. L124-8 (V)
-	  - Code de l'environnement - art. L127-1 (V)
-	  - Code de l'environnement - art. L531-1 (M)
-	  - Code de l'environnement - art. L531-2 (M)
-	  - Code de l'environnement - art. L536-1 (M)
-	  - Code de l'environnement - art. R124-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'environnement - art. L125-3 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'environnement - art. L531-1 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L531-2 (M)
-	  - TXT_ASSOCIE: Code de l'environnement - art. L541-1 (M)
-
-
-###### Article L124-4
-
-Le droit à l'information sur la qualité de l'air et ses effets sur la santé et l'environnement est reconnu à chacun sur
-l'ensemble du territoire. L'Etat est le garant de l'exercice de ce droit, de la fiabilité de l'information et de sa
-diffusion. Ce droit s'exerce selon les modalités définies à la section 2 du chapitre Ier du titre II du livre II.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (VT)
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 12 (V)
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 18 (V)
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 24 (V)
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 26 (VD)
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 37 (M)
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 37-1 (V)
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 43 (Ab)
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 8 (V)
-	  - Arrêté du 9 octobre 2008 - art. 4 (V)
-	  - Arrêté du 9 octobre 2008 - art. 8 (V)
-	  - Décret n°2013-1304 du 27 décembre 2013 - art. 21 (Ab)
-	  - Arrêté du 27 novembre 2015 - art. 2 (VD)
-	  - Décret n°2016-846 du 28 juin 2016 - art. 3
-	  - Décret n°2016-1619 du 29 novembre 2016 (V)
-	  - Arrêté du 16 mars 2017 - art. 1
-	  - Code de l'environnement - art. L. 531-2-1 (V)
-	  - Code de l'environnement - art. L120-1 (V)
-	  - Code de l'environnement - art. L120-1-3 (VD)
-	  - Code de l'environnement - art. L120-1-4 (VD)
-	  - Code de l'environnement - art. L122-1-1 (V)
-	  - Code de l'environnement - art. L122-3-4 (V)
-	  - Code de l'environnement - art. L122-4 (V)
-	  - Code de l'environnement - art. L122-8 (V)
-	  - Code de l'environnement - art. L123-19-4 (V)
-	  - Code de l'environnement - art. L123-19-5 (V)
-	  - Code de l'environnement - art. L124-6 (V)
-	  - Code de l'environnement - art. L127-6 (V)
-	  - Code de l'environnement - art. L181-8 (V)
-	  - Code de l'environnement - art. L411-1 A (V)
-	  - Code de l'environnement - art. L515-35 (VD)
-	  - Code de l'environnement - art. L532-4-1 (V)
-	  - Code de l'environnement - art. L542-3 (V)
-	  - Code de l'environnement - art. L593-18 (V)
-	  - Code de l'environnement - art. L593-9 (V)
-	  - Code de l'environnement - art. R123-8 (VD)
-	  - Code de l'environnement - art. R181-12 (VD)
-	  - Code de l'environnement - art. R515-33 (Ab)
-	  - Code de l'environnement - art. R515-98 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
-	  - Code rural et de la pêche maritime - art. L914-3 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°96-1236 1996-12-30 art. 4 al. 1
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Transféré par**:
-
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 9 () JORF 14 avril 2001
-
-	**Nouveaux textes**:
-
-	  - Code de l'environnement - art. L125-4 (V)
 
 
 #### Chapitre V : Autres modes d'information
@@ -6573,7 +6410,7 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 ###### Article L218-10
 
-I. - Est puni de deux ans d'emprisonnement et de 1 000 000 F d'amende le fait, pour tout capitaine d'un navire français
+I. - Est puni de quatre ans d'emprisonnement et de 600 000 euros d'amende le fait, pour tout capitaine d'un navire français
 soumis aux dispositions de la convention internationale pour la prévention de la pollution par les navires, faite à Londres
 le 2 novembre 1973, telle que modifiée par le protocole du 17 février 1978 et par ses modificatifs ultérieurs régulièrement
 approuvés ou ratifiés, entrant dans les catégories ci-après :
@@ -6599,6 +6436,11 @@ immatriculées en France pour les rejets en mer effectués en infraction aux rè
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-380 du 3 mai 2001 - art. 1 () JORF 4 mai 2001
 
 	**Cité par**:
 
@@ -6632,8 +6474,8 @@ immatriculées en France pour les rejets en mer effectués en infraction aux rè
 
 ###### Article L218-11
 
-Est puni d'un an d'emprisonnement et de 300 000 F d'amende le fait, pour tout capitaine d'un navire français soumis aux
-dispositions de la convention mentionnée à l'article L. 218-10 et appartenant aux catégories suivantes :
+Est puni de deux ans d'emprisonnement et de 180 000 euros d'amende le fait, pour tout capitaine d'un navire français soumis
+aux dispositions de la convention mentionnée à l'article L. 218-10 et appartenant aux catégories suivantes :
 
 1° Navires-citernes d'une jauge brute inférieure à 150 tonneaux ;
 
@@ -6653,6 +6495,11 @@ de commettre une des infractions prévues à l'article L. 218-10.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-380 du 3 mai 2001 - art. 2 () JORF 4 mai 2001
 
 	**Cite**:
 
@@ -6720,7 +6567,7 @@ chalands ou bateaux citernes fluviaux, qu'ils soient automoteurs, remorqués ou 
 
 ###### Article L218-13
 
-Est puni de 25 000 F d'amende et, en outre, en cas de récidive, du double de cette peine et de six mois d'emprisonnement, le
+Est puni de 6 000 euros d'amende et, en outre, en cas de récidive, du double de cette peine et d'un an d'emprisonnement, le
 fait, pour tout capitaine ou responsable à bord d'un navire français soumis aux dispositions de la convention mentionnée à
 l'article L. 218-10 n'appartenant pas aux catégories de navires définis aux articles L. 218-10 et L. 218-11, de commettre une
 des infractions prévues à l'article L. 218-10.
@@ -6736,6 +6583,11 @@ des infractions prévues à l'article L. 218-10.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-380 du 3 mai 2001 - art. 3 () JORF 4 mai 2001
 
 	**Cite**:
 
@@ -6935,10 +6787,15 @@ convention, d'ordures, telles que définies au 1 de la règle 1 de ladite annexe
 Le fait, pour tout capitaine de navire français auquel est survenu, en mer ou dans les eaux intérieures et les voies
 navigables françaises jusqu'aux limites de la navigation maritime, un des événements mentionnés par le protocole I de la
 convention mentionnée à l'article L. 218-10 ou toute autre personne ayant charge du navire, au sens de l'article 1er de ce
-protocole, de ne pas établir et transmettre un rapport conformément aux dispositions dudit protocole, est puni d'un an
-d'emprisonnement et de 300 000 F d'amende.
+protocole, de ne pas établir et transmettre un rapport conformément aux dispositions dudit protocole, est puni de deux ans
+d'emprisonnement et de 180 000 euros d'amende.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention internationale 1973-11-02
+	  - Code de l'environnement - art. L218-10 (M)
 
 	**Anciens textes**:
 
@@ -6950,16 +6807,16 @@ d'emprisonnement et de 300 000 F d'amende.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2001-380 du 3 mai 2001 - art. 4 () JORF 4 mai 2001
+
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-107 (V)
 	  - CODE DE PROCEDURE PENALE - art. 706-108 (V)
 	  - Code de l'environnement - art. L218-18 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Convention internationale 1973-11-02
 
 	**Liens**:
 
@@ -6969,13 +6826,12 @@ d'emprisonnement et de 300 000 F d'amende.
 
 ###### Article L218-20
 
-Sans préjudice des peines prévues à la présente sous-section à l'égard du capitaine ou du responsable à bord, le fait, pour
-le propriétaire ou l'exploitant, de donner l'ordre de commettre l'infraction est puni des peines prévues à ladite sous-
-section.
-
-Lorsque le propriétaire ou l'exploitant est une personne morale, la responsabilité prévue à l'alinéa précédent incombe à
-celui ou à ceux des représentants légaux ou dirigeants de fait qui en assurent la direction ou l'administration ou à toute
-personne habilitée par eux.
+Sans préjudice des peines prévues à la présente sous-section à l'égard du capitaine ou du responsable à bord, les peines
+prévues à ladite sous-section sont applicables soit au propriétaire, soit à l'exploitant ou à leur représentant légal ou
+dirigeant de fait s'il s'agit d'une personne morale, soit à toute autre personne que le capitaine ou responsable à bord
+exerçant, en droit ou en fait, un pouvoir de contrôle ou de direction dans la gestion ou la marche du navire ou de la plate-
+forme, lorsque ce propriétaire, cet exploitant ou cette personne a été à l'origine d'un rejet effectué en infraction aux
+articles L. 218-10 à L. 218-19 ou n'a pas pris les mesures nécessaires pour l'éviter.
 
 **Liens relatifs à cet article**
 
@@ -6989,6 +6845,10 @@ personne habilitée par eux.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2001-380 du 3 mai 2001 - art. 5 () JORF 4 mai 2001
+
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
@@ -6997,6 +6857,10 @@ personne habilitée par eux.
 	**Cité par**:
 
 	  - Code de l'environnement - art. L218-25 (M)
+
+	**Cite**:
+
+	  - Code de l'environnement L218-10 à L218-19
 
 
 ###### Article L218-21
@@ -7168,7 +7032,7 @@ l'article 131-35 du code pénal.
 ###### Article L218-25
 
 I. - Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du
-code pénal, des infractions définies aux articles L. 218-20 et L. 218-22.
+code pénal, des infractions définies à la présente sous-section.
 
 II. - Elles encourent les peines suivantes :
 
@@ -7188,13 +7052,15 @@ II. - Elles encourent les peines suivantes :
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2001-380 du 3 mai 2001 - art. 7 () JORF 4 mai 2001
+
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
-	  - Code de l'environnement - art. L218-20 (M)
-	  - Code de l'environnement - art. L218-22 (M)
 
 	**Liens**:
 
@@ -7336,12 +7202,26 @@ chaussées chargé du service maritime s'il s'agit d'engins portuaires, de chala
 
 ###### Article L218-29
 
-Les infractions aux dispositions de la convention mentionnée à l'article L. 218-10 et à celles de la présente sous-section
-sont jugées soit par le tribunal compétent du lieu de l'infraction, soit par celui dans le ressort duquel le bâtiment est
-attaché en douanes ou immatriculé s'il est français, soit par celui dans le ressort duquel peut être trouvé le bâtiment s'il
-est étranger.
+I. - Dès lors qu'elles ont été commises dans les eaux territoriales, les eaux intérieures et les voies navigables françaises
+jusqu'aux limites de la navigation maritime, les infractions aux dispositions de la convention mentionnée à l'article L.
+218-10 et à celles de la présente sous-section, ainsi que les infractions qui leurs ont connexes, sont jugées par un tribunal
+de grande instance du littoral maritime spécialisé, éventuellement compétent sur les ressorts de plusieurs cours d'appel dans
+les conditions prévues par le présent article.
 
-A défaut d'autre tribunal, le tribunal de grande instance de Paris est compétent.
+Un décret fixe la liste et le ressort de ces tribunaux.
+
+II. - Le tribunal de grande instance de Paris est compétent pour le jugement des infractions commises dans la zone économique
+exclusive française ainsi que de celles commises par les capitaines de navires français en haute mer.
+
+III. - Exercent une compétence concurrente avec les juridictions désignées aux I et II pour la poursuite et l'instruction des
+infractions commises dans les eaux territoriales et dans la zone économique exclusive les tribunaux de grande instance
+compétents en application des articles 43, 52, 382, 663, deuxième alinéa, et 706-42 du code de procédure pénale.
+
+IV. - Dans chaque juridiction visée aux I, II et III, un ou plusieurs juges d'instruction sont désignés pour l'instruction
+des faits susceptibles de constituer une infraction à la présente sous-section.
+
+V. - Lorsqu'ils sont compétents en application des dispositions du présent article, le procureur de la République et le juge
+d'instruction du tribunal mentionné au I exercent leurs attributions sur toute l'étendue du ressort de ce tribunal.
 
 **Liens relatifs à cet article**
 
@@ -7354,6 +7234,10 @@ A défaut d'autre tribunal, le tribunal de grande instance de Paris est compéte
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2001-380 du 3 mai 2001 - art. 6 () JORF 4 mai 2001
 
 	**Liens**:
 
@@ -7370,14 +7254,20 @@ A défaut d'autre tribunal, le tribunal de grande instance de Paris est compéte
 
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 382 (M)
+	  - CODE DE PROCEDURE PENALE - art. 43 (M)
+	  - CODE DE PROCEDURE PENALE - art. 52 (M)
+	  - CODE DE PROCEDURE PENALE - art. 663 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-42 (V)
 	  - Code de l'environnement - art. L218-10 (M)
-	  - Convention internationale 1973-11-02
 
 
 ###### Article L218-30
 
 Le navire qui a servi à commettre l'une des infractions définies aux articles L. 218-10 à L. 218-22 peut être immobilisé sur
 décision du procureur de la République ou du juge d'instruction saisi.
+
+Cette immobilisation est faite aux frais de l'armateur.
 
 A tout moment, l'autorité judiciaire compétente peut ordonner la levée de l'immobilisation s'il est fourni un cautionnement
 dont elle fixe le montant et les modalités de versement.
@@ -7396,6 +7286,10 @@ articles 142, 142-2 et 142-3 du code de procédure pénale.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2001-380 du 3 mai 2001 - art. 8 () JORF 4 mai 2001
 
 	**Cite**:
 
