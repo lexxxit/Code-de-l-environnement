@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-11-14
+Version Consolidée au 2004-12-10
 
 # Partie législative
 
@@ -11624,9 +11624,7 @@ habilitées à :
 2° Prescrire l'obligation d'afficher la consommation énergétique de certains biens sur le lieu de leur vente ou de leur
 location et préciser les méthodes de mesure ;
 
-3° Prescrire l'obligation de fournir une estimation normalisée du montant annuel des frais de consommation d'énergie des
-logements ou locaux à usage tertiaire proposés à la vente ou à la location et préciser les règles d'élaboration de cette
-estimation ;
+3° Abrogé
 
 4° Prescrire l'obligation d'équiper les immeubles d'habitation ou à usage tertiaire dont le permis de construire a été déposé
 après le 1er juillet 1997 de dispositifs permettant le choix et le remplacement, à tout moment de la vie du bâtiment, de tout
@@ -11643,6 +11641,10 @@ type d'énergie.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 41 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -12497,8 +12499,7 @@ tient compte en outre de la capacité de production ou du rendement de l'install
 Les installations qui entrent dans le champ d'application de la présente section sont soumises à autorisation pour l'émission
 de gaz à effet de serre.
 
-L'autorisation prévue à l'article L. 512-1 tient lieu de l'autorisation prévue à l'alinéa précédent sous réserve des
-dispositions particulières contenues dans la présente section.
+L'autorisation prévue à l'article L. 512-1 tient lieu de l'autorisation prévue à l'alinéa précédent.
 
 Un arrêté pris par le ministre chargé des installations classées fixe les modalités de mise en oeuvre des obligations
 particulières de surveillance, de déclaration et de contrôle auxquelles sont soumises les installations qui entrent dans le
@@ -12506,6 +12507,10 @@ champ d'application de la présente section. Cet arrêté précise également le
 d'émissions mentionnées au III de l'article L. 229-14.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Cité par**:
 
@@ -12532,17 +12537,13 @@ d'émissions mentionnées au III de l'article L. 229-14.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 80 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L512-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 
 ###### Article L229-7
@@ -12683,20 +12684,19 @@ effet de serre avant l'établissement du système d'échange de quotas ainsi, le
 situées dans des pays extérieurs à la Communauté européenne.
 
 V. - Le plan met en réserve des quotas d'émission destinés à être affectés aux exploitants d'installations autorisées au
-cours de la durée du plan ainsi qu'à ceux dont l'autorisation viendrait à être modifiée ou dont le niveau de production
-varierait de façon substantielle. L'Etat peut se porter acquéreur de quotas en application du II de l'article L. 229-15 pour
-compléter cette réserve.
+cours de la durée du plan ainsi qu'à ceux dont l'autorisation viendrait à être modifiée. L'Etat peut se porter acquéreur de
+quotas en application du II de l'article L. 229-15 pour compléter cette réserve.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
 
 	**Cité par**:
 
@@ -12722,14 +12722,14 @@ compléter cette réserve.
 	  - Code de l'environnement - art. R229-39 (V)
 	  - Code de l'environnement - art. R229-6 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 80 (V) JORF 10 décembre 2004
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L229-15 (V)
 	  - Code de l'environnement - art. L229-5 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 
 ###### Article L229-9
@@ -13246,11 +13246,11 @@ Les dispositions relatives à la Fondation du patrimoine pour sa contribution à
 espaces naturels ou paysagers menacés de dégradation, de disparition ou de dispersion sont énoncées à l'article L. 143-2 du
 code du patrimoine ci-après reproduit :
 
-"Art. L. 143-2. - La "Fondation du patrimoine" a pour but de promouvoir la connaissance, la conservation et la mise en valeur
+"Art. L. 143-2 - La "Fondation du patrimoine" a pour but de promouvoir la connaissance, la conservation et la mise en valeur
 du patrimoine national. Elle s'attache à l'identification, à la préservation et à la mise en valeur du patrimoine non
 protégé.
 
-"Elle contribue à la sauvegarde des monuments, édifices, ensembles mobiliers ou éléments remarquables des épaves naturels ou
+"Elle contribue à la sauvegarde des monuments, édifices, ensembles mobiliers ou éléments remarquables des espaces naturels ou
 paysagers menacés de dégradation, de disparition ou de dispersion. Elle concourt ainsi à l'emploi, à l'insertion, à la
 formation et à la transmission des savoir-faire dans les secteurs de la restauration et de la valorisation du patrimoine et
 des sites.
@@ -13265,10 +13265,6 @@ de sauvegarde qu'elle met en place.
 "Elle peut attribuer un label au patrimoine non protégé et aux sites. Ce label peut être pris en compte pour l'octroi de
 l'agrément prévu au 1° ter du II de l'article 156 du code général des impôts.
 
-**Nota:**
-
-NOTA : Dans le 3ème alinéa, lire "espaces" au lieu de "épaves".
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -13281,9 +13277,9 @@ NOTA : Dans le 3ème alinéa, lire "espaces" au lieu de "épaves".
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 6 I JORF 24 février 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -17856,23 +17852,21 @@ V. - Un décret en Conseil d'Etat fixe les conditions d'application du présent 
 Les dispositions relatives aux zones de protection du patrimoine architectural, urbain et paysager sont énoncées aux articles
 L. 642-1 et L. 642-2 du code du patrimoine ci-après reproduits :
 
-"Art. L. 642-1. - Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du
+"Art. L. 642-1 - Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du
 patrimoine architectural, urbain et paysager peuvent être instituées autour des monuments historiques et dans les quartiers,
 sites et espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou culturel.
 
-"Art. L. 642-2. - Des prescriptions particulières en matière d'architecture et de paysages sont instituées à l'intérieur de
+"Art. L. 642-2 - Des prescriptions particulières en matière d'architecture et de paysages sont instituées à l'intérieur de
 ces zones ou parties de zone pour les travaux mentionnés à l'article L. 642-3.
 
 "Après enquête publique, avis de la commission régionale du patrimoine et des sites mise en place par l'article L. 612-1 et
-accord du conseil municipal de la commune intéressée, la zone de protection est créée par arrêté du représentant de l'Etat
-dans la région.
+accord du conseil municipal de la commune intéressée, la zone de protection est créée par décision de l'autorité
+administrative.
 
 "Le ministre compétent peut évoquer tout projet de zone de protection.
 
 "Les dispositions de la zone de protection sont annexées au plan local d'urbanisme, dans les conditions prévues à l'article
-L. 126-1 du code de l'urbanisme.
-
-"
+L. 126-1 du code de l'urbanisme."
 
 **Liens relatifs à cet article**
 
@@ -17883,7 +17877,7 @@ L. 126-1 du code de l'urbanisme.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 6 II JORF 24 février 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
@@ -44246,37 +44240,6 @@ Les modalités d'application du présent chapitre sont définies par décret en 
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
-
-
-#### Chapitre unique : Publicité, enseignes et préenseignes
-
-##### Section 2 : Publicité
-
-##### Sous-section 3 : Publicité à l'intérieur des agglomérations.
-
-###### Article L581-12
-
-L'acte instituant une zone de publicité élargie y soumet la publicité à des prescriptions moins restrictives que celles du
-régime fixé en application de l'article L. 581-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°79-1150 du 29 décembre 1979 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 36
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L581-9 (M)
 
 
 #### Chapitre II : Prévention des nuisances visuelles
