@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-05-10
+Version Consolidée au 2001-05-27
 
 # Partie législative
 
@@ -20212,9 +20212,9 @@ territoriales sont organisées sous le contrôle et la responsabilité technique
 
 Sans préjudice des dispositions de l'article L. 2122-21 (9°) du code général des collectivités territoriales, il est fait,
 chaque fois qu'il est nécessaire, sur l'ordre du préfet, après avis du directeur départemental de l'agriculture et de la
-forêt, des chasses et battues générales ou particulières aux loups, renards, blaireaux et aux autres animaux nuisibles. Ces
-chasses et battues peuvent porter sur des animaux d'espèces soumises à plan de chasse en application de l'article L. 425-2.
-Elles peuvent également être organisées sur les terrains visés au 5° de l'article L. 422-10.
+forêt, des chasses et battues générales ou particulières aux animaux nuisibles. Ces chasses et battues peuvent porter sur des
+animaux d'espèces soumises à plan de chasse en application de l'article L. 425-2. Elles peuvent également être organisées sur
+les terrains visés au 5° de l'article L. 422-10.
 
 **Liens relatifs à cet article**
 
@@ -20222,6 +20222,10 @@ Elles peuvent également être organisées sur les terrains visés au 5° de l'a
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Décret n°2001-450 du 25 mai 2001 - art. 1 () JORF 27 mai 2001
 
 	**Cité par**:
 
@@ -20245,7 +20249,10 @@ Elles peuvent également être organisées sur les terrains visés au 5° de l'a
 	**Anciens textes**:
 
 	  - Code rural - art. L227-6 (Ab)
-	  - Code rural L227-6
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
 
 ###### Article L427-7
