@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-02-05
+Version Consolidée au 2004-02-24
 
 # Partie législative
 
@@ -11860,6 +11860,56 @@ l'urbanisme (livre Ier, titre III).
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
+###### Article L300-3
+
+Les dispositions relatives à la Fondation du patrimoine pour sa contribution à la sauvegarde des éléments remarquables des
+espaces naturels ou paysagers menacés de dégradation, de disparition ou de dispersion sont énoncées à l'article L. 143-2 du
+code du patrimoine ci-après reproduit :
+
+"Art. L. 143-2. - La "Fondation du patrimoine" a pour but de promouvoir la connaissance, la conservation et la mise en valeur
+du patrimoine national. Elle s'attache à l'identification, à la préservation et à la mise en valeur du patrimoine non
+protégé.
+
+"Elle contribue à la sauvegarde des monuments, édifices, ensembles mobiliers ou éléments remarquables des épaves naturels ou
+paysagers menacés de dégradation, de disparition ou de dispersion. Elle concourt ainsi à l'emploi, à l'insertion, à la
+formation et à la transmission des savoir-faire dans les secteurs de la restauration et de la valorisation du patrimoine et
+des sites.
+
+"Elle apporte son concours à des personnes publiques ou privées, notamment par subvention, pour l'acquisition, l'entretien,
+la gestion et la présentation au public de ces biens, qu'ils aient ou non fait l'objet de mesures de protection prévues par
+le présent code.
+
+"Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque cette acquisition est nécessaire aux actions
+de sauvegarde qu'elle met en place.
+
+"Elle peut attribuer un label au patrimoine non protégé et aux sites. Ce label peut être pris en compte pour l'octroi de
+l'agrément prévu au 1° ter du II de l'article 156 du code général des impôts.
+
+**Nota:**
+
+NOTA : Dans le 3ème alinéa, lire "espaces" au lieu de "épaves".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 156
+	  - Code du patrimoine. - art. L143-2 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-178 2004-02-20 art. 6 I JORF 24 février 2004
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L653-1 (M)
+
+
 ### Titre Ier : Inventaire et mise en valeur du patrimoine naturel
 
 ###### Article L310-1
@@ -13809,8 +13859,7 @@ marchande, pour ce qui concerne la police des eaux et des rades, et à l'article
 
 3° Les infractions à la police du balisage définies aux articles L. 331-1, L. 331-2 et R. 331-1 du code des ports maritimes ;
 
-4° Les infractions définies aux articles 3, 4, 7 et 8 de la loi n° 89-874 du 1er décembre 1989 relative aux biens culturels
-maritimes et modifiant la loi du 27 septembre 1941 portant réglementation des fouilles archéologiques ;
+4° Les infractions définies aux articles L. 532-3, L. 532-4, L. 532-7 et L. 532-8 du code du patrimoine ;
 
 5° Les infractions définies aux articles 2, 5 et 6 du décret du 9 janvier 1852 sur l'exercice de la pêche maritime.
 
@@ -13823,33 +13872,22 @@ auquel est rattaché leur domicile.
 V. - Les procès-verbaux sont adressés aux autorités administratives ou judiciaires selon les procédures prévues pour les
 infractions constatées.
 
+**Nota:**
+
+le 3ème alinéa de l'article 7 de la loi n° 89-874 est abrogé par le 14° de l'article 7 de l'ordonnance n° 2004-178 du 20
+février 2004 relative à la partie législative du code du patrimoine, sous réserve des dispositions du 7° de son article
+8.L'abrogation ne prendra effet qu'à compter de la publication des dispositions réglementaires du code du patrimoine.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L241-15
-	  - Code rural - art. L241-15 (Ab)
-
-	**Cite**:
-
-	  - Décret n°1852-01-09 art. 2, art. 5, art. 6, art. 14
-	  - Loi n°89-874 du 1 décembre 1989 - art. 3 (Ab)
-	  - Loi n°89-874 du 1 décembre 1989 - art. 4 (Ab)
-	  - Loi n°89-874 du 1 décembre 1989 - art. 7 (V)
-	  - Loi n°89-874 du 1 décembre 1989 - art. 8 (Ab)
-	  - Code disciplinaire et pénal de la marine marchande - art. 63 (M)
-	  - Code disciplinaire et pénal de la marine marchande 63, R1
-	  - Code de l'environnement - art. L218-73 (M)
-	  - Code de l'environnement L218-73, L218-10 à L218-19
-	  - Code des ports maritimes - art. L331-1 (M)
-	  - Code des ports maritimes - art. L331-2 (M)
-	  - Code des ports maritimes L331-1, L331-2, R331-1
-	  - Loi n°1941-09-27
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 	**Cité par**:
 
@@ -13857,6 +13895,10 @@ infractions constatées.
 	  - Code de l'environnement - art. L331-19-1 (V)
 	  - Code de l'environnement - art. L331-22 (VT)
 	  - Code de l'environnement - art. L331-25 (VT)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L241-15 (Ab)
 
 
 ###### Article L331-20
@@ -14997,8 +15039,7 @@ marchande, pour ce qui concerne la police des eaux et des rades, et à l'article
 
 3° Les infractions à la police du balisage définies aux articles L. 331-1, L. 331-2 et R. 331-1 du code des ports maritimes ;
 
-4° Les infractions définies aux articles 3, 4, 7 et 8 de la loi n° 89-874 du 1er décembre 1989 relative aux biens culturels
-maritimes et modifiant la loi du 27 septembre 1941 portant réglementation des fouilles archéologiques ;
+4° Les infractions définies aux articles L. 532-3, L. 532-4, L. 532-7 et L. 532-8 du code du patrimoine ;
 
 5° Les infractions définies aux articles 2, 5 et 6 du décret du 9 janvier 1852 sur l'exercice de la pêche maritime.
 
@@ -15011,28 +15052,22 @@ auquel est rattaché leur domicile.
 V. - Les procès-verbaux dressés par ces agents font foi jusqu'à preuve contraire. Ils sont adressés aux autorités
 administratives ou judiciaires selon les procédures prévues pour les infractions constatées.
 
+**Nota:**
+
+le 3ème alinéa de l'article 7 de la loi n° 89-874 est abrogé par le 14° de l'article 7 de l'ordonnance n° 2004-178 du 20
+février 2004 relative à la partie législative du code du patrimoine, sous réserve des dispositions du 7° de son article
+8.L'abrogation ne prendra effet qu'à compter de la publication des dispositions réglementaires du code du patrimoine.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°89-874 du 1 décembre 1989 - art. 3 (Ab)
-	  - Loi n°89-874 du 1 décembre 1989 - art. 4 (Ab)
-	  - Loi n°89-874 du 1 décembre 1989 - art. 7 (V)
-	  - Loi n°89-874 du 1 décembre 1989 - art. 8 (Ab)
-	  - Code disciplinaire et pénal de la marine marchande - art. 63 (M)
-	  - Code disciplinaire et pénal de la marine marchande 63, R1
-	  - Code de l'environnement - art. L218-73 (M)
-	  - Code de l'environnement L218-73, L218-10 à L218-19
-	  - Code des ports maritimes - art. L331-1 (M)
-	  - Code des ports maritimes - art. L331-2 (M)
-	  - Code des ports maritimes L331-1, L331-2, R331-1
-	  - Décret n°1852-01-09 art. 2, art. 5, art. 6, art. 14
-	  - Loi n°1941-09-27
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 	**Cité par**:
 
@@ -15044,7 +15079,6 @@ administratives ou judiciaires selon les procédures prévues pour les infractio
 	**Anciens textes**:
 
 	  - Code rural - art. L242-26 (Ab)
-	  - Code rural L242-26
 
 
 ###### Article L332-23
@@ -16149,8 +16183,7 @@ prévue à l'article L. 341-10 ;
 3° Le fait de ne pas se conformer aux prescriptions fixées par un décret de création d'une zone de protection pris en
 application de l'article 19 de la loi du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments naturels et
 des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque et continuant à produire ses effets en
-application du troisième alinéa de l'article 72 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition des compétences
-entre les communes, les départements, les régions et l'Etat.
+application de l'article L. 642-6 du code du patrimoine.
 
 III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont
 applicables aux infractions à l'alinéa 4 de l'article L. 341-1 du présent code et aux dispositions visées au II, sous la
@@ -16177,6 +16210,15 @@ sites ; l'article L. 480-12 du même code est applicable.
 	  - Code de l'environnement - art. L341-21 (VT)
 	  - Code de l'environnement - art. L653-1 (M)
 
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 art. 6 III JORF 24 février 2004
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L460-1 (M)
@@ -16186,14 +16228,14 @@ sites ; l'article L. 480-12 du même code est applicable.
 	  - Code de l'urbanisme - art. L480-3 (M)
 	  - Code de l'urbanisme - art. L480-4 (M)
 	  - Code de l'urbanisme - art. L480-5 (M)
-	  - Code de l'urbanisme L480-4, L480-1, L480-2, L480-3, L480-5 à L480-9, L480-5, L460-1, L480-12
+	  - Code de l'urbanisme L480-4, L642-6, L480-1, L480-2, L480-3, L480-5 à L480-9, L480-5, L460-1, L480-12
 	  - Code de l'environnement - art. L341-1 (M)
 	  - Code de l'environnement - art. L341-10 (V)
 	  - Code de l'environnement - art. L341-14 (V)
 	  - Code de l'environnement - art. L341-7 (V)
 	  - Code de l'environnement - art. L341-9 (V)
 	  - Loi n°1930-05-02 art. 19
-	  - Loi n°83-8 1983-01-07 art. 72
+	  - Code du patrimoine. - art. L642-6 (V)
 
 	**Liens**:
 
@@ -16206,15 +16248,6 @@ sites ; l'article L. 480-12 du même code est applicable.
 
 	  - Loi n°1930-05-02 art. 21
 	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
 ###### Article L341-20
@@ -16432,42 +16465,45 @@ V. - Un décret en Conseil d'Etat fixe les conditions d'application du présent 
 
 ###### Article L350-2
 
-Les dispositions relatives aux zones de protection du patrimoine architectural, urbain et paysager sont énoncées à l'article
-70 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les
-régions et l'Etat, ci-après reproduit :
+Les dispositions relatives aux zones de protection du patrimoine architectural, urbain et paysager sont énoncées aux articles
+L. 642-1 et L. 642-2 du code du patrimoine ci-après reproduits :
 
-"Art. 70. - Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du
+"Art. L. 642-1. - Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du
 patrimoine architectural, urbain et paysager peuvent être instituées autour des monuments historiques et dans les quartiers,
 sites et espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou culturel.
 
-"Des prescriptions particulières en matière d'architecture et de paysage sont instituées à l'intérieur de ces zones ou
-parties de zones pour les travaux mentionnés à l'article 71.
+"Art. L. 642-2. - Des prescriptions particulières en matière d'architecture et de paysages sont instituées à l'intérieur de
+ces zones ou parties de zone pour les travaux mentionnés à l'article L. 642-3.
 
-"Après enquête publique, avis de la commission régionale du patrimoine et des sites mise en place par la loi n° 97-179 du 28
-février 1997 et accord du conseil municipal de la commune intéressée, la zone de protection est créée par arrêté du
-représentant de l'Etat dans la région.
+"Après enquête publique, avis de la commission régionale du patrimoine et des sites mise en place par l'article L. 612-1 et
+accord du conseil municipal de la commune intéressée, la zone de protection est créée par arrêté du représentant de l'Etat
+dans la région.
 
 "Le ministre compétent peut évoquer tout projet de zone de protection.
 
-"Les dispositions de la zone de protection sont annexées au plan d'occupation des sols, dans les conditions prévues à
-l'article L. 126-1 du code de l'urbanisme."
+"Les dispositions de la zone de protection sont annexées au plan local d'urbanisme, dans les conditions prévues à l'article
+L. 126-1 du code de l'urbanisme.
+
+"
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 art. 70, art. 71
-	  - Loi n°97-179 1997-02-28
-	  - Code de l'urbanisme - art. L126-1 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance 2004-178 2004-02-20 art. 6 II JORF 24 février 2004
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L126-1 (M)
+	  - Code du patrimoine. - art. L612-1 (V)
+	  - Code du patrimoine. - art. L642-1 (M)
+	  - Code du patrimoine. - art. L642-2 (M)
+	  - Code du patrimoine. - art. L642-3 (V)
 
 
 ### Titre VI : Accès à la nature
@@ -43435,9 +43471,9 @@ Gouvernement est remplacée par la référence au représentant de l'Etat.
 
 ###### Article L653-1
 
-I. - Dans le livre III du présent code, sont applicables à Mayotte les articles L. 310-1, L. 310-3, L. 321-1, L. 321-2, L.
-321-8, L. 321-9, L. 322-1 à L. 322-14, L. 331-1 à L. 331-4, L. 331-6 à L. 333-1, L. 333-3, L. 341-1 à L. 342-1, L. 350-1, L.
-361-1, L. 361-2 et L. 364-1.
+I. - Dans le livre III du présent code, sont applicables à Mayotte les articles L. 300-3, L. 310-1, L. 310-3, L. 321-1, L.
+321-2, L. 321-8, L. 321-9, L. 322-1 à L. 322-14, L. 331-1 à L. 331-4, L. 331-6 à L. 333-1, L. 333-3, L. 341-1 à L. 342-1, L.
+350-1, L. 361-1, L. 361-2 et L. 364-1.
 
 II. - Pour l'application de l'article L. 310-1 à Mayotte, les mots : "dans chaque département" et "le département" sont
 remplacés respectivement par les mots : "à Mayotte" et "la collectivité départementale de Mayotte" ; les mots :
@@ -43467,17 +43503,14 @@ IX. - Pour l'application à Mayotte de l'article L. 341-19 :
 - les mots : "L. 480-4 du code de l'urbanisme" sont remplacés par les mots : "L. 440-4 du code de l'urbanisme applicable à
 Mayotte" ;
 
-- les mots : "L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme" sont remplacés par les mots :
-
-"L. 440-1, L. 440-2, L. 440-3 et L. 440-5 à L. 440-9 du code de l'urbanisme applicable à Mayotte" ;
+- les mots : "L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme" sont remplacés par les mots : "L.
+440-1, L. 440-2, L. 440-3 et L. 440-5 à L. 440-9 du code de l'urbanisme applicable à Mayotte" ;
 
 - les mots : "L. 480-5 du code de l'urbanisme" sont remplacés par les mots : "L. 440-5 du code de l'urbanisme applicable à
 Mayotte" ;
 
 - les mots : "L. 460-1 du code de l'urbanisme" sont remplacés par les mots : "L. 430-1 du code de l'urbanisme applicable à
-Mayotte" ; les mots : "L. 480-12" sont remplacés par les mots :
-
-"L. 440-10".
+Mayotte" ; les mots : "L. 480-12" sont remplacés par les mots : "L. 440-10".
 
 X. - Pour l'application à Mayotte de l'article L. 341-20, après les mots : "322-2 du code pénal", sont insérés les mots :
 "modifié par l'article 724-1 du même code pour son application à Mayotte".
@@ -43507,10 +43540,11 @@ et le mot : "départemental" est supprimé.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Ordonnance 2004-178 2004-02-20 art. 6 IV JORF 24 février 2004
 
 	**Cite**:
 
+	  - Code de l'environnement - art. L300-3 (M)
 	  - Code de l'environnement - art. L310-1 (V)
 	  - Code de l'environnement - art. L310-3 (V)
 	  - Code de l'environnement - art. L321-1 (V)
@@ -43529,7 +43563,7 @@ et le mot : "départemental" est supprimé.
 	  - Code de l'environnement - art. L361-1 (M)
 	  - Code de l'environnement - art. L361-2 (V)
 	  - Code de l'environnement - art. L364-1 (M)
-	  - Code de l'environnement L310-1, L310-3, L321-1, L321-2, L321-8, L321-9, L322-1 à L322-14, L331-1 à L331-4, L331-6 à L333-1, L333-3, L341-1 à L342-1, L350-1, L361-1, L361-2, L364-1, L331-14, L341-1, L341-5, L341-16, L341-19, L341-20, L341-22
+	  - Code de l'environnement L300-3, L310-1, L310-3, L321-1, L321-2, L321-8, L321-9, L322-1 à L322-14, L331-1 à L331-4, L331-6 à L333-1, L333-3, L341-1 à L342-1, L350-1, L361-1, L361-2, L364-1, L331-14, L341-1, L341-5, L341-16, L341-19, L341-20, L341-22,
 
 
 ###### Article L653-2
