@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-09-12
+Version Consolidée au 2003-09-13
 
 # Partie législative
 
@@ -63479,24 +63479,35 @@ comprises entre les dates suivantes :
 
 - renard, lapin, du 15 avril au dernier jour de février.
 
+Le préfet peut autoriser le tir de nuit du sanglier, dans les conditions prévues à l'article L. 429-19.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R229-3
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-878 du 4 septembre 2003 - art. 1 () JORF 13 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
-	  - Code de l'environnement R229-2
+	  - Code de l'environnement - art. L429-19 (M)
+	  - Code de l'environnement R229-2, L429-19
 
 
 ###### Article R*229-4
