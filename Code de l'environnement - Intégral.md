@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-02-10
+Version Consolidée au 2005-02-24
 
 # Partie législative
 
@@ -2655,12 +2655,12 @@ directeur est nommé après avis du ministre chargé de l'environnement.
 ###### Article L132-1
 
 L'Agence de l'environnement et de la maîtrise de l'énergie, le Conservatoire de l'espace littoral et des rivages lacustres,
-les agences de l'eau et la Caisse nationale des monuments historiques et des sites peuvent exercer les droits reconnus à la
-partie civile en ce qui concerne les faits portant un préjudice direct ou indirect aux intérêts qu'ils ont pour objet de
-défendre et constituant une infraction aux dispositions législatives relatives à la protection de la nature et de
-l'environnement, à l'amélioration du cadre de vie, à la protection de l'eau, de l'air, des sols, des sites et paysages, à
-l'urbanisme ou ayant pour objet la lutte contre les pollutions et les nuisances, ainsi qu'aux textes pris pour leur
-application.
+les agences de l'eau, l'Office national de la chasse et de la faune sauvage et le Centre des monuments nationaux peuvent
+exercer les droits reconnus à la partie civile en ce qui concerne les faits portant un préjudice direct ou indirect aux
+intérêts qu'ils ont pour objet de défendre et constituant une infraction aux dispositions législatives relatives à la
+protection de la nature et de l'environnement, à l'amélioration du cadre de vie, à la protection de l'eau, de l'air, des
+sols, des sites et paysages, à l'urbanisme ou ayant pour objet la lutte contre les pollutions et les nuisances, ainsi qu'aux
+textes pris pour leur application.
 
 Sans préjudice de l'indemnisation des autres dommages subis, les personnes morales de droit public mentionnées à l'alinéa
 précédent intervenues matériellement ou financièrement ont droit au remboursement, par le ou les responsables, des frais
@@ -2678,7 +2678,7 @@ Les chambres d'agriculture, les parcs naturels régionaux et les centres région
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 147 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -2721,15 +2721,15 @@ pouvoirs publics en matière de protection de l'environnement ou de gestion de l
 ###### Article L141-1
 
 Lorsqu'elles exercent leurs activités depuis au moins trois ans, les associations régulièrement déclarées et exerçant leurs
-activités statutaires dans le domaine de la protection de la nature, de l'amélioration du cadre de vie, de la protection de
-l'eau, de l'air, des sols, des sites et paysages, de l'urbanisme, ou ayant pour objet la lutte contre les pollutions et les
-nuisances et, d'une manière générale, oeuvrant principalement pour la protection de l'environnement, peuvent faire l'objet
-d'un agrément motivé de l'autorité administrative.
+activités statutaires dans le domaine de la protection de la nature et de la gestion de la faune sauvage, de l'amélioration
+du cadre de vie, de la protection de l'eau, de l'air, des sols, des sites et paysages, de l'urbanisme, ou ayant pour objet la
+lutte contre les pollutions et les nuisances et, d'une manière générale, oeuvrant principalement pour la protection de
+l'environnement, peuvent faire l'objet d'un agrément motivé de l'autorité administrative.
 
 Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la procédure d'agrément est applicable aux associations
 inscrites depuis trois ans au moins.
 
-Ces associations sont dites " associations agréées de protection de l'environnement ".
+Ces associations sont dites "associations agréées de protection de l'environnement".
 
 Cet agrément est attribué dans des conditions prévues par décret en Conseil d'Etat. Il peut être retiré lorsque l'association
 ne satisfait plus aux conditions qui ont conduit à le délivrer.
@@ -2863,6 +2863,10 @@ Les décisions prises en application du présent article sont soumises à un con
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 148 () JORF 24 février 2005
 
 	**Anciens textes**:
 
@@ -3226,6 +3230,8 @@ s'agisse des eaux superficielles, souterraines ou des eaux de la mer dans la lim
 
 5° La valorisation de l'eau comme ressource économique et la répartition de cette ressource.
 
+Un décret en Conseil d'Etat précise les critères retenus pour l'application du 1°.
+
 II. - La gestion équilibrée doit permettre de satisfaire ou concilier, lors des différents usages, activités ou travaux, les
 exigences :
 
@@ -3422,6 +3428,39 @@ autres activités humaines légalement exercées.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 127 () JORF 24 février 2005
+
+
+###### Article L211-1-1
+
+La préservation et la gestion durable des zones humides définies à l'article L. 211-1 sont d'intérêt général. Les politiques
+nationales, régionales et locales d'aménagement des territoires ruraux et l'attribution des aides publiques tiennent compte
+des difficultés particulières de conservation, d'exploitation et de gestion durable des zones humides et de leur contribution
+aux politiques de préservation de la diversité biologique, du paysage, de gestion des ressources en eau et de prévention des
+inondations notamment par une agriculture, un pastoralisme, une sylviculture, une chasse, une pêche et un tourisme adaptés. A
+cet effet, l'Etat et ses établissements publics, les régions, les départements, les communes et leurs groupements veillent,
+chacun dans son domaine de compétence, à la cohérence des diverses politiques publiques sur ces territoires. Pour
+l'application du X de l'article L. 212-1, l'Etat veille à la prise en compte de cette cohérence dans les schémas
+d'aménagement et de gestion des eaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 127 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L211-1 (V)
+	  - Code de l'environnement - art. L212-1 (V)
+
 
 ###### Article L211-2
 
@@ -3536,7 +3575,25 @@ tous forages, prises d'eau, barrages, travaux ou ouvrages de rejet, notamment da
 déclarées d'utilité publique pour l'approvisionnement actuel ou futur en eau potable ;
 
 3° Fixer les dispositions particulières applicables aux sources et gisements d'eaux minérales naturelles et à leur
-protection.
+protection ;
+
+4° A l'intérieur des zones humides définies à l'article L. 211-1 :
+
+a) Délimiter des zones dites "zones humides d'intérêt environnemental particulier" dont le maintien ou la restauration
+présente un intérêt pour la gestion intégrée du bassin versant, ou une valeur touristique, écologique, paysagère ou
+cynégétique particulière. Ces zones peuvent englober les zones humides dites "zones stratégiques pour la gestion de l'eau"
+prévues à l'article L. 212-5 ;
+
+b) Etablir, en concertation notamment avec les collectivités territoriales et leurs groupements, les représentants des
+propriétaires ou leurs groupements, les exploitants des terrains ou leurs représentants, les associations agréées de
+protection de la nature, les fédérations des associations agréées de pêche, les fédérations des chasseurs, les associations
+agréées de pêcheurs professionnels, réunis en comité de gestion de la zone humide, sous l'égide de la commission locale de
+l'eau lorsqu'elle existe, un programme d'actions visant à restaurer, préserver, gérer et mettre en valeur de façon durable
+les zones définies au a ;
+
+c) Préciser dans ce programme les pratiques à promouvoir ainsi que les moyens prévus pour favoriser leur généralisation,
+rendre obligatoires certaines de ces pratiques et préciser les modalités selon lesquelles ces pratiques peuvent, le cas
+échéant, bénéficier d'aides lorsqu'elles induisent des surcoûts ou des pertes de revenus.
 
 **Liens relatifs à cet article**
 
@@ -3603,10 +3660,15 @@ protection.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 128 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L211-1 (M)
 	  - Code de l'environnement - art. L211-2 (V)
+	  - Code de l'environnement - art. L212-5 (M)
 
 
 ###### Article L211-4
@@ -3967,10 +4029,14 @@ situés en aval ;
 
 2° Créer ou restaurer des zones de mobilité du lit mineur d'un cours d'eau en amont des zones urbanisées dans des zones dites
 "zones de mobilité d'un cours d'eau", afin de préserver ou de restaurer ses caractères hydrologiques et géomorphologiques
-essentiels.
+essentiels ;
 
-III. - Les zones soumises à ces servitudes sont délimitées par arrêté préfectoral. Celui-ci est pris après enquête publique
-menée conformément au code de l'expropriation pour cause d'utilité publique.
+3° Préserver ou restaurer des zones humides dites "zones stratégiques pour la gestion de l'eau" délimitées en application de
+l'article L. 212-5.
+
+III. - Les zones soumises aux servitudes visées aux 1° et 2° du II sont délimitées par arrêté préfectoral. Celui-ci est pris
+après enquête publique menée conformément au code de l'expropriation pour cause d'utilité publique. Les zones soumises aux
+servitudes visées au 3° du II sont délimitées conformément à l'article L. 212-5.
 
 IV. - Dans les zones de rétention temporaire des eaux de crues ou de ruissellement mentionnées au 1° du II, l'arrêté
 préfectoral peut obliger les propriétaires et les exploitants à s'abstenir de tout acte de nature à nuire au bon
@@ -4018,6 +4084,10 @@ ou de leur localisation, de faire obstacle au déplacement naturel du cours d'ea
 matière d'urbanisme recueille l'accord du préfet qui dispose d'un délai de deux mois à compter de la réception de la
 déclaration ou de la demande d'autorisation pour s'opposer à l'exécution des travaux ou prescrire les modifications
 nécessaires. Les travaux ne peuvent commencer avant l'expiration de ce délai.
+
+V bis - Dans les zones humides dites "zones stratégiques pour la gestion de l'eau" mentionnées au 3° du II, le préfet peut
+par arrêté obliger les propriétaires et les exploitants à s'abstenir de tout acte de nature à nuire à la nature et au rôle
+ainsi qu'à l'entretien et à la conservation de la zone, notamment le drainage, le remblaiement on le retournement de prairie.
 
 VI. - L'arrêté préfectoral peut identifier, le cas échéant, les éléments existants ou manquants faisant obstacle à l'objet de
 la servitude, dont la suppression, la modification ou l'instauration est rendue obligatoire. La charge financière des travaux
@@ -4068,10 +4138,6 @@ XII. - Un décret en Conseil d'Etat fixe les conditions d'application du présen
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 48 () JORF 31 juillet 2003
-
 	**Cité par**:
 
 	  - Décret n°2005-116 du 7 février 2005 - art. 1 (Ab)
@@ -4109,22 +4175,33 @@ XII. - Un décret en Conseil d'Etat fixe les conditions d'application du présen
 	  - Code rural et de la pêche maritime - art. L411-27 (V)
 	  - Livre des procédures fiscales - art. L135 P (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 2005-02-23 art. 132 II, III, IV JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L230-1 (M)
+	  - Code de l'environnement - art. L212-5 (M)
 	  - Code rural L361-10
 
 
 ###### Article L211-13
 
-I. - Nonobstant toutes dispositions contraires, les collectivités publiques qui ont acquis des terrains situés dans les zones
-de rétention temporaire des eaux de crues ou de ruissellement ou les zones de mobilité d'un cours d'eau visées à l'article L.
-211-12 du présent code peuvent, lors du renouvellement des baux ruraux visés au titre Ier du livre IV du code rural portant
-sur ces terrains, prescrire au preneur des modes d'utilisation du sol afin de prévenir les inondations ou ne pas aggraver les
-dégâts potentiels.
+I. - Nonobstant toutes dispositions contraires, l'Etat, les collectivités territoriales ou leurs groupements, ayant acquis
+des terrains situés dans les zones de rétention temporaire des eaux de crues ou de ruissellement ou les zones de mobilité
+d'un cours d'eau visées à l'article L. 211-12 du présent code peuvent, lors de l'établissement ou du renouvellement des baux
+ruraux visés au titre Ier du livre IV du code rural portant sur ces terrains, prescrire au preneur des modes d'utilisation du
+sol afin de prévenir les inondations ou ne pas aggraver les dégâts potentiels.
+
+I bis. - Nonobstant toutes dispositions contraires, l'Etat, les collectivités territoriales ou leurs groupements, ayant
+acquis des terrains situés dans les zones stratégiques pour la gestion de l'eau mentionnées à l'article L. 211-12 peuvent,
+lors de l'établissement ou du renouvellement des baux ruraux visés au titre Ier du livre IV du code rural portant sur ces
+terrains, prescrire au preneur des modes d'utilisation du sol afin d'en préserver ou restaurer la nature et le rôle.
 
 II. - Par dérogation au titre Ier du livre IV du code rural, le tribunal administratif est seul compétent pour régler les
-litiges concernant les baux renouvelés en application du I.
+litiges concernant les baux établis ou renouvelés en application du I et du I bis.
 
 **Liens relatifs à cet article**
 
@@ -4133,15 +4210,16 @@ litiges concernant les baux renouvelés en application du I.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 53 () JORF 31 juillet 2003
-
 	**Cité par**:
 
 	  - Décret n°2005-116 du 7 février 2005 - art. 13 (Ab)
 	  - Code de l'environnement - art. R211-106 (V)
 	  - Code rural - art. L411-79 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 2005-02-23 art. 132 V, VI, VII, VIII JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
 
 	**Cite**:
 
@@ -4711,6 +4789,12 @@ protection du milieu naturel aquatique, des nécessités de mise en valeur de la
 l'espace rural, de l'environnement urbain et économique et de l'équilibre à assurer entre les différents usages de l'eau. Il
 évalue les moyens économiques et financiers nécessaires à sa mise en oeuvre.
 
+Il peut délimiter, en vue de leur préservation ou de leur restauration, des zones humides dites "zones stratégiques pour la
+gestion de l'eau", situées à l'intérieur des zones humides définies à l'article L. 211-1 et contribuant de manière
+significative à la protection de la ressource en eau potable ou à la réalisation des objectifs du schéma d'aménagement et de
+gestion des eaux en matière de bon état des eaux. Les modalités de délimitation de ces zones stratégiques sont définies par
+décret.
+
 Il doit être compatible avec les orientations fixées par le schéma directeur mentionné à l'article L. 212-1.
 
 **Liens relatifs à cet article**
@@ -4738,12 +4822,13 @@ Il doit être compatible avec les orientations fixées par le schéma directeur 
 	**Cite**:
 
 	  - Ordonnance 2004-632 2004-07-01
+	  - Code de l'environnement - art. L211-1 (M)
 	  - Code de l'environnement - art. L212-1 (M)
 	  - Code de l'environnement - art. L212-3 (M)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 61 () JORF 2 juillet 2004
+	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
 
 
 ###### Article L212-6
@@ -5079,6 +5164,12 @@ bassin, l'agence peut mener des actions de coopération internationale dans les 
 la limite de 1 % de ses ressources, le cas échéant et suivant les règles statutaires en vigueur pour chaque catégorie de
 personnels, avec le concours de ses agents.
 
+Le programme pluriannuel de l'agence de l'eau prend en compte les aménagements réalisés par les exploitants agricoles dans
+les zones de montagne en matière de prévention de la pollution de l'eau dans les bassins situés à l'amont des zones de
+captages actuels ou futurs destinés à l'alimentation en eau potable, ainsi que ceux définis en zone de montagne dans le cadre
+de programmes d'actions concertés et nécessaires pour atteindre les objectifs de qualité définis par un schéma d'aménagement
+et de gestion des eaux ou par le schéma directeur d'aménagement et de gestion des eaux.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -5100,7 +5191,7 @@ personnels, avec le concours de ses agents.
 
 	**Modifié par**:
 
-	  - Loi n°2005-95 du 9 février 2005 - art. 2 () JORF 10 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 196 () JORF 24 février 2005
 
 
 ###### Article L213-7
@@ -5280,8 +5371,8 @@ Un décret détermine les conditions d'application du présent article.
 ###### Article L213-10
 
 Pour faciliter, à l'échelle d'un bassin ou d'un sous-bassin hydrographique, la prévention des inondations et la gestion
-équilibrée de la ressource en eau, les collectivités territoriales intéressées et leurs groupements peuvent s'associer au
-sein d'un établissement public territorial de bassin.
+équilibrée de la ressource en eau ainsi que la préservation et la gestion des zones humides, les collectivités territoriales
+intéressées et leurs groupements peuvent s'associer au sein d'un établissement public territorial de bassin.
 
 Cet organisme public est constitué et fonctionne, selon les cas, conformément aux dispositions du code général des
 collectivités territoriales régissant les établissements constitués en application des articles L. 5421-1 à L. 5421-6 ou des
@@ -5304,10 +5395,6 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Modifié par**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 46 () JORF 31 juillet 2003
-
 	**Cité par**:
 
 	  - Arrêté du 7 février 2005 - art. 3 (V)
@@ -5324,6 +5411,14 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Code rural - art. D341-8 (V)
 	  - Livre des procédures fiscales - art. L135 R (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 136 () JORF 24 février 2005
+
+	**Transféré par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales L5721-1 à L5721-8
@@ -5331,6 +5426,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Nouveaux textes**:
 
+	  - Code de l'environnement - art. L213-12 (Ab)
 	  - Code de l'environnement - art. L213-12 (V)
 
 
@@ -6163,6 +6259,46 @@ un impact sur le milieu aquatique, notamment en ce qui concerne leurs rejets et 
 	  - Code de l'environnement - art. L216-13 (V)
 	  - Code de l'environnement - art. L216-6 (M)
 	  - Code de l'environnement L211-1, L212-1 à L212-7, L214-8, L216-6, L216-13
+
+
+###### Article L214-7-1
+
+Lorsqu'il l'estime nécessaire pour l'application des articles L. 214-1 et L. 214-7, le préfet peut procéder à la délimitation
+de tout ou partie des zones humides définies à l'article L. 211-1 en concertation avec les collectivités territoriales et
+leurs groupements. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 127 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2008 - art. 1 (V)
+	  - Arrêté du 24 juin 2008 - art. 3 (V)
+	  - Arrêté du 1er octobre 2009 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2017-80 du 26 janvier 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L211-1
+	  - Code de l'environnement - art. L214-1
+	  - Code de l'environnement - art. L214-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L214-7 (VT)
 
 
 ###### Article L214-8
@@ -7212,8 +7348,8 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 ###### Article L216-1
 
 I. - Indépendamment des poursuites pénales, en cas d'inobservation des dispositions prévues par les articles L. 211-2, L.
-211-3, L. 211-5, L. 211-7, L. 214-1 à L. 214-9, L. 214-11 et L. 214-12 ou les règlements et décisions individuelles pris pour
-leur application, le préfet met en demeure d'y satisfaire dans un délai déterminé.
+211-3, L. 211-5, L. 211-7, L. 211-12, L. 214-1 à L. 214-9, L. 214-11 et L. 214-12 ou les règlements et décisions
+individuelles pris pour leur application, le préfet met en demeure d'y satisfaire dans un délai déterminé.
 
 II. - Si, à l'expiration du délai fixé, il n'a pas été obtempéré à cette injonction par l'exploitant ou par le propriétaire
 de l'installation s'il n'y a pas d'exploitant, le préfet peut :
@@ -7262,15 +7398,20 @@ entraînées par l'exécution d'office ;
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
+
 	**Cite**:
 
+	  - Code de l'environnement - art. L211-12 (M)
 	  - Code de l'environnement - art. L211-2 (V)
 	  - Code de l'environnement - art. L211-3 (M)
 	  - Code de l'environnement - art. L211-5 (V)
 	  - Code de l'environnement - art. L211-7 (M)
 	  - Code de l'environnement - art. L214-11 (V)
 	  - Code de l'environnement - art. L214-12 (V)
-	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11, L214-12
+	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11, L214-12, L211-12
 
 
 ###### Article L216-2
@@ -7307,8 +7448,8 @@ conditions prévues à l'article L. 514-6.
 ###### Article L216-3
 
 I. - Sont chargés de procéder à la recherche et à la constatation des infractions aux dispositions des articles L. 211-2, L.
-211-3, L. 211-5, L. 211-7, L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12, ainsi
-que des textes et des décisions pris pour leur application :
+211-3, L. 211-5, L. 211-7, L. 211-12, L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 216-6 à L. 216-8 et L. 216-10 à L.
+216-12, ainsi que des textes et des décisions pris pour leur application :
 
 1° Les fonctionnaires et agents, assermentés et commissionnés à cet effet dans les conditions prévues par décret en Conseil
 d'Etat, appartenant aux services de l'Etat chargés de l'environnement, de l'agriculture, de l'industrie, de l'équipement, des
@@ -7376,17 +7517,18 @@ présent article dans des conditions déterminées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
 
 	**Cite**:
 
 	  - Code forestier - art. L122-7 (M)
+	  - Code de l'environnement - art. L211-12 (M)
 	  - Code de l'environnement - art. L211-2 (V)
 	  - Code de l'environnement - art. L211-3 (M)
 	  - Code de l'environnement - art. L211-5 (V)
 	  - Code de l'environnement - art. L211-7 (M)
 	  - Code de l'environnement - art. L514-5 (M)
-	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11 à L214-13, L216-6 à L216-8, L216-10 à L216-12, L514-5
+	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11 à L214-13, L216-6 à L216-8, L216-10 à L216-12, L514-5, L211-12
 
 
 ###### Article L216-4
@@ -7432,9 +7574,9 @@ peut s'opposer à ces opérations.
 
 ###### Article L216-5
 
-Les infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 214-1 à L. 214-9, L. 214-11 à L.
-214-13, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12 et des textes pris pour leur application sont constatées par des procès-
-verbaux qui font foi jusqu'à preuve contraire.
+Les infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 211-12, L. 214-1 à L. 214-9, L.
+214-11 à L. 214-13, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12 et des textes pris pour leur application sont constatées par
+des procès-verbaux qui font foi jusqu'à preuve contraire.
 
 Les procès-verbaux doivent, sous peine de nullité, être adressés dans les cinq jours qui suivent leur clôture au procureur de
 la République. Une copie en est également remise, dans le même délai, à l'intéressé.
@@ -7453,15 +7595,16 @@ la République. Une copie en est également remise, dans le même délai, à l'i
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
 
 	**Cite**:
 
+	  - Code de l'environnement - art. L211-12 (M)
 	  - Code de l'environnement - art. L211-2 (V)
 	  - Code de l'environnement - art. L211-3 (M)
 	  - Code de l'environnement - art. L211-5 (V)
 	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11 à L214-13, L216-6 à L216-8, L216-10 à L216-12
+	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11 à L214-13, L216-6 à L216-8, L216-10 à L216-12, L211-12
 
 	**Cité par**:
 
@@ -13950,8 +14093,7 @@ supérieure à 1 000 hectares ;
 3° Dans les communes riveraines des estuaires et des deltas lorsque tout ou partie de leurs rives sont situées en aval de la
 limite de salure des eaux ;
 
-4° Dans les autres communes qui participent directement aux équilibres économiques et écologiques littoraux et qui font la
-demande auprès du préfet, après avis de cet établissement et accord du préfet.
+4° Abrogé
 
 II. - Il peut présenter aux collectivités publiques toutes suggestions en rapport avec sa mission. Il peut notamment proposer
 les mesures propres à éviter toute construction des terrains contigus au domaine public maritime.
@@ -13959,9 +14101,9 @@ les mesures propres à éviter toute construction des terrains contigus au domai
 Afin de promouvoir une gestion plus intégrée des zones côtières, le Conservatoire de l'espace littoral et des rivages
 lacustres peut également exercer ses missions sur le domaine public maritime qui lui est affecté ou confié.
 
-III. - Son intervention peut être étendue par décret en Conseil d'Etat à des secteurs géographiques limitrophes des cantons
-et communes mentionnés au I et constituant avec eux une unité écologique ou paysagère dont la majorité de la surface est
-située dans les limites desdits cantons et communes.
+III. - Son intervention peut être étendue par arrêté préfectoral et après avis de son conseil d'administration à des secteurs
+géographiquement limitrophes des cantons et des communes mentionnés au I et constituant avec eux une unité écologique ou
+paysagère ainsi qu'aux zones humides situées dans les départements côtiers.
 
 **Liens relatifs à cet article**
 
@@ -13972,8 +14114,8 @@ située dans les limites desdits cantons et communes.
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 2002-02-27 art. 160 I, II JORF 28 février 2002
-	  - Loi n°2002-276 du 27 février 2002 - art. 160 () JORF 28 février 2002
+	  - Loi n°2005-157 2005-02-23 art. 133 I, II JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 133 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -14282,12 +14424,15 @@ rivages lacustres peuvent être confiés, en vue d'assurer la conservation, la p
 l'une des personnes publiques ou privées désignées à l'article L. 322-9 dans le cadre d'une convention d'occupation
 n'excédant pas trente ans. Les missions confiées doivent être conformes à la mission poursuivie par le conservatoire. Cette
 convention peut habiliter le bénéficiaire à accorder des autorisations d'occupation non constitutives de droits réels d'une
-durée n'excédant pas celle de la convention.
+durée n'excédant pas celle de la convention. 
 
 Le bénéficiaire est autorisé à encaisser directement à son profit les produits de l'immeuble. Dans ce cas, il doit procéder
 au reversement périodique au conservatoire du surplus des produits qui n'ont pas été affectés à la mise en valeur et à la
 gestion du bien. Le bénéficiaire est choisi librement. En fin de convention d'occupation, le gestionnaire ne peut prétendre à
-aucune indemnité pour les améliorations apportées à l'immeuble.
+aucune indemnité pour les améliorations apportées à l'immeuble. 
+
+Le conservatoire peut prendre en charge une partie du coût des missions visées au premier alinéa dès lors que celle-ci est
+inférieure à celle du bénéficiaire de la convention, selon des modalités précisées par celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -14298,11 +14443,11 @@ aucune indemnité pour les améliorations apportées à l'immeuble.
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 162 () JORF 28 février 2002
+	  - Loi n°2005-157 du 23 février 2005 - art. 134 () JORF 24 février 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L322-9 (M)
+	  - Code de l'environnement - art. L322-9 (V)
 
 	**Cité par**:
 
@@ -14511,6 +14656,33 @@ les moyens mobilisés par les parties pour la mise en oeuvre de la mission défi
 	**Anciens textes**:
 
 	  - Code rural - art. L243-13 (Ab)
+
+
+##### Sous-section 3 : Direction et personnels
+
+###### Article L322-13-1
+
+En application du partenariat mentionné à l'article L. 322-1 et afin de mener à bien les missions qui lui sont confiées, le
+Conservatoire de l'espace littoral et des rivages lacustres peut disposer, outre son personnel propre, d'agents de la
+fonction publique territoriale mis à disposition.
+
+En application du III de l'article L. 322-1, il peut également disposer d'agents contractuels d'établissements publics
+intervenant dans les zones humides sous forme de mise à disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 133 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-1 (M)
 
 
 ##### Section 4 : Dispositions financières
@@ -16671,10 +16843,16 @@ et les mesures permettant de les mettre en oeuvre. Elle comporte un plan élabor
 indiquant les différentes zones du parc et leur vocation, accompagné d'un document déterminant les orientations et les
 principes fondamentaux de protection des structures paysagères sur le territoire du parc.
 
-La charte constitutive est élaborée par la région avec l'accord de l'ensemble des collectivités territoriales concernées, en
-concertation avec les partenaires intéressés, avant d'être soumise à l'enquête publique. Elle est adoptée par décret portant
-classement en parc naturel régional pour une durée maximale de dix ans. La révision de la charte est assurée par l'organisme
-de gestion du parc naturel régional.
+Le projet de charte constitutive est élaboré par la région avec l'ensemble des collectivités territoriales concernées, en
+concertation avec les partenaires intéressés. Il est soumis à enquête publique, puis approuvé par les collectivités
+territoriales concernées et adopté par décret portant classement du territoire en parc naturel régional pour une durée de dix
+ans au plus.
+
+La révision de la charte du parc naturel régional est assurée par l'organisme de gestion du parc. Lorsque des changements
+dans les circonstances de droit ou de fait ne permettent pas à la région de conduire la révision à son terme avant
+l'expiration du classement, celui-ci peut être prolongé par décret pour une durée maximale de deux ans. Ce décret est pris à
+la demande de la région sur proposition de l'organisme de gestion et sans qu'il soit besoin de procéder aux consultations
+préalables prévues à l'occasion du classement initial et de son renouvellement.
 
 L'Etat et les collectivités territoriales adhérant à la charte appliquent les orientations et les mesures de la charte dans
 l'exercice de leurs compétences sur le territoire du parc. Ils assurent, en conséquence, la cohérence de leurs actions et des
@@ -16693,7 +16871,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 231 (V) JORF 24 février 2005
 
 	**Cité par**:
 
@@ -16939,12 +17117,18 @@ En cas d'urgence, le ministre chargé des sites fixe à la commission départeme
 elle de se prononcer dans ce délai, le ministre consulte la commission supérieure et donne à la demande la suite qu'elle
 comporte.
 
+Dans les zones de montagne, la décision de classement est prise après consultation du comité de massif concerné.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 180 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -17922,6 +18106,17 @@ des itinéraires de promenade et de randonnée doit, à peine de nullité, compo
 cette continuité par un itinéraire de substitution. Toute opération publique d'aménagement foncier doit également respecter
 ce maintien ou cette continuité.
 
+La circulation des piétons sur les voies et chemins inscrits au plan départemental des itinéraires de promenade et de
+randonnée, ou ceux identifiés pour les chemins privés, après conventions passées avec les propriétaires de ces chemins, par
+les communes et les fédérations de randonneurs agréées s'effectue librement, dans le respect des lois et règlements de police
+et des droits des riverains.
+
+Les maires, en vertu de leur pouvoir de police, peuvent, le cas échéant, réglementer les conditions d'utilisation de ces
+itinéraires.
+
+La responsabilité civile des propriétaires ruraux et forestiers ne saurait être engagée au titre des dommages causés ou subis
+à l'occasion de la circulation des piétons ou de la pratique d'activités de loisirs qu'en raison de leurs actes fautifs.
+
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
@@ -17947,6 +18142,10 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 197 () JORF 24 février 2005
 
 	**Cite**:
 
@@ -18475,6 +18674,8 @@ d'espèces mentionnés au 1° ou au 2° du I de l'article L. 411-1 à des fins d
 dégradation et la délivrance des autorisations exceptionnelles d'enlèvement des fossiles à des fins scientifiques ou
 d'enseignement.
 
+La liste des espèces animales non domestiques prévue au 1° est révisée tous les deux ans.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -18597,6 +18798,10 @@ d'enseignement.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 129 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L411-1 (V)
@@ -18609,12 +18814,16 @@ d'enseignement.
 
 ###### Article L411-3
 
-I. - Afin de ne porter préjudice ni aux milieux naturels ni à la faune et à la flore sauvages, est interdite l'introduction
-dans le milieu naturel, volontaire, par négligence ou par imprudence :
+I. - Afin de ne porter préjudice ni aux milieux naturels ni aux usages qui leur sont associés ni à la faune et à la flore
+sauvages, est interdite l'introduction dans le milieu naturel, volontaire, par négligence ou par imprudence :
 
-1° De tout spécimen d'une espèce animale à la fois non indigène au territoire d'introduction et non domestique ;
+1° De tout spécimen d'une espèce animale à la fois non indigène au territoire d'introduction et non domestique, dont la liste
+est fixée par arrêté conjoint du ministre chargé de la protection de la nature et, soit du ministre chargé de l'agriculture
+soit, lorsqu'il s'agit d'espèces marines, du ministre chargé des pêches maritimes ;
 
-2° De tout spécimen d'une espèce végétale à la fois non indigène au territoire d'introduction et non cultivée ;
+2° De tout spécimen d'une espèce végétale à la fois non indigène au territoire d'introduction et non cultivée, dont la liste
+est fixée par arrêté conjoint du ministre chargé de la protection de la nature et, soit du ministre chargé de l'agriculture
+soit, lorsqu'il s'agit d'espèces marines, du ministre chargé des pêches maritimes ;
 
 3° De tout spécimen de l'une des espèces animales ou végétales désignées par l'autorité administrative.
 
@@ -18622,11 +18831,18 @@ II. - Toutefois, l'introduction dans le milieu naturel de spécimens de telles e
 administrative à des fins agricoles, piscicoles ou forestières ou pour des motifs d'intérêt général et après évaluation des
 conséquences de cette introduction.
 
-III. - Dès qu'une infraction est constatée, l'autorité administrative peut procéder ou faire procéder à la capture, au
-prélèvement, à la garde ou à la destruction des spécimens de l'espèce introduite.
+III. - Dès que la présence dans le milieu naturel d'une des espèces visées au I est constatée, l'autorité administrative peut
+procéder ou faire procéder à la capture, au prélèvement, à la garde ou à la destruction des spécimens de l'espèce introduite.
+Les dispositions du II de l'article L. 411-5 s'appliquent à ce type d'intervention.
 
 IV. - Lorsqu'une personne est condamnée pour infraction aux dispositions du présent article, le tribunal peut mettre à sa
 charge les frais exposés pour la capture, les prélèvements, la garde ou la destruction rendus nécessaires.
+
+IV bis. - Lorsque les nécessités de la préservation du patrimoine biologique, des milieux naturels et des usages qui leur
+sont associés justifient d'éviter leur diffusion, sont interdits le transport, le colportage, l'utilisation, la mise en
+vente, la vente ou l'achat des espèces animales ou végétales dont la liste est fixée par arrêtés conjoints du ministre chargé
+de la protection de la nature et soit du ministre chargé de l'agriculture soit, lorsqu'il s'agit d'espèces marines, du
+ministre chargé des pêches maritimes.
 
 V. - Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -18636,6 +18852,11 @@ V. - Un décret en Conseil d'Etat précise les conditions d'application du prés
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 128 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 129 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -18655,6 +18876,10 @@ V. - Un décret en Conseil d'Etat précise les conditions d'application du prés
 	  - Code de l'environnement - art. R415-1 (M)
 	  - Code rural - art. D274-26 (V)
 	  - Code rural et de la pêche maritime - art. R214-112 (M)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L411-5 (M)
 
 	**Anciens textes**:
 
@@ -19030,20 +19255,20 @@ selon les modalités fixés par décret en Conseil d'Etat.
 
 ###### Article L413-4
 
-I. - Sont soumis au contrôle de l'autorité administrative lorsqu'ils détiennent des animaux d'espèces non domestiques :
+I.-Sont soumis au contrôle de l'autorité administrative lorsqu'ils détiennent des animaux d'espèces non domestiques : 
 
-1° Les établissements définis à l'article L. 413-3 ;
+1° Les établissements définis à l'article L. 413-3 ; 
 
-2° Les établissements scientifiques ;
+2° Les établissements scientifiques ; 
 
-3° Les établissements d'enseignement ;
+3° Les établissements d'enseignement ; 
 
 4° Les établissements et instituts spécialisés dans la recherche biomédicale, dans le contrôle biologique et dans les
-productions biologiques ;
+productions biologiques ; 
 
-5° Les établissements d'élevage.
+5° Les établissements professionnels de chasse à caractère commercial visés à l'article L. 424-3. 
 
-II. - Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+II.-Un décret en Conseil d'Etat précise les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -19074,9 +19299,14 @@ II. - Un décret en Conseil d'Etat précise les modalités d'application du pré
 	  - Code rural - art. R*213-47 (Ab)
 	  - Code rural - art. R*213-49 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L413-3 (V)
+	  - Code de l'environnement - art. L424-3 (V)
 
 	**Anciens textes**:
 
@@ -19087,21 +19317,25 @@ II. - Un décret en Conseil d'Etat précise les modalités d'application du pré
 ###### Article L413-5
 
 Indépendamment des poursuites pénales qui peuvent être exercées en application du présent titre, des mesures administratives
-pouvant aller jusqu'à la fermeture de l'établissement peuvent être prescrites par le ministre chargé de l'environnement.
+pouvant aller jusqu'à la fermeture de l'établissement peuvent être prescrites par l'autorité administrative. 
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L213-5
+	  - Code rural - art. L213-5 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L213-5 (Ab)
-	  - Code rural L213-5
+	  - Loi n°2005-157 du 23 février 2005 - art. 158 () JORF 24 février 2005
 
 
 #### Chapitre IV : Conservation des habitats naturels, de la faune et de la flore sauvages
@@ -19110,7 +19344,7 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 
 ###### Article L414-1
 
-I. - Les zones spéciales de conservation sont des sites à protéger comprenant :
+I. - Les zones spéciales de conservation sont des sites maritimes et terrestres à protéger comprenant :
 
 - soit des habitats naturels menacés de disparition ou réduits à de faibles dimensions ou offrant des exemples remarquables
 des caractéristiques propres aux régions alpine, atlantique, continentale et méditerranéenne ;
@@ -19125,7 +19359,7 @@ II. - Les zones de protection spéciale sont :
 - soit des sites maritimes et terrestres particulièrement appropriés à la survie et à la reproduction des espèces d'oiseaux
 sauvages figurant sur une liste arrêtée dans des conditions fixées par décret en Conseil d'Etat ;
 
-- soit des sites maritimes ou terrestres qui servent d'aires de reproduction, de mue, d'hivernage ou de zones de relais, au
+- soit des sites maritimes et terrestres qui servent d'aires de reproduction, de mue, d'hivernage ou de zones de relais, au
 cours de leur migration, à des espèces d'oiseaux autres que celles figurant sur la liste susmentionnée.
 
 III. - Avant la notification à la Commission européenne de la proposition d'inscription d'une zone spéciale de conservation
@@ -19133,6 +19367,12 @@ ou avant la décision de désigner une zone de protection spéciale, le projet d
 consultation des organes délibérants des communes et des établissements publics de coopération intercommunale concernés.
 L'autorité administrative ne peut s'écarter des avis motivés rendus à l'issue de cette consultation que par une décision
 motivée.
+
+Avant la notification à la Commission européenne de la proposition d'inscription d'un périmètre modifié d'une zone spéciale
+de conservation ou avant la décision de modifier le périmètre d'une zone de protection spéciale, le projet de périmètre
+modifié de la zone est soumis à la consultation des organes délibérants des communes et des établissements publics de
+coopération intercommunale territorialement concernés par la modification du périmètre. L'autorité administrative ne peut
+s'écarter des avis motivés rendus à l'issue de cette consultation que par une décision motivée.
 
 IV. - Les sites désignés comme zones spéciales de conservation et zones de protection spéciale par décision de l'autorité
 administrative concourent, sous l'appellation commune de "sites Natura 2000", à la formation du réseau écologique européen
@@ -19143,16 +19383,19 @@ V. - Les sites Natura 2000 font l'objet de mesures destinées à conserver ou à
 délimitation. Les sites Natura 2000 font également l'objet de mesures de prévention appropriées pour éviter la détérioration
 de ces mêmes habitats naturels et les perturbations de nature à affecter de façon significative ces mêmes espèces.
 
-Ces mesures tiennent compte des exigences économiques, sociales et culturelles, ainsi que des particularités régionales et
-locales. Elles sont adaptées aux menaces spécifiques qui pèsent sur ces habitats naturels et sur ces espèces. Elles ne
-conduisent pas à interdire les activités humaines dès lors qu'elles n'ont pas d'effets significatifs par rapport aux
-objectifs mentionnés à l'alinéa ci-dessus. Les activités piscicoles, la chasse et les autres activités cynégétiques
-pratiquées dans les conditions et sur les territoires autorisés par les lois et règlement en vigueur, ne constituent pas des
-activités perturbantes ou ayant de tels effets.
+Ces mesures sont définies en concertation notamment avec les collectivités territoriales intéressées et leurs groupements
+concernés ainsi qu'avec des représentants de propriétaires et exploitants des terrains inclus dans le site.
 
-Les mesures sont prises dans le cadre des contrats prévus à l'article L. 414-3 ou en application des dispositions
-législatives ou réglementaires, notamment de celles relatives aux parcs nationaux, aux réserves naturelles, aux biotopes ou
-aux sites classés.
+Elles tiennent compte des exigences économiques, sociales et culturelles, ainsi que des particularités régionales et locales.
+Elles sont adaptées aux menaces spécifiques qui pèsent sur ces habitats naturels et sur ces espèces. Elles ne conduisent pas
+à interdire les activités humaines dès lors qu'elles n'ont pas d'effets significatifs par rapport aux objectifs mentionnés à
+l'alinéa ci-dessus. Les activités piscicoles, la chasse et les autres activités cynégétiques pratiquées dans les conditions
+et sur les territoires autorisés par les lois et règlement en vigueur, ne constituent pas des activités perturbantes ou ayant
+de tels effets.
+
+Les mesures sont prises dans le cadre des contrats ou des chartes prévus à l'article L. 414-3 ou en application des
+dispositions législatives ou réglementaires, notamment de celles relatives aux parcs nationaux, aux réserves naturelles, aux
+biotopes ou aux sites classés.
 
 **Liens relatifs à cet article**
 
@@ -19204,9 +19447,11 @@ aux sites classés.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 8 () JORF 14 avril 2001
+	  - Loi n°2005-157 du 23 février 2005 - art. 140 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 141 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 142 () JORF 24 février 2005
 
 	**Cite**:
 
@@ -19214,34 +19459,54 @@ aux sites classés.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L414-7 (V)
 	  - TXT_SOURCE: Directive 79-409 CEE 1979-04-02
 	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
 
 ###### Article L414-2
 
-L'autorité administrative établit pour chaque site, en concertation notamment avec les collectivités territoriales
-intéressées et leurs groupements et les représentants des propriétaires et exploitants des terrains inclus dans le site, un
-document d'objectifs qui définit les orientations de gestion et de conservation, les modalités de leur mise en oeuvre et les
-dispositions financières d'accompagnement.
+I. - Pour chaque site Natura 2000, un document d'objectifs définit les orientations de gestion, les mesures prévues à
+l'article L. 414-1, les modalités de leur mise en oeuvre et les dispositions financières d'accompagnement.
+
+Le document d'objectifs peut être élaboré et approuvé à compter de la notification à la Commission européenne de la
+proposition d'inscription d'une zone spéciale de conservation, ou de la désignation d'une zone de protection spéciale.
+
+II. - Pour l'élaboration et le suivi de la mise en oeuvre du document d'objectifs, un comité de pilotage Natura 2000 est créé
+par l'autorité administrative.
+
+Ce comité comprend les collectivités territoriales intéressées et leurs groupements concernés ainsi que, notamment, des
+représentants de propriétaires et exploitants des terrains inclus dans le site Natura 2000. Les représentants de l'Etat y
+siègent à titre consultatif.
+
+III. - Les représentants des collectivités territoriales et de leurs groupements désignent parmi eux le président du comité
+de pilotage Natura 2000 ainsi que la collectivité territoriale ou le groupement chargé de l'élaboration du document
+d'objectifs et du suivi de sa mise en oeuvre.
+
+A défaut, la présidence du comité de pilotage Natura 2000 ainsi que l'élaboration du document d'objectifs et l'animation
+nécessaire à sa mise en oeuvre sont assurées par l'autorité administrative.
+
+IV. - Une fois établi, le document d'objectifs est approuvé par l'autorité administrative. Si le document d'objectifs n'a pas
+été soumis à son approbation dans les deux ans qui suivent la création du comité de pilotage Natura 2000, l'autorité
+administrative peut prendre en charge son élaboration.
+
+V. - Lorsque le site est entièrement inclus dans un terrain relevant du ministère de la défense, l'autorité administrative
+préside le comité de pilotage Natura 2000 et établit le document d'objectifs en association avec le comité de pilotage Natura
+2000.
+
+VI. - Une convention est conclue entre l'Etat et la collectivité territoriale ou le groupement désigné dans les conditions
+prévues au III afin de définir les modalités et les moyens d'accompagnement nécessaires à l'élaboration du document
+d'objectifs et au suivi de sa mise en oeuvre.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 79-409 CEE 1979-04-02
-	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
-	  - SPEC_APPLI: Code de l'environnement - art. L414-7 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 8 () JORF 14 avril 2001
+	  - Loi n°2005-157 du 23 février 2005 - art. 144 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -19251,20 +19516,29 @@ dispositions financières d'accompagnement.
 	  - Code de l'environnement - art. R213-49-20 (V)
 	  - Code de l'environnement - art. R414-8 (V)
 
+	**Cite**:
+
+	  - Code de l'environnement - art. L414-1 (M)
+
 
 ###### Article L414-3
 
-Pour l'application du document d'objectifs, les titulaires de droits réels et personnels portant sur les terrains inclus dans
-le site peuvent conclure avec l'autorité administrative des contrats, dénommés "contrats Natura 2000". Les contrats Natura
-2000 conclus par les exploitants agricoles peuvent prendre la forme de contrats territoriaux d'exploitation.
+I. - Pour l'application du document d'objectifs, les titulaires de droits réels et personnels portant sur les terrains inclus
+dans le site peuvent conclure avec l'autorité administrative des contrats, dénommés "contrats Natura 2000". Les contrats
+Natura 2000 conclus par les exploitants agricoles peuvent prendre la forme de contrats portant sur des engagements agro-
+environnementaux.
 
-Le contrat Natura 2000 comporte un ensemble d'engagements conformes aux orientations définies par le document d'objectifs,
-portant sur la conservation et, le cas échéant, le rétablissement des habitats naturels et des espèces qui ont justifié la
-création du site Natura 2000. Il définit la nature et les modalités des aides de l'Etat et les prestations à fournir en
-contrepartie par le bénéficiaire. En cas d'inexécution des engagements souscrits, les aides de l'Etat font l'objet d'un
-remboursement selon des modalités fixées par décret.
+Le contrat Natura 2000 comporte un ensemble d'engagements conformes aux orientations et aux mesures définies par le document
+d'objectifs, portant sur la conservation et, le cas échéant, le rétablissement des habitats naturels et des espèces qui ont
+justifié la création du site Natura 2000. Il définit la nature et les modalités des aides de l'Etat et les prestations à
+fournir en contrepartie par le bénéficiaire. En cas d'inexécution des engagements souscrits, les aides de l'Etat font l'objet
+d'un remboursement selon des modalités fixées par décret.
 
 Les litiges relatifs à l'exécution de ce contrat sont portés devant la juridiction administrative.
+
+II. - Les titulaires de droits réels et personnels portant sur les terrains inclus dans le site peuvent adhérer à une charte
+Natura 2000. La charte Natura 2000 comporte un ensemble d'engagements définis par le document d'objectifs et pour lesquels le
+document d'objectifs ne prévoit aucune disposition financière d'accompagnement. Elle est annexée au document d'objectifs.
 
 **Liens relatifs à cet article**
 
@@ -19273,9 +19547,9 @@ Les litiges relatifs à l'exécution de ce contrat sont portés devant la juridi
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 8 () JORF 14 avril 2001
+	  - Loi n°2005-157 du 23 février 2005 - art. 143 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -19289,7 +19563,6 @@ Les litiges relatifs à l'exécution de ce contrat sont portés devant la juridi
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L414-7 (V)
 	  - TXT_SOURCE: Directive 79-409 CEE 1979-04-02
 	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
@@ -19500,6 +19773,55 @@ Les dispositions de la présente section ne sont pas applicables dans les dépar
 	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
 
+##### Section 2 : Orientations régionales de gestion et de conservation de la faune sauvage et de ses habitats
+
+###### Article L414-8
+
+Dans chaque région et dans la collectivité territoriale de Corse, des orientations régionales de gestion et de conservation
+de la faune sauvage et de ses habitats sont élaborées en vue d'en promouvoir une gestion durable, conformément aux principes
+énoncés à l'article L. 420-1 et compte tenu des orientations régionales forestières mentionnées à l'article L. 4 du code
+forestier et des priorités de la politique d'orientation des productions agricoles et d'aménagement des structures
+d'exploitation mentionnées à l'article L. 313-1 du code rural.
+
+Les orientations régionales de gestion et de conservation de la faune sauvage et de ses habitats précisent les objectifs à
+atteindre en ce qui concerne la conservation et la gestion durable de la faune de la région, chassable ou non chassable, et
+de ses habitats et la coexistence des différents usages de la nature. Elles comportent une évaluation des principales
+tendances de l'évolution des populations animales et de leurs habitats, des menaces dues aux activités humaines et des
+dommages que celles-ci subissent. Les schémas départementaux de gestion cynégétique visés à l'article L. 425-1 contribuent à
+cette évaluation.
+
+Les orientations régionales de gestion et de conservation de la faune sauvage et de ses habitats sont arrêtées après avis des
+collectivités territoriales et des personnes physiques ou morales compétentes dans les domaines concernés, par le préfet de
+région et en Corse par le préfet de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 159 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code forestier - art. L4 (V)
+	  - Code de l'environnement - art. L420-1 (M)
+	  - Code rural L313-1
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L421-1 (V)
+	  - Code de l'environnement - art. L421-13 (V)
+	  - Code de l'environnement - art. L425-1 (M)
+	  - Code de l'environnement - art. R213-49-6 (V)
+	  - Code de l'environnement - art. R331-14 (V)
+	  - Code de l'environnement - art. R333-15 (V)
+	  - Code de l'environnement - art. R411-23 (V)
+
+
 #### Chapitre V : Dispositions pénales
 
 ##### Section 1 : Constatation des infractions
@@ -19654,8 +19976,9 @@ b) De porter atteinte à la conservation d'espèces végétales non cultivées ;
 c) De détruire des sites contenant des fossiles permettant d'étudier l'histoire du monde vivant ainsi que les premières
 activités humaines, de détruire ou d'enlever des fossiles présents sur ces sites ;
 
-2° Le fait d'introduire volontairement dans le milieu naturel un spécimen d'une espèce animale ou végétale en violation des
-dispositions de l'article L. 411-3 ou des règlements pris pour son application ;
+2° Le fait d'introduire volontairement dans le milieu naturel, de transporter, colporter, utiliser, mettre en vente, vendre
+ou acheter un spécimen d'une espèce animale ou végétale en violation des dispositions de l'article L. 411-3 ou des règlements
+pris pour son application ;
 
 3° Le fait de produire, détenir, céder, utiliser, transporter, introduire, importer, exporter ou réexporter tout ou partie
 d'animaux ou de végétaux en violation des dispositions de l'article L. 412-1 ou des règlements pris pour son application ;
@@ -19664,7 +19987,8 @@ d'animaux ou de végétaux en violation des dispositions de l'article L. 412-1 o
 domestiques, soit d'un établissement destiné à la présentation au public de spécimens vivants de la faune, sans être
 titulaire du certificat de capacité prévu à l'article L. 413-2 ;
 
-5° Le fait d'ouvrir un tel établissement sans l'autorisation prévue à l'article L. 413-3.
+5° Le fait d'ouvrir ou d'exploiter un tel établissement en violation des dispositions de l'article L. 413-3 ou des règlements
+pris pour son application.
 
 **Liens relatifs à cet article**
 
@@ -19675,7 +19999,8 @@ titulaire du certificat de capacité prévu à l'article L. 413-2 ;
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 130 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 158 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -19781,8 +20106,10 @@ caractère environnemental, culturel, social et économique, participe à cette 
 gibier, les milieux et les activités humaines en assurant un véritable équilibre agro-sylvo-cynégétique.
 
 Le principe de prélèvement raisonnable sur les ressources naturelles renouvelables s'impose aux activités d'usage et
-d'exploitation de ces ressources. En contrepartie de prélèvements raisonnés sur les espèces dont la chasse est autorisée, les
-chasseurs doivent contribuer à la gestion équilibrée des écosystèmes.
+d'exploitation de ces ressources. Par leurs actions de gestion et de régulation des espèces dont la chasse est autorisée
+ainsi que par leurs réalisations en faveur des biotopes, les chasseurs contribuent à la gestion équilibrée des écosystèmes.
+Ils participent de ce fait au développement des activités économiques et écologiques dans les milieux naturels, notamment
+dans les territoires à caractère rural.
 
 **Liens relatifs à cet article**
 
@@ -19793,7 +20120,7 @@ chasseurs doivent contribuer à la gestion équilibrée des écosystèmes.
 
 	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 2 () JORF 31 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 149 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -19830,8 +20157,11 @@ Constitue un acte de chasse tout acte volontaire lié à la recherche, à la pou
 ou pour résultat la capture ou la mort de celui-ci.
 
 L'acte préparatoire à la chasse antérieur à la recherche effective du gibier, y compris lorsqu'il consiste en un repérage non
-armé du passage du gibier, et l'acte de recherche du gibier accompli par un auxiliaire de la chasse ne constituent pas des
-actes de chasse. Achever un animal mortellement blessé ou aux abois ne constitue pas un acte de chasse, de même que la curée.
+armé du gibier sur le territoire où s'exerce le droit de chasse, et l'acte de recherche du gibier accompli par un auxiliaire
+de la chasse ne constituent pas des actes de chasse. Achever un animal mortellement blessé ou aux abois ne constitue pas un
+acte de chasse, de même que la curée ou l'entraînement des chiens courants sans capture de gibier sur les territoires où
+s'exerce le droit de chasse de leur propriétaire durant les périodes d'ouverture de la chasse fixées par l'autorité
+administrative.
 
 Ne constitue pas non plus un acte de chasse le fait, pour un conducteur de chien de sang, de procéder à la recherche d'un
 animal blessé ou de contrôler le résultat d'un tir sur un animal.
@@ -19839,21 +20169,29 @@ animal blessé ou de contrôler le résultat d'un tir sur un animal.
 Les entraînements, concours et épreuves de chiens de chasse ou d'oiseaux de fauconnerie, autorisés par l'autorité
 administrative, ne constituent pas des actes de chasse.
 
+N'est pas considéré comme une infraction le fait, à la fin de l'action de chasse, de récupérer sur autrui ses chiens perdus.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L220-3
-	  - Code rural - art. L220-3 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 150 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 151 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 154 () JORF 24 février 2005
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R428-12-1 (V)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L220-3 (Ab)
+	  - Code rural L220-3
 
 
 ###### Article L420-4
@@ -19894,13 +20232,16 @@ Les dispositions du présent titre ne sont pas applicables dans le département 
 I. - L'Office national de la chasse et de la faune sauvage est un établissement public de l'Etat à caractère administratif
 placé sous la double tutelle des ministres chargés de la chasse et de l'agriculture. Il a pour mission de réaliser des
 études, des recherches et des expérimentations concernant la conservation, la restauration et la gestion de la faune sauvage
-et ses habitats et la mise en valeur de celle-ci par la chasse. Dans ces domaines, il délivre des formations. Il participe à
-la mise en valeur et la surveillance de la faune sauvage ainsi qu'au respect de la réglementation relative à la police de la
-chasse.
+et ses habitats et la mise en valeur de celle-ci par le développement durable de la chasse ainsi que la mise au point et la
+diffusion de systèmes et pratiques de gestion appropriée des territoires ruraux. Dans ces domaines, il délivre des
+formations. Il participe à la mise en valeur et la surveillance de la faune sauvage ainsi qu'au respect de la réglementation
+relative à la police de la chasse. Ses agents chargés de missions de police en département apportent leur concours au préfet
+en matière d'ordre public et de police administrative, dans leur domaine de compétence.
 
 Il apporte à l'Etat son concours pour l'évaluation de l'état de la faune sauvage ainsi que le suivi de sa gestion, et sa
-capacité d'expertise et son appui technique pour l'élaboration des orientations régionales visées au I de l'article L. 421-7
-ainsi que l'évaluation des documents de gestion de la faune sauvage et de l'amélioration de la qualité de ses habitats.
+capacité d'expertise et son appui technique pour l'évaluation des documents de gestion de la faune sauvage et de
+l'amélioration de la qualité de ses habitats. Il apporte également son concours à l'Etat pour l'élaboration des orientations
+régionales de gestion et de conservation de la faune sauvage et de ses habitats mentionnées à l'article L. 414-8.
 
 Il est chargé pour le compte de l'Etat de l'organisation matérielle de l'examen du permis de chasser.
 
@@ -19908,24 +20249,27 @@ L'Office national de la chasse et de la faune sauvage peut collaborer avec la F�
 fédérations départementales des chasseurs sur des questions relatives à leurs domaines d'action respectifs. Les activités
 entreprises conjointement donnent lieu à l'établissement de conventions spécifiques.
 
-II. - Le conseil d'administration de l'Office national de la chasse et de la faune sauvage est composé à hauteur de trois
-cinquièmes de représentants de l'Etat et de personnalités appartenant aux milieux cynégétiques, notamment aux associations
-spécialisées de chasse désignées par elles, chacune de ces deux catégories disposant d'un nombre égal de sièges. Il comprend
-également des représentants d'usagers, des organisations agricoles et forestières et des gestionnaires des espaces naturels,
-notamment des parcs nationaux et des parcs naturels régionaux, des personnalités qualifiées dans le domaine de la faune
-sauvage et de la protection de la nature et deux représentants des personnels de l'établissement élus par ces derniers.
+II. Le conseil d'administration de l'Office national de la chasse et de la faune sauvage est composé de vingt-deux membres
+dont la moitié sont des représentants issus des milieux cynégétiques. Il comporte des représentants des fédérations des
+chasseurs, des représentants des associations les plus représentatives de chasse spécialisée nommés à partir d'une liste
+établie par la Fédération nationale des chasseurs, des représentants de l'Etat, de ses établissements publics gestionnaires
+d'espaces naturels et forestiers, d'organisations professionnelles agricoles et forestières, d'organismes de protection de la
+nature, des personnels de l'établissement et des personnes qualifiées dans le domaine de la chasse et de la faune sauvage.
 
 Le conseil scientifique de l'Office national de la chasse et de la faune sauvage, placé auprès du directeur général, donne
 son avis au directeur général sur la politique de l'établissement en matière de recherche scientifique et technique. Il
 évalue les travaux scientifiques des chercheurs de l'établissement. Il participe à l'évaluation de l'état de la faune sauvage
 et assure le suivi de la gestion de celle-ci.
 
-Les services de l'établissement sont dirigés par un directeur général nommé par décret pris sur le rapport du ministre chargé
-de la chasse.
+Les services de l'établissement sont dirigés par un directeur général nommé par décret sur proposition des ministres chargés
+de la chasse et de l'agriculture.
 
 III. - Les ressources de l'établissement sont constituées par les produits des redevances cynégétiques, par des subventions
-de l'Etat ou des autres personnes publiques, par les redevances pour services rendus, par les produits des emprunts, par les
-dons et legs et par le produit des ventes qu'il effectue dans le cadre de ses missions.
+et contributions de l'Etat et d'autres personnes publiques aux missions régaliennes et d'intérêt patrimonial qu'il accomplit,
+par les redevances pour services rendus, par les produits des emprunts, par les dons et legs et par le produit des ventes
+qu'il effectue dans le cadre de ses missions. Un arrêté fixe les règles de présentation du budget et de la comptabilité de
+l'établissement distinguant, en ressources et en charges, les missions régaliennes et d'intérêt patrimonial des missions
+cynégétiques.
 
 **Liens relatifs à cet article**
 
@@ -19936,7 +20280,11 @@ dons et legs et par le produit des ventes qu'il effectue dans le cadre de ses mi
 
 	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 3 () JORF 31 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 152 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 159 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 160 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 161 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 162 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -19955,27 +20303,6 @@ dons et legs et par le produit des ventes qu'il effectue dans le cadre de ses mi
 
 
 ##### Sous-section 2 : Administration générale
-
-###### Article L421-2
-
-Les gardes de l'Office national de la chasse et de la faune sauvage sont soumis à un statut national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L221-11
-	  - Code rural - art. L221-11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 163 () JORF 24 février 2005
-
 
 ###### Article L421-3
 
@@ -20039,18 +20366,20 @@ cynégétique départemental, à la protection et à la gestion de la faune sauv
 promotion et la défense de la chasse ainsi que des intérêts de leurs adhérents.
 
 Elles apportent leur concours à la prévention du braconnage. Elles conduisent des actions d'information, d'éducation et
-d'appui technique à l'intention des gestionnaires des territoires et des chasseurs. Elles coordonnent les actions des
-associations communales et intercommunales de chasse agréées.
+d'appui technique à l'intention des gestionnaires des territoires et des chasseurs et, le cas échéant, des gardes-chasse
+particuliers.
+
+Elles coordonnent les actions des associations communales et intercommunales de chasse agréées.
 
 Elles conduisent des actions de prévention des dégâts de gibier et assurent l'indemnisation des dégâts de grand gibier dans
 les conditions prévues par les articles L. 426-1 et L. 426-5.
 
 Elles élaborent, en association avec les propriétaires, les gestionnaires et les usagers des territoires concernés, un schéma
-départemental de gestion cynégétique, conformément aux dispositions de l'article L. 421-7.
-
-Les associations de chasse spécialisée sont associées aux travaux des fédérations.
+départemental de gestion cynégétique, conformément aux dispositions de l'article L. 425-1.
 
 Elles peuvent apporter leur concours à la validation du permis de chasser.
+
+Les associations de chasse spécialisée sont associées aux travaux des fédérations.
 
 Les fédérations peuvent recruter, pour l'exercice de leurs missions, des agents de développement mandatés à cet effet. Ceux-
 ci veillent notamment au respect du schéma départemental de gestion cynégétique. Dans des conditions fixées par décret en
@@ -20065,12 +20394,12 @@ Conseil d'Etat, leurs constats font foi jusqu'à preuve contraire.
 
 	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 6 () JORF 31 juillet 2003
-	  - Ordonnance n°2003-719 du 1 août 2003 - art. 1 () JORF 3 août 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 177 () JORF 24 février 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L421-7 (M)
+	  - Code de l'environnement - art. L425-1 (M)
 	  - Code de l'environnement - art. L426-1 (M)
 	  - Code de l'environnement - art. L426-5 (M)
 
@@ -20116,72 +20445,6 @@ la fédération départementale ou interdépartementale concernée.
 	**Anciens textes**:
 
 	  - Code rural - art. L221-2-1 (Ab)
-
-
-###### Article L421-7
-
-I. - Conformément aux orientations régionales de gestion de la faune sauvage et d'amélioration de la qualité de ses habitats
-arrêtées par le préfet de région, ou, lorsque la région a demandé à exercer cette compétence, par le président du conseil
-régional, il est mis en place dans chaque département un schéma départemental de gestion cynégétique. Ce schéma est établi
-pour une période de cinq ans renouvelable. Il est élaboré par la fédération départementale des chasseurs en prenant en compte
-le document départemental de gestion de l'espace agricole et forestier mentionné à l'article L. 112-1 du code rural, et
-approuvé, après avis du conseil départemental de la chasse et de la faune sauvage, par le préfet, qui vérifie notamment sa
-conformité aux principes énoncés à l'article L. 420-1. Il peut être complété par des schémas locaux élaborés et approuvés
-selon la même procédure. Ces schémas sont mis en oeuvre sous la responsabilité du préfet et encadrent les actions de la
-fédération départementale des chasseurs.
-
-II. - Le schéma départemental de gestion cynégétique comprend notamment :
-
-1° Les plans de chasse et les plans de gestion ;
-
-2° Les mesures relatives à la sécurité des chasseurs et des non-chasseurs ;
-
-3° Les actions en vue d'améliorer la pratique de la chasse telles que la conception et la réalisation des plans de gestion
-approuvés, la fixation des prélèvements maximum autorisés, la régulation des animaux prédateurs et déprédateurs, les lâchers
-de gibier, la recherche au sang du grand gibier et les prescriptions relatives à l'agrainage ;
-
-4° Les actions menées en vue de préserver ou de restaurer les habitats naturels de la faune sauvage.
-
-III. - Pour assurer une meilleure coordination des actions des chasseurs, les bénéficiaires de plans de chasse et de plans de
-gestion sont adhérents à la fédération départementale des chasseurs.
-
-IV. - Le schéma départemental de gestion cynégétique est opposable aux chasseurs et aux sociétés, groupements et associations
-de chasse du département.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 27 juin 2001 - art. ANNEXE (V)
-	  - Code de l'environnement - art. L421-1 (V)
-	  - Code de l'environnement - art. L421-13 (M)
-	  - Code de l'environnement - art. L421-5 (M)
-	  - Code de l'environnement - art. L422-14 (M)
-	  - Code de l'environnement - art. L654-3 (M)
-	  - Code de l'environnement - art. R*211-20 (Ab)
-
-	**Cite**:
-
-	  - Code rural L112-1
-	  - Code de l'environnement - art. L420-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 10 () JORF 31 juillet 2003
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 9 () JORF 31 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
-
-	**Anciens textes**:
-
-	  - Code rural - art. L221-2-2 (Ab)
 
 
 ###### Article L421-8
@@ -20438,11 +20701,11 @@ chargé de la chasse, sur proposition du conseil d'administration.
 Les associations dénommées fédérations régionales des chasseurs regroupent l'ensemble des fédérations départementales et
 interdépartementales d'une même région administrative du territoire métropolitain dont l'adhésion est constatée par le
 paiement d'une cotisation obligatoire. Elles assurent la représentation des fédérations départementales et
-interdépartementales des chasseurs au niveau régional.
+interdépartementales des chasseurs au niveau régional. Elles conduisent et coordonnent des actions en faveur de la faune
+sauvage et de ses habitats.
 
-Elles sont consultées par le préfet de région ou, le cas échéant, par le président du conseil régional pour l'élaboration des
-orientations régionales de gestion de la faune sauvage et d'amélioration de la qualité des habitats visées à l'article L.
-421-7.
+Elles sont associées par l'autorité compétente à l'élaboration des orientations régionales de gestion et de conservation de
+la faune sauvage et de ses habitats mentionnées à l'article L. 414-8.
 
 Les associations de chasse spécialisée sont associées aux travaux de la fédération régionale.
 
@@ -20458,14 +20721,14 @@ aux fédérations régionales des chasseurs.
 
 	**Modifié par**:
 
-	  - Loi n°2003-698 2003-07-30 art. 10 2°, art. 18 JORF 31 juillet 2003
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 18 () JORF 31 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 153 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 159 () JORF 24 février 2005
 
 	**Cite**:
 
+	  - Code de l'environnement - art. L414-8 (V)
 	  - Code de l'environnement - art. L421-10 (M)
 	  - Code de l'environnement - art. L421-11 (M)
-	  - Code de l'environnement - art. L421-7 (M)
 	  - Code de l'environnement - art. L421-9 (M)
 
 	**Cité par**:
@@ -20703,8 +20966,8 @@ Nul n'a la faculté de chasser sur la propriété d'autrui sans le consentement 
 Les associations communales et intercommunales de chasse agréées ont pour but d'assurer une bonne organisation technique de
 la chasse. Elles favorisent sur leur territoire le développement du gibier et de la faune sauvage dans le respect d'un
 véritable équilibre agro-sylvo-cynégétique, l'éducation cynégétique de leurs membres, la régulation des animaux nuisibles et
-veillent au respect des plans de chasse. Elles ont également pour objet d'apporter la contribution des chasseurs à la
-conservation des habitats naturels, de la faune et de la flore sauvages.
+veillent au respect des plans de chasse en y affectant les ressources appropriées. Elles ont également pour objet d'apporter
+la contribution des chasseurs à la conservation des habitats naturels, de la faune et de la flore sauvages.
 
 Leur activité s'exerce dans le respect des propriétés, des cultures et des récoltes, et est coordonnée par la fédération
 départementale des chasseurs. Les associations communales et intercommunales de chasse agréées collaborent avec l'ensemble
@@ -20716,6 +20979,10 @@ des partenaires du monde rural.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 169 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -21184,7 +21451,7 @@ des terrains appartenant aux propriétaires ou copropriétaires en cause.
 Cette opposition vaut renonciation à l'exercice du droit de chasse sur ces terrains. Elle ne fait pas obstacle à
 l'application de l'article L. 415-7 du code rural. Dans ce cas, le droit de chasser du preneur subit les mêmes restrictions
 que celles ressortissant des usages locaux qui s'appliquent sur les territoires de chasse voisins et celles résultant du
-schéma départemental de gestion cynégétique visé à l'article L. 421-7.
+schéma départemental de gestion cynégétique visé à la section 1 du chapitre V du titre II du livre IV.
 
 **Liens relatifs à cet article**
 
@@ -21193,9 +21460,12 @@ schéma départemental de gestion cynégétique visé à l'article L. 421-7.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L421-7 (M)
 	  - Code de l'environnement - art. L422-10 (V)
 	  - Code rural L415-7
 
@@ -21575,9 +21845,28 @@ Un décret en Conseil d'Etat fixe les modalités d'application de la présente s
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Réserves de chasse
+##### Section 2 : Réserves de chasse et de faune sauvage
 
 ###### Article L422-27
+
+Les réserves de chasse et de faune sauvage ont vocation à :
+
+- protéger les populations d'oiseaux migrateurs conformément aux engagements internationaux ;
+
+- assurer la protection des milieux naturels indispensables à la sauvegarde d'espèces menacées ;
+
+- favoriser la mise au point d'outils de gestion des espèces de faune sauvage et de leurs habitats ;
+
+- contribuer au développement durable de la chasse au sein des territoires ruraux.
+
+Elles sont créées par l'autorité administrative à l'initiative du détenteur du droit de chasse ou de la fédération
+départementale ou interdépartementale des chasseurs lorsqu'il s'agit de conforter des actions d'intérêt général.
+
+Les réserves nationales de chasse et de faune sauvage sont organisées en un réseau national sous la responsabilité de
+l'Office national de la chasse et de la faune sauvage et de la Fédération nationale des chasseurs.
+
+Les autres réserves peuvent être organisées en réseaux départementaux dont la coordination est assurée par les fédérations
+départementales ou interdépartementales des chasseurs.
 
 Un décret en Conseil d'Etat fixe les conditions d'institution et de fonctionnement des réserves de chasse. Il détermine
 notamment les conditions dans lesquelles sont prises les mesures propres à prévenir les dommages aux activités humaines, à
@@ -21592,10 +21881,6 @@ l'Assemblée corse.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -21619,6 +21904,10 @@ l'Assemblée corse.
 	  - Code forestier (nouveau) - art. R213-47 (M)
 	  - Code forestier (nouveau) - art. R213-49 (V)
 	  - Code forestier (nouveau) - art. R213-50 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 164 () JORF 24 février 2005
 
 	**Anciens textes**:
 
@@ -21703,12 +21992,21 @@ décret en Conseil d'Etat. "
 
 Nul ne peut pratiquer la chasse s'il n'est titulaire et porteur d'un permis de chasser valable.
 
+Le caractère valable du permis de chasser résulte, d'une part, du paiement des redevances cynégétiques et du droit de timbre
+mentionnés à l'article L. 423-12 et, d'autre part, du paiement des cotisations prévues à l'article L. 423-13 ainsi que des
+participations prévues à l'article L. 426-5 et de la cotisation nationale instituée à l'article L. 421-14 lorsqu'il s'agit de
+la chasse du grand gibier.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 165 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -21718,6 +22016,13 @@ Nul ne peut pratiquer la chasse s'il n'est titulaire et porteur d'un permis de c
 	  - Code de l'environnement - art. R423-19 (V)
 	  - Code de l'environnement - art. R428-3 (V)
 	  - Code de l'environnement - art. R428-4 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L421-14 (M)
+	  - Code de l'environnement - art. L423-12 (M)
+	  - Code de l'environnement - art. L423-13 (V)
+	  - Code de l'environnement - art. L426-5 (M)
 
 	**Anciens textes**:
 
@@ -21732,15 +22037,19 @@ sous la responsabilité civile d'un accompagnateur titulaire depuis au moins cin
 été privé du droit d'obtenir ou de détenir un permis de chasser par décision de justice. Pour la chasse à tir, la personne
 autorisée et l'accompagnateur ne peuvent disposer, sur le lieu de chasse, que d'une arme pour deux.
 
-L'autorisation de chasser est délivrée gratuitement pour une période d'un an par l'autorité administrative aux personnes
-ayant satisfait à un examen théorique. Elle ne peut être délivrée qu'une fois. Elle ne peut être délivrée aux mineurs de
-quinze ans et aux majeurs. Elle ne peut en outre être délivrée aux personnes auxquelles le permis de chasser ne peut être
-délivré conformément à l'article L. 423-24, ainsi qu'aux personnes auxquelles la délivrance du permis de chasser peut être
-refusée conformément à l'article L. 423-25.
+A l'exclusion des personnes visées par l'article L. 423-25, l'autorisation de chasser est délivrée par l'autorité
+administrative, gratuitement, pour un an et une fois par personne, aux mineurs de plus de quinze ans et aux majeurs, ayant
+bénéficié d'une formation pratique élémentaire délivrée par la fédération départementale ou interdépartementale des
+chasseurs, avec le concours de l'Office national de la chasse et de la faune sauvage.
 
 Les articles L. 424-4 et L. 424-5 sont applicables aux titulaires de l'autorisation de chasser.
 
 Un décret en Conseil d'Etat précise les conditions de délivrance de l'autorisation de chasser.
+
+**Nota:**
+
+La modification induite par le VIII de l'article 166 de la loi n° 2005-157 étant incompatible avec celle du II de l'article
+165, elle n'a pû être effectuée.
 
 **Liens relatifs à cet article**
 
@@ -21748,6 +22057,11 @@ Un décret en Conseil d'Etat précise les conditions de délivrance de l'autoris
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 165 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -21766,10 +22080,10 @@ Un décret en Conseil d'Etat précise les conditions de délivrance de l'autoris
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L423-24 (Ab)
 	  - Code de l'environnement - art. L423-25 (V)
 	  - Code de l'environnement - art. L424-4 (M)
 	  - Code de l'environnement - art. L424-5 (M)
+	  - Code de l'environnement L423-25, L424-4, L424-5, 165
 
 	**Liens**:
 
@@ -21813,15 +22127,21 @@ dans les conditions fixées par le présent chapitre.
 
 ###### Article L423-4
 
-Il est constitué un ficher national des permis délivrés, des validations, des licences de chasse et des autorisations de
-chasser géré par l'Office national de la chasse et de la faune sauvage. Les fédérations départementales et
-interdépartementales des chasseurs transmettent chaque année au gestionnaire du fichier la liste de leurs adhérents
-titulaires du permis de chasser. L'autorité judiciaire informe l'Office national de la chasse et de la faune sauvage ainsi
-que la fédération départementale des chasseurs dont le chasseur est adhérent des peines prononcées en application des
-articles L. 428-14 et L. 428-15, ainsi que des retraits du permis de chasser prononcés en application des articles 131-14 et
-131-16 du code pénal.
+I.-Il est constitué un fichier central à caractère national des permis délivrés, des validations et des autorisations de
+chasser dont la gestion est confiée à la Fédération nationale des chasseurs sous le contrôle de l'Office national de la
+chasse et de la faune sauvage. 
 
-Un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés précise les
+Les fédérations départementales et interdépartementales des chasseurs transmettent chaque année au gestionnaire du fichier la
+liste de leurs adhérents titulaires du permis de chasser, d'une validation et d'une autorisation de chasser. 
+
+L'autorité judiciaire informe l'Office national de la chasse et de la faune sauvage et renseigne le fichier central visé au
+premier alinéa sur les peines prononcées en application des articles L. 428-14 et L. 428-15 du présent code ainsi que des
+retraits du permis de chasser prononcés en vertu des articles 131-14 et 131-16 du code pénal. L'autorité administrative
+informe l'Office national de la chasse et de la faune sauvage et renseigne le fichier central sur les inscriptions au fichier
+national automatisé des personnes interdites d'acquisition et de détention d'armes prévu à l'article L. 2336-6 du code de la
+défense. 
+
+II.-Un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés précise les
 modalités d'application du présent article.
 
 **Liens relatifs à cet article**
@@ -21835,21 +22155,21 @@ modalités d'application du présent article.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Modifié par**:
-
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 25 () JORF 31 juillet 2003
-
 	**Cité par**:
 
 	  - Arrêté du 4 décembre 2003 - art. Annexe (V)
 	  - Code de l'environnement - art. L421-14 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
+
 	**Cite**:
 
-	  - Code pénal - art. 131-14 (M)
-	  - Code pénal - art. 131-16 (M)
+	  - Code pénal - art. 131-14 (V)
+	  - Code pénal - art. 131-16 (V)
+	  - Code de la défense. - art. L2336-6 (T)
 	  - Code de l'environnement - art. L428-14 (V)
-	  - Code de l'environnement - art. L428-15 (M)
 
 
 ##### Section 1 : Examen pour la délivrance du permis de chasser
@@ -21859,7 +22179,9 @@ modalités d'application du présent article.
 La délivrance du permis de chasser est subordonnée à l'admission à un examen. Cet examen porte notamment sur la connaissance
 de la faune sauvage, sur la réglementation de la chasse ainsi que sur les règles de sécurité qui doivent être respectées lors
 du maniement des armes dont la maîtrise sera évaluée à l'occasion d'une épreuve pratique. Il comporte des procédures
-éliminatoires et est organisé par l'Etat avec le concours de l'Office national de la chasse et de la faune sauvage.
+éliminatoires et est organisé, pour le compte de l'Etat, par l'Office national de la chasse et de la faune sauvage avec le
+concours des fédérations départementales et interdépartementales des chasseurs dans des conditions définies par voie
+réglementaire.
 
 L'autorité administrative saisie d'un recours concernant la délivrance du permis de chasser consulte avant de statuer sur
 celui-ci un jury composé pour moitié de représentants de l'Etat et pour moitié de représentants de la fédération
@@ -21874,6 +22196,10 @@ par l'administration des affaires maritimes sont dispensées de l'examen.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -21897,8 +22223,12 @@ par l'administration des affaires maritimes sont dispensées de l'examen.
 
 ###### Article L423-6
 
-Pour l'inscription à l'examen du permis de chasser, il est perçu un droit d'examen dont le montant est fixé, dans la limite
-de 16 euros, par arrêté du ministre chargé de la chasse et du ministre chargé du budget.
+Pour l'inscription à l'examen du permis de chasser, le candidat doit présenter à l'Office national de la chasse et de la
+faune sauvage un certificat médical attestant que son état de santé physique et psychique est compatible avec la détention
+d'une arme.
+
+Il est également perçu un droit d'examen dont le montant est fixé dans la limite de 16 euros, par arrêté du ministre chargé
+de la chasse et du ministre chargé du budget.
 
 Le produit de ces droits est reversé à l'Office national de la chasse et de la faune sauvage pour être affecté à
 l'organisation matérielle de l'examen.
@@ -21912,7 +22242,7 @@ l'organisation matérielle de l'examen.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -22044,16 +22374,33 @@ Les personnes dispensées de l'examen sont également dispensées du droit de ti
 
 ###### Article L423-11
 
+Ne peuvent obtenir la délivrance d'un permis de chasser :
+
+1° Les personnes âgées de moins de seize ans ;
+
+2° Les majeurs en tutelle, à moins qu'ils ne soient autorisés à chasser par le juge des tutelles ;
+
+3° Ceux qui, par suite d'une condamnation, sont privés du droit de port d'armes ;
+
+4° Ceux qui n'ont pas exécuté les condamnations prononcées contre eux pour l'une des infractions prévues par le présent
+titre ;
+
+5° Tout condamné en état d'interdiction de séjour ;
+
+6° Ceux qui n'ont pu produire le certificat médical prévu à l'article L. 423-6 ;
+
+7° Les personnes ayant formé l'opposition prévue au 5° de l'article L. 422-10 ;
+
+8° Les personnes privées, en application de l'article L. 428-14, du droit de conserver ou d'obtenir un permis de chasser ;
+
+9° Ceux qui sont inscrits au fichier national automatisé nominatif des personnes interdites d'acquisition et de détention
+d'armes visé à l'article L. 2336-6 du code de la défense.
+
 Sous les peines encourues pour le délit prévu par l'article 441-6 du code pénal, toute personne demandant la délivrance d'un
-permis de chasser doit déclarer qu'elle ne tombe pas sous le coup des articles L. 423-23 (3°), L. 423-24, L. 428-14 du
-présent code ; s'il y a lieu elle doit en outre, sous les mêmes peines, faire connaître celles des dispositions de l'article
-L. 423-25 qui peuvent lui être opposées.
+permis de chasser doit déclarer qu'elle n'est pas dans l'un des cas d'incapacité ou d'interdiction prévus ci-dessus.
 
-Le permis de chasser délivré sur une fausse déclaration est nul de plein droit.
-
-Il peut, le cas échéant, être fait application des peines prévues contre ceux qui ont chassé sans permis valable.
-
-Un décret en Conseil d'Etat détermine les modalités d'application des alinéas ci-dessus.
+Le permis de chasser délivré sur une fausse déclaration est nul de plein droit. Dans ce cas, il doit être remis au préfet à
+sa demande. Il peut être fait application des peines prévues contre ceux qui ont chassé sans permis valable.
 
 **Liens relatifs à cet article**
 
@@ -22076,17 +22423,16 @@ Un décret en Conseil d'Etat détermine les modalités d'application des alinéa
 	  - Code de l'environnement - art. R423-9 (VD)
 	  - Code rural - art. R223-31-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code pénal - art. 441-6 (M)
-	  - Code de l'environnement - art. L423-23 (Ab)
-	  - Code de l'environnement - art. L423-24 (Ab)
-	  - Code de l'environnement - art. L423-25 (V)
+	  - Code de l'environnement - art. L422-10 (V)
+	  - Code de l'environnement - art. L423-6 (M)
 	  - Code de l'environnement - art. L428-14 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L423-15 (M)
 
 	**Anciens textes**:
 
@@ -22100,7 +22446,7 @@ Un décret en Conseil d'Etat détermine les modalités d'application des alinéa
 
 Le paiement de l'une des redevances cynégétiques prévues par la sous-section 3 et du droit de timbre mentionné à l'article
 964 du code général des impôts vaut validation du permis de chasser sous réserve que le titulaire de celui-ci satisfasse aux
-conditions définies par les articles L. 423-13, L. 423-16, L. 423-23 et L. 423-24.
+conditions définies par les articles L. 423-13, L. 423-15 et L. 423-16.
 
 **Liens relatifs à cet article**
 
@@ -22108,8 +22454,8 @@ conditions définies par les articles L. 423-13, L. 423-16, L. 423-23 et L. 423-
 
 	  - CGI 964
 	  - Code de l'environnement - art. L423-13 (V)
+	  - Code de l'environnement - art. L423-15 (M)
 	  - Code de l'environnement - art. L423-16 (M)
-	  - Code de l'environnement - art. L423-24 (Ab)
 
 	**Codifié par**:
 
@@ -22118,7 +22464,7 @@ conditions définies par les articles L. 423-13, L. 423-16, L. 423-23 et L. 423-
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-719 du 1 août 2003 - art. 2 () JORF 5 août 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -22162,7 +22508,39 @@ du permis de chasser.
 
 ###### Article L423-15
 
-Les dispositions de l'article L. 423-11 s'appliquent à la validation du permis de chasser.
+Ne peuvent obtenir la validation de leur permis de chasser : 
+
+1° Les mineurs non émancipés âgés de plus de seize ans, à moins que la validation ne soit demandée pour eux par leur père,
+mère ou tuteur ; 
+
+2° Les majeurs en tutelle, à moins qu'ils ne soient autorisés à chasser par le juge des tutelles ; 
+
+3° Ceux qui, par suite d'une condamnation, sont privés du droit de port d'armes ; 
+
+4° Ceux qui n'ont pas exécuté les condamnations prononcées contre eux pour l'une des infractions prévues par le présent
+titre ; 
+
+5° Tout condamné en état d'interdiction de séjour ; 
+
+6° Les personnes atteintes d'une affection médicale ou d'une infirmité, dont la liste est fixée par décret en Conseil d'Etat,
+rendant dangereuse la pratique de la chasse ; 
+
+7° Les personnes ayant formé l'opposition prévue au 5° de l'article L. 422-10 ; 
+
+8° Les personnes privées, en application de l'article L. 428-14, du droit de conserver ou d'obtenir un permis de chasser, ou
+dont le permis est suspendu en application de l'article L. 428-15 ; 
+
+9° Ceux qui sont inscrits au fichier national automatisé nominatif des personnes interdites d'acquisition et de détention
+d'armes visé à l'article L. 2336-6 du code de la défense. 
+
+Sous les peines encourues pour le délit prévu par l'article 441-6 du code pénal, toute personne demandant la validation d'un
+permis de chasser doit déclarer qu'elle n'est pas dans l'un des cas d'incapacité ou d'interdiction prévus ci-dessus. 
+
+En cas de fausse déclaration, la validation du permis de chasser est nulle de plein droit. Dans ce cas, le document de
+validation doit être, à sa demande, remis au préfet. Il peut être fait application des peines prévues contre ceux qui ont
+chassé sans permis valable. 
+
+En cas de doute sur la déclaration relative aux affections mentionnées au 6°, le préfet peut demander un certificat médical.
 
 **Liens relatifs à cet article**
 
@@ -22171,13 +22549,21 @@ Les dispositions de l'article L. 423-11 s'appliquent à la validation du permis 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L423-11 (M)
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L423-11 (M)
+	  - Code pénal - art. 441-6 (V)
+	  - Code de la défense. - art. L2336-6 (T)
+	  - Code de l'environnement - art. L422-10 (V)
+	  - Code de l'environnement - art. L428-14 (V)
+	  - Code de l'environnement - art. L428-15 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'environnement - art. L423-11 (M)
 
 	**Cité par**:
 
@@ -22320,8 +22706,15 @@ correspondante.
 
 ###### Article L423-20
 
-Le permis de chasser peut également être validé pour une durée de neuf jours consécutifs. Cette validation donne lieu au
-paiement d'une redevance cynégétique temporaire et ne peut être obtenue qu'une seule fois par an.
+Le permis de chasser peut être validé pour une durée de neuf jours consécutifs. Cette validation est subordonnée au paiement
+d'une redevance cynégétique et d'une cotisation fédérale temporaires. Elle ne peut être obtenue qu'une seule fois par
+campagne cynégétique.
+
+Le permis de chasser peut également être validé pour une durée de trois jours consécutifs. Cette validation peut être
+renouvelée deux fois au cours d'une même campagne cynégétique. Elle donne lieu, chaque fois, au paiement d'une redevance
+cynégétique et d'une cotisation fédérale temporaires.
+
+Ces deux modalités de validation temporaire ne sont pas cumulables.
 
 **Liens relatifs à cet article**
 
@@ -22335,6 +22728,10 @@ paiement d'une redevance cynégétique temporaire et ne peut être obtenue qu'un
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R423-19 (V)
@@ -22342,8 +22739,9 @@ paiement d'une redevance cynégétique temporaire et ne peut être obtenue qu'un
 
 ###### Article L423-21
 
-Les étrangers non ressortissants d'un Etat membre de la Communauté européenne et non résidents, titulaires du permis de
-chasser, ne peuvent valider leur permis qu'en payant la redevance cynégétique nationale.
+L'exercice de la chasse en France par des non-résidents, français ou étrangers, détenteurs de permis de chasser délivrés à
+l'étranger ou de toute autre pièce administrative en tenant lieu, est subordonné à la validation de ces documents dans les
+conditions applicables aux permis de chasser délivrés en France.
 
 **Liens relatifs à cet article**
 
@@ -22363,6 +22761,10 @@ chasser, ne peuvent valider leur permis qu'en payant la redevance cynégétique 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
 
 
 ###### Article L423-21-1
@@ -22410,142 +22812,7 @@ cynégétique "gibier d'eau", instituée par l'article R. 223-26 du code rural, 
 	  - Code rural - art. R*223-13 (Ab)
 
 
-##### Sous-section 5 : Licences
-
-###### Article L423-22
-
-Les Français résidant à l'étranger et les étrangers non-résidents sont autorisés à chasser sous réserve d'être titulaires et
-porteurs d'une licence de chasse délivrée pour une durée de neuf jours consécutifs et pouvant être renouvelée trois fois dans
-une année par l'autorité administrative sur présentation de l'attestation d'assurance mentionnée à l'article L. 423-16 et du
-permis de chasser délivré en France ou dans leur pays de résidence, ou de toute autre pièce administrative en tenant lieu.
-
-La délivrance de cette licence de chasse donne lieu au versement de la redevance cynégétique départementale ou nationale
-temporaire et d'une cotisation fédérale temporaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L423-16 (M)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L423-27 (M)
-	  - Code de l'environnement - art. L654-1 (M)
-	  - Code de l'environnement - art. R*223-30 (Ab)
-	  - Code rural - art. R*223-30 (Ab)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L223-18 (Ab)
-	  - Code rural L223-18
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
-
-
 ##### Sous-section 6 : Refus et exclusions
-
-###### Article L423-23
-
-La validation du permis de chasser n'est pas accordée :
-
-1° Aux mineurs de seize ans ;
-
-2° Aux mineurs non émancipés âgés de plus de seize ans, à moins que la validation ne soit demandée pour eux par leur père,
-mère ou tuteur ;
-
-3° Aux majeurs en tutelle, à moins qu'ils ne soient autorisés à chasser par le juge des tutelles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L423-1-1 (V)
-	  - Code de l'environnement - art. L423-11 (M)
-	  - Code de l'environnement - art. L423-12 (M)
-	  - Code de l'environnement - art. R*223-10 (Ab)
-	  - Code de l'environnement - art. R*223-12 (Ab)
-	  - Code de l'environnement - art. R*223-31-1 (Ab)
-	  - Code de l'environnement - art. R423-12 (M)
-	  - Code de l'environnement - art. R423-24 (M)
-	  - Code rural - art. R*223-12 (Ab)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L223-19 (Ab)
-	  - Code rural L223-19
-
-
-###### Article L423-24
-
-Le permis de chasser n'est pas délivré et la validation du permis n'est pas accordée :
-
-1° A ceux qui, par suite d'une condamnation, sont privés du droit de port d'armes ;
-
-2° A ceux qui n'ont pas exécuté les condamnations prononcées contre eux pour l'une des infractions prévues par le présent
-titre ;
-
-3° A tout condamné en état d'interdiction de séjour ;
-
-4° A toute personne atteinte d'une affection médicale ou d'une infirmité, dont la liste est fixée par décret en Conseil
-d'Etat, rendant dangereuse la pratique de la chasse ;
-
-5° Aux personnes ayant formé l'opposition prévue au 5° de l'article L. 422-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L422-10 (V)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L423-11 (M)
-	  - Code de l'environnement - art. L423-12 (M)
-	  - Code de l'environnement - art. L423-2 (M)
-	  - Code de l'environnement - art. R*223-10 (Ab)
-	  - Code de l'environnement - art. R*223-12 (Ab)
-	  - Code de l'environnement - art. R*223-31-1 (Ab)
-	  - Code de l'environnement - art. R*223-32 (Ab)
-	  - Code de l'environnement - art. R*223-8 (Ab)
-	  - Code de l'environnement - art. R423-12 (M)
-	  - Code de l'environnement - art. R423-24 (M)
-	  - Code de l'environnement - art. R423-25 (M)
-	  - Code de l'environnement - art. R423-8 (M)
-	  - Code rural - art. R*223-12 (Ab)
-	  - Code rural - art. R*223-32 (Ab)
-	  - Code rural - art. R*223-8 (Ab)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L223-20 (Ab)
-	  - Code rural L223-20
-
 
 ###### Article L423-25
 
@@ -22630,26 +22897,28 @@ l'exercice de la chasse par les agents mentionnés aux 1° et 2° du I de l'arti
 
 ###### Article L423-27
 
-Le montant des redevances mentionnées à l'article L. 423-19 et les sommes perçues lors de la délivrance des licences
-mentionnées à l'article L. 423-22 sont versés à l'Office national de la chasse et de la faune sauvage pour être affectés au
-financement de ses dépenses.
+Le montant des redevances mentionnées à l'article L. 423-19 est versé à l'Office national de la chasse et de la faune sauvage
+pour être affecté au financement de ses dépenses.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L223-23
+	  - Code rural - art. L223-23 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L423-19 (V)
-	  - Code de l'environnement - art. L423-22 (Ab)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L223-23 (Ab)
-	  - Code rural L223-23
 
 
 #### Chapitre IV : Exercice de la chasse
@@ -22698,15 +22967,15 @@ le repeuplement de toutes les espèces de gibier.
 ###### Article L424-2
 
 Nul ne peut chasser en dehors des périodes d'ouverture de la chasse fixées par l'autorité administrative selon des conditions
-déterminées par décret en Conseil d'Etat.
+déterminées par décret en Conseil d'Etat. 
 
 Les oiseaux ne peuvent être chassés ni pendant la période nidicole ni pendant les différents stades de reproduction et de
 dépendance. Les oiseaux migrateurs ne peuvent en outre être chassés pendant leur trajet de retour vers leur lieu de
-nidification.
+nidification. 
 
 Toutefois, pour permettre, dans des conditions strictement contrôlées et de manière sélective, la capture, la détention ou
 toute autre exploitation judicieuse de certains oiseaux migrateurs terrestres et aquatiques en petites quantités,
-conformément aux dispositions de l'article L. 425-5, des dérogations peuvent être accordées.
+conformément aux dispositions de l'article L. 425-14, des dérogations peuvent être accordées. 
 
 Un décret en Conseil d'Etat fixe les modalités d'application de cette disposition.
 
@@ -22719,7 +22988,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application de cette disposit
 
 	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 27 () JORF 31 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -22728,7 +22997,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application de cette disposit
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L425-5 (M)
+	  - Code de l'environnement - art. L425-14 (V)
 
 	**Anciens textes**:
 
@@ -22737,14 +23006,19 @@ Un décret en Conseil d'Etat fixe les modalités d'application de cette disposit
 
 ###### Article L424-3
 
-Toutefois, le propriétaire ou possesseur peut, en tout temps, chasser ou faire chasser le gibier à poil dans ses possessions
-attenant à une habitation et entourées d'une clôture continue et constante faisant obstacle à toute communication avec les
-héritages voisins et empêchant complètement le passage de ce gibier et celui de l'homme.
+I. Toutefois, le propriétaire ou possesseur peut, en tout temps, chasser ou faire chasser le gibier à poil dans ses
+possessions attenant à une habitation et entourées d'une clôture continue et constante faisant obstacle à toute communication
+avec les héritages voisins et empêchant complètement le passage de ce gibier et celui de l'homme.
 
-Un décret en Conseil d'Etat précise les conditions d'extension des dispositions de l'alinéa précédent à la chasse de certains
-oiseaux d'élevage.
+Dans ce cas, les dispositions des articles L. 425-4 à L. 425-14 ne sont pas applicables et la participation aux frais
+d'indemnisation des dégâts de gibier prévue à l'article L. 426-5 n'est pas due.
 
-Ce décret définit également les modalités du contrôle exercé pour faire respecter ces dispositions.
+II. - Les établissements professionnels de chasse à caractère commercial peuvent être formés de territoires ouverts ou de
+terrains clos au sens du I du présent article. Ils possèdent cette qualité par l'inscription au registre du commerce ou au
+régime agricole. Leur activité est soumise à déclaration auprès du préfet du département et donne lieu à la tenue d'un
+registre.
+
+Dans ces établissements, les dates de chasse aux oiseaux d'élevage sont fixées par arrêté du ministre chargé de la chasse.
 
 **Liens relatifs à cet article**
 
@@ -22785,6 +23059,15 @@ Ce décret définit également les modalités du contrôle exercé pour faire re
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L426-5 (M)
+	  - Code de l'environnement L425-4 à L425-14, L426-5
+
 	**Anciens textes**:
 
 	  - Code rural - art. L224-3 (Ab)
@@ -22796,19 +23079,33 @@ Ce décret définit également les modalités du contrôle exercé pour faire re
 ###### Article L424-4
 
 Dans le temps où la chasse est ouverte, le permis donne à celui qui l'a obtenu le droit de chasser de jour, soit à tir, soit
-à courre, à cor et à cri, soit au vol, suivant les distinctions établies par des arrêtés du ministre chargé de la chasse.
+à courre, à cor et à cri, soit au vol, suivant les distinctions établies par des arrêtés du ministre chargé de la chasse. Le
+jour s'entend du temps qui commence une heure avant le lever du soleil au chef-lieu du département et finit une heure après
+son coucher.
 
 Il donne également le droit de chasser le gibier d'eau à la passée, à partir de deux heures avant le lever du soleil et
-jusqu'à deux heures après son coucher, heures légales.
+jusqu'à deux heures après son coucher, dans les lieux mentionnés à l'article L. 424-6.
 
 Pour permettre, dans des conditions strictement contrôlées et de manière sélective, la chasse de certains oiseaux de passage
 en petites quantités, le ministre chargé de la chasse autorise, dans les conditions qu'il détermine, l'utilisation des modes
-et moyens de chasse consacrés par les usages traditionnels, dérogatoires à ceux autorisés par l'alinéa précédent.
+et moyens de chasse consacrés par les usages traditionnels, dérogatoires à ceux autorisés par le premier alinéa.
+
+Tous les moyens d'assistance électronique à l'exercice de la chasse, autres que ceux autorisés par arrêté ministériel, sont
+prohibés.
+
+Les gluaux sont posés une heure avant le lever du soleil et enlevés avant onze heures.
 
 Tous les autres moyens de chasse, y compris l'avion et l'automobile, même comme moyens de rabat, sont prohibés.
 
-Toutefois, le déplacement en véhicule à moteur d'un poste de tir à un autre est autorisé dès lors que l'arme de tir est
-démontée, ou déchargée et placée sous étui.
+Toutefois, le déplacement en véhicule à moteur d'un poste de tir à un autre est autorisé dès lors que l'action de chasse est
+terminée et que l'arme de tir est démontée ou placée sous étui.
+
+Par dérogation aux dispositions de l'alinéa précédent, pour la chasse au chien courant, le déplacement en véhicule à moteur
+d'un poste de tir à un autre peut être autorisé dans les conditions fixées par le schéma départemental de gestion cynégétique
+dès lors que l'arme de tir est démontée ou placée sous étui.
+
+Les personnes souffrant d'un handicap moteur peuvent faire usage d'un véhicule à moteur pour se rendre à leur poste. Elles ne
+peuvent tirer à partir de leur véhicule qu'après avoir mis leur moteur à l'arrêt.
 
 **Liens relatifs à cet article**
 
@@ -22833,9 +23130,13 @@ démontée, ou déchargée et placée sous étui.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L423-2 (M)
+	  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L424-6 (M)
 
 	**Anciens textes**:
 
@@ -22909,7 +23210,8 @@ peuvent être chassées que :
 2° Dans les marais non asséchés ;
 
 3° Sur les fleuves, rivières, canaux, réservoirs, lacs, étangs et nappes d'eau ; la recherche et le tir de ces gibiers ne
-sont autorisés qu'à distance maximale de trente mètres de la nappe d'eau.
+sont autorisés qu'à distance maximale de trente mètres de la nappe d'eau sous réserve de disposer du droit de chasse sur
+celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -22929,6 +23231,10 @@ sont autorisés qu'à distance maximale de trente mètres de la nappe d'eau.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
 
 	**Anciens textes**:
 
@@ -22960,20 +23266,30 @@ prohibés.
 
 ###### Article L424-8
 
-La mise en vente, la vente, l'achat, le transport ou le colportage du gibier pendant le temps où la chasse n'est pas permise
-dans le département sont réglementés par l'autorité administrative.
+I. - Le transport, la vente, la mise en vente, la détention pour la vente et l'achat des animaux vivants d'espèces dont la
+chasse est autorisée ou des animaux licitement tués à la chasse sont :
 
-Jusqu'à la date de publication du décret mentionné au dernier alinéa, la mise en vente, la vente, l'achat, le transport et le
-colportage du gibier sont interdits pendant le temps où la chasse n'est pas permise dans le département.
+1° Libres toute l'année pour les mammifères ;
 
-Toutefois, en période de non-chasse, les associations communales de chasse agréées ou les sociétés de chasse peuvent
-transporter, dans le département, du gibier pour les repas associatifs non commerciaux qu'elles organisent.
+2° Interdits pour les oiseaux et leurs oeufs, sauf pour :
 
-De même, le transport du gibier d'un département où la chasse est ouverte vers un département où elle ne l'est pas est
-autorisé dès lors que le gibier est transporté par un chasseur en mesure, d'une part, d'établir que le gibier a été
-légalement capturé et, d'autre part, de justifier son origine.
+- leur transport à des fins non commerciales, y compris le transport des appelants et des escaps ;
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+- les espèces dont la liste est fixée par arrêté du ministre chargé de la chasse.
+
+II. - Toutefois, des restrictions peuvent être apportées par l'autorité administrative à ces dispositions pour prévenir la
+destruction ou favoriser le repeuplement du gibier.
+
+III. - Le transport, la vente, la mise en vente, la détention pour la vente et l'achat des animaux vivants ou morts d'espèces
+dont la chasse est autorisée et qui sont nés et élevés en captivité sont libres toute l'année.
+
+IV. - Nonobstant les dispositions des I et III, la vente, le transport pour la vente, la mise en vente, la détention pour la
+vente et l'achat des animaux licitement tués à la chasse ou morts provenant d'élevages visés au III sont autorisés s'ils
+respectent les dispositions relatives à la traçabilité des produits prévues aux articles L. 232-1, L. 232-1-1, L. 232-2 et L.
+232-3 du code rural et si les animaux ont fait l'objet d'une inspection sanitaire conformément aux articles L. 231-1, L.
+231-2 et L. 231-3 du même code.
+
+V. - Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -22987,6 +23303,10 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -23005,33 +23325,46 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	  - Code de l'environnement - art. R428-11 (V)
 	  - Code de l'environnement - art. R428-14 (M)
 
+	**Cite**:
+
+	  - Code rural L232-1, L232-1-1, L232-2, L232-3, L231-1, L231-2, L231-3
+
 
 ###### Article L424-9
 
-Il est interdit en toute saison de mettre en vente, de vendre, de transporter, de colporter ou même d'acheter sciemment le
-gibier tué à l'aide d'engins ou d'instruments prohibés.
+Le grand gibier tué accidentellement et en tout temps à la suite d'une collision avec un véhicule automobile peut être
+transporté sous réserve que le conducteur en ait préalablement prévenu les services de la gendarmerie nationale ou de la
+police nationale.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L224-7
+	  - Code rural - art. L224-7 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R428-12 (V)
 
-	**Anciens textes**:
-
-	  - Code rural - art. L224-7 (Ab)
-	  - Code rural L224-7
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 
 ###### Article L424-10
 
-Il est interdit, même en temps d'ouverture de la chasse, de transporter du gibier vivant sans permis de transport délivré par
-l'autorité administrative.
+Il est interdit de détruire, d'enlever ou d'endommager intentionnellement les nids et les oeufs, de ramasser les oeufs dans
+la nature et de les détenir. Il est interdit de détruire, d'enlever, de vendre, d'acheter et de transporter les portées ou
+petits de tous mammifères dont la chasse est autorisée, sous réserve des dispositions relatives aux animaux nuisibles.
+
+Les détenteurs du droit de chasse et leurs préposés ont le droit de recueillir, pour les faire couver, les oeufs mis à
+découvert par la fauchaison ou l'enlèvement des récoltes.
 
 **Liens relatifs à cet article**
 
@@ -23039,6 +23372,10 @@ l'autorité administrative.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -23053,12 +23390,9 @@ l'autorité administrative.
 
 ###### Article L424-11
 
-Il est interdit d'enlever des nids, de prendre ou de détruire, de colporter ou de mettre en vente, de vendre ou d'acheter, de
-transporter ou d'exporter les oeufs ou les couvées de perdrix, faisans, cailles et de tous autres oiseaux, ainsi que les
-portées ou petits de tous animaux sous réserve des dispositions relatives aux animaux nuisibles.
-
-Les détenteurs du droit de chasse et leurs préposés ont le droit de recueillir, pour les faire couver, les oeufs mis à
-découvert par la fauchaison ou l'enlèvement des récoltes.
+L'introduction dans le milieu naturel de grand gibier et de lapins, et le prélèvement dans le milieu naturel d'animaux
+vivants d'espèces dont la chasse est autorisée sont soumis à autorisation préfectorale, dans des conditions et selon des
+modalités fixées par un arrêté conjoint du ministre chargé de la chasse et du ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -23066,6 +23400,10 @@ découvert par la fauchaison ou l'enlèvement des récoltes.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 167 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -23213,46 +23551,16 @@ Les dispositions d'application de la présente section sont précisées par déc
 
 ##### Section 1 : Schémas départementaux de gestion cynégétique
 
-###### Article L425-3-1
-
-Le plan de chasse et son exécution, complétés le cas échéant par le recours aux dispositions des articles L. 427-4 à L.
-427-7, doivent assurer, conformément aux orientations régionales forestières et au schéma départemental de gestion
-cynégétique, un équilibre sylvo-cynégétique permettant la régénération des peuplements forestiers dans des conditions
-économiques satisfaisantes pour le propriétaire.
-
-Un décret en Conseil d'Etat, pris après avis du Conseil national de la chasse et de la faune sauvage, du Conseil supérieur de
-la forêt, des produits forestiers et de la transformation du bois, de la Fédération nationale des chasseurs et de la
-Fédération nationale des syndicats de propriétaires forestiers sylviculteurs, fixe les modalités de mise en oeuvre du présent
-article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2001-602 du 9 juillet 2001 - art. 42 () JORF 11 juillet 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
-
-	**Cite**:
-
-	  - Code de l'environnement L427-4 à L427-7
-
-
-##### Section 1 : Plan de chasse
-
 ###### Article L425-1
 
-Le plan de chasse substitue à la limitation annuelle de la période de chasse le nombre d'animaux à tirer sur les territoires
-de chasse pendant la période de chasse propre à chaque département. Fixé, après consultation des représentants des intérêts
-agricoles et forestiers, pour une période de trois ans révisable annuellement, il tend à assurer le développement durable des
-populations de gibier et à préserver leurs habitats naturels.
+Un schéma départemental de gestion cynégétique est mis en place dans chaque département. Ce schéma est établi pour une
+période de six ans renouvelable. Il est élaboré par la fédération départementale ou interdépartementale des chasseurs, en
+concertation notamment avec la chambre d'agriculture, les représentants de la propriété privée rurale et les représentants
+des intérêts forestiers. Il prend en compte le document départemental de gestion de l'espace agricole et forestier mentionné
+à l'article L. 112-1 du code rural ainsi que les orientations régionales de gestion et de conservation de la faune sauvage et
+de ses habitats mentionnées à l'article L. 414-8 du présent code. Il est approuvé, après avis de la commission départementale
+compétente en matière de chasse ou de faune sauvage, par le préfet, qui vérifie notamment sa compatibilité avec les principes
+énoncés à l'article L. 420-1 et les dispositions de l'article L. 425-4.
 
 **Liens relatifs à cet article**
 
@@ -23260,6 +23568,10 @@ populations de gibier et à préserver leurs habitats naturels.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -23274,6 +23586,12 @@ populations de gibier et à préserver leurs habitats naturels.
 	  - Code forestier (nouveau) - art. L122-1 (M)
 	  - Code rural - art. R226-10 (Ab)
 
+	**Cite**:
+
+	  - Code de l'environnement - art. L420-1 (M)
+	  - Code de l'environnement - art. L425-4 (M)
+	  - Code rural L112-1
+
 	**Anciens textes**:
 
 	  - Code rural - art. L225-1 (Ab)
@@ -23282,10 +23600,21 @@ populations de gibier et à préserver leurs habitats naturels.
 
 ###### Article L425-2
 
-Pour assurer un équilibre agricole, sylvicole et cynégétique, le plan de chasse est appliqué sur tout le territoire national
-pour certaines espèces de gibier dont la liste est fixée par décret en Conseil d'Etat.
+Le schéma départemental de gestion cynégétique comprend notamment :
 
-Lorsqu'il s'agit du sanglier, le plan de chasse est mis en oeuvre après avis des fédérations départementales des chasseurs.
+1° Les plans de chasse et les plans de gestion ;
+
+2° Les mesures relatives à la sécurité des chasseurs et des non-chasseurs ;
+
+3° Les actions en vue d'améliorer la pratique de la chasse telles que la conception et la réalisation des plans de gestion
+approuvés, la fixation des prélèvements maximum autorisés, la régulation des animaux prédateurs et déprédateurs, les lâchers
+de gibier, la recherche au sang du grand gibier et les prescriptions relatives à l'agrainage et à l'affouragement prévues à
+l'article L. 425-5 ainsi qu'à la chasse à tir du gibier d'eau à l'agrainée ;
+
+4° Les actions menées en vue de préserver, de protéger par des mesures adaptées ou de restaurer les habitats naturels de la
+faune sauvage ;
+
+5° Les dispositions permettant d'atteindre l'équilibre agro-sylvo-cynégétique.
 
 **Liens relatifs à cet article**
 
@@ -23294,7 +23623,7 @@ Lorsqu'il s'agit du sanglier, le plan de chasse est mis en oeuvre après avis de
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
@@ -23320,20 +23649,20 @@ Lorsqu'il s'agit du sanglier, le plan de chasse est mis en oeuvre après avis de
 	  - Code forestier - art. R222-21 (Ab)
 	  - Code forestier - art. R222-5 (Ab)
 
+	**Cite**:
+
+	  - Code de l'environnement - art. L425-5 (M)
+
 	**Anciens textes**:
 
+	  - Code de l'environnement L421-7 II
 	  - Code rural - art. L225-2 (Ab)
-	  - Code rural L225-2
 
 
 ###### Article L425-3
 
-Le plan de chasse, qui prend en compte les orientations du schéma départemental de gestion cynégétique, est mis en oeuvre
-après avis du conseil départemental de la chasse et de la faune sauvage par le représentant de l'Etat dans le département. En
-cas de circonstances exceptionnelles, il peut être fixé un nouveau plan de chasse se substituant au plan de chasse en cours.
-En Corse, ce plan est établi et mis en oeuvre par la collectivité territoriale de Corse.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+Le schéma départemental de gestion cynégétique est opposable aux chasseurs et aux sociétés, groupements et associations de
+chasse du département.
 
 **Liens relatifs à cet article**
 
@@ -23344,11 +23673,10 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Nouveaux textes**:
 
-	  - Code de l'environnement - art. L425-8 (M)
 	  - Code de l'environnement - art. L425-8 (V)
 
 	**Cité par**:
@@ -23357,33 +23685,29 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Anciens textes**:
 
+	  - Code de l'environnement L421-7 (IV)
 	  - Code rural - art. L225-3 (Ab)
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
-
+##### Section 2 : Equilibre agro-sylvo-cynégétique
 
 ###### Article L425-4
 
-I. - Dans le cadre du plan de chasse mentionné à l'article L. 425-2, il est institué, à la charge des chasseurs de sangliers,
-cerfs, daims, mouflons et chevreuils, mâles et femelles, une taxe par animal à tirer destinée à assurer une indemnisation
-convenable aux exploitants agricoles dont les cultures ont subi des dégâts importants du fait de ces animaux.
+L'équilibre agro-sylvo-cynégétique consiste à rendre compatibles, d'une part, la présence durable d'une faune sauvage riche
+et variée et, d'autre part, la pérennité et la rentabilité économique des activités agricoles et sylvicoles. 
 
-II. - Le taux de cette taxe est fixé par arrêté conjoint du ministre chargé de la chasse et du ministre chargé du budget,
-dans la limite des plafonds suivants :
+Il est assuré, conformément aux principes définis à l'article L. 420-1, par la gestion concertée et raisonnée des espèces de
+faune sauvage et de leurs habitats agricoles et forestiers. 
 
-1° Cerf élaphe : 96 euros ;
+L'équilibre agro-sylvo-cynégétique est recherché par la combinaison des moyens suivants : la chasse, la régulation, la
+prévention des dégâts de gibier par la mise en place de dispositifs de protection et de dispositifs de dissuasion ainsi que,
+le cas échéant, par des procédés de destruction autorisés. La recherche de pratiques et de systèmes de gestion prenant en
+compte à la fois les objectifs de production des gestionnaires des habitats agricoles et forestiers et la présence de la
+faune sauvage y contribue. L'indemnisation mentionnée à l'article L. 426-1 peut contribuer à cet équilibre. 
 
-2° Daim et mouflon : 64 euros ;
-
-3° Cerf sika et chevreuil : 32 euros ;
-
-4° Sanglier : 16 euros.
-
-III. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment les modalités de
-recouvrement de la taxe dont le produit dans chaque département est versé à la fédération départementale des chasseurs pour
-l'indemnisation des dégâts causés aux récoltes par certaines espèces de gibier.
+L'équilibre sylvo-cynégétique tend à permettre la régénération des peuplements forestiers dans des conditions économiques
+satisfaisantes pour le propriétaire, dans le territoire forestier concerné. Il prend en compte les principes définis à
+l'article L. 1er du code forestier ainsi que les dispositions des orientations régionales forestières.
 
 **Liens relatifs à cet article**
 
@@ -23391,10 +23715,6 @@ l'indemnisation des dégâts causés aux récoltes par certaines espèces de gib
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -23416,32 +23736,25 @@ l'indemnisation des dégâts causés aux récoltes par certaines espèces de gib
 	  - Code rural - art. R*225-11 (Ab)
 	  - Code rural - art. R226-1 (Ab)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L425-2 (Ab)
+	  - Code forestier - art. L1 (Ab)
+	  - Code de l'environnement - art. L420-1 (V)
+	  - Code de l'environnement - art. L426-1 (V)
 
 	**Anciens textes**:
 
 	  - Code rural - art. L225-4 (Ab)
 
 
-##### Section 2 : Prélèvement maximal autorisé
-
 ###### Article L425-5
 
-Dans des conditions déterminées par décret en Conseil d'Etat, le ministre peut, après avis de la Fédération nationale des
-chasseurs et de l'Office national de la chasse et de la faune sauvage, fixer le nombre maximal d'animaux qu'un chasseur est
-autorisé à prélever dans une période déterminée sur un territoire donné.
-
-Dans les mêmes conditions, le préfet peut, sur proposition de la fédération départementale ou interdépartementale des
-chasseurs, fixer le nombre maximal d'animaux qu'un chasseur ou un groupe de chasseurs est autorisé à prélever dans une
-période déterminée sur un territoire donné.
-
-Ces dispositions prennent en compte les orientations du schéma départemental de gestion cynégétique.
+L'agrainage et l'affouragement sont autorisés dans des conditions définies par le schéma départemental de gestion
+cynégétique.
 
 **Liens relatifs à cet article**
 
@@ -23451,10 +23764,6 @@ Ces dispositions prennent en compte les orientations du schéma départemental d
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
-
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 32 () JORF 31 juillet 2003
-
-	**Transféré par**:
 
 	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
@@ -23473,15 +23782,278 @@ Ces dispositions prennent en compte les orientations du schéma départemental d
 	  - Code rural - art. L225-5 (Ab)
 
 
+##### Section 3 : Plan de chasse
+
+###### Article L425-6
+
+Le plan de chasse détermine le nombre minimum et maximum d'animaux à prélever sur les territoires de chasse. Il tend à
+assurer le développement durable des populations de gibier et à préserver leurs habitats, en conciliant les intérêts
+agricoles, sylvicoles et cynégétiques.
+
+Pour le grand gibier, il est fixé après consultation des représentants des intérêts agricoles et forestiers pour une période
+qui peut être de trois ans et révisable annuellement ; il est fixé pour une année pour le petit gibier.
+
+Pour assurer un équilibre agricole, sylvicole et cynégétique, le plan de chasse est appliqué sur tout le territoire national
+pour certaines espèces de gibier dont la liste est fixée par décret en Conseil d'Etat. Lorsqu'il s'agit du sanglier, le plan
+de chasse est mis en oeuvre après avis des fédérations départementales ou interdépartementales des chasseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L426-5 (V)
+	  - Code de l'environnement - art. L427-6 (V)
+	  - Code de l'environnement - art. R426-10 (VD)
+	  - Code forestier (nouveau) - art. L312-2 (VD)
+	  - Code forestier (nouveau) - art. R213-48 (V)
+	  - Code forestier (nouveau) - art. R213-53 (M)
+	  - Code forestier - art. L222-1 (VT)
+
+
+###### Article L425-7
+
+Toute personne détenant le droit de chasse sur un territoire et qui désire obtenir un plan de chasse individuel doit en faire
+la demande. Toutefois, lorsque le contrat de location ou de mise à disposition gratuite du droit de chasse le prévoit
+expressément, la demande est faite par le propriétaire ou son mandataire. 
+
+Lorsque le titulaire du droit de chasse n'est pas le propriétaire du territoire pour lequel la demande est présentée et que
+ce dernier ne loue pas son droit de chasse, le titulaire du droit de chasse informe de sa demande de plan de chasse
+individuel le ou les propriétaires du territoire ou leurs mandataires qui le souhaitent. Ces derniers peuvent alors faire
+connaître leur désaccord éventuel et formuler leur propre demande de plan de chasse. 
+
+Les propriétaires mentionnés au précédent alinéa peuvent recourir aux dispositions de l'article L. 247-8 du code forestier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Décret n°2014-1271 du 23 octobre 2014 - art. (VD)
+	  - Code de l'environnement - art. R425-4 (V)
+
+	**Cite**:
+
+	  - Code forestier - art. L247-8 (V)
+
+
+###### Article L425-8
+
+Le plan de chasse, qui prend en compte les orientations du schéma départemental de gestion cynégétique, est mis en oeuvre
+après avis du conseil départemental de la chasse et de la faune sauvage par le représentant de l'Etat dans le département. En
+cas de circonstances exceptionnelles, il peut être fixé un nouveau plan de chasse se substituant au plan de chasse en cours.
+En Corse, ce plan est établi et mis en oeuvre par la collectivité territoriale de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 2005-02-23 art. 168 I, XIV JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+	**Anciens textes**:
+
+	  - Code de l'environnement - art. L425-3 (M)
+	  - Code de l'environnement - art. L425-3 (MMN)
+
+
+###### Article L425-10
+
+Lorsque l'équilibre agro-sylvo-cynégétique est perturbé ou menacé, le préfet suspend l'application des dispositions du plan
+de chasse précisant les caractéristiques des animaux à tirer, afin de faciliter le retour à des niveaux de populations
+compatibles avec cet équilibre et cohérents avec les objectifs du plan de chasse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+
+###### Article L425-11
+
+Lorsque le bénéficiaire du plan de chasse ne prélève pas le nombre minimum d'animaux qui lui est attribué, il peut voir sa
+responsabilité financière engagée pour la prise en charge de tout ou partie des frais liés à l'indemnisation mentionnée à
+l'article L. 426-1 et la prévention des dégâts de gibier mentionnée à l'article L. 421-5. 
+
+Il en est de même pour les personnes ayant formé l'opposition prévue au 5° de l'article L. 422-10 et qui n'ont pas procédé
+sur leur fonds à la régulation des espèces de grand gibier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L421-5 (V)
+	  - Code de l'environnement - art. L422-10 (V)
+	  - Code de l'environnement - art. L426-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R426-1 (VD)
+
+
+###### Article L425-12
+
+Lorsque l'équilibre sylvo-cynégétique est fortement perturbé sur un territoire forestier géré conformément à l'un des
+documents de gestion visés à l'article L. 4 du code forestier, le bénéficiaire du droit de chasse qui n'a pas prélevé le
+nombre minimum d'animaux lui ayant été attribué au titre du plan de chasse est tenu de verser au propriétaire, qui n'est pas
+titulaire du droit de chasse ou qui ne le loue pas, et qui en fait la demande circonstanciée :
+
+- soit le montant de tout ou partie des dépenses de protection indispensables qu'il a engagées pour assurer la pérennité des
+peuplements ;
+
+- soit, si le peuplement forestier a été endommagé de façon significative par une espèce de grand gibier soumise à un plan de
+chasse, une indemnité forfaitaire dont le montant à l'hectare est fixé par arrêté préfectoral pris après avis de la
+commission départementale compétente en matière de chasse et de faune sauvage, dans le respect d'un barème interministériel
+défini conjointement par les ministres chargés de la chasse et de la forêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code forestier - art. L4 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R425-21 (V)
+	  - Code de l'environnement - art. R425-22 (V)
+	  - Code de l'environnement - art. R425-23 (V)
+
+
+###### Article L425-13
+
+Un décret en Conseil d'Etat détermine les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+
+##### Section 4 : Prélèvement maximal autorisé
+
+###### Article L425-14
+
+Dans des conditions déterminées par décret en Conseil d'Etat, le ministre peut, après avis de la Fédération nationale des
+chasseurs et de l'Office national de la chasse et de la faune sauvage, fixer le nombre maximal d'animaux qu'un chasseur est
+autorisé à prélever dans une période déterminée sur un territoire donné.
+
+Dans les mêmes conditions, le préfet peut, sur proposition de la fédération départementale ou interdépartementale des
+chasseurs, fixer le nombre maximal d'animaux qu'un chasseur ou un groupe de chasseurs est autorisé à prélever dans une
+période déterminée sur un territoire donné.
+
+Ces dispositions prennent en compte les orientations du schéma départemental de gestion cynégétique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L424-2 (V)
+	  - Code de l'environnement - art. R425-18 (V)
+	  - Code de l'environnement - art. R425-20 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'environnement - art. L425-5 (M)
+	  - Code de l'environnement - art. L425-5 (T)
+
+
+##### Section 5 : Plan de gestion cynégétique
+
+###### Article L425-15
+
+Sur proposition de la fédération départementale ou interdépartementale des chasseurs, le préfet inscrit, dans l'arrêté annuel
+d'ouverture ou de fermeture de la chasse, les modalités de gestion d'une ou plusieurs espèces de gibier lorsque celles-ci ne
+relèvent pas de la mise en oeuvre du plan de chasse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 171 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L424-3 (V)
+	  - Code de l'environnement - art. R424-13-3 (VD)
+	  - Code de l'environnement - art. R424-8 (V)
+	  - Code de l'environnement - art. R428-17 (V)
+
+
 #### Chapitre VI : Indemnisation des dégâts de gibiers
 
-##### Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers
+##### Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles
 
 ###### Article L426-1
 
-En cas de dégâts causés aux récoltes soit par les sangliers, soit par les grands gibiers provenant d'une réserve où ils font
-l'objet de reprise ou d'un fonds sur lequel a été exécuté un plan de chasse prévu par l'article L. 425-1, celui qui a subi un
-préjudice peut en réclamer l'indemnisation à la fédération départementale des chasseurs.
+En cas de dégâts causés aux cultures ou aux récoltes agricoles soit par les sangliers, soit par les autres espèces de grand
+gibier provenant d'une réserve où ils font l'objet de reprise ou d'un fonds sur lequel a été exécuté un plan de chasse,
+l'exploitant qui a subi un dommage nécessitant une remise en état ou entraînant un préjudice de perte agricole peut en
+réclamer l'indemnisation à la fédération départementale ou interdépartementale des chasseurs.
 
 **Liens relatifs à cet article**
 
@@ -23515,9 +24087,9 @@ préjudice peut en réclamer l'indemnisation à la fédération départementale 
 	  - Code rural - art. R226-12 (Ab)
 	  - Code rural - art. R226-18 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L425-1 (M)
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
 
 	**Anciens textes**:
 
@@ -23541,6 +24113,10 @@ Nul ne peut prétendre à une indemnité pour des dommages causés par des gibie
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
+
 
 ###### Article L426-3
 
@@ -23551,14 +24127,18 @@ En tout état de cause, l'indemnité fait l'objet d'un abattement proportionnel 
 
 En outre, elle peut être réduite s'il est constaté que la victime des dégâts a, par un procédé quelconque, favorisé l'arrivée
 du gibier sur son fonds, en particulier en procédant de façon répétée, et sans respecter les assolements pratiqués dans la
-région, à des cultures de nature à l'attirer.
+région, à des cultures de nature à l'attirer. Il en va de même lorsque la victime des dégâts a refusé les modes de prévention
+qui lui ont été proposés par la fédération départementale ou interdépartementale des chasseurs.
+
+Dans le cas où le montant du préjudice déclaré par l'exploitant est plus de dix fois supérieur à celui de l'indemnité avant
+abattement, les frais d'expertise sont déduits de cette indemnité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 
 	**Cite**:
 
@@ -23577,6 +24157,10 @@ région, à des cultures de nature à l'attirer.
 
 	  - Code rural - art. L226-3 (MMN)
 	  - Code rural L226-3
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
 
 
 ###### Article L426-4
@@ -23601,6 +24185,10 @@ judiciaire ou à l'amiable, de lui verser le montant de l'indemnité qu'elle a e
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code civil - art. 1382 (V)
@@ -23618,20 +24206,32 @@ judiciaire ou à l'amiable, de lui verser le montant de l'indemnité qu'elle a e
 ###### Article L426-5
 
 La fédération départementale des chasseurs instruit les demandes d'indemnisation et propose une indemnité aux réclamants
-selon un barème départemental d'indemnisation. Ce barème est fixé par une commission départementale d'indemnisation des
-dégâts de gibier qui fixe également le montant de l'indemnité en cas de désaccord entre le réclamant et la fédération
-départementale des chasseurs. Une Commission nationale d'indemnisation des dégâts de gibier coordonne la fixation des barèmes
-départementaux d'indemnisation et peut être saisie en appel des décisions des commissions départementales.
+selon un barème départemental d'indemnisation. Ce barème est fixé par la commission départementale compétente en matière de
+chasse et de faune sauvage qui fixe également le montant de l'indemnité en cas de désaccord entre le réclamant et la
+fédération départementale des chasseurs. Une Commission nationale d'indemnisation des dégâts de gibier fixe chaque année,
+pour les principales denrées, les valeurs minimale et maximale des prix à prendre en compte pour l'établissement des barèmes
+départementaux. Elle fixe également, chaque année, aux mêmes fins, les valeurs minimale et maximale des frais de remise en
+état. Lorsque le barème adopté par une commission départementale ne respecte pas les valeurs ainsi fixées, la Commission
+nationale d'indemnisation en est saisie et statue en dernier ressort. Elle peut être saisie en appel des décisions des
+commissions départementales.
 
-La composition de la Commission nationale d'indemnisation des dégâts de gibier et des commissions départementales
-d'indemnisation des dégâts de gibier, assure la représentation de l'Etat, et notamment de l'Office national de la chasse et
-de la faune sauvage, des chasseurs et des intérêts agricoles et forestiers dans des conditions déterminées par un décret en
-Conseil d'Etat. Le secrétariat des commissions est assuré par l'Office national de la chasse et de la faune sauvage.
+La composition de la Commission nationale d'indemnisation des dégâts de gibier et des commissions départementales compétentes
+en matière de chasse et de faune sauvage, assure la représentation de l'Etat, et notamment de l'Office national de la chasse
+et de la faune sauvage, des chasseurs et des intérêts agricoles et forestiers dans des conditions déterminées par un décret
+en Conseil d'Etat.
 
-Lorsque le produit des taxes mentionnées à l'article L. 425-4 ne suffit pas à couvrir le montant des dégâts indemnisables, la
-fédération départementale des chasseurs prend à sa charge le surplus de l'indemnisation. Elle en répartit le montant entre
-ses adhérents et elle peut notamment exiger une participation personnelle des chasseurs de grand gibier et de sanglier et une
-participation pour chaque dispositif de marquage du gibier.
+Dans le cadre du plan de chasse mentionné à l'article L. 425-6, il est institué, à la charge des chasseurs de cerfs, daims,
+mouflons, chevreuils et sangliers, mâles et femelles, jeunes et adultes, une contribution par animal à tirer destinée à
+assurer une indemnisation aux exploitants agricoles dont les cultures ou les récoltes ont subi des dégâts importants du fait
+de ces animaux. Le montant de ces contributions est fixé par l'assemblée générale de la fédération départementale ou
+interdépartementale des chasseurs sur proposition du conseil d'administration.
+
+Lorsque le produit des contributions visées à l'alinéa précédent ne suffit pas couvrir le montant des dégâts à indemniser, la
+fédération départementale ou interdépartementale des chasseurs prend à sa charge le surplus de l'indemnisation. Elle en
+répartit le montant entre ses adhérents ou certaines catégories d'adhérents. Elle peut notamment exiger une participation
+personnelle des chasseurs de grand gibier et de sanglier ou une participation pour chaque dispositif de marquage ou une
+combinaison de ces deux types de participation. Ces participations peuvent être modulées en fonction des espèces de gibier,
+du sexe, des catégories d'âge, des territoires de chasse ou unités de gestion.
 
 Un décret en Conseil d'Etat précise les conditions d'application des articles L. 426-1 à L. 426-4 et du présent article.
 
@@ -23662,9 +24262,13 @@ Un décret en Conseil d'Etat précise les conditions d'application des articles 
 	  - Code rural - art. R226-1 (Ab)
 	  - Code rural - art. R226-6 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L425-4 (M)
+	  - Code de l'environnement - art. L425-6 (V)
 
 	**Anciens textes**:
 
@@ -23689,39 +24293,47 @@ judiciaire.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
+
 	**Cite**:
 
-	  - Code de l'environnement L426-1 à L426-4
+	  - Code de l'environnement - art. L426-1 (V)
 
 
 ##### Section 2 : Indemnisation judiciaire des dégâts causés aux récoltes
 
 ###### Article L426-7
 
-Les actions en réparation du dommage causé aux récoltes par le gibier se prescrivent par six mois à partir du jour où les
-dégâts ont été commis.
+Les actions en réparation du dommage causé aux cultures et aux récoltes par le gibier se prescrivent par six mois à partir du
+jour où les dégâts ont été commis.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Code de l'environnement - art. L654-1 (M)
-
 	**Anciens textes**:
 
-	  - Code rural - art. L226-7 (Ab)
 	  - Code rural L226-7
+	  - Code rural - art. L226-7 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L654-1 (M)
+
 
 ###### Article L426-8
 
-Les indemnités allouées aux cultivateurs pour dégâts causés à leurs récoltes par un gibier quelconque ne peuvent être
-réduites dans une proportion quelconque pour motif de voisinage.
+Les indemnités allouées aux exploitants pour dégâts causés à leurs récoltes par un gibier quelconque ne peuvent être réduites
+dans une proportion quelconque pour motif de voisinage.
 
 **Liens relatifs à cet article**
 
@@ -23734,6 +24346,10 @@ réduites dans une proportion quelconque pour motif de voisinage.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -23749,14 +24365,11 @@ réduites dans une proportion quelconque pour motif de voisinage.
 ###### Article L427-1
 
 Les lieutenants de louveterie sont nommés par l'autorité administrative et concourent sous son contrôle à la destruction des
-animaux nuisibles.
+animaux mentionnés aux articles L. 427-6 et L. 427-8 ou ponctuellement aux opérations de régulation des animaux qu'elle a
+ordonnées. Ils sont consultés, en tant que de besoin, par l'autorité compétente, sur les problèmes posés par la gestion de la
+faune sauvage.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -23769,10 +24382,25 @@ animaux nuisibles.
 	  - Arrêté du 28 juin 2016 - art. 1 (Ab)
 	  - Arrêté du 2 septembre 2016 - art. 2 (V)
 
+	**Cite**:
+
+	  - Code de l'environnement - art. L427-6 (V)
+	  - Code de l'environnement - art. L427-8 (V)
+
 	**Anciens textes**:
 
 	  - Code rural - art. L227-1 (Ab)
 	  - Code rural L227-1
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 170 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
 
 
 ###### Article L427-2
@@ -23873,9 +24501,10 @@ territoriales sont organisées sous le contrôle et la responsabilité technique
 
 Sans préjudice des dispositions de l'article L. 2122-21 (9°) du code général des collectivités territoriales, il est fait,
 chaque fois qu'il est nécessaire, sur l'ordre du préfet, après avis du directeur départemental de l'agriculture et de la
-forêt, des chasses et battues générales ou particulières aux animaux nuisibles. Ces chasses et battues peuvent porter sur des
-animaux d'espèces soumises à plan de chasse en application de l'article L. 425-2. Elles peuvent également être organisées sur
-les terrains visés au 5° de l'article L. 422-10.
+forêt et du président de la fédération départementale ou interdépartementale des chasseurs, des chasses et battues générales
+ou particulières aux animaux nuisibles. Ces chasses et battues peuvent porter sur des animaux d'espèces soumises à plan de
+chasse en application de l'article L. 425-6. Elles peuvent également être organisées sur les terrains visés au 5° de
+l'article L. 422-10.
 
 **Liens relatifs à cet article**
 
@@ -23886,7 +24515,8 @@ les terrains visés au 5° de l'article L. 422-10.
 
 	**Modifié par**:
 
-	  - Décret n°2001-450 du 25 mai 2001 - art. 1 () JORF 27 mai 2001
+	  - Loi n°2005-157 du 23 février 2005 - art. 155 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -23903,9 +24533,9 @@ les terrains visés au 5° de l'article L. 422-10.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2122-21 (M)
+	  - Code général des collectivités territoriales - art. L2122-21 (V)
 	  - Code de l'environnement - art. L422-10 (V)
-	  - Code de l'environnement - art. L425-2 (Ab)
+	  - Code de l'environnement - art. L425-6 (V)
 
 	**Anciens textes**:
 
@@ -24006,7 +24636,7 @@ d'exercice de ce droit.
 Sans préjudice des dispositions prévues à l'article L. 427-8, tout propriétaire ou fermier peut repousser ou détruire, même
 avec des armes à feu, mais à l'exclusion du collet et de la fosse, les bêtes fauves qui porteraient dommages à ses
 propriétés ; toutefois, il n'est pas autorisé à détruire les sangliers ni, dans les départements où est institué un plan de
-chasse en application des articles L. 425-1 à L. 425-3, les grands gibiers faisant l'objet de ce plan.
+chasse en application de la section 3 du chapitre V du titre II du livre IV, les grands gibiers faisant l'objet de ce plan.
 
 **Liens relatifs à cet article**
 
@@ -24014,6 +24644,10 @@ chasse en application des articles L. 425-1 à L. 425-3, les grands gibiers fais
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -24027,7 +24661,6 @@ chasse en application des articles L. 425-1 à L. 425-3, les grands gibiers fais
 	**Cite**:
 
 	  - Code de l'environnement - art. L427-8 (V)
-	  - Code de l'environnement L427-8, L425-1 à L425-3
 
 	**Anciens textes**:
 
@@ -24204,26 +24837,26 @@ vendre, transporter, colporter ou acheter sciemment du gibier tué à l'aide d'e
 
 ###### Article L428-4
 
-Est puni de quatre mois d'emprisonnement et d'une amende de 3 750 euros le fait de :
+I. - Est puni d'une peine de deux ans d'emprisonnement et de 30 000 Euros d'amende le fait de chasser lorsque sont réunies
+les circonstances suivantes :
 
-1° Chasser dans les réserves de chasse approuvées par l'Etat ou établies en application des dispositions de l'article L.
+1° Pendant la nuit ou en temps prohibé ;
+
+2° Sur le terrain d'autrui ou dans une réserve de chasse approuvée par l'Etat ou établie en application de l'article L.
 422-27 ;
 
-2° Chasser en temps prohibé ou pendant la nuit ;
+3° A l'aide d'engins et d'instruments prohibés ou d'autres moyens que ceux autorisés par les articles L. 424-4 et L. 427-8 ou
+en employant des drogues et appâts de nature à enivrer le gibier ou à le détruire ;
 
-3° Employer des drogues ou appâts qui sont de nature à enivrer le gibier ou à le détruire ;
+4° Lorsque l'un des chasseurs est muni d'une arme apparente ou cachée.
 
-4° Détenir ou être trouvé muni ou porteur hors de son domicile, des filets, engins ou autres instruments de chasse prohibés ;
+II. - Est puni des mêmes peines le fait de mettre en vente, vendre, acheter, transporter ou colporter du gibier en dehors des
+périodes autorisées en application de l'article L. 424-8, lorsque le gibier provient d'actes de chasse commis dans l'une des
+circonstances prévues aux 1°, 2° et 3° du I du présent article.
 
-5° Mettre en vente, vendre, acheter, transporter ou colporter du gibier en dehors des périodes autorisées en application de
-l'article L. 424-8 ;
-
-6° En toute saison, mettre en vente, vendre, transporter, colporter ou acheter sciemment du gibier tué à l'aide d'engins ou
-d'instruments prohibés ;
-
-lorsque le fait est commis pendant la nuit, sur le terrain d'autrui, à l'aide d'engins et instruments prohibés ou par
-d'autres moyens que ceux autorisés par les articles L. 424-4 et L. 427-8, l'un des chasseurs étant muni d'une arme apparente
-ou cachée.
+III. - Est puni des mêmes peines le fait, en toute saison, de vendre, mettre en vente, transporter, colporter ou acheter
+sciemment du gibier tué à l'aide d'engins ou d'instruments prohibés, lorsque ce gibier provient d'actes de chasse commis dans
+l'une des circonstances prévues au 1° ou 2° du I.
 
 **Liens relatifs à cet article**
 
@@ -24234,7 +24867,7 @@ ou cachée.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-157 du 23 février 2005 - art. 173 () JORF 24 février 2005
 
 	**Cite**:
 
@@ -24260,45 +24893,45 @@ ou cachée.
 
 ###### Article L428-5
 
-I. - Est puni de quatre mois d'emprisonnement et d'une amende de 3 750 euros le fait de :
+I. - Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de commettre l'une des infractions suivantes :
 
-1° Chasser sur le terrain d'autrui sans son consentement, si ce terrain est attenant à une maison habitée ou servant à
-l'habitation, et s'il est entouré d'une clôture continue faisant obstacle à toute communication avec les héritages voisins ;
+1° Chasser sur le terrain d'autrui sans son consentement, si ce terrain est attenant à une maison habitée ou servant
+d'habitation, et s'il est entouré d'une clôture continue faisant obstacle à toute communication avec les héritages voisins ;
 
 2° Chasser dans les réserves de chasse approuvées par l'Etat ou établies en application des dispositions de l'article L.
 422-27 ;
 
 3° Chasser en temps prohibé ou pendant la nuit ;
 
-4° Chasser à l'aide d'engins et instruments prohibés, ou par d'autres moyens que ceux autorisés par les articles L. 424-4 et
+4° Chasser à l'aide d'engins ou instruments prohibés, ou par d'autres moyens que ceux autorisés par les articles L. 424-4 et
 L. 427-8 ;
 
 5° Employer des drogues ou appâts qui sont de nature à enivrer le gibier ou à le détruire ;
 
-6° Détenir ou être trouvé muni ou porteur, hors de son domicile, des filets, engins ou autres instruments de chasse
-prohibés ;
+6° Détenir ou être trouvé muni ou porteur, hors de son domicile, des filets, engins ou instruments de chasse prohibés, avec
+l'une des circonstances suivantes :
 
-7° Mettre en vente, vendre, acheter, transporter ou colporter du gibier en dehors des périodes autorisées en application de
+a) Etre déguisé ou masqué ;
+
+b) Avoir pris une fausse identité ;
+
+c) Avoir usé envers des personnes de violence n'ayant entraîné aucune interruption totale de travail ou une interruption
+totale de travail inférieure à huit jours ;
+
+d) Avoir fait usage d'un véhicule, quelle que soit sa nature, pour se rendre sur le lieu de l'infraction ou pour s'en
+éloigner.
+
+II. - Est puni des mêmes peines le fait de commettre, lorsque le gibier provient d'actes de chasse commis avec l'une des
+circonstances prévues aux a à d du 6° du I, l'une des infractions suivantes :
+
+1° Mettre en vente, vendre, acheter, transporter ou colporter du gibier en dehors des périodes autorisées en application de
 l'article L. 424-8 ;
 
-8° En toute saison, mettre en vente, vendre, transporter, colporter ou acheter sciemment du gibier tué à l'aide d'engins ou
-d'instruments prohibés ;
+2° En toute saison, mettre en vente, vendre, transporter, colporter ou acheter sciemment du gibier tué à l'aide d'engins ou
+d'instruments prohibés.
 
-si l'une des conditions suivantes est remplie :
-
-1° Etre en état de récidive ;
-
-2° Etre déguisé ou masqué ;
-
-3° Avoir pris une fausse identité ;
-
-4° Avoir usé de violence envers les personnes ;
-
-5° Avoir fait usage d'un avion, d'une automobile ou de tout autre véhicule pour se rendre sur le lieu de l'infraction ou pour
-s'en éloigner.
-
-II. - En cas d'application simultanée des dispositions du I du présent article et de celles de l'article L. 428-4, les peines
-encourues sont portées au double.
+III. - Est puni des mêmes peines le fait de commettre, sans circonstances aggravantes mais en état de récidive au sens de
+l'article L. 428-6, l'une des infractions prévues aux I et II.
 
 **Liens relatifs à cet article**
 
@@ -24309,7 +24942,7 @@ encourues sont portées au double.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-157 du 23 février 2005 - art. 173 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -24322,7 +24955,7 @@ encourues sont portées au double.
 	  - Code de l'environnement - art. L424-4 (M)
 	  - Code de l'environnement - art. L424-8 (M)
 	  - Code de l'environnement - art. L427-8 (V)
-	  - Code de l'environnement - art. L428-4 (M)
+	  - Code de l'environnement - art. L428-6 (V)
 
 	**Anciens textes**:
 
@@ -24332,6 +24965,41 @@ encourues sont portées au double.
 
 	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
 	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+
+###### Article L428-5-1
+
+I. – Est puni de quatre ans d'emprisonnement et de 60 000 euros d'amende le fait de chasser lorsque sont réunies les
+circonstances suivantes : 
+
+1° Pendant la nuit ou en temps prohibé ; 
+
+2° En utilisant un véhicule, quelle que soit sa nature, pour se rendre sur le lieu de l'infraction ou s'en éloigner ; 
+
+3° En étant muni d'une arme apparente ou cachée ; 
+
+4° En réunion. 
+
+II. – Est puni des mêmes peines le fait de mettre en vente, vendre, acheter, transporter ou colporter du gibier en dehors des
+périodes autorisées en application de l'article L. 424-8 lorsque le gibier provient du délit prévu au I du présent article. 
+
+III. – Est puni des mêmes peines le fait, en toute saison, de mettre en vente, vendre, transporter, colporter ou acheter
+sciemment du gibier tué à l'aide d'engins ou d'instruments prohibés lorsque le gibier provient du délit prévu au I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 173 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L424-8 (V)
 
 
 ###### Article L428-6
@@ -24368,7 +25036,7 @@ trois mois peut être prononcée pour les contraventions concernant :
 1° La chasse sur le terrain d'autrui, le non-respect des cahiers des charges relatifs à l'exploitation de la chasse dans les
 forêts relévant du régime forestier et dans les propriétés des collectivités et établissement publics ;
 
-2° Le défaut de permis ou de licence de chasse valable ;
+2° Le défaut de permis ou d'autorisation de chasser valable ;
 
 3° Les dispositions réglementaires relatives à la destruction de toute espèce de gibier, de leurs nids ou oeufs, la chasse en
 temps de neige, les chiens, les oiseaux d'eau et le gibier de passage, la reprise et le transport du gibier ;
@@ -24381,12 +25049,16 @@ temps de neige, les chiens, les oiseaux d'eau et le gibier de passage, la repris
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2001-602 du 9 juillet 2001 - art. 47 () JORF 11 juillet 2001
+	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 11
 
 	**Cité par**:
 
@@ -24397,45 +25069,33 @@ temps de neige, les chiens, les oiseaux d'eau et le gibier de passage, la repris
 	  - Code rural - art. L228-12 (Ab)
 
 
-###### Article L428-8
+###### Article L428-7-1
 
-Les peines déterminées par le troisième alinéa de l'article L. 428-1, les II à V de l'article L. 428-3 et les contraventions
-définies à l'article L. 428-7 sont toujours portées au maximum lorsque les infractions ont été commises par :
+I. - Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du
+code pénal des délits définis au présent titre.
 
-1° Les gardes champêtres ;
+II. - Les peines encourues par les personnes morales sont :
 
-2° Les techniciens et agents de l'Etat et de l'Office national des forêts, chargés des forêts ;
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
 
-3° Les agents mentionnés à l'article L. 428-22 en matière de chasse maritime.
-
-**Nota:**
-
-Nota : Ordonnance 2000-914 du 18 septembre 2000 art. 5 III : Sera abrogé à compter de l'entrée en vigueur de la partie
-réglementaire du code de l'environnement les mots : "le troisième alinéa de l'article L428-1" et les mots : "le II à V de
-l'article L428-3.
+2° Les peines mentionnées aux 8° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L228-13
-	  - Code rural - art. L228-13 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 173 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L428-1 (M)
-	  - Code de l'environnement - art. L428-22 (V)
-	  - Code de l'environnement - art. L428-3 (M)
-	  - Code de l'environnement - art. L428-7 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
 
 
 ##### Section 3 : Peines accessoires et complémentaires
@@ -24533,13 +25193,12 @@ du tribunal compétent. La confiscation et, s'il y a lieu, la destruction en son
 
 Ceux qui ont chassé sans être titulaires d'un permis de chasser valable et dûment validé sont condamnés au paiement des
 cotisations statutaires à la fédération départementale des chasseurs et à la Fédération nationale des chasseurs ainsi qu'au
-paiement des redevances cynégétiques exigibles prévues aux articles L. 423-14 et L. 423-19.
+paiement des redevances cynégétiques exigibles prévues à l'article L. 423-19. Le président de la juridiction, après le
+prononcé de la peine, avertit le condamné lorsqu'il est présent des conséquences qu'entraîne cette condamnation sur le
+paiement de ces cotisations et redevances. 
 
 Le recouvrement du montant de cette condamnation est poursuivi même si la peine principale est assortie du sursis prévu par
 l'article 734 du code de procédure pénale.
-
-La portion des frais que la loi attribue aux communes est versée à la commune sur le territoire de laquelle l'infraction a
-été constatée.
 
 **Liens relatifs à cet article**
 
@@ -24550,12 +25209,11 @@ La portion des frais que la loi attribue aux communes est versée à la commune 
 
 	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 26 () JORF 31 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 734 (M)
-	  - Code de l'environnement - art. L423-14 (M)
+	  - Code de procédure pénale - art. 734 (V)
 	  - Code de l'environnement - art. L423-19 (V)
 
 	**Cité par**:
@@ -24648,7 +25306,7 @@ peuvent priver l'auteur de l'infraction du droit d'obtenir un permis de chasser 
 
 ###### Article L428-15
 
-I. - Le permis de chasser ou l'autorisation de chasser mentionnée à l'article L. 423-2 peut être suspendu par l'autorité
+Le permis de chasser ou l'autorisation de chasser mentionnée à l'article L. 423-2 peut être suspendu par l'autorité
 judiciaire :
 
 1° En cas d'homicide involontaire ou de coups et blessures involontaires survenus à l'occasion d'une action de chasse ou de
@@ -24668,15 +25326,16 @@ e) Les infractions au plan de chasse du grand gibier ;
 
 f) Les menaces ou violences contre des personnes commises à l'occasion de la constatation d'une infraction de chasse.
 
-II. - Ces infractions sont définies par les articles L. 428-1, L. 428-5 et par des dispositions réglementaires relatives à la
-chasse et aux parcs nationaux.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -24691,12 +25350,6 @@ chasse et aux parcs nationaux.
 	**Cite**:
 
 	  - Code de l'environnement - art. L423-2 (M)
-	  - Code de l'environnement - art. L428-1 (M)
-	  - Code de l'environnement - art. L428-5 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L429-37 (V)
 
 	**Anciens textes**:
 
@@ -24753,17 +25406,9 @@ restitution provisoire de son permis.
 
 ###### Article L428-18
 
-En cas de condamnation pour l'une des infractions définies par l'article L. 428-1, les II à V de l'article L. 428-3 et dans
-les cas prévus par les dispositions réglementaires prises en application du présent chapitre, lorsque l'infraction a été
-commise avec un véhicule à moteur, les tribunaux peuvent suspendre le permis de conduire de l'auteur de l'infraction qu'il
-soit ou non conducteur du véhicule, pour un temps qui ne peut excéder trois ans.
-
-**Nota:**
-
-NOTA : Ordonnance 2000-914 du 18 septembre 2000 art. 5 III :
-
-Seront abrogés à compter de l'entrée en vigueur de la partie réglementaire du code de l'environnement les mots : "II à V de
-l'article L428-3."
+Les personnes coupables des infractions définies aux articles L. 428-1, L. 428-4, L. 428-5 et L. 428-5-1 encourent également
+la suspension pour une durée de trois ans au plus du permis de conduire, lorsque l'infraction a été commise en faisant usage
+d'un véhicule à moteur. Cette suspension peut être limitée à la conduite en dehors de l'activité professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -24777,10 +25422,14 @@ l'article L428-3."
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L428-1 (M)
-	  - Code de l'environnement - art. L428-3 (M)
+	  - Code de l'environnement - art. L428-1 (V)
+	  - Code de l'environnement - art. L428-4 (V)
 
 	**Cité par**:
 
@@ -25011,34 +25660,6 @@ dans le ressort duquel se trouve la commune la plus proche du lieu de l'infracti
 	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 11
 
 
-###### Article L428-26
-
-Une gratification par condamnation, ne pouvant excéder l'amende prononcée et recouvrée, est accordée aux gardes et gendarmes
-verbalisateurs constatant les infractions prévues au présent titre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L228-34
-	  - Code rural - art. L228-34 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 163 () JORF 24 février 2005
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L653-2 (M)
-	  - Code de l'environnement - art. L654-9 (M)
-	  - Code de l'environnement - art. R*228-20 (Ab)
-
-
 ##### Sous-section 2 : Recherche des infractions
 
 ###### Article L428-27
@@ -25184,9 +25805,12 @@ commercialisation du gibier, le gibier est saisi et immédiatement livré à l'�
 
 ###### Article L428-32
 
-Les auteurs d'infractions prévues au présent chapitre ne peuvent être appréhendés ; néanmoins, s'ils sont déguisés ou
-masqués, s'ils refusent de faire connaître leurs noms, ou s'ils n'ont pas de domicile connu, ils sont conduits immédiatement
-devant le maire ou le juge du tribunal d'instance, lequel s'assure de leur identité.
+Sont seuls habilités à appréhender les auteurs des infractions définies au présent chapitre : 
+
+1° Les officiers et agents de police judiciaire dans les conditions prévues par le code de procédure pénale ; 
+
+2° En cas de délit flagrant, les agents mentionnés aux 1° et 2° de l'article L. 428-20, sous réserve de la conduite des
+personnes appréhendées devant l'officier de police judiciaire le plus proche.
 
 **Liens relatifs à cet article**
 
@@ -25200,18 +25824,27 @@ devant le maire ou le juge du tribunal d'instance, lequel s'assure de leur ident
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 11
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L428-20 (VT)
+
 
 ##### Sous-section 3 : Poursuites
 
 ###### Article L428-33
 
-Toutes les infractions prévues par le présent titre sont poursuivies d'office par le ministère public, sans préjudice du
-droit conféré aux parties lésées par l'article 388 du code de procédure pénale.
-
-Néanmoins, dans le cas de chasse sur le terrain d'autrui sans le consentement du propriétaire, la poursuite d'office ne peut
-être exercée par le ministère public, sans une plainte de la partie intéressée, qu'autant que l'infraction a été commise dans
-un terrain clos, suivant les termes de l'article L. 424-3, et attenant à une habitation, ou sur des terres non encore
-dépouillées de leurs fruits.
+En cas de chasse sur le terrain d'autrui sans le consentement du propriétaire, la poursuite d'office ne peut être exercée par
+le ministère public, sans une plainte de la partie intéressée, qu'autant que l'infraction a été commise dans un terrain clos,
+suivant les termes de l'article L. 424-3, et attenant à une habitation, ou sur des terres non encore dépouillées de leurs
+fruits.
 
 **Liens relatifs à cet article**
 
@@ -25220,10 +25853,17 @@ dépouillées de leurs fruits.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 11
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 388 (V)
-	  - Code de l'environnement - art. L424-3 (M)
+	  - Code de l'environnement - art. L424-3 (V)
 
 	**Anciens textes**:
 
@@ -25231,57 +25871,36 @@ dépouillées de leurs fruits.
 	  - Code rural L228-41
 
 
-##### Sous-section 4 : Dispositions diverses
-
-###### Article L428-34
-
-Ceux qui ont commis conjointement les infractions de chasse sont condamnés solidairement aux amendes, dommages-intérêts et
-frais.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L228-42
-	  - Code rural - art. L228-42 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
-
-
 #### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
 ###### Article L429-1
 
 Les dispositions du présent titre sont applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle, à l'exception
-de celles des articles : L. 422-2 à L. 422-26, L. 424-8, L. 425-4, L. 426-1 à L. 426-8, L. 427-9 et L. 428-1, alinéas 1 et 2,
-et sous réserve des dispositions du présent chapitre.
+de celles des articles : L. 422-2 à L. 422-26, L. 424-8, L. 426-1 à L. 426-8, L. 427-9 et L. 428-1, alinéas 1 et 2, et sous
+réserve des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L229-1
+	  - Code rural - art. L229-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L424-8 (M)
-	  - Code de l'environnement - art. L425-4 (M)
 	  - Code de l'environnement - art. L427-9 (M)
 	  - Code de l'environnement - art. L428-1 (M)
-	  - Code de l'environnement L422-2 à L422-26, L424-8, L425-4, L426-1 à L426-8, L427-9, L428-1
-
-	**Anciens textes**:
-
-	  - Code rural - art. L229-1 (Ab)
-	  - Code rural L229-1
+	  - Code de l'environnement L422-2 à L422-26, L424-8, L426-1 à L426-8, L427-9, L428-1
 
 
 ##### Section 1 : Administration de la chasse sur le ban communal
@@ -25987,21 +26606,20 @@ le locataire de la chasse et la caution sont insolvables, sauf son recours contr
 
 ###### Article L429-27
 
-I. - Le syndicat général des chasseurs en forêt, constitué dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle,
-est composé :
+Il est constitué, dans chacun des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, un fonds départemental
+d'indemnisation des dégâts de sanglier, doté de la personnalité morale.
 
-1° De tous les locataires de chasse domaniale ou communale en forêt ;
+Les fonds départementaux d'indemnisation des dégâts de sanglier ont pour objet d'indemniser les exploitants agricoles des
+dégâts causés aux cultures par les sangliers. Ils peuvent mener et imposer des actions de prévention.
 
-2° De tous les propriétaires qui se sont réservé l'exercice du droit de chasse dans les forêts leur appartenant, conformément
-à l'article L. 429-4 ;
+Chaque fonds départemental est composé des titulaires du droit de chasse ainsi définis :
 
-3° De l'Office national des forêts pour les lots exploités en forêts domaniales par concessions de licences ou mis en
-réserve.
+1° Tous les locataires de chasse domaniale ou communale ;
 
-II. - Est considéré comme chasseur en forêt tout titulaire du droit de chasse sur un terrain comprenant des bois faisant
-partie d'une surface boisée d'au moins dix hectares d'un seul tenant.
+2° Tous les propriétaires qui se sont réservé l'exercice du droit de chasse sur les territoires leur appartenant,
+conformément à l'article L. 429-4 ;
 
-III. - Le syndicat est investi de la capacité civile.
+3° L'Office national des forêts pour les lots exploités en forêt domaniale par concessions de licences ou mis en réserve.
 
 **Liens relatifs à cet article**
 
@@ -26009,6 +26627,10 @@ III. - Le syndicat est investi de la capacité civile.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 175 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -26027,19 +26649,18 @@ III. - Le syndicat est investi de la capacité civile.
 
 ###### Article L429-28
 
-Les statuts du syndicat sont établis et modifiés par l'assemblée générale des membres et approuvés par arrêté conjoint des
-préfets. En cas de désaccord entre l'assemblée générale et ces préfets, les statuts sont fixés par décret en Conseil d'Etat.
+Les fonds départementaux d'indemnisation des dégâts de sanglier s'accordent pour élaborer leurs statuts types. Ces statuts
+types sont approuvés par arrêtés des préfets du Bas-Rhin, du Haut-Rhin et de la Moselle. En cas de désaccord entre ces
+préfets et les fonds départementaux, les statuts types sont fixés par décret en Conseil d'Etat. Chaque fonds départemental
+réunit ensuite ses membres en assemblée générale pour adopter les statuts types.
 
-Les décisions de l'assemblée générale sont prises à la majorité des voix, chaque membre ayant une voix % hectares de
-superficie boisée compris dans sa chasse. Tout titulaire du droit de chasse sur une superficie boisée comprise entre dix et
-cent hectares a une voix. Tout excédent de plus de dix hectares sur le plus grand multiple de cent hectares compris dans la
-surface boisée d'une chasse donne droit à une voix supplémentaire.
+Les décisions de l'assemblée générale sont prises à la majorité des voix des membres présents et représentés. Chaque membre
+d'un fonds départemental dispose au minimum d'une voix, quelle que soit la surface, et au maximum de dix voix. Les voix sont
+réparties de la manière suivante : une par tranche entière de 100 hectares boisés, et une par tranche entière de 200 hectares
+non boisés, pour la surface cumulée de son ou de ses territoires de chasse.
 
-Aucun membre ne peut disposer de plus de dix voix.
-
-**Nota:**
-
-NOTA : Dans la première phrase du deuxième alinéa, il y a lieu de lire "pour cent" au lieu de "%" entre "voix" et "hectares".
+Par surface boisée, on entend celle des forêts, taillis, bosquets, haies et roselières, additionnée et certifiée par la
+commune pour chaque ban communal.
 
 **Liens relatifs à cet article**
 
@@ -26047,6 +26668,10 @@ NOTA : Dans la première phrase du deuxième alinéa, il y a lieu de lire "pour 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 175 () JORF 24 février 2005
 
 	**Anciens textes**:
 
@@ -26056,9 +26681,8 @@ NOTA : Dans la première phrase du deuxième alinéa, il y a lieu de lire "pour 
 
 ###### Article L429-29
 
-La liste des chasseurs appelés à faire partie du syndicat est dressée par le préfet.
-
-La participation au syndicat est obligatoire.
+L'adhésion aux fonds départementaux d'indemnisation des dégâts de sanglier est obligatoire pour toute personne désignée aux
+1°, 2° et 3° de l'article L. 429-27.
 
 **Liens relatifs à cet article**
 
@@ -26072,6 +26696,14 @@ La participation au syndicat est obligatoire.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 175 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L429-27 (M)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L429-30 (V)
@@ -26079,21 +26711,13 @@ La participation au syndicat est obligatoire.
 
 ###### Article L429-30
 
-Il est versé chaque année à la caisse du syndicat :
+Les membres des fonds départementaux d'indemnisation des dégâts de sanglier, désignés aux articles L. 429-27 et L. 429-29,
+versent chaque année avant le 1er avril à la caisse de chaque fonds départemental auquel ils adhèrent, une contribution fixée
+par leur assemblée générale, ne dépassant pas 12 % du loyer de chasse annuel ou de la contribution définie à l'article L.
+429-14.
 
-1° Par tout locataire de chasse domaniale ou communale, une somme égale à 10 % du loyer annuel dû à l'Etat ou à la commune ;
-
-2° Par tout propriétaire qui s'est réservé l'exercice du droit de chasse conformément à l'article L. 429-4, une somme égale à
-10 % de la contribution définie par l'article L. 429-14, que le propriétaire soit tenu ou non au versement de ladite
-contribution ;
-
-3° Par l'Office national des forêts pour les lots exploités en forêts domaniales par concessions de licences, ou mis en
-réserve, une somme égale à 10 % d'une valeur locative calculée sur la base du prix moyen à l'hectare des locations en forêts
-domaniales dans le département intéressé ;
-
-4° Par les personnes physiques ou morales pour les lots de chasse qui font l'objet à leur profit d'une location ou d'une
-autorisation temporaire de chasser sur le domaine militaire, une somme égale à 10 % d'une valeur locative calculée sur la
-base du prix moyen à l'hectare des locations dans le département intéressé.
+Toute somme due au fonds départemental et non réglée à l'échéance portera intérêt à un taux égal à une fois et demie le taux
+de l'intérêt légal.
 
 **Liens relatifs à cet article**
 
@@ -26102,10 +26726,15 @@ base du prix moyen à l'hectare des locations dans le département intéressé.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 175 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L429-14 (V)
-	  - Code de l'environnement - art. L429-4 (V)
+	  - Code de l'environnement - art. L429-27 (M)
+	  - Code de l'environnement - art. L429-29 (M)
 
 	**Cité par**:
 
@@ -26119,18 +26748,24 @@ base du prix moyen à l'hectare des locations dans le département intéressé.
 
 ###### Article L429-31
 
-Il est tenu un compte spécial des recettes et des dépenses du syndicat par département.
+Dans le cas où les ressources d'une année, résultant des dispositions de l'article L. 429-30 et du compte de réserve, ne
+suffiraient pas à couvrir les dépenses incombant à un fonds départemental d'indemnisation, son assemblée générale fixe pour
+cette année une ou plusieurs des contributions complémentaires suivantes :
 
-Au cas où les revenus d'une année déterminés par l'article L. 429-30 seraient insuffisants pour couvrir les dépenses
-incombant au syndicat dans un département à titre d'indemnité pour dégâts causés par les sangliers et de frais
-d'administration, l'excédent de ces dépenses est réparti entre les membres du syndicat dans le département
-proportionnellement à la surface de leurs chasses en forêt, à moins qu'il ne puisse être couvert avec le fonds de réserve.
+a) Une contribution complémentaire départementale due par les membres du fonds départemental, proportionnellement à la
+surface boisée de leur territoire de chasse ;
 
-Au cas où les revenus d'une année, constitués par les versements prévus à l'article L. 429-30 dans un département,
-excéderaient les dépenses du syndicat, l'excédent serait versé à un fonds de réserve.
+b) Une contribution complémentaire déterminée par secteur cynégétique du département, due par les membres du fonds
+départemental pour le secteur dont ils font partie, proportionnellement à la surface totale de leur territoire de chasse, ou
+proportionnellement à sa surface boisée ;
 
-Lorsque la fin d'un exercice, le fonds de réserve d'un département excède le montant moyen des dépenses des trois derniers
-exercices, l'excédent vient en déduction des sommes à recevoir l'année suivante, en vertu de l'article L. 429-30.
+c) Une contribution personnelle unique due par tout chasseur, le premier jour où il chasse le sanglier dans le département.
+
+A l'inverse, au cas où les ressources d'une année, constituées par les versements prévus à l'article L. 429-30, excéderaient
+les dépenses d'un fonds départemental, l'excédent serait versé au compte de réserve de ce département.
+
+Lorsqu'à la fin d'un exercice, le compte de réserve excède le montant moyen des dépenses des trois derniers exercices,
+l'excédent vient en déduction des sommes à percevoir l'année suivante en vertu de l'article L. 429-30.
 
 **Liens relatifs à cet article**
 
@@ -26138,6 +26773,10 @@ exercices, l'excédent vient en déduction des sommes à recevoir l'année suiva
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 175 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -26156,14 +26795,20 @@ exercices, l'excédent vient en déduction des sommes à recevoir l'année suiva
 
 ###### Article L429-32
 
-Toute demande en indemnité pour les dommages causés par les sangliers est soumise, à défaut d'accord entre le demandeur et le
-syndicat, à un expert désigné par l'autorité judiciaire.
+Toute demande d'indemnisation pour des dommages causés par les sangliers est adressée, dès la constatation des dégâts, au
+fonds départemental, qui délègue un estimateur pour examiner de manière contradictoire les cultures agricoles endommagées.
+L'estimateur remet séance tenante ses conclusions sur l'imputabilité des dégâts aux sangliers, leur ancienneté, la superficie
+affectée par ces dégâts, le taux d'atteinte de cette superficie et la perte de récolte prévisible.
 
-Cet expert fixe le montant de l'indemnité qui ne peut être supérieur au montant de la demande ni inférieur à l'offre du
-syndicat.
+A défaut d'accord sur les conclusions de l'estimateur, l'exploitant agricole ou le fonds départemental saisit dans les huit
+jours suivant la date de l'estimation, et sous peine de forclusion, le tribunal d'instance du lieu des cultures agricoles
+endommagées, d'une demande en désignation d'un expert.
 
-La décision de l'expert est susceptible d'appel devant les tribunaux judiciaires lorsque la demande excède le taux du dernier
-ressort.
+En cas de désaccord sur les conclusions de cet expert judiciaire, l'exploitant agricole ou le fonds départemental saisit dans
+les huit jours suivant la date de dépôt du rapport d'expertise, et sous peine de forclusion, ce même tribunal d'une demande
+en fixation de l'indemnisation.
+
+Aucune demande d'estimation ou d'expertise judiciaire n'est recevable après la récolte des cultures agricoles endommagées.
 
 **Liens relatifs à cet article**
 
@@ -26176,6 +26821,10 @@ ressort.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 175 () JORF 24 février 2005
 
 
 ##### Section 4 : Pénalités
@@ -32066,9 +32715,17 @@ disproportionné par rapport au prix de vente.
 ###### Article L515-1
 
 Les exploitations de carrières sont soumises à l'autorisation administrative prévue à l'article L. 512-1, à l'exception des
-carrières de marne ou d'arène granitique de dimension et de rendement faibles utilisées à ciel ouvert, sans but commercial,
-dans le champ même des exploitants ou dans la carrière communale, soumises aux dispositions applicables aux installations
-relevant du régime de la déclaration figurant à la section 2 du chapitre II du présent titre.
+carrières de marne, de craie et de tout matériau destiné au marnage des sols ou d'arène granitique de dimension et de
+rendement faibles utilisées à ciel ouvert, sans but commercial, dans le champ même des exploitants ou dans la carrière
+communale, soumises aux dispositions applicables aux installations relevant du régime de la déclaration figurant à la section
+2 du chapitre II du présent titre. Cette exception est également applicable aux carrières de pierre, de sable et d'argile de
+faible importance destinées à la restauration des monuments historiques classés ou inscrits ou des immeubles figurant au plan
+de sauvegarde et de mise en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou
+l'altération sont interdits, ou à la restauration de bâtiments anciens dont l'intérêt patrimonial ou architectural justifie
+que celle-ci soit effectuée avec leurs matériaux d'origine. La même exception est applicable aux sondages réalisés
+préalablement à l'ouverture ou à l'extension de carrières de pierre marbrière de dimension et de rendement faibles. Ces
+carrières de pierre, de sable et d'argile et ces sondages sont soumis à des contrôles périodiques, effectués aux frais de
+l'exploitant, par des organismes agréés visés à l'article L. 512-11.
 
 L'autorisation administrative visée à l'alinéa précédent ne peut excéder trente ans.
 
@@ -32102,12 +32759,14 @@ durée de l'autorisation administrative d'exploitation de carrière.
 	**Modifié par**:
 
 	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 42 () JORF 24 février 2005
 
 	**Cite**:
 
 	  - Code forestier - art. L311-1 (M)
 	  - Code forestier - art. L312-1 (M)
 	  - Code de l'environnement - art. L512-1 (M)
+	  - Code de l'environnement - art. L512-11 (V)
 	  - Code de l'environnement - art. L512-2 (M)
 
 	**Liens**:
