@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-06-25
+Version Consolidée au 2004-07-02
 
 # Partie législative
 
@@ -2408,100 +2408,7 @@ La déclaration de projet est publiée dans des conditions définies par décret
 
 #### Chapitre Ier : Institutions intervenant dans le domaine de la protection de l'environnement
 
-##### Section 1 : Conseil départemental et comité régional de l'environnement
-
-###### Article L131-1
-
-Il est institué, dans chaque département, un conseil départemental de l'environnement. Ce conseil est composé notamment de
-membres de la commission des sites, perspectives et paysages, du conseil départemental de la chasse et de la faune sauvage,
-de la commission départementale des carrières, du conseil départemental d'hygiène et de la commission départementale des
-risques naturels majeurs représentant de façon équilibrée et en tenant compte de leur représentativité les différents
-intérêts en présence. Il est présidé par le préfet ou par son représentant.
-
-Il peut être saisi pour avis par le préfet ou le président du conseil général sur toute question relative à l'environnement
-ou au cadre de vie du département et qui ne relève pas de la compétence exclusive de l'un des organismes mentionnés au
-premier alinéa. Il est consulté également dans le cas prévu à l'article L. 310-2.
-
-Lorsque le conseil délibère sur une compétence détenue par le département, la présidence est assurée par le président du
-conseil général ou son représentant.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°95-101 du 2 février 1995 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 44 () JORF 31 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
-
-	**Cité par**:
-
-	  - Décret n°2016-1842 du 26 décembre 2016 - art. 1
-	  - Décret n°2017-65 du 24 janvier 2017 (V)
-	  - Code de l'environnement - art. R131-30-1 (V)
-	  - Code de l'environnement - art. R131-33 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L310-2 (M)
-
-
-###### Article L131-2
-
-Il est institué, dans chaque région, un comité régional de l'environnement.
-
-Présidé par le président du conseil régional ou par son représentant, ce comité est composé pour moitié de conseillers
-régionaux, pour un quart de représentants des associations de protection de l'environnement agréées au titre de l'article L.
-141-1 désignés par le préfet de région et pour un quart de personnalités qualifiées désignées par le président du conseil
-régional.
-
-Il est chargé par le président du conseil régional ou par le président du conseil économique et social régional d'une mission
-de réflexion, de proposition et de conciliation sur tout sujet ou projet d'intérêt régional ayant trait à l'environnement.
-
-A ce titre, il peut établir, en liaison avec les départements concernés, un inventaire du patrimoine paysager de la région.
-
-En outre, ce comité étudie les différents aspects de la pollution atmosphérique et ses effets sur l'environnement et la
-santé, avec le concours des organismes agréés prévus à l'article L. 221-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°95-101 du 2 février 1995 - art. 10 (M)
-	  - Loi n°95-101 du 2 février 1995 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L141-1 (M)
-	  - Code de l'environnement - art. L221-3 (V)
-
-
-##### Section 2 : Agence de l'environnement et de la maîtrise de l'énergie
+##### Section 1 : Agence de l'environnement et de la maîtrise de l'énergie
 
 ###### Article L131-3
 
@@ -2543,6 +2450,10 @@ IV. - Pour accomplir ses missions, l'agence dispose d'une délégation dans chaq
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
+
 	**Cité par**:
 
 	  - Arrêté du 13 octobre 2015 (V)
@@ -2563,16 +2474,16 @@ IV. - Pour accomplir ses missions, l'agence dispose d'une délégation dans chaq
 
 ###### Article L131-4
 
-Le conseil d'administration de l'agence est composé :
+Le conseil d'administration de l'agence est composé : 
 
-1° De représentants de l'Etat ;
+1° De représentants de l'Etat ; 
 
-2° De membres du Parlement ;
+2° De membres du Parlement ; 
 
-3° De représentants de collectivités territoriales ;
+3° De représentants de collectivités territoriales ; 
 
 4° De personnalités qualifiées, de représentants d'associations de protection de l'environnement agréées au titre de
-l'article L. 141-1 et de représentants de groupements professionnels intéressés ;
+l'article L. 141-1 et de représentants de groupements professionnels intéressés ; 
 
 5° De représentants du personnel dans les conditions définies au deuxième alinéa de l'article 4 de la loi n° 83-675 du 26
 juillet 1983 relative à la démocratisation du secteur public.
@@ -2581,8 +2492,8 @@ juillet 1983 relative à la démocratisation du secteur public.
 
 	**Cite**:
 
-	  - Loi n°83-675 1983-07-26 art. 4
-	  - Code de l'environnement - art. L141-1 (M)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 4 (M)
+	  - Code de l'environnement - art. L141-1 (V)
 
 	**Anciens textes**:
 
@@ -2593,6 +2504,10 @@ juillet 1983 relative à la démocratisation du secteur public.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
 
 	**Liens**:
 
@@ -2615,6 +2530,10 @@ l'environnement, de la recherche et de l'industrie.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
 
 	**Liens**:
 
@@ -2639,6 +2558,10 @@ redevances pour service rendu et le produit de taxes parafiscales.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
 
 	**Cité par**:
 
@@ -2665,16 +2588,20 @@ Un décret en Conseil d'Etat fixe les conditions d'application des articles L. 1
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
+
 	**Cite**:
 
-	  - Code de l'environnement L131-3 à L131-6
+	  - Code de l'environnement - art. L131-3 (V)
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la recherche - art. L335-1 (Ab)
 
 
-##### Section 3 : Groupements d'intérêt public dans le domaine de l'environnement
+##### Section 2 : Groupements d'intérêt public dans le domaine de l'environnement
 
 ###### Article L131-8
 
@@ -2691,7 +2618,7 @@ directeur est nommé après avis du ministre chargé de l'environnement.
 
 	**Cite**:
 
-	  - Loi n°82-610 1982-07-15 art. 21
+	  - Loi n°82-610 du 15 juillet 1982
 
 	**Anciens textes**:
 
@@ -2700,8 +2627,16 @@ directeur est nommé après avis du ministre chargé de l'environnement.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 118
 
 	**Cité par**:
 
@@ -4769,8 +4704,9 @@ recense les différents usages qui sont faits des ressources en eau existantes.
 
 Il prend en compte les documents d'orientation et les programmes de l'Etat, des collectivités territoriales et de leurs
 groupements, des syndicats mixtes, des établissements publics, des autres personnes morales de droit public, ainsi que des
-sociétés d'économie mixte et des associations syndicales de la loi du 21 juin 1865 sur les associations syndicales ayant des
-incidences sur la qualité, la répartition ou l'usage de la ressource en eau.
+sociétés d'économie mixte et des associations syndicales libres de l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux
+associations syndicales de propriétaires ayant des incidences sur la qualité, la répartition ou l'usage de la ressource en
+eau.
 
 Il énonce, ensuite, les priorités à retenir pour atteindre les objectifs définis à l'article L. 212-3, en tenant compte de la
 protection du milieu naturel aquatique, des nécessités de mise en valeur de la ressource en eau, de l'évolution prévisible de
@@ -4796,16 +4732,20 @@ Il doit être compatible avec les orientations fixées par le schéma directeur 
 	  - Code de l'environnement - art. R212-36 (V)
 	  - Code de l'environnement - art. R212-42 (M)
 
-	**Cite**:
-
-	  - Loi n°1865-06-21
-	  - Code de l'environnement - art. L212-1 (M)
-	  - Code de l'environnement - art. L212-3 (M)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Ordonnance 2004-632 2004-07-01
+	  - Code de l'environnement - art. L212-1 (M)
+	  - Code de l'environnement - art. L212-3 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 61 () JORF 2 juillet 2004
 
 
 ###### Article L212-6
@@ -11276,8 +11216,8 @@ sont associés à son élaboration.
 
 ###### Article L222-2
 
-Le comité régional de l'environnement, les conseils départementaux d'hygiène et les représentants des organismes agréés
-prévus à l'article L. 221-3 sont associés à l'élaboration du plan régional pour la qualité de l'air.
+Les conseils départementaux d'hygiène et les représentants des organismes agréés prévus à l'article L. 221-3 sont associés à
+l'élaboration du plan régional pour la qualité de l'air.
 
 Le projet de plan est mis à la disposition du public pour consultation. Il est transmis pour avis aux communes, aux
 établissements publics de coopération intercommunale et aux syndicats mixtes compétents pour l'élaboration d'un schéma de
@@ -11312,8 +11252,7 @@ En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et 
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 2002-02-27 art. 109 I B, C JORF 28 février 2002
-	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
 
 	**Cité par**:
 
@@ -11365,11 +11304,11 @@ par décret en Conseil d'Etat, les valeurs limites mentionnées à l'article L. 
 préfet élabore un plan de protection de l'atmosphère, compatible avec les orientations du plan régional pour la qualité de
 l'air s'il existe.
 
-II. - Le projet de plan est, après avis du comité régional de l'environnement et des conseils départementaux d'hygiène
-concernés, soumis, pour avis, aux conseils municipaux et, lorsqu'ils existent, aux organes délibérants des établissements
-publics de coopération intercommunale intéressés. L'avis qui n'est pas donné dans un délai de six mois après transmission du
-projet de plan est réputé favorable. Il est ensuite soumis à enquête publique dans les conditions prévues au chapitre III du
-titre II du livre Ier.
+II. - Le projet de plan est, après avis des commissions départementales compétentes en matière d'environnement, de risques
+sanitaires et technologiques concernés, soumis, pour avis, aux conseils municipaux et, lorsqu'ils existent, aux organes
+délibérants des établissements publics de coopération intercommunale intéressés. L'avis qui n'est pas donné dans un délai de
+six mois après transmission du projet de plan est réputé favorable. Il est ensuite soumis à enquête publique dans les
+conditions prévues au chapitre III du titre II du livre Ier.
 
 III. - Eventuellement modifié pour tenir compte des résultats de l'enquête, le plan est arrêté par le préfet.
 
@@ -11380,12 +11319,12 @@ ce dépassement a été constaté.
 
 V. - Les plans font l'objet d'une évaluation au terme d'une période de cinq ans et, le cas échéant, sont révisés.
 
+**Nota:**
+
+Ordonnance 2004-637 2004-07-01 art. 41 : les modifications induites par l'article 23 V entrent en vigueur au plus tard, le
+1er juillet 2006.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1997-01-01
-	  - Code de l'environnement - art. L221-1 (M)
 
 	**Cité par**:
 
@@ -11426,6 +11365,11 @@ V. - Les plans font l'objet d'une évaluation au terme d'une période de cinq an
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 23 () JORF 2 juillet 2004
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
 
 
 ###### Article L222-5
@@ -13391,7 +13335,7 @@ l'environnement concernées.
 Un rapport d'orientation, élaboré par l'Etat, énonce les mesures prévues, dans le cadre de ses compétences, pour assurer la
 protection et la gestion des sites, paysages et milieux naturels.
 
-Le projet de rapport d'orientation est soumis pour avis au conseil général et au conseil départemental de l'environnement.
+Le projet de rapport d'orientation est soumis pour avis au conseil général.
 
 Le projet de rapport d'orientation est ensuite mis à la disposition du public pendant deux mois. Il est approuvé par arrêté
 préfectoral et publié.
@@ -13400,6 +13344,10 @@ Le rapport d'orientation est révisé à l'initiative du préfet, à l'issue d'u
 prévue pour son adoption.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -13411,6 +13359,10 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
 
 	**Cité par**:
 
