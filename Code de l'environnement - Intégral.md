@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-04-16
 
 # Partie législative
 
@@ -7426,16 +7426,26 @@ articles L. 218-10 à L. 218-19 ou n'a pas pris les mesures nécessaires pour l'
 
 ###### Article L218-21
 
-Dans la zone économique au large des côtes du territoire de la République, les eaux territoriales, les eaux intérieures et
-les voies navigables françaises jusqu'aux limites de la navigation maritime, les dispositions de la présente sous-section
-s'appliquent, dans les conditions prévues aux articles L. 218-10, L. 218-11, L. 218-13 à L. 218-19, aux navires et plates-
-formes étrangers même immatriculés dans un territoire relevant d'un gouvernement non partie à la convention mentionnée à
-l'article L. 218-10.
+Dans la zone économique au large des côtes du territoire de la République, et la zone de protection écologique définies par
+la loi n° 76-655 du 16 juillet 1976 relative à la zone économique et à la zone de protection écologique au large des côtes du
+territoire de la République, les eaux territoriales, les eaux intérieures et les voies navigables françaises jusqu'aux
+limites de la navigation maritime, les dispositions de la présente sous-section s'appliquent, dans les conditions prévues aux
+articles L. 218-10, L. 218-11, L. 218-13 à L. 218-19, aux navires et plates-formes étrangers même immatriculés dans un
+territoire relevant d'un gouvernement non partie à la convention mentionnée à l'article L. 218-10.
 
 Toutefois, seules les peines d'amendes prévues aux articles L. 218-10, L. 218-11 et L. 218-13 à L. 218-19 peuvent être
-prononcées lorsque l'infraction a lieu dans la zone économique au large des côtes du territoire de la République.
+prononcées lorsque l'infraction a lieu dans la zone économique ou dans la zone de protection écologique  au large des côtes
+du territoire de la République.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention internationale 1973-11-02
+	  - Loi n°76-655 1976-07-16
+	  - Code de l'environnement - art. L218-10 (M)
+	  - Code de l'environnement - art. L218-11 (M)
+	  - Code de l'environnement L218-10, L218-11, L218-13 à L218-19
 
 	**Anciens textes**:
 
@@ -7447,16 +7457,9 @@ prononcées lorsque l'infraction a lieu dans la zone économique au large des c�
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Code de l'environnement - art. L218-11 (M)
-	  - Code de l'environnement L218-10, L218-11, L218-13 à L218-19
-	  - Convention internationale 1973-11-02
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
+	  - Loi n°2003-346 du 15 avril 2003 - art. 3 () JORF 16 avril 2003
 
 
 ###### Article L218-22
@@ -7763,20 +7766,20 @@ chaussées chargé du service maritime s'il s'agit d'engins portuaires, de chala
 
 ###### Article L218-29
 
-I. - Dès lors qu'elles ont été commises dans les eaux territoriales, les eaux intérieures et les voies navigables françaises
-jusqu'aux limites de la navigation maritime, les infractions aux dispositions de la convention mentionnée à l'article L.
-218-10 et à celles de la présente sous-section, ainsi que les infractions qui leurs ont connexes, sont jugées par un tribunal
-de grande instance du littoral maritime spécialisé, éventuellement compétent sur les ressorts de plusieurs cours d'appel dans
-les conditions prévues par le présent article.
+I. - Dès lors qu'elles ont été commises dans la zone économique, la zone de protection écologique, les eaux territoriales,
+les eaux intérieures et les voies navigables françaises jusqu'aux limites de la navigation maritime, les infractions aux
+dispositions de la convention mentionnée à l'article L. 218-10 et à celles de la présente sous-section, ainsi que les
+infractions qui leurs ont connexes, sont jugées par un tribunal de grande instance du littoral maritime spécialisé,
+éventuellement compétent sur les ressorts de plusieurs cours d'appel dans les conditions prévues par le présent article.
 
 Un décret fixe la liste et le ressort de ces tribunaux.
 
-II. - Le tribunal de grande instance de Paris est compétent pour le jugement des infractions commises dans la zone économique
-exclusive française ainsi que de celles commises par les capitaines de navires français en haute mer.
+II. - Le tribunal de grande instance de Paris est compétent pour la poursuite, l'instruction et le jugement des infractions
+commises par les capitaines de navires français se trouvant hors des espaces maritimes sous juridiction française.
 
-III. - Exercent une compétence concurrente avec les juridictions désignées aux I et II pour la poursuite et l'instruction des
-infractions commises dans les eaux territoriales et dans la zone économique exclusive les tribunaux de grande instance
-compétents en application des articles 43, 52, 382, 663, deuxième alinéa, et 706-42 du code de procédure pénale.
+III. - Pour la poursuite et l'instruction des infractions mentionnées au I, les tribunaux désignés au I et au II et le
+tribunal de grande instance dans le ressort duquel peut être trouvé le bâtiment exercent une compétence concurrente à celle
+qui résulte de l'application des articles 43, 52, 382, 663, deuxième alinéa, et 706-42 du code de procédure pénale.
 
 IV. - Dans chaque juridiction visée aux I, II et III, un ou plusieurs juges d'instruction sont désignés pour l'instruction
 des faits susceptibles de constituer une infraction à la présente sous-section.
@@ -7798,12 +7801,12 @@ d'instruction du tribunal mentionné au I exercent leurs attributions sur toute 
 
 	**Modifié par**:
 
-	  - Loi n°2001-380 du 3 mai 2001 - art. 6 () JORF 4 mai 2001
+	  - Loi n°2003-346 du 15 avril 2003 - art. 4 () JORF 16 avril 2003
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°2003-699 2003-07-30 art. 83 : dispositions transitoires
 	  - TXT_ASSOCIE: Loi n°2003-699 du 30 juillet 2003 - art. 83 (V)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 	**Cité par**:
 
@@ -8376,11 +8379,13 @@ au sens de l'article L. 218-43. Elles tiennent lieu également des autorisations
 ###### Article L218-45
 
 Les dispositions de la présente section sont également applicables aux opérations d'immersion effectuées en dehors de la zone
-d'application de la convention d'Oslo, soit en haute mer, soit dans les eaux territoriales et intérieures maritimes
-françaises.
+d'application de la convention d'Oslo, soit en haute mer, soit dans la zone économique ou dans la zone de protection
+écologique, soit dans les eaux territoriales et intérieures maritimes françaises.
 
 Dans les eaux territoriales et intérieures maritimes françaises, les dispositions de la présente section s'appliquent aux
-navires, aéronefs, engins et plates-formes étrangers, même immatriculés dans un Etat non partie à ladite convention.
+navires, aéronefs, engins et plates-formes étrangers, même immatriculés dans un Etat non partie à ladite convention. Seules
+les peines d'amende mentionnées à la sous-section 2 de la présente section peuvent être prononcées à l'encontre des navires
+étrangers pour des infractions commises au-delà de la mer territoriale.
 
 **Liens relatifs à cet article**
 
@@ -8392,6 +8397,10 @@ navires, aéronefs, engins et plates-formes étrangers, même immatriculés dans
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-346 du 15 avril 2003 - art. 5 () JORF 16 avril 2003
 
 	**Liens**:
 
@@ -8933,16 +8942,15 @@ soient.
 
 ###### Article L218-61
 
-I. - Les dispositions de la présente section s'appliquent aux navires étrangers :
+I.-Les dispositions de la présente section s'appliquent aux navires étrangers : 
 
-1° En cas d'incinération dans les eaux sous souveraineté ou sous juridiction française ;
+1° En cas d'incinération dans les eaux sous souveraineté ou sous juridiction française ; 
 
 2° Même en cas d'incinération hors des eaux sous souveraineté ou sous juridiction française, lorsque l'embarquement ou le
-chargement a eu lieu sur le territoire français.
+chargement a eu lieu sur le territoire français. 
 
-II. - Toutefois seules les peines d'amende prévues aux articles L. 218-64 et L. 218-65 peuvent être prononcées lorsque
-l'infraction a lieu dans la zone économique, telle que définie à l'article 1er de la loi n° 76-655 du 16 juillet 1976
-relative à la zone économique au large des côtes du territoire de la République.
+II.-Toutefois seules les peines d'amende prévues aux articles L. 218-64 et L. 218-65 peuvent être prononcées lorsque
+l'infraction a lieu dans la zone économique ou dans la zone de protection écologique.
 
 **Liens relatifs à cet article**
 
@@ -8950,16 +8958,18 @@ relative à la zone économique au large des côtes du territoire de la Républi
 
 	  - Loi n°76-600 du 7 juillet 1976 - art. 8 (M)
 
-	**Cite**:
-
-	  - Loi n°76-655 du 16 juillet 1976 - art. 1, v. init.
-	  - Code de l'environnement - art. L218-64 (M)
-	  - Code de l'environnement - art. L218-65 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-346 du 15 avril 2003 - art. 6 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L218-64 (V)
 
 
 ###### Article L218-62
@@ -9580,6 +9590,38 @@ de l'exercice de laquelle l'infraction a été commise.
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code de l'environnement - art. L218-73 (M)
+
+
+##### Section 7 : Zone de protection écologique
+
+###### Article L218-81
+
+Ainsi qu'il est dit à l'article 4 de la loi n° 76-655 du 16 juillet 1976 relative à la zone économique et à la zone de
+protection écologique au large des côtes du territoire de la République, ci-après reproduit :
+
+Art. 4 - Dans la zone économique définie à l'article 1er, les autorités françaises exercent en outre les compétences
+reconnues par le droit international relatives à la protection et à la préservation du milieu marin, à la recherche
+scientifique marine, à la mise en place et à l'utilisation d'îles artificielles, d'installations et d'ouvrages.
+
+Lorsque, dans une zone délimitée ainsi qu'il est précisé à l'article 1er, les autorités françaises entendent, pour des motifs
+tenant aux relations internationales, n'exercer que les compétences mentionnées au premier alinéa, cette zone est dénommée
+zone de protection écologique. Dans cette zone, les dispositions de l'article 3 ne s'appliquent pas aux navires battant
+pavillon d'un Etat étranger.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°76-655 du 16 juillet 1976 - art. 4 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-346 du 15 avril 2003 - art. 7 () JORF 16 avril 2003
 
 
 ### Titre II : Air et atmosphère
@@ -40076,6 +40118,28 @@ Gouvernement de la République ou par l'un de ses représentants.
 	  - Code de l'environnement - art. L612-1 (M)
 
 
+#### Chapitre III : Antarctique
+
+###### Article L613-1
+
+Les articles L. 711-1 à L. 713-9 sont applicables à la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 2 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L711-1 (V)
+
+
 ### Titre II : Dispositions applicables en Polynésie Française
 
 #### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement
@@ -40268,6 +40332,28 @@ Gouvernement de la République ou par l'un de ses représentants.
 	**Cite**:
 
 	  - Code de l'environnement - art. L622-1 (M)
+
+
+#### Chapitre III : Antarctique
+
+###### Article L623-1
+
+Les articles L. 711-1 à L. 713-9 sont applicables à la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 2 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L711-1 (V)
 
 
 ### Titre III : Dispositions applicables à Wallis et Futuna
@@ -40475,6 +40561,28 @@ pollution atmosphérique d'origine domestique sont énoncées à l'article L. 15
 	  - Code de la santé publique - art. L1523-2 (V)
 
 
+#### Chapitre IV : Antarctique
+
+###### Article L634-1
+
+Les articles L. 711-1 à L. 713-9 sont applicables à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 2 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L711-1 (V)
+
+
 ### Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises
 
 ###### Article L640-1
@@ -40527,6 +40635,26 @@ Gouvernement de la République ou par l'un de ses représentants.
 	**Cite**:
 
 	  - Code de l'environnement - art. L640-1 (VT)
+
+
+###### Article L640-3
+
+Les articles L. 711-1 à L. 713-9 sont applicables aux terres Australes et Antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 2 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L711-1 (V)
 
 
 ### Titre V : Dispositions applicables à Mayotte
@@ -41655,5 +41783,497 @@ Gouvernement est remplacée par la référence au représentant de l'Etat.
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L655-8 (V)
+
+
+#### Chapitre VI : Antarctique
+
+###### Article L656-1
+
+Les articles L. 711-1 à L. 713-9 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 2 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L711-1 (V)
+
+
+## Livre VII : Protection de l'environnement en Antarctique
+
+### Titre unique : Mise en oeuvre du protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, signé à Madrid le 4 octobre 1991
+
+#### Chapitre Ier : Dispositions communes
+
+###### Article L711-1
+
+Pour l'application des dispositions du présent titre, l'Antarctique s'entend comme la zone définie à l'article 6 du traité
+sur l'Antarctique conclu à Washington le 1er décembre 1959, c'est-à-dire la zone située au sud du 60e degré de latitude Sud,
+y compris toutes les plates-formes glaciaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L613-1 (V)
+	  - Code de l'environnement - art. L623-1 (V)
+	  - Code de l'environnement - art. L634-1 (V)
+	  - Code de l'environnement - art. L640-3 (V)
+	  - Code de l'environnement - art. L656-1 (V)
+
+	**Cite**:
+
+	  - Traité 1959-12-01 (sur l'Antarctique) art. 6
+
+
+###### Article L711-2
+
+I. - L'organisation et la conduite d'activités en Antarctique prennent en considération, selon les modalités prévues au
+présent titre, la protection de l'environnement et des écosystèmes dépendants et associés, ainsi que la préservation de
+l'Antarctique en tant que réserve naturelle mondiale, consacrée à la paix, à la science et à la recherche scientifique.
+
+II. - Ces activités sont soumises soit à déclaration préalable, soit à autorisation dans les conditions définies au chapitre
+II, à l'exception :
+
+- des activités de pêche régies par la convention sur la conservation de la faune et de la flore marines de l'Antarctique,
+signée à Canberra le 20 mai 1980 ;
+
+- de l'exercice de la liberté de navigation et de la liberté de survol en haute mer conformément au droit international ;
+
+- des activités autorisées par une autre partie au protocole de Madrid ;
+
+- des activités exercées par des navires et aéronefs de l'Etat français ou exploités par celui-ci dans le cadre de leurs
+missions de police et de défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention 1980-05-20, signée à Canberra
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+
+###### Article L711-3
+
+Sont soumis aux dispositions du présent titre :
+
+a) Les personnes, quelle que soit leur nationalité, qui exercent une activité dans le district de terre Adélie relevant de
+l'administration du territoire des terres Australes et Antarctiques françaises, ainsi que tout navire ou aéronef utilisé à
+cette fin ;
+
+b) Les personnes physiques de nationalité française et les personnes morales constituées conformément au droit français qui
+organisent des activités dans les autres parties de l'Antarctique ou y participent, ainsi que les navires battant pavillon
+français et les aéronefs immatriculés en France utilisés à cette fin ;
+
+c) Les personnes qui, quelle que soit leur nationalité, organisent sur le territoire français ou à partir de celui-ci des
+activités se déroulant dans une partie quelconque de l'Antarctique, ou y participent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L713-5 (V)
+
+
+###### Article L711-4
+
+Aucune disposition du présent titre ne porte atteinte aux immunités prévues par le droit international dont jouissent les
+navires de guerre et les autres navires d'Etat étrangers utilisés à des fins non commerciales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+
+#### Chapitre II : Déclaration et autorisation
+
+###### Article L712-1
+
+I. - Les activités ayant sur l'environnement en Antarctique un impact au moins mineur ou transitoire, au sens de l'article 8
+du protocole de Madrid, sont soumises à autorisation.
+
+II. - Les autres activités sont soumises à déclaration préalable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cité par**:
+
+	  - Arrêté du 29 janvier 2009 - art. 1 (V)
+	  - Code de l'environnement - art. L173-1 (V)
+	  - Code de l'environnement - art. L712-5 (V)
+	  - Code de l'environnement - art. L713-5 (V)
+	  - Code de l'environnement - art. R*712-3 (V)
+	  - Code de l'environnement - art. R712-1 (V)
+	  - Code de l'environnement - art. R712-4 (V)
+	  - Code de l'environnement - art. R712-9 (V)
+
+
+###### Article L712-2
+
+La délivrance d'une autorisation est subordonnée à la réalisation préalable d'une évaluation de l'impact de l'activité sur
+l'environnement. 
+
+Sous réserve de l'article L. 713-4, l'autorisation ne peut être accordée que s'il résulte de l'évaluation que l'impact de
+l'activité est compatible avec la conservation de l'environnement de l'Antarctique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L713-4 (V)
+
+
+###### Article L712-3
+
+L'autorisation peut être assortie en tant que de besoin de prescriptions relatives, notamment :
+
+- aux zones géographiques intéressées ;
+
+- à la période durant laquelle les activités se déroulent ;
+
+- au matériel utilisé, en particulier aux conditions d'utilisation des matériaux radioactifs à des fins scientifiques ;
+
+- aux équipements et plans de préparation aux situations d'urgence ;
+
+- au mode de gestion des déchets.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+
+###### Article L712-4
+
+La mise hors service d'une installation autorisée est elle-même soumise à autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+
+###### Article L712-5
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre. Il détermine notamment les autorités
+compétentes pour la délivrance des autorisations, les activités visées au II de l'article L. 712-1, le contenu et les
+modalités de mise en oeuvre de l'évaluation préalable d'impact, la procédure applicable aux déclarations et aux demandes
+d'autorisation et le régime applicable aux installations existantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L712-1 (V)
+
+
+#### Chapitre III : Contrôles et sanctions
+
+##### Section 1 : Contrôles et sanctions administratifs
+
+###### Article L713-1
+
+Une activité déclarée peut être suspendue, interrompue ou soumise à des prescriptions spéciales lorsqu'il apparaît qu'elle
+porte à l'environnement des atteintes plus graves que celles identifiées au moment de sa déclaration ou d'une nature
+différente. Sauf en cas d'urgence, l'auteur de la déclaration est mis à même au préalable de présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L713-3 (V)
+
+
+###### Article L713-2
+
+Une autorisation peut être suspendue, abrogée ou modifiée lorsqu'il apparaît que l'activité autorisée porte à l'environnement
+des atteintes plus graves que celles identifiées au moment de sa délivrance ou d'une nature différente. Sauf en cas
+d'urgence, le titulaire de l'autorisation est mis à même au préalable de présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+
+###### Article L713-3
+
+L'autorité administrative peut enjoindre à une personne responsable d'une activité déclarée ou autorisée en application du
+chapitre II de mettre les conditions d'exercice de celle-ci en conformité avec les termes de la déclaration ou de
+l'autorisation. 
+
+Si, à l'expiration du délai fixé par la mise en demeure, la personne n'a pas obtempéré à cette injonction, l'autorité
+administrative peut faire application des dispositions des articles L. 713-1 et L. 713-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L713-1 (V)
+
+
+###### Article L713-4
+
+L'autorité administrative peut donner un avertissement à toute personne dont il est établi qu'elle a mené des activités
+incompatibles avec le protocole de Madrid et le présent titre. Cette personne est préalablement invitée à présenter ses
+observations. Dès lors qu'un avertissement a été délivré, toute autorisation est refusée pour ce motif pendant une durée de
+cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L712-2 (V)
+
+
+##### Section 2 : Sanctions pénales
+
+###### Article L713-5
+
+Les infractions au présent titre commises par les personnes mentionnées à l'article L. 711-3 sont sanctionnées comme suit :
+
+1° Le fait d'organiser ou de participer à une activité qui n'a pas fait l'objet de l'autorisation prévue au I de l'article L.
+712-1 ou de méconnaître les conditions de cette autorisation est puni d'un an d'emprisonnement et de 75 000 euros d'amende ;
+
+2° Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
+
+- le fait de mener en Antarctique une activité de prospection ou d'exploitation des ressources minérales, à l'exception des
+activités menées pour les besoins de la recherche scientifique dans les limites de l'autorisation délivrée à cet effet ;
+
+- le fait de commercialiser les matériaux résultant d'une activité illicite de prospection ou d'exploitation de ressources
+minérales en Antarctique ;
+
+3° Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait d'introduire en Antarctique ou d'y éliminer des
+déchets radioactifs ;
+
+4° Les personnes morales peuvent être déclarées responsables, dans les conditions prévues à l'article 121-2 du code pénal,
+des infractions définies dans le présent titre. Elles encourent la peine d'amende selon les modalités prévues à l'article
+131-38 du même code ;
+
+5° Les matériels qui ont servi ou étaient destinés à commettre l'infraction ou les matériaux qui en sont le produit peuvent
+être confisqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code de l'environnement - art. L711-3 (V)
+	  - Code de l'environnement - art. L712-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L713-6 (V)
+
+
+###### Article L713-6
+
+Les faits mentionnés au 1° de l'article L. 713-5 ne sont pas sanctionnés pénalement dans les cas d'urgence se rapportant à la
+sauvegarde de la vie humaine, à la sécurité des navires, des aéronefs ou des équipements et installations de grande valeur,
+ou à la protection de l'environnement, rendant impossible une demande d'autorisation préalable conformément au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L713-5 (V)
+
+
+###### Article L713-7
+
+Sont habilités à rechercher et à constater les infractions au présent titre et aux textes pris pour son application, outre
+les officiers de police judiciaire agissant conformément aux dispositions du code de procédure pénale :
+
+- les agents des douanes ;
+
+- les agents habilités à relever les infractions à la législation sur les réserves naturelles ;
+
+- les administrateurs des affaires maritimes, les inspecteurs des affaires maritimes, les officiers du corps technique et
+administratif des affaires maritimes, les contrôleurs des affaires maritimes et les syndics des gens de mer, les commandants,
+commandants en second et officiers en second des bâtiments de l'Etat ainsi que les commandants de bord des aéronefs de
+l'Etat, chargés de la surveillance en mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+
+###### Article L713-8
+
+Sans préjudice des règles de compétence définies par l'article 382 du code de procédure pénale et des dispositions de
+l'article L. 935-1 du code de l'organisation judiciaire, le tribunal de grande instance de Paris est compétent pour juger les
+infractions aux dispositions du présent titre et aux textes pris pour son application constatées en Antarctique en dehors du
+district de terre Adélie relevant des terres Australes et Antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 382 (M)
+	  - Code de l'organisation judiciaire - art. L935-1 (Ab)
+
+
+###### Article L713-9
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-347 du 15 avril 2003 - art. 1 () JORF 16 avril 2003
 
 
