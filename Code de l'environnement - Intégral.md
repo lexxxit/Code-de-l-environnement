@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-02-04
+Version Consolidée au 2004-02-05
 
 # Partie législative
 
@@ -56962,6 +56962,40 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 	  - Arrêté du 24 février 2014 - art. 8
 
 
+##### Sous-section 4 : Dispositions particulières à la Corse
+
+###### Article R*222-92-1
+
+En vertu de l'article L. 422-27, les dispositions des sous-sections précédentes ne sont pas applicables en Corse.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 2 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L422-27 (M)
+
+
 ##### Section 3 : Chasse maritime
 
 ###### Article R*222-93
@@ -59474,6 +59508,8 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ##### Section 1 : Plan de chasse.
 
+##### Sous-section 1 : Dispositions générales.
+
 ###### Article R*225-1
 
 Le plan de chasse aux cerfs, daims, mouflons, chamois, isards et chevreuils est de droit.
@@ -59487,15 +59523,28 @@ celle-ci constitue une unité de gestion de l'espèce.
 Lorsqu'il concerne le gibier d'eau ou qu'il porte sur plusieurs départements, le plan de chasse est institué par le ministre
 chargé de la chasse après avis du Conseil national de la chasse et de la faune sauvage.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cité par**:
 
@@ -59507,7 +59556,6 @@ chargé de la chasse après avis du Conseil national de la chasse et de la faune
 	**Anciens textes**:
 
 	  - Code rural - art. R*225-1 (Ab)
-	  - Code rural R225-1
 
 
 ###### Article R*225-2
@@ -59520,19 +59568,28 @@ répartition par catégorie d'âge ne s'applique pas à la chasse à courre, à 
 
 L'arrêté du préfet doit intervenir avant le 1er mai précédant la campagne cynégétique à compter de laquelle elle prend effet.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-2
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-3
@@ -59541,19 +59598,28 @@ Dans les départements ou parties de département où une espèce de gibier est 
 espèce ne peut être pratiquée que par les bénéficiaires de plans de chasse individuels attribués conformément aux
 dispositions ci-après ou leurs ayants droit.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-3
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-4
@@ -59579,19 +59645,28 @@ c) Pour les autres terrains, au président de la fédération départementale de
 
 La demande est présentée à peine d'irrecevabilité dans les délais fixés par arrêté du ministre chargé de la chasse.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-4
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-5
@@ -59601,19 +59676,28 @@ national des forêts dans le département, sont transmises dans les délais fix�
 directeur départemental de l'agriculture et de la forêt qui les récapitule et les présente au préfet avec l'avis d'ensemble
 nécessaire.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-5
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-6
@@ -59627,22 +59711,32 @@ La commission propose au préfet le nombre maximum et le nombre minimum de tête
 les territoires considérés, réparties, le cas échéant, par sexe ou catégories d'âge, afin d'assurer l'équilibre agro-
 sylvocynégétique.
 
-Ces propositions doivent s'inscrire, le cas échéant, dans les limites déterminées par l'arrêté ministériel fixant le plan de
+Ces propositions doivent s'inscrire, le cas échéant, dans les limites déterminées par l'arrêté préfectoral fixant le plan de
 chasse départemental.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-6
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 2004-01-29 art. 3 I, II JORF 5 février 2004
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-7
@@ -59675,6 +59769,15 @@ chasseurs ;
 
 - deux représentants d'associations de protection de la nature agréées au titre de l'article L. 252-1.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -59683,7 +59786,11 @@ chasseurs ;
 
 	**Modifié par**:
 
-	  - Décret n°2003-867 du 5 septembre 2003 - art. 5 () JORF 12 septembre 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -59699,20 +59806,28 @@ demandeur le plan de chasse individuel qui le concerne dans les délais fixés p
 Le cas échéant, l'arrêté préfectoral précise à chaque bénéficiaire le montant de la taxe qu'il doit en application de
 l'article L. 425-4.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-8
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -59726,19 +59841,28 @@ demandes doivent être adressées par lettre recommandée avec demande d'avis de
 compter de la date de notification des décisions contestées ; elles doivent être motivées. Le défaut de réponse dans un délai
 d'un mois vaut décision implicite de rejet.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-9
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-10
@@ -59759,19 +59883,28 @@ nombre égal à celui du nombre maximum d'animaux à tirer qui lui a été accor
 Dans le cas prévu au deuxième alinéa, des dispositifs de prémarquage peuvent être délivrés au bénéficiaire du plan de chasse,
 à sa demande et sur décision du préfet, en nombre supérieur à celui des têtes de gibier accordé.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-10
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-11
@@ -59787,24 +59920,33 @@ tard dans les trois mois qui suivent la notification par le préfet de son plan 
 En cas de retard ou de non-paiement de la taxe, il est fait application des articles 8 à 10 du décret du 30 octobre 1980
 relatif aux taxes parafiscales.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L425-4 (M)
 	  - Décret n°80-854 1980-10-30 art. 8 à 10
-
-	**Anciens textes**:
-
-	  - Code rural R225-11
+	  - Code de l'environnement - art. L425-4 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-12
@@ -59823,19 +59965,28 @@ chacun d'une attestation établie par le bénéficiaire du plan sous sa responsa
 Tout animal ou partie d'animal destiné à la naturalisation doit être accompagné du dispositif de marquage ou de l'attestation
 jusqu'à l'achèvement de la naturalisation.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-12
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -59847,19 +59998,28 @@ jusqu'à l'achèvement de la naturalisation.
 Le préfet peut instituer sur tout ou partie du département l'obligation pour le titulaire d'un plan de chasse de présenter à
 un agent de l'Etat ou de ses établissements publics tout ou partie de l'animal prélevé, dans les conditions qu'il détermine.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R225-13
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*225-14
@@ -59868,11 +60028,46 @@ Dans les dix jours suivant la clôture de la chasse de l'espèce concernée, tou
 fait connaître au préfet, dans les conditions que celui-ci détermine, le nombre de têtes de gibier prélevé en application du
 plan.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code rural R225-14
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Modifié par**:
+
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+##### Sous-section 2 : Dispositions particulières à la Corse.
+
+###### Article R*225-14-1
+
+Les dispositions de la sous-section précédente sont applicables en Corse sous réserve de celles de la présente sous-section.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -59880,7 +60075,177 @@ plan.
 
 	**Créé par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+###### Article R*225-14-2
+
+L'Assemblée de Corse exerce les compétences attribuées au préfet par les articles R. 225-1 et R. 225-2. Elle désigne
+l'autorité qui lui propose l'institution des plans de chasse ainsi que le nombre minimum et le nombre maximum d'animaux à
+prélever, en application des articles R. 225-1 et R. 225-2, et qui récapitule et présente les demandes de plans de chasse
+individuels en application de l'article R. 225-5.
+
+Le président du conseil exécutif exerce les compétences attribuées au préfet par les articles R. 225-5, R. 225-6, R. 225-8 à
+R. 225-10 et R. 225-14.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R*225-1 (M)
+	  - Code de l'environnement R225-1, R225-2, R225-5, R225-6, R225-8 à R225-10, R225-14
+
+
+###### Article R*225-14-3
+
+Dans les départements de Haute-Corse et de Corse-du-Sud, la commission compétente pour examiner, en application de l'article
+R. 225-7, les demandes de plans de chasse individuels est composée comme suit :
+
+1° Pour le grand gibier :
+
+a) Membres de droit :
+
+- le président du conseil exécutif ou son représentant, président ;
+
+- deux conseillers à l'Assemblée de Corse désignés par celle-ci ;
+
+- le directeur départemental de l'agriculture et de la forêt ou son représentant ;
+
+- le délégué régional de l'Office national de la chasse et de la faune sauvage ou, à défaut, un représentant de
+l'établissement désigné par le directeur général ou son représentant ;
+
+- le directeur régional de l'Office national des forêts ou son représentant ;
+
+- le président du centre régional de la propriété forestière ou son représentant ;
+
+- le président de la chambre départementale d'agriculture ou son représentant ;
+
+- le président de la fédération départementale des chasseurs ou son représentant.
+
+b) Membres nommés pour cinq ans par l'Assemblée de Corse, sur proposition du président du conseil exécutif :
+
+- trois représentants des organisations professionnelles d'exploitants agricoles les plus représentatives dans le
+département ;
+
+- trois personnalités qualifiées en matière cynégétique, nommées sur proposition du président de la fédération départementale
+des chasseurs ;
+
+- un représentant des lieutenants de louveterie nommé sur proposition des associations départementales de lieutenants de
+louveterie lorsqu'elles existent.
+
+2° Pour le petit gibier :
+
+a) Membres de droit :
+
+- le président du conseil exécutif ou son représentant, président ;
+
+- deux conseillers à l'Assemblée de Corse désignés par celle-ci ;
+
+- le directeur départemental de l'agriculture et de la forêt ou son représentant ;
+
+- le président de la fédération départementale des chasseurs ou son représentant ;
+
+- le directeur régional de l'Office national des forêts ou son représentant, si des terrains soumis au régime forestier sont
+concernés.
+
+b) Membres nommés pour cinq ans par l'Assemblée de Corse, sur proposition du président du conseil exécutif :
+
+- quatre représentants des intérêts cynégétiques, nommés sur proposition du président de la fédération départementale des
+chasseurs ;
+
+- deux représentants des intérêts agricoles ;
+
+- un représentant des intérêts sylvicoles si des terrains forestiers sont concernés ;
+
+- deux représentants d'associations de protection de la nature agréées au titre de l'article L. 141-1.
+
+Les membres nommés par l'Assemblée de Corse, au titre du b du 1° et du 2°, sont remplacés, en cas d'absence ou d'empêchement,
+par des membres suppléants nommés dans les mêmes conditions. Au cas où l'un d'eux vient à cesser ses fonctions pour quelque
+cause que ce soit, son remplaçant est nommé pour la durée du mandat restant à courir.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L141-1 (M)
+	  - Code de l'environnement R225-7, L141-1
+
+
+###### Article R*225-14-4
+
+L'Assemblée de Corse peut instituer sur tout ou partie des départements de Haute-Corse ou de Corse-du-Sud l'obligation pour
+le titulaire d'un plan de chasse de présenter à un agent de la collectivité territoriale de Corse, de l'Office national de la
+chasse et de la faune sauvage ou de l'Office national des forêts tout ou partie de l'animal prélevé, dans les conditions
+qu'elle détermine.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 3 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ##### Section 2 : Prélèvement maximal autorisé.
@@ -72413,26 +72778,34 @@ réserves temporaires de pêche peuvent être instituées sur les eaux mentionn�
 
 Le champ d'application du premier alinéa du présent article est celui défini par l'article L. 431-2.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 4 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L431-2 (V)
 	  - Code de l'environnement - art. L431-3 (M)
 	  - Code de l'environnement - art. L431-5 (M)
-
-	**Anciens textes**:
-
-	  - Code rural R236-84
 
 
 ##### Sous-section 2 : Dispositions applicables aux interdictions permanentes de pêche.
@@ -72612,6 +72985,38 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 	**Abrogé par**:
 
 	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+###### Article R*236-92-1
+
+En vertu de l'article L. 436-12, les dispositions de la sous-section précédente ne sont pas applicables en Corse.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-107 du 29 janvier 2004 - art. 4 () JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L436-12 (M)
 
 
 ##### Sous-section 4 : Dispositions communes.
