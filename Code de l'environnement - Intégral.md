@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-08-07
+Version Consolidée au 2003-09-03
 
 # Partie législative
 
@@ -78376,19 +78376,28 @@ pour la réalisation de tout ou partie de ses missions définies au même articl
 Des conventions de partenariat, approuvées par le conseil d'administration, fixent les conditions dans lesquelles ces
 contributions sont mises en oeuvre.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-1
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -78472,26 +78481,37 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*243-4
 
-Le conservatoire peut exercer le droit de préemption dans les zones d'aménagement différé et, dans des conditions prévues par
-les articles L. 142 et suivants du code de l'urbanisme, à l'intérieur des zones de préemption des périmètres sensibles.
+Lorsque le conservatoire exerce directement le droit de préemption en application du neuvième alinéa de l'article L. 142-3 du
+code de l'urbanisme, les attributions confiées au président du conseil général pour l'application des articles R. 142-8 à R.
+142-18 de ce code sont exercées par le directeur du conservatoire.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-4
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
-	  - Code de l'urbanisme L142
+	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme L142-3, R142-8 à R142-18
 
 
 ###### Article R*243-5
@@ -78529,52 +78549,77 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*243-6
 
-Le domaine propre du conservatoire, mentionné à l'article L. 322-3, est constitué des terrains dont il est devenu
-propriétaire et qu'il décide de conserver afin d'assurer la sauvegarde du littoral, le respect des sites naturels et
-l'équilibre écologique.
+Le domaine propre du conservatoire, mentionné à l'article L. 243-3, est constitué des terrains dont il est devenu
+propriétaire et qu'il décide de conserver et de classer afin d'assurer la sauvegarde du littoral, le respect des sites
+naturels et l'équilibre écologique.
 
-A l'occasion de chaque acquisition, le conseil d'administration délimite les surfaces qui sont incorporées à son domaine
-propre et décide de procéder immédiatement à la revente des autres terrains.
+Le conseil d'administration du conservatoire classe dans son domaine propre, mentionné à l'article L. 322-9 du code de
+l'environnement, les biens immobiliers qui lui appartiennent lorsqu'ils constituent un ensemble permettant l'établissement
+d'un plan de gestion conformément à l'article R. 243-8-4 du présent code. Il procède dans les meilleurs délais à la cession
+des immeubles qui n'ont pas vocation à être classés dans son domaine propre.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-6
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L322-3 (V)
+	  - Code de l'environnement - art. L322-9 (M)
+	  - Code de l'environnement L243-3, L322-9, R243-8-4
 
 
 ###### Article R*243-7
 
 Le patrimoine immobilier administré par le conservatoire comporte, outre les biens qui sont sa propriété, les biens qui lui
 sont affectés ou remis en dotation par l'Etat, ainsi que les biens dont la gestion lui est confiée provisoirement par ce
-dernier.
+dernier, cet ensemble constituant le domaine relevant du conservatoire mentionné à l'article L. 322-9 du code de
+l'environnement.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-7
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-9 (M)
 
 
 ###### Article R*243-7-1
@@ -78621,14 +78666,61 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*243-8
 
-La gestion des immeubles dont l'établissement public est propriétaire ou affectataire est réalisée dans les conditions
-prévues aux articles L. 322-9 et L. 322-10.
+La gestion du domaine relevant du Conservatoire de l'espace littoral et des rivages lacustres est réalisée dans les
+conditions prévues aux articles L. 322-9 et L. 322-10 du code de l'environnement.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code rural R243-8
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Modifié par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-10 (M)
+	  - Code de l'environnement - art. L322-9 (M)
+
+
+###### Article R*243-8-1
+
+La convention de gestion signée entre le conservatoire et le gestionnaire définit notamment, en application de l'article L.
+322-9 du code de l'environnement, les obligations et les responsabilités des parties, les modalités de suivi de la gestion
+par le conservatoire, sa durée et son mode de résiliation.
+
+La gestion des immeubles relevant de l'établissement public comprend au moins l'entretien et le gardiennage de ceux-ci ainsi
+que l'accueil du public le cas échéant.
+
+Les conventions d'usage mentionnées à l'article L. 322-9 du code de l'environnement sont signées conjointement par le
+conservatoire et le gestionnaire. Elles peuvent avoir une durée supérieure à celle de la convention de gestion. Dans ce cas,
+le gestionnaire n'est lié au titulaire de la convention d'usage que jusqu'à l'échéance de la convention de gestion.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -78636,13 +78728,175 @@ prévues aux articles L. 322-9 et L. 322-10.
 
 	**Créé par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-9 (M)
+
+
+###### Article R*243-8-2
+
+La convention d'occupation mentionnée à l'article L. 322-10 du code de l'environnement est renouvelable par décision
+expresse. Toutefois, le conservatoire peut y mettre fin avant sa date d'expiration soit dans des conditions prévues par la
+convention, soit pour inexécution par le bénéficiaire de ses obligations, soit pour des motifs d'intérêt général. Dans ce
+dernier cas, le bénéficiaire est indemnisé pour la partie non amortie des aménagements et les travaux qu'il aura réalisés
+avec l'accord du conservatoire.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L322-10 (M)
+
+
+###### Article R*243-8-3
+
+Lorsque les immeubles relevant du conservatoire constituent un site cohérent au regard des objectifs poursuivis, un plan de
+gestion est élaboré par le conservatoire en concertation avec le gestionnaire et les communes concernées. A partir d'un bilan
+écologique et patrimonial ainsi que des protections juridiques existantes, le plan de gestion définit les objectifs et les
+orientations selon lesquels ce site doit être géré.
+
+Le plan de gestion peut comporter des recommandations visant à restreindre l'accès du public et les usages des immeubles du
+site ainsi que, le cas échéant, leur inscription éventuelle dans les plans départementaux des espaces, sites et itinéraires
+de sports de nature visés à l'article 50-2 de la loi du 10 juillet 1984 relative à l'organisation et à la promotion des
+activités physiques et sportives.
+
+Approuvé par le directeur du conservatoire, le plan de gestion est annexé à la convention de gestion. Il est transmis au
+maire de la commune, au préfet de département et au préfet de région.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Loi n°84-610 1984-07-10 art. 50-2
+
+
+###### Article R*243-8-4
+
+Dans le cadre des orientations fixées par le conseil d'administration et en application de l'article L. 322-9 du code de
+l'environnement, l'accès au domaine du conservatoire ainsi que les activités qui peuvent y être exercées peuvent être
+limités.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
 	  - Code de l'environnement - art. L322-9 (M)
+
+
+###### Article R*243-8-5
+
+Les gardes du littoral prêtent serment devant le tribunal d'instance dans le ressort duquel ils exercent leurs fonctions.
+Cette assermentation est enregistrée auprès du greffe des autres tribunaux d'instance si le garde exerce sa compétence sur le
+territoire de plusieurs tribunaux.
+
+La formule du serment est la suivante :
+
+"Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
+jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance, à l'occasion de l'exercice de mes
+fonctions."
+
+Le commissionnement délivré en application de l'article L. 322-10-1 du code de l'environnement peut être retiré par le
+préfet, le cas échéant à la demande du directeur du Conservatoire de l'espace littoral et des rivages lacustres.
+
+Le directeur du conservatoire délivre aux gardes du littoral une carte professionnelle sur laquelle sont précisés les chefs
+de commissionnement et la compétence territoriale. Cette carte est signée par le préfet et par le greffier du tribunal
+d'instance territorialement compétent.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-10-1 (M)
 
 
 ###### Article R*243-9
@@ -78690,84 +78944,100 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*243-10
 
-Le conseil d'administration du conservatoire de l'espace littoral et des rivages lacustres comprend trente-quatre membres :
+I. - Le conseil d'administration du Conservatoire de l'espace littoral et des rivages lacustres comprend trente membres :
 
-1° Un représentant du ministre chargé de l'économie ;
+1° Deux représentants du ministre chargé de la protection de la nature ;
 
-2° Un représentant du ministre de la défense ;
+2° Un représentant du ministre chargé de l'aménagement du territoire ;
 
-3° Un représentant du ministre chargé de la culture ;
+3° Un représentant du ministre chargé du budget ;
 
-4° Un représentant du ministre de l'intérieur ;
+4° Un représentant du ministre chargé de l'urbanisme ;
 
-5° Un représentant du ministre chargé de l'urbanisme ;
+5° Un représentant du ministre chargé de la mer ;
 
-6° Un représentant du ministre chargé de l'aménagement du territoire ;
+6° Un représentant du ministre chargé de l'outre-mer ;
 
-7° Un représentant du ministre chargé des départements et territoires d'outre-mer ;
+7° Un représentant du ministre chargé de l'agriculture ;
 
-8° Un représentant du ministre de l'agriculture ;
+8° Un représentant du ministre de la défense ;
 
-9° Un représentant du ministre chargé du budget ;
+9° Un représentant du ministre chargé de la culture ;
 
-10° Un représentant du ministre chargé du domaine ;
+10° Un représentant du ministre de l'intérieur ;
 
-11° Un représentant du ministre chargé de la protection de la nature ;
+11° Un représentant du ministre chargé du domaine ;
 
-12° Un représentant du ministre chargé de la jeunesse et des sports ;
+12° Les neuf présidents des conseils de rivages ;
 
-13° Un représentant du ministre chargé de la mer ;
+13° Trois députés et trois sénateurs désignés par l'assemblée à laquelle ils appartiennent ;
 
-14° Les sept présidents des conseils de rivages ;
+14° Trois personnalités qualifiées choisies par le ministre chargé de la protection de la nature dont deux parmi les
+responsables des associations de protection de la nature et une parmi les représentants des collectivités et organismes
+gestionnaires d'espaces naturels littoraux.
 
-15° Un membre de chacun des conseils de rivages de la France métropolitaine désigné par le conseil concerné ;
+II. - Outre le directeur du conservatoire, le contrôleur financier et l'agent comptable, siègent au conseil d'administration
+avec voix consultative :
 
-16° Trois députés et deux sénateurs désignés par l'assemblée à laquelle ils appartiennent ;
+1° Deux représentants du personnel élus par le personnel du conservatoire sur des listes présentées par les organisations
+syndicales habilitées à désigner des représentants au comité technique central du conservatoire ;
 
-17° Quatre personnalités qualifiées choisies par le ministre chargé de la protection de la nature parmi les responsables des
-associations de protection de la nature.
+2° Le président du conseil scientifique du conservatoire.
 
-Les membres du conseil d'administration sont nommés par arrêtés du ministre chargé de la protection de la nature.
+III. - Les membres du conseil d'administration sont nommés par arrêté du ministre chargé de la protection de la nature.
 
-Un suppléant est désigné pour chacun des membres du conseil d'administration à l'exception des personnalités qualifiées.
+IV. - Un suppléant est désigné pour chacun des membres du conseil d'administration à l'exception des personnalités
+qualifiées.
+
+**Nota:**
+
+Nota : Décret 2003-839 2003-08-29 art. 6 : Ces dispositions entreront en vigueur dès que les membres du conseil
+d'administration auront été désignés, et au plus tard le 1er janvier 2004.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-10
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
 
 
 ###### Article R*243-11
 
 Les administrateurs sont nommés pour trois ans. Toutefois, le mandat des administrateurs, membres du Parlement ou des
-assemblées délibérantes des collectivités locales, ainsi que celui des présidents et membres des conseils de rivages, et des
-personnalités choisies parmi les responsables des associations de protection de la nature, prend fin de plein droit à
-l'expiration du mandat au titre duquel ils ont été désignés.
+assemblées délibérantes des collectivités locales, ainsi que celui des présidents des conseils de rivages, et des
+personnalités qualifiées, prend fin de plein droit à l'expiration du mandat au titre duquel ils ont été désignés.
 
 Le mandat d'administrateur est renouvelable.
 
+**Nota:**
+
+Nota : Décret 2003-839 2003-08-29 art. 6 : Ces dispositions entreront en vigueur dès que les membres du conseil
+d'administration auront été désignés, et au plus tard le 1er janvier 2004.
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-11
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*243-12
@@ -78807,29 +79077,32 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*243-13
 
-Les administrateurs exercent leurs fonctions à titre gratuit.
+Les fonctions de président ou de membre du conseil d'administration n'ouvrent pas droit à rémunération. Toutefois, les frais
+de déplacement et de séjour du président, des vice-présidents et des membres du conseil d'administration peuvent être
+remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires d'Etat.
 
-Ils sont remboursés de leurs frais de voyage et de séjour, dans les conditions prévues par les décrets n° 66-619 du 10 août
-1966 et n° 71-647 du 30 juillet 1971.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-13
-
-	**Cite**:
-
-	  - Décret n°66-619 1966-08-10
-	  - Décret n°71-647 1971-07-30
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*243-14
@@ -79010,34 +79283,66 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 Le conseil d'administration règle par ses délibérations les affaires de l'établissement public et définit l'orientation de la
 politique à suivre.
 
-Il vote le budget et approuve le compte financier.
+Il délibère notamment sur :
 
-Il définit le programme annuel d'activités, et notamment le programme d'acquisitions.
+1° La politique foncière de l'établissement et les grandes orientations de l'aménagement des immeubles acquis et de leur
+gestion ;
 
-Il décide des emprunts.
+2° Le programme pluriannuel d'acquisitions, ainsi que toutes les décisions relatives à la constitution du domaine du
+conservatoire ;
 
-Il approuve les conventions de gestion visées à l'article L. 322-9.
+3° Les contrats d'objectifs entre l'établissement et l'Etat ;
+
+4° Le classement des immeubles dans le domaine propre du conservatoire ;
+
+5° Le budget, les décisions modificatives, le tableau des emplois, le compte financier et l'affectation des résultats ;
+
+6° Les emprunts ;
+
+7° Les subventions versées aux organismes de toute nature concourant à la réalisation de ses missions et les prises de
+participation, extensions ou cessions de participation financière ainsi que la participation à des groupements d'intérêt
+public ou à des groupements d'intérêt économique ou scientifique ;
+
+8° Les conventions de partenariat visées à l'article R. 243-1 ;
+
+9° Les conventions types de gestion, d'usage et d'attribution ;
+
+10° Les conventions d'occupation visées à l'article L. 322-10 du code de l'environnement ;
+
+11° Le niveau de prise en compte des besoins de l'établissement pour l'application du code des marchés publics ;
+
+12° L'attribution des contrats et des marchés d'un montant supérieur à un seuil qu'il détermine ou comportant des engagements
+d'une durée supérieure à celle qu'il fixe ;
+
+13° La composition du conseil scientifique.
 
 Il arrête son règlement intérieur.
 
+Il est tenu informé des programmes de coopération du conservatoire avec les organismes étrangers et internationaux ayant une
+mission analogue.
+
+Il approuve les transactions et autorise le directeur à les signer.
+
+Il peut autoriser le directeur à arrêter, en accord avec le contrôleur financier, les modifications du budget qui ne
+comportent aucune modification du montant de ce budget ou des effectifs du personnel et aucun virement de crédits entre la
+section relative aux opérations de fonctionnement et la section relative aux opérations en capital ou entre les chapitres de
+dépenses de personnel et les chapitres de dépenses en matériel. Il en est rendu compte à la prochaine séance du conseil
+d'administration.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L322-9 (M)
-
-	**Anciens textes**:
-
-	  - Code rural R243-19
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-10 (M)
+	  - Code de l'environnement R243-1, L322-10
 
 
 ###### Article R*243-20
@@ -79081,16 +79386,65 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*243-21
 
-Les délibérations du conseil d'administration sont exécutoires si dans un délai de huit jours le ministre chargé de la
-protection de la nature n'a pas fait d'observation, sauf en ce qui concerne les délibérations relatives au budget et aux
-décisions qui le modifient, aux emprunts et aux comptes, délibérations qui ne sont exécutoires qu'après approbation expresse
-du ministre chargé de la protection de la nature et du ministre de l'économie et des finances.
+Les délibérations du conseil d'administration sont exécutoires à l'expiration d'un délai de huit jours si le ministre chargé
+de la protection de la nature n'a pas fait d'observations.
+
+Toutefois, les délibérations relatives au budget et aux décisions qui le modifient, aux emprunts et aux comptes sont
+exécutoires si, dans un délai d'un mois, le ministre chargé de la protection de la nature et le ministre chargé du budget
+n'ont pas fait d'observations.
+
+Les délais prévus au présent article courent à partir de la réception des délibérations et documents correspondants par les
+ministres précités et s'appliquent à défaut d'approbation expresse notifiée de ces ministres. Lorsque l'un de ces derniers
+demande par écrit des informations ou documents complémentaires, les délais sont suspendus jusqu'à la production de ces
+informations ou documents.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code rural R243-21
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Modifié par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+###### Article R*243-21-1
+
+Un conseil scientifique, composé de dix personnalités, est placé auprès du directeur. Il peut être consulté par le président
+du conseil d'administration ou le directeur sur toute question relative à la mission poursuivie par le conservatoire. Il peut
+également faire des recommandations.
+
+Il désigne en son sein un président.
+
+Le président et les membres du conseil scientifique exercent leurs fonctions à titre gratuit. Ils sont remboursés de leurs
+frais de déplacement et de séjour dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+
+Le secrétariat du conseil scientifique est assuré par le conservatoire.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -79098,47 +79452,72 @@ du ministre chargé de la protection de la nature et du ministre de l'économie 
 
 	**Créé par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ##### Sous-section 2 : Conseils de rivage
 
 ###### Article R*243-22
 
-Les conseils de rivage sont au nombre de sept :
+I. - Les conseils de rivage sont au nombre de neuf :
 
-1° Le conseil du rivage méditerranéen (régions Languedoc-Roussillon et Provence-Alpes-Côte d'Azur) ;
+1° Le conseil des rivages de Nord - Pas-de-Calais - Picardie (régions Nord - Pas-de-Calais et Picardie) ;
 
-2° Le conseil de rivage de la Corse (région Corse) ;
+2° Le conseil des rivages de Normandie (régions Haute-Normandie et Basse-Normandie) ;
 
-3° Le conseil des rivages atlantiques (régions Aquitaine, Poitou-Charentes, Pays de la Loire, Bretagne) ;
+3° Le conseil des rivages de Bretagne-Pays de la Loire (régions Bretagne et Pays de la Loire) ;
 
-4° Le conseil des rivages de la Manche et de la mer du Nord (régions Basse-Normandie, Haute-Normandie, Picardie, Nord - Pas-
-de-Calais) ;
+4° Le conseil des rivages du Centre-Atlantique (régions Poitou-Charentes et Aquitaine) ;
 
-5° Le conseil des rivages français d'Amérique ;
+5° Le conseil des rivages de la Méditerranée (régions Languedoc-Roussillon et Provence-Alpes-Côte d'Azur) ;
 
-6° Le conseil des rivages français de l'océan Indien ;
+6° Le conseil des rivages de la Corse ;
 
-7° Le conseil des rivages des lacs.
+7° Le conseil des rivages français d'Amérique (départements de Guadeloupe, Martinique et Guyane, collectivité territoriale de
+Saint-Pierre-et-Miquelon) ;
 
-Les lacs entrant dans le champ d'attribution du Conservatoire de l'espace littoral et des rivages lacustres, lorsqu'ils sont
-situés en totalité ou en partie dans les cantons côtiers, ainsi que ceux qui constituent avec le littoral une unité
-écologique ou paysagère, sont rattachés aux conseils de rivage maritime correspondants.
+8° Le conseil des rivages français de l'océan Indien (département de la Réunion et collectivité départementale de Mayotte) ;
+
+9° Le conseil des rivages des lacs.
+
+II. - Les lacs entrant dans le champ d'intervention du Conservatoire de l'espace littoral et des rivages lacustres,
+lorsqu'ils sont situés en totalité ou en partie dans les cantons côtiers, ainsi que ceux qui constituent avec le littoral une
+unité écologique ou paysagère sont rattachés aux conseils de rivage maritime correspondants.
+
+III. - Après accord du conseil d'administration, chaque conseil de rivage peut s'organiser en sections territoriales qui
+préparent les délibérations qui lui sont soumises.
+
+XVIII. - L'annexe de l'article R. 243-23 est remplacée par l'annexe jointe au présent décret.
+
+**Nota:**
+
+Nota : Décret 2003-839 2003-08-29 art. 6 : Ces dispositions entreront en vigueur dès que les membres des conseils de rivages
+auront été désignés, et au plus tard le 1er octobre 2003.
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-22
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*243-23
@@ -79153,178 +79532,30 @@ règles prévues par l'article R. 243-12. Le mandat des membres du conseil de ri
 
 Annexe à l'article R. 243-23 : composition des conseils de rivage.
 
-I. - Rivage méditerranéen.
-
-Conseillers régionaux Provence - Côte d'Azur : 3.
-
-Conseillers généraux : Alpes-Maritimes 1, Var 1, Bouches-du-Rhône 1.
-
-Conseillers régionaux Languedoc - Roussillon : 4.
-
-Conseillers généraux : Gard 1, Hérault 1, Aude 1, Pyrénées-Orientales 1.
-
-Nombre total de conseillers régionaux : 7.
-
-Nombre total de conseillers généraux : 7.
-
-Total général, 14.
-
-II. - Rivage de la Corse.
-
-Conseillers régionaux Corse : 6.
-
-Conseillers généraux : Haute-Corse 3, Corse-du-Sud 3.
-
-Nombre total de conseillers régionaux : 6.
-
-Nombre total de conseillers généraux : 6.
-
-Total général, 12.
-
-III. - Rivages atlantiques.
-
-Conseillers régionaux Aquitaine : 3.
-
-Conseillers généraux : Pyrénées-Atlantiques 1, Landes 1, Gironde 1.
-
-Conseillers régionaux Poitou-Charentes : 1.
-
-Conseillers généraux : Charente-Maritime 1.
-
-Conseillers régionaux Pays de la Loire : 2.
-
-Conseillers généraux : Vendée 1, Loire-Atlantique (y compris le lac de Grandlieu) 1.
-
-Conseillers régionaux Bretagne : 4.
-
-Conseillers généraux : Morbihan 1, Finistère 1, Côtes-d'Armor 1, Ille-et-Vilaine 1.
-
-Nombre total de conseillers régionaux : 10.
-
-Nombre total de conseillers généraux : 10.
-
-Total général, 20.
-
-IV. - Rivages de la Manche et de la mer du Nord.
-
-Conseillers régionaux Basse-Normandie : 2.
-
-Conseillers généraux : Manche 1, Calvados 1.
-
-Conseillers régionaux Haute-Normandie : 2.
-
-Conseillers généraux : Seine-Maritime 1, Eure 1.
-
-Conseillers régionaux Picardie : 1.
-
-Conseillers généraux : Somme 1.
-
-Conseillers régionaux Nord - Pas-de-Calais : 2.
-
-Conseillers généraux : Pas-de-Calais 1, Nord 1.
-
-Nombre total de conseillers régionaux : 7.
-
-Nombre total de conseillers généraux : 7.
-
-Total général, 14.
-
-V. - Rivages des lacs.
-
-Conseillers régionaux Midi-Pyrénées : 1.
-
-Conseillers généraux : Aveyron (Pareloup Sarrans) 1.
-
-Conseillers régionaux Auvergne : 2.
-
-Conseillers généraux : Cantal (val Bort-les-Orgues, Sarrans) 1, Puy-de-Dôme (val Bort-les-Orgues) 1.
-
-Conseillers régionaux Limousin : 3.
-
-Conseillers généraux : Corrèze (val Bort-les-Orgues) 1, Creuse (Vassivière) 1, Haute-Vienne (Vassivière) 1.
-
-Conseillers régionaux Champagne-Ardenne : 3.
-
-Conseillers généraux : Aube (forêt d'Orient, réservoir de l'Aube) 1, Haute-Marne (Der Chantecoq) 1, Marne (Der Chantecoq) 1.
-
-Conseillers régionaux Franche-Comté : 1.
-
-Conseillers généraux : Jura (Vouglans) 1.
-
-Conseillers régionaux Rhône-Alpes : 2.
-
-Conseillers généraux : Savoie (Bourget) 1, Haute-Savoie (Léman - lac d'Annecy) 1.
-
-Conseillers régionaux Languedoc-Roussillon : 1.
-
-Conseillers généraux : Lozère (Naussac, Grandval) 1.
-
-Conseillers régionaux Lorraine : 2.
-
-Conseillers généraux : Meuse (Madine) 1, Meurthe-et-Moselle (Madine) 1.
-
-Conseillers régionaux Provence - Alpes - Côte d'Azur : 3.
-
-Conseillers généraux : Hautes-Alpes (Serre-Ponçon) 1, Alpes-de-Haute-Provence (Sainte-Croix-du-Verdon - Serre-Ponçon) 1, Var
-(Sainte-Croix-du-Verdon) 1.
-
-Nombre total de conseillers régionaux : 18.
-
-Nombre total de conseillers généraux : 18.
-
-Total général, 36.
-
-VI. - Rivages français d'Amérique.
-
-Conseillers régionaux Martinique : 2.
-
-Conseillers généraux Martinique : 2.
-
-Conseillers régionaux Guadeloupe : 2.
-
-Conseillers généraux Guadeloupe : 2.
-
-Conseillers régionaux Guyane : 2.
-
-Conseillers généraux Guyane : 2.
-
-Nombre total de conseillers régionaux : 6.
-
-Nombre total de conseillers généraux : 6.
-
-Total général, 12.
-
-VII. - Rivages français de l'océan Indien.
-
-Conseillers régionaux Réunion : 4.
-
-Conseillers généraux Réunion : 4.
-
-Conseillers généraux collectivité territoriale de Mayotte : 4.
-
-Nombre total de conseillers régionaux : 4.
-
-Nombre total de conseillers généraux : 8.
-
-Total général, 12.
+(Tableau non reproduit, cf. Journal officiel du 3 septembre 2003).
 
 **Nota:**
 
-Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), art. 74 (capacité), art. 75.
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-23
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*243-24
@@ -79469,25 +79700,39 @@ Donnent leur avis sur les orientations de la politique de l'établissement publi
 
 Proposent un programme d'acquisitions relatif au littoral de leur compétence ;
 
-Sont consultés sur les conventions types de gestion des immeubles incorporés dans le domaine propre ;
+Sont consultés sur les conventions de gestion, d'attribution et d'occupation afférentes aux immeubles situés dans leur champ
+de compétence.
 
-Donnent leur avis sur les opérations particulières d'acquisition.
+Sont consultés sur les conventions de partenariat définies à l'article R 243-1 concernant le territoire de leur compétence.
 
 Ils peuvent déléguer ce pouvoir à leur président.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-28
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement R243-1
 
 
 ##### Sous-section 3 : Directeur
@@ -79505,56 +79750,48 @@ Pour les acquisitions, échanges, ventes, cessions d'immeubles ou de droits immo
 actes de disposition ou ayant pour effet ou pour objet de consentir ou d'abandonner tous droits à caractère immobilier, il ne
 peut stipuler que conformément aux autorisations accordées par le conseil d'administration.
 
+Il nomme les délégués des rivages du conservatoire qui, sous son autorité, mettent en oeuvre, dans leur territoire de
+compétence, la politique de l'établissement définie par le conseil d'administration. Il peut les désigner comme ordonnateurs
+secondaires ; il peut également désigner des comptables secondaires après avis de l'agent comptable principal et agrément du
+ministre chargé du budget.
+
+Le directeur est la personne responsable des marchés pour les marchés de l'établissement public. Il peut déléguer ses
+compétences aux délégués des rivages, pour la passation des marchés de travaux et de services relatifs à l'aménagement et à
+la gestion des biens immobiliers, conformément à la détermination du niveau de prise en compte des besoins arrêtée par le
+conseil d'administration.
+
 Il représente l'établissement en justice.
 
 Il peut déléguer sa signature.
 
 Il assiste aux séances du conseil d'administration dont il prépare les délibérations et dont il exécute les décisions.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-29
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
 	  - Code de l'environnement R243-21
-
-
-##### Sous-section 4 : Personnels
-
-###### Article R*243-30
-
-Les conditions de recrutement et de rémunération du personnel du conservatoire sont fixées par arrêté conjoint du ministre de
-l'économie et des finances, du ministre chargé de la protection de la nature et du ministre chargé de la fonction publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-30
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
 
 
 ##### Section 4 : Dispositions financières
@@ -79620,11 +79857,19 @@ Le conservatoire est soumis au régime financier et comptable défini par les ar
 les articles 151 à 189 du décret du 29 décembre 1962, ainsi que par l'article 60 de la loi du 23 février 1963 relatif à la
 responsabilité des comptables publics.
 
+L'agent comptable est nommé par arrêté conjoint du ministre chargé du budget et du ministre chargé de la protection de la
+nature.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R243-32
 
 	**Cite**:
 
@@ -79636,9 +79881,13 @@ responsabilité des comptables publics.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*243-33
@@ -79666,6 +79915,43 @@ Le contrôleur financier assiste aux délibérations du conseil d'administration
 	**Créé par**:
 
 	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+
+###### Article R*243-34
+
+Les régies de recettes et d'avances peuvent être instituées dans les conditions prévues par le décret n° 92-681 du 20 juillet
+1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural R243-33
+
+	**Cite**:
+
+	  - Décret n°92-681 1992-07-20
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 #### Chapitre IV : Parcs naturels régionaux
@@ -82805,29 +83091,37 @@ françaises.
 
 ###### Article R*263-1
 
-Les dispositions du chapitre III du titre IV du présent livre sont applicables à la collectivité territoriale de Mayotte.
+Les dispositions du chapitre III du titre IV du présent livre sont applicables à la collectivité territoriale de Mayotte, à
+l'exception de l'article R. 243-7-1, du 8° de l'article R. 243-31 et des modifications apportées par le décret n° 2003-839 du
+29 août 2003 aux articles R. 243-1, R. 243-4, R. 243-7, R. 243-8, R. 243-8-1, R. 243-8-2, R. 243-8-4 et R. 243-8-5.
 
 Sous réserve des dispositions du présent chapitre, les autres dispositions du présent livre en vigueur au 29 août 1990 sont
 applicables à la collectivité territoriale de Mayotte, à l'exception de celles des articles suivants : R. 212-10, R. 221-24 à
 R. 221-38, R. 222-1 à R. 222-81, R. 222-84 à R. 222-87, R. 223-11, R. 223-14 b, R. 223-27 à R. 223-29, R. 224-1, R. 224-2 et
 R. 224-5, R. 224-8, R. 226-29 (2e phrase), R. 227-20, R. 227-21, R. 227-23 et R. 227-27, R. 228-7 et R. 228-13, R. 229-1 à R.
 229-21, R. 231-41, R. 236-1 à R. 236-59, R. 236-61, R. 236-62 (2e alinéa), R. 236-98 à R. 236-121, R. 238-6, R. 241-51, R.
-241-60, R. 242-8, R. 242-21 (2e alinéa), R. 244-1 à R. 244-15, R. 252-18 (3e alinéa), R. 261-1 à R. 262-1, ainsi que des
-points III, V et VII de l'annexe à l'article R. 243-23.
+241-60, R. 242-8, R. 242-21 (2e alinéa), R. 244-1 à R. 244-15, R. 252-18 (3e alinéa), R. 261-1 à R. 262-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R263-1
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-839 2003-08-29
+	  - Code de l'environnement - art. R*224-1 (M)
+	  - Code de l'environnement - art. R*224-8 (M)
+	  - Code de l'environnement R243-7-1, R243-31, R243-1, R243-4, R243-7, R243-8, R243-8-1, R243-8-2, R243-8-4, R243-8-5, R222-1 à R222-81, R222-84 à R222-87, R223-11, R223-14 b, R223-27 à R223-29, R224-1, R224-2 et R224-5, R224-8, R226-29 (2e phrase), R227
+
+	**Modifié par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007
 
 
 ##### Section 1 : Protection de la faune et de la flore
