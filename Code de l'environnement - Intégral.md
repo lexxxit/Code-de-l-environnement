@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-03-10
 
 # Partie législative
 
@@ -7558,9 +7558,11 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 ##### Sous-section 2 : Dispositions répressives relatives aux rejets polluants des navires
 
+##### Paragraphe 1 : Incriminations et peines.
+
 ###### Article L218-10
 
-I. - Est puni de quatre ans d'emprisonnement et de 600 000 euros d'amende le fait, pour tout capitaine d'un navire français
+I. - Est puni de dix ans d'emprisonnement et de 1 000 000 euros d'amende le fait, pour tout capitaine d'un navire français
 soumis aux dispositions de la convention internationale pour la prévention de la pollution par les navires, faite à Londres
 le 2 novembre 1973, telle que modifiée par le protocole du 17 février 1978 et par ses modificatifs ultérieurs régulièrement
 approuvés ou ratifiés, entrant dans les catégories ci-après :
@@ -7574,6 +7576,9 @@ interdictions de rejets d'hydrocarbures, tels que définis au 3 de l'article 2 d
 
 II. - Les pénalités prévues au présent article sont applicables au responsable à bord de l'exploitation des plates-formes
 immatriculées en France pour les rejets en mer effectués en infraction aux règles 9 et 10 de l'annexe I de cette convention.
+
+III. - La peine d'amende prévue au I peut être portée, au-delà de ce montant, à une somme équivalente à la valeur du navire
+ou à quatre fois la valeur de la cargaison transportée ou du fret.
 
 **Liens relatifs à cet article**
 
@@ -7589,8 +7594,7 @@ immatriculées en France pour les rejets en mer effectués en infraction aux rè
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi n°2001-380 du 3 mai 2001 - art. 1 () JORF 4 mai 2001
+	  - Loi n°2004-204 2004-03-09 art. 30 1°, 2° JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -7611,11 +7615,6 @@ immatriculées en France pour les rejets en mer effectués en infraction aux rè
 	  - Code de l'environnement - art. L632-1 (V)
 	  - Code de l'environnement - art. L640-1 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
-
 	**Cite**:
 
 	  - Convention internationale 1973-11-02
@@ -7624,7 +7623,7 @@ immatriculées en France pour les rejets en mer effectués en infraction aux rè
 
 ###### Article L218-11
 
-Est puni de deux ans d'emprisonnement et de 180 000 euros d'amende le fait, pour tout capitaine d'un navire français soumis
+Est puni de sept ans d'emprisonnement et de 700 000 euros d'amende le fait, pour tout capitaine d'un navire français soumis
 aux dispositions de la convention mentionnée à l'article L. 218-10 et appartenant aux catégories suivantes :
 
 1° Navires-citernes d'une jauge brute inférieure à 150 tonneaux ;
@@ -7648,8 +7647,7 @@ de commettre une des infractions prévues à l'article L. 218-10.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi n°2001-380 du 3 mai 2001 - art. 2 () JORF 4 mai 2001
+	  - Loi n°2004-204 2004-03-09 art. 30 1°, 3° JORF 10 mars 2004
 
 	**Cite**:
 
@@ -7674,11 +7672,6 @@ de commettre une des infractions prévues à l'article L. 218-10.
 	  - Code de l'environnement - art. L334-2-1 (V)
 	  - Code de l'environnement - art. L334-6 (VT)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
-
 
 ###### Article L218-12
 
@@ -7687,12 +7680,6 @@ l'annexe I de la convention mentionnée à l'article L. 218-10, au responsable d
 chalands ou bateaux citernes fluviaux, qu'ils soient automoteurs, remorqués ou poussés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Convention internationale 1973-11-02
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Code de l'environnement - art. L218-11 (M)
 
 	**Anciens textes**:
 
@@ -7704,23 +7691,22 @@ chalands ou bateaux citernes fluviaux, qu'ils soient automoteurs, remorqués ou 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L218-19 (V)
 	  - Code de l'environnement - art. L218-22 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
-
 
 ###### Article L218-13
 
-Est puni de 6 000 euros d'amende et, en outre, en cas de récidive, du double de cette peine et d'un an d'emprisonnement, le
-fait, pour tout capitaine ou responsable à bord d'un navire français soumis aux dispositions de la convention mentionnée à
-l'article L. 218-10 n'appartenant pas aux catégories de navires définis aux articles L. 218-10 et L. 218-11, de commettre une
-des infractions prévues à l'article L. 218-10.
+Est puni de 6 000 euros d'amende et, en outre, en cas de récidive, d'un an d'emprisonnement, le fait, pour tout capitaine ou
+responsable à bord d'un navire français soumis aux dispositions de la convention mentionnée à l'article L. 218-10
+n'appartenant pas aux catégories de navires définis aux articles L. 218-10 et L. 218-11, de commettre une des infractions
+prévues à l'article L. 218-10.
 
 **Liens relatifs à cet article**
 
@@ -7736,13 +7722,7 @@ des infractions prévues à l'article L. 218-10.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi n°2001-380 du 3 mai 2001 - art. 3 () JORF 4 mai 2001
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Code de l'environnement - art. L218-11 (M)
+	  - Loi n°2004-204 2004-03-09 art. 30 1°, 4° JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -7750,11 +7730,6 @@ des infractions prévues à l'article L. 218-10.
 	  - Code de l'environnement - art. L218-17 (V)
 	  - Code de l'environnement - art. L218-19 (V)
 	  - Code de l'environnement - art. L218-22 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 
 ###### Article L218-14
@@ -7767,6 +7742,11 @@ substances liquides nocives.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Convention internationale 1973-11-02 art. 2
+	  - Code de l'environnement - art. L218-10 (M)
+
 	**Anciens textes**:
 
 	  - Loi n°83-583 1983-07-05 art. 4 bis
@@ -7777,19 +7757,13 @@ substances liquides nocives.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Convention internationale 1973-11-02 art. 2
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L218-16 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 
 ###### Article L218-15
@@ -7818,14 +7792,13 @@ substances liquides nocives.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L218-16 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 
 ###### Article L218-16
@@ -7847,20 +7820,9 @@ l'article L. 218-10, de commettre les infractions définies aux articles L. 218-
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Code de l'environnement - art. L218-11 (M)
-	  - Code de l'environnement - art. L218-13 (M)
-	  - Code de l'environnement - art. L218-14 (M)
-	  - Code de l'environnement - art. L218-15 (M)
-	  - Code de l'environnement - art. L218-17 (M)
-	  - Code de l'environnement - art. L218-18 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
 
 
 ###### Article L218-17
@@ -7881,6 +7843,10 @@ citernes, en infraction aux dispositions de la règle 7 de l'annexe III de la co
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L218-10 (M)
@@ -7890,11 +7856,6 @@ citernes, en infraction aux dispositions de la règle 7 de l'annexe III de la co
 	**Cité par**:
 
 	  - Code de l'environnement - art. L218-16 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 
 ###### Article L218-18
@@ -7906,12 +7867,6 @@ convention, d'ordures, telles que définies au 1 de la règle 1 de ladite annexe
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Convention internationale 1973-11-02 art. 2, annexe V
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Code de l'environnement - art. L218-11 (M)
-
 	**Anciens textes**:
 
 	  - Loi n°83-583 1983-07-05 art. 5 bis 1
@@ -7922,14 +7877,13 @@ convention, d'ordures, telles que définies au 1 de la règle 1 de ladite annexe
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L218-16 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 
 ###### Article L218-19
@@ -7941,11 +7895,6 @@ protocole, de ne pas établir et transmettre un rapport conformément aux dispos
 d'emprisonnement et de 180 000 euros d'amende.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Convention internationale 1973-11-02
-	  - Code de l'environnement - art. L218-10 (M)
 
 	**Anciens textes**:
 
@@ -7959,19 +7908,13 @@ d'emprisonnement et de 180 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi n°2001-380 du 3 mai 2001 - art. 4 () JORF 4 mai 2001
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. 706-107 (V)
 	  - CODE DE PROCEDURE PENALE - art. 706-108 (V)
 	  - Code de l'environnement - art. L218-18 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 
 ###### Article L218-20
@@ -7997,12 +7940,7 @@ articles L. 218-10 à L. 218-19 ou n'a pas pris les mesures nécessaires pour l'
 
 	**Modifié par**:
 
-	  - Loi n°2001-380 du 3 mai 2001 - art. 5 () JORF 4 mai 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -8019,22 +7957,14 @@ Dans la zone économique au large des côtes du territoire de la République, et
 la loi n° 76-655 du 16 juillet 1976 relative à la zone économique et à la zone de protection écologique au large des côtes du
 territoire de la République, les eaux territoriales, les eaux intérieures et les voies navigables françaises jusqu'aux
 limites de la navigation maritime, les dispositions de la présente sous-section s'appliquent, dans les conditions prévues aux
-articles L. 218-10, L. 218-11, L. 218-13 à L. 218-19, aux navires et plates-formes étrangers même immatriculés dans un
-territoire relevant d'un gouvernement non partie à la convention mentionnée à l'article L. 218-10.
+articles L. 218-10, L. 218-11, L. 218-13 à L. 218-19 et L. 218-22, aux navires et plates-formes étrangers même immatriculés
+dans un territoire relevant d'un gouvernement non partie à la convention mentionnée à l'article L. 218-10.
 
-Toutefois, seules les peines d'amendes prévues aux articles L. 218-10, L. 218-11 et L. 218-13 à L. 218-19 peuvent être
-prononcées lorsque l'infraction a lieu dans la zone économique ou dans la zone de protection écologique  au large des côtes
-du territoire de la République.
+Toutefois, seules les peines d'amendes prévues aux articles L. 218-10, L. 218-11, L. 218-13 à L. 218-19 et L. 218-22 peuvent
+être prononcées lorsque l'infraction a lieu dans la zone économique ou dans la zone de protection écologique  au large des
+côtes du territoire de la République.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Convention internationale 1973-11-02
-	  - Loi n°76-655 1976-07-16
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Code de l'environnement - art. L218-11 (M)
-	  - Code de l'environnement L218-10, L218-11, L218-13 à L218-19
 
 	**Anciens textes**:
 
@@ -8048,32 +7978,64 @@ du territoire de la République.
 
 	**Modifié par**:
 
-	  - Loi n°2003-346 du 15 avril 2003 - art. 3 () JORF 16 avril 2003
+	  - Loi n°2004-204 2004-03-09 art. 30 1°, 5° JORF 10 mars 2004
 
 
 ###### Article L218-22
 
-Sans préjudice des peines prévues à la présente sous-section en matière d'infractions aux règles sur les rejets,
-l'imprudence, la négligence ou l'inobservation des lois et règlements, ayant eu pour conséquence un accident de mer tel que
-défini par la convention du 29 novembre 1969 sur l'intervention en haute mer, est punissable en la personne du capitaine ou
-du responsable de la conduite ou de l'exploitation à bord de navires ou de plates-formes français ou étrangers, qui a
-provoqué un tel accident ou n'a pas pris les mesures nécessaires pour l'éviter, lorsque cet accident a entraîné une pollution
-des eaux territoriales, des eaux intérieures ou des voies navigables jusqu'à la limite de la navigation maritime.
+I. - Sans préjudice des peines prévues à la présente sous-section en matière d'infractions aux règles sur les rejets, le
+fait, pour le capitaine ou le responsable de la conduite ou de l'exploitation à bord de navires ou de plates-formes français
+ou étrangers, de provoquer par imprudence, négligence ou inobservation des lois et règlements dans les conditions définies à
+l'article 121-3 du code pénal, un accident de mer tel que défini par la convention du 29 novembre 1969 sur l'intervention en
+haute mer en cas d'accidents entraînant ou pouvant entraîner une pollution par les hydrocarbures ou de ne pas prendre les
+mesures nécessaires pour l'éviter est punissable lorsque cet accident a entraîné une pollution des eaux territoriales, des
+eaux intérieures ou des voies navigables jusqu'à la limite de la navigation maritime.
 
 Lorsque l'infraction est commise au moyen d'un navire entrant dans les catégories définies à l'article L. 218-10 ou d'une
-plate-forme, elle est punie de peines égales à la moitié de celles prévues audit article.
+plate-forme, elle est punie de deux ans d'emprisonnement et de 200 000 euros d'amende.
 
 Lorsque l'infraction est commise au moyen d'un navire ou engin entrant dans les catégories définies aux articles L. 218-11,
-L. 218-12 et L. 218-13, elle est punie de peines égales à la moitié de celles prévues auxdits articles.
+et L. 218-12, elle est punie d'un an d'emprisonnement et de 90 000 euros d'amende.
 
-Les peines prévues aux deux alinéas précédents sont applicables soit au propriétaire, soit à l'exploitant ou à leur
-représentant légal ou dirigeant de fait s'il s'agit d'une personne morale, soit à toute autre personne que le capitaine ou le
-responsable à bord exerçant, en droit ou en fait, un pouvoir de contrôle ou de direction dans la gestion ou la marche du
-navire ou de la plate-forme, lorsque ce propriétaire, cet exploitant ou cette personne a été à l'origine d'une pollution dans
-les conditions définies au premier alinéa.
+Lorsque l'infraction est commise au moyen d'un navire ou engin entrant dans les catégories définies à l'article L. 218-13,
+elle est punie de 4 000 Euros d'amende.
 
-N'est pas punissable, en vertu du présent article, le rejet, consécutif à des mesures ayant pour objet d'éviter un danger
-grave et imminent menaçant la sécurité des navires, la vie humaine ou l'environnement.
+II. - Lorsque l'accident de mer visé au I a, directement ou indirectement, soit pour origine la violation manifestement
+délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement, soit pour conséquence
+un dommage irréversible ou d'une particulière gravité à l'environnement, les peines sont portées à :
+
+1° Cinq ans d'emprisonnement et à 500 000 Euros d'amende, lorsque l'infraction est commise au moyen d'un navire entrant dans
+les catégories définies à l'article L. 218-10 ou d'une plate-forme ;
+
+2° Trois ans d'emprisonnement et à 300 000 Euros d'amende, lorsque l'infraction est commise au moyen d'un navire ou engin
+entrant dans les catégories définies aux articles L. 218-11 et L. 218-12 ;
+
+3° 6 000 Euros d'amende, lorsque l'infraction est commise au moyen d'un navire ou engin entrant dans les catégories définies
+à l'article L. 218-13.
+
+Lorsque l'infraction est commise au moyen d'un navire entrant dans les catégories définies aux articles L. 218-10, L. 218-11
+et L. 218-12 ou d'une plate-forme, l'amende peut être portée, au-delà de ce montant, à une somme équivalente à la valeur du
+navire ou à deux fois la valeur de la cargaison transportée ou du fret.
+
+III. - Lorsque les deux circonstances visées au premier alinéa du II sont réunies, les peines sont portées à :
+
+1° Sept ans d'emprisonnement et à 700 000 Euros d'amende, lorsque l'infraction est commise au moyen d'un navire entrant dans
+la catégorie définie à l'article L. 218-10 ;
+
+2° Cinq ans d'emprisonnement et à 500 000 Euros d'amende, lorsque l'infraction est commise au moyen d'un navire entrant dans
+les catégories définies aux articles L. 218-11 et L. 218-12.
+
+L'amende peut être portée, au-delà de ce montant, à une somme équivalente à la valeur du navire ou à trois fois la valeur de
+la cargaison transportée ou du fret.
+
+IV. - Les peines prévues aux I et II sont applicables soit au propriétaire, soit à l'exploitant ou à leur représentant légal
+ou dirigeant de fait s'il s'agit d'une personne morale, soit à toute autre personne que le capitaine ou le responsable à bord
+exerçant, en droit ou en fait, un pouvoir de contrôle ou de direction dans la gestion ou la marche du navire ou de la plate-
+forme, lorsque ce propriétaire, cet exploitant ou cette personne a été à l'origine d'une pollution dans les conditions
+définies au présent article.
+
+V. - N'est pas punissable, en vertu du présent article, le rejet, consécutif à des mesures ayant pour objet d'éviter un
+danger grave et imminent menaçant la sécurité des navires, la vie humaine ou l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -8087,23 +8049,14 @@ grave et imminent menaçant la sécurité des navires, la vie humaine ou l'envir
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Code de l'environnement - art. L218-11 (M)
-	  - Code de l'environnement - art. L218-12 (M)
-	  - Code de l'environnement - art. L218-13 (M)
-	  - Convention internationale 1969-11-29
+	  - Loi n°2004-204 2004-03-09 art. 30 1°, 6° JORF 10 mars 2004
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L218-23 (M)
 	  - Code de l'environnement - art. L218-25 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-23 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 
 ###### Article L218-23
@@ -8125,6 +8078,10 @@ utilisés à des opérations de police ou de service public en mer.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
+
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L218-10 (M)
@@ -8139,25 +8096,19 @@ utilisés à des opérations de police ou de service public en mer.
 	  - SPEC_APPLI: Code de l'environnement - art. L218-19 (M)
 	  - SPEC_APPLI: Code de l'environnement - art. L218-20 (M)
 	  - SPEC_APPLI: Code de l'environnement - art. L218-22 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L218-22 (M)
-	  - Code de l'environnement L218-10 à L218-20, L218-22
 
 
 ###### Article L218-24
 
-Le tribunal peut, compte tenu des circonstances de fait et notamment des conditions de travail de l'intéressé, décider que le
-paiement des amendes prononcées à l'encontre du capitaine ou du responsable à bord, en vertu des articles L. 218-10 à L.
-218-22, est en totalité ou en partie, à la charge de l'exploitant ou du propriétaire.
+I. - Le tribunal peut, compte tenu des circonstances de fait et notamment des conditions de travail de l'intéressé, décider
+que le paiement des amendes prononcées à l'encontre du capitaine ou du responsable à bord, en vertu des articles L. 218-10 à
+L. 218-22, est en totalité ou en partie, à la charge de l'exploitant ou du propriétaire.
 
 Le tribunal ne peut user de la faculté prévue à l'alinéa précédent que si le propriétaire ou l'exploitant a été cité à
 l'audience.
 
-Les personnes physiques coupables des infractions prévues par la présente sous-section encourent également, à titre de peine
-complémentaire, la peine d'affichage de la décision prononcée ou de diffusion de celle-ci dans les conditions prévues à
+II. - Les personnes physiques coupables des infractions prévues par la présente sous-section encourent également à titre de
+peine complémentaire la peine d'affichage de la décision prononcée ou de diffusion de celle-ci dans les conditions prévues à
 l'article 131-35 du code pénal.
 
 **Liens relatifs à cet article**
@@ -8172,26 +8123,19 @@ l'article 131-35 du code pénal.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal - art. 131-35 (M)
-	  - Code de l'environnement L218-10 à L218-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
+	  - Loi n°2004-204 2004-03-09 art. 30 1°, 7° JORF 10 mars 2004
 
 
 ###### Article L218-25
 
-I. - Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du
-code pénal, des infractions définies à la présente sous-section.
+I.-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du
+code pénal, des infractions définies à la présente sous-section. Elles encourent la peine d'amende, suivant les modalités
+prévues par l'article 131-38 du code pénal. 
 
-II. - Elles encourent les peines suivantes :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 5°, 6° et 9° de l'article 131-39 du code pénal.
+II.-Pour les infractions définies aux articles L. 218-10 à L. 218-22, elles encourent également la peine mentionnée au 9° de
+l'article 131-39 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -8207,18 +8151,21 @@ II. - Elles encourent les peines suivantes :
 
 	**Modifié par**:
 
-	  - Loi n°2001-380 du 3 mai 2001 - art. 7 () JORF 4 mai 2001
+	  - Loi n°2004-204 2004-03-09 art. 30 1°, 8° JORF 10 mars 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2008-757 du 1er août 2008 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code de l'environnement - art. L218-10 (V)
 
-	**Liens**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
-
+##### Paragraphe 2 : Procédure.
 
 ###### Article L218-26
 
@@ -8273,20 +8220,11 @@ aéronefs de la marine nationale.
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L218-10 (M)
-	  - Convention internationale 1973-11-02 annexe I, annexe II, annexe III, annexe V,
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L218-28 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
 
 
 ###### Article L218-27
@@ -8319,9 +8257,9 @@ maritimes ;
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
 
 
 ###### Article L218-28
@@ -8343,6 +8281,10 @@ chaussées chargé du service maritime s'il s'agit d'engins portuaires, de chala
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
+
 	**Cité par**:
 
 	  - Arrêté du 13 mars 2015 (Ab)
@@ -8352,33 +8294,84 @@ chaussées chargé du service maritime s'il s'agit d'engins portuaires, de chala
 
 	  - Code de l'environnement - art. L218-26 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
-
 
 ###### Article L218-29
 
-I. - Dès lors qu'elles ont été commises dans la zone économique, la zone de protection écologique, les eaux territoriales,
-les eaux intérieures et les voies navigables françaises jusqu'aux limites de la navigation maritime, les infractions aux
-dispositions de la convention mentionnée à l'article L. 218-10 et à celles de la présente sous-section, ainsi que les
-infractions qui leurs ont connexes, sont jugées par un tribunal de grande instance du littoral maritime spécialisé,
-éventuellement compétent sur les ressorts de plusieurs cours d'appel dans les conditions prévues par le présent article.
+Les règles relatives à la compétence des juridictions pénales spécialisées pour connaître des infractions prévues par la
+présente sous-section sont fixées par les articles 706-107 à 706-111 du code de procédure pénale ci-après reproduits : 
 
-Un décret fixe la liste et le ressort de ces tribunaux.
+Art. 706-107.-Pour l'enquête, la poursuite, l'instruction et, s'il s'agit de délits, le jugement des infractions en matière
+de pollution des eaux marines et des voies ouvertes à la navigation maritime prévues et réprimées par la sous-section 2 de la
+section 1 du chapitre VIII du titre Ier du livre II du code de l'environnement, qui sont commises dans les eaux
+territoriales, les eaux intérieures et les voies navigables, la compétence d'un tribunal de grande instance peut être étendue
+au ressort d'une ou plusieurs cours d'appel. 
 
-II. - Le tribunal de grande instance de Paris est compétent pour la poursuite, l'instruction et le jugement des infractions
-commises par les capitaines de navires français se trouvant hors des espaces maritimes sous juridiction française.
+Les dispositions du premier alinéa s'appliquent également lorsque les infractions mentionnées dans cet alinéa, à l'exception
+de celle visée à l'article L. 218-22 du code de l'environnement, sont commises dans la zone économique exclusive ou dans la
+zone de protection écologique. 
 
-III. - Pour la poursuite et l'instruction des infractions mentionnées au I, les tribunaux désignés au I et au II et le
-tribunal de grande instance dans le ressort duquel peut être trouvé le bâtiment exercent une compétence concurrente à celle
-qui résulte de l'application des articles 43, 52, 382, 663, deuxième alinéa, et 706-42 du code de procédure pénale.
+Toutefois, dans les affaires qui sont ou apparaissent d'une grande complexité, le procureur de la République près le tribunal
+de grande instance mentionné au premier alinéa peut requérir le juge d'instruction, dans les conditions et selon les
+modalités prévues par les articles 706-110 et 706-111 de se dessaisir au profit du tribunal de grande instance de Paris. 
 
-IV. - Dans chaque juridiction visée aux I, II et III, un ou plusieurs juges d'instruction sont désignés pour l'instruction
-des faits susceptibles de constituer une infraction à la présente sous-section.
+Cette compétence s'étend aux infractions connexes. 
 
-V. - Lorsqu'ils sont compétents en application des dispositions du présent article, le procureur de la République et le juge
-d'instruction du tribunal mentionné au I exercent leurs attributions sur toute l'étendue du ressort de ce tribunal.
+Un décret fixe la liste et le ressort de ces juridictions du littoral maritime, qui comprennent une section du parquet et des
+formations d'instruction et de jugement spécialisées pour connaître de ces infractions. 
+
+Art. 706-108.-Pour l'enquête, la poursuite, l'instruction et le jugement des infractions visées à l'article 706-107 commises
+hors des espaces maritimes sous juridiction française à bord d'un navire français, le tribunal de grande instance compétent
+est le tribunal de grande instance de Paris. 
+
+Le tribunal de grande instance de Paris est également compétent pour l'enquête, la poursuite, l'instruction et le jugement de
+l'infraction visée à l'article L. 218-22 du code de l'environnement, ainsi que des infractions qui lui sont connexes, lorsque
+ces infractions sont commises dans la zone économique exclusive ou dans la zone de protection écologique. 
+
+Art. 706-109.-Le procureur de la République, le juge d'instruction, la formation correctionnelle spécialisée du tribunal de
+grande instance mentionné à l'article 706-107 exercent, sur toute l'étendue du ressort fixé en application de cet article,
+une compétence concurrente à celle qui résulte de l'application des articles 43, 52, 382 et 706-42. 
+
+Ils exercent également, dans les mêmes conditions, une compétence concurrente à celle qui résulte des critères de compétence
+suivants : 
+
+1° Lieu d'immatriculation du navire, engin ou plate-forme ou de son attachement en douanes ; 
+
+2° Lieu où le navire, engin ou plate-forme est ou peut être trouvé. 
+
+La juridiction spécialisée saisie demeure compétente, quelles que soient les incriminations retenues lors du règlement ou du
+jugement de l'affaire. Toutefois, si les faits constituent une contravention, le juge d'instruction prononce le renvoi de
+l'affaire devant le tribunal de police compétent en application de l'article 522. 
+
+Art. 706-110.-Le procureur de la République près un tribunal de grande instance autre que ceux visés à l'article 706-107
+peut, pour les infractions entrant dans le champ d'application de cet article, requérir le juge d'instruction de se dessaisir
+au profit de la juridiction d'instruction compétente en application de cet article. Les parties sont préalablement avisées et
+invitées à faire connaître leurs observations par le juge d'instruction ; l'ordonnance est rendue huit jours au plus tôt et
+un mois au plus tard à compter de cet avis. 
+
+Lorsque le juge d'instruction décide de se dessaisir, son ordonnance ne prend effet qu'à compter du délai de cinq jours prévu
+par l'article 706-111 ; lorsqu'un recours est exercé en application de cet article, le juge d'instruction demeure saisi
+jusqu'à ce que soit porté à sa connaissance l'arrêt de la chambre de l'instruction, passé en force de chose jugée, ou celui
+de la chambre criminelle de la Cour de cassation. 
+
+Dès que l'ordonnance est passée en force de chose jugée, le procureur de la République adresse le dossier de la procédure au
+procureur de la République près le tribunal compétent en application de l'article 706-109. 
+
+Les dispositions du présent article sont applicables devant la chambre de l'instruction. 
+
+Art. 706-111.-L'ordonnance rendue en application de l'article 706-110 peut, à l'exclusion de toute autre voie de recours,
+être déférée dans les cinq jours de sa notification, à la requête du ministère public ou des parties, soit à la chambre de
+l'instruction si la juridiction spécialisée au profit de laquelle le dessaisissement a été ordonné ou refusé se trouve dans
+le ressort de la cour d'appel dans lequel est située la juridiction initialement saisie, soit, dans le cas contraire, à la
+chambre criminelle de la Cour de cassation. La chambre de l'instruction ou la chambre criminelle désigne, dans les huit jours
+suivant la date de réception du dossier, le juge d'instruction chargé de poursuivre l'information. Le ministère public peut
+également saisir directement la chambre de l'instruction ou la chambre criminelle de la Cour de cassation lorsque le juge
+d'instruction n'a pas rendu son ordonnance dans le délai d'un mois prévu au premier alinéa de l'article 706-110.
+
+L'arrêt de la chambre de l'instruction ou de la chambre criminelle est porté à la connaissance du juge d'instruction ainsi
+qu'au ministère public et notifié aux parties. 
+
+Les dispositions du présent article sont applicables à l'arrêt de la chambre de l'instruction rendu sur le fondement du
+dernier alinéa de l'article 706-110, le recours étant alors porté devant la chambre criminelle.
 
 **Liens relatifs à cet article**
 
@@ -8392,13 +8385,8 @@ d'instruction du tribunal mentionné au I exercent leurs attributions sur toute 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Modifié par**:
-
-	  - Loi n°2003-346 du 15 avril 2003 - art. 4 () JORF 16 avril 2003
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2003-699 2003-07-30 art. 83 : dispositions transitoires
 	  - TXT_ASSOCIE: Loi n°2003-699 du 30 juillet 2003 - art. 83 (V)
 
 	**Cité par**:
@@ -8409,14 +8397,9 @@ d'instruction du tribunal mentionné au I exercent leurs attributions sur toute 
 	  - Code de l'environnement - art. L218-29 (VT)
 	  - Code de l'environnement - art. R218-2 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. 382 (M)
-	  - CODE DE PROCEDURE PENALE - art. 43 (M)
-	  - CODE DE PROCEDURE PENALE - art. 52 (M)
-	  - CODE DE PROCEDURE PENALE - art. 663 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-42 (V)
-	  - Code de l'environnement - art. L218-10 (M)
+	  - Loi n°2004-204 2004-03-09 art. 30 1°, 9° JORF 10 mars 2004
 
 
 ###### Article L218-30
@@ -8446,18 +8429,7 @@ articles 142, 142-2 et 142-3 du code de procédure pénale.
 
 	**Modifié par**:
 
-	  - Loi n°2001-380 du 3 mai 2001 - art. 8 () JORF 4 mai 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 142 (M)
-	  - CODE DE PROCEDURE PENALE - art. 142-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 142-3 (M)
-	  - Code de l'environnement L218-10 à L218-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
 
 	**Cité par**:
 
@@ -8483,13 +8455,9 @@ contraventions de grande voirie que la réparation de ce dommage.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L218-33 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement L218-10 à L218-22
+	  - Loi n°2004-204 2004-03-09 art. 30 1° JORF 10 mars 2004
 
 	**Cité par**:
 
