@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-10-03
+Version Consolidée au 2003-12-05
 
 # Partie législative
 
@@ -52125,31 +52125,36 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 ###### Article R*221-29
 
 Les participations des adhérents prévues au troisième alinéa de l'article L. 426-5 du code de l'environnement sont fixées par
-l'assemblée générale. Elles peuvent être réparties entre tous les adhérents ou exigées des seuls chasseurs de grand gibier et
-de sanglier ainsi que, le cas échéant, des détenteurs de droits de chasse portant sur des territoires sur lesquels sont
-chassés le grand gibier et le sanglier.
+l'assemblée générale sur proposition du conseil d'administration. Elles peuvent être réparties entre tous les adhérents ou
+exigées des seuls adhérents chasseurs de grand gibier ainsi que, le cas échéant, des détenteurs de droits de chasse portant
+sur des territoires où est chassé le grand gibier.
 
 Ces participations prennent la forme d'une participation personnelle ou d'une participation pour chaque dispositif de
 marquage de grand gibier et de sanglier ou d'une combinaison de ces deux types de participation. Elles sont modulables en
-fonction des espèces, du sexe, des catégories d'âge et du lieu de prélèvement des animaux.
+fonction des espèces, du sexe, des catégories d'âge et du territoire de chasse.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-29
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 1 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -52165,21 +52170,30 @@ Les comptes de la fédération départementale sont établis suivant le plan com
 L'exercice comptable commence le 1er juillet et se termine le 30 juin.
 
 L'ensemble des opérations directement attachées à la prévention et à l'indemnisation des dégâts causés aux récoltes par le
-grand gibier et le sanglier fait l'objet d'une comptabilité distincte, dans les conditions prévues à l'article R. 226-1.
+grand gibier fait l'objet d'une comptabilité distincte, dans les conditions prévues à l'article R. 226-1.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-30
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 2 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -52193,111 +52207,126 @@ Le conseil d'administration arrête les comptes de l'exercice écoulé avant le 
 
 L'assemblée générale donne quitus au conseil d'administration et approuve les comptes.
 
-Un commissaire aux comptes est nommé par l'assemblée générale, dans les conditions prévues à l'article L. 612-1 du code de
-commerce.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-31
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 2 () JORF 5 décembre 2003
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de commerce. - art. L612-1 (M)
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*221-32
 
-Le conseil d'administration établit un avant-projet de budget, qui retrace les recettes et dépenses prévisionnelles de
-fonctionnement et d'investissement de la fédération départementale. Les prévisions afférentes aux domaines d'activité faisant
-l'objet d'une comptabilité distincte sont individualisées au sein de ce budget.
+Le conseil d'administration établit un projet de budget qui retrace les charges et les produits prévisionnels de
+fonctionnement ainsi que les investissements de la fédération départementale. Les prévisions afférentes aux domaines
+d'activité faisant l'objet d'une comptabilité distincte sont individualisées au sein de ce budget.
 
-Le président transmet l'avant-projet de budget avant le 1er janvier au préfet, pour recueillir ses observations.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-32
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 2 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*221-33
 
-Dans un délai de deux mois à compter de la réception de l'avant-projet de budget, le préfet fait connaître au président de la
-fédération départementale des chasseurs ses demandes éventuelles de modification. Il veille notamment à l'inscription des
-charges et des produits obligatoires correspondant aux missions de service public de la fédération ; il s'oppose à
-l'inscription de charges étrangères à l'objet de la fédération et de produits qui ne sont pas prévus par les dispositions
-législatives et réglementaires.
+Avant le 1er juin, l'assemblée générale vote les cotisations relatives à l'exercice à venir et approuve le budget. Celui-ci
+est transmis sans délai au préfet par le président de la fédération départementale des chasseurs.
 
-Le préfet vérifie que le niveau du fonds de roulement net global prévu à la fin de l'exercice à venir est compris entre 50 et
-100 % de la moyenne des charges constatées au cours des deux derniers exercices clos. A défaut, il demande que le montant de
-cotisations envisagé soit revu pour que cete règle soit respectée.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-33
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 2 () JORF 5 décembre 2003
 
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles participe la fédération
 
 ###### Article R*221-34
 
-Avant le 1er mai, l'assemblée générale vote les cotisations relatives à l'exercice à venir et approuve le projet de budget.
+Le préfet contrôle, conformément au premier alinéa de l'article L. 421-10, l'exécution par la fédération départementale des
+chasseurs des missions de service public auxquelles elle participe, notamment les actions qu'elle mène dans les domaines
+suivants :
 
-Cette délibération est transmise au préfet dans les dix jours de la réunion de l'assemblée générale.
+a) Mise en valeur du patrimoine cynégétique départemental ; protection et gestion de la faune sauvage et de ses habitats ;
 
-Si le préfet constate que des dépenses obligatoires ne sont pas inscrites au budget, il procède à leur inscription d'office,
-ainsi qu'à celle des recettes correspondantes.
+b) Elaboration du schéma départemental de gestion cynégétique ;
 
-Si le projet de budget approuvé par l'assemblée générale soulève d'autres difficultés, en raison de la nature de
-modifications qu'elle a apportées à l'avant-projet de budget, ou de son refus d'apporter une modification demandée par le
-préfet, celui-ci refuse d'approuver le projet de budget et engage la procédure prévue à l'article R. 221-35.
+c) Contribution à la prévention du braconnage ;
 
-Le silence gardé par le préfet pendant un mois à compter de la réception par lui du projet de budget approuvé par l'assemblée
-générale de la fédération vaut approbation tacite de ce projet.
+d) Information, éducation et appui technique à l'intention des gestionnaires de territoires et des chasseurs ;
+
+e) Préparation à l'examen du permis de chasser et contribution à la validation du permis de chasser ;
+
+f) Coordination des actions des associations communales et intercommunales de chasse agréées ;
+
+g) Prévention et indemnisation des dégâts de grand gibier.
+
+A cet effet, et sans préjudice des obligations prévues au deuxième alinéa de l'article L. 421-10, le président de la
+fédération départementale des chasseurs fait parvenir au préfet, à sa demande, toutes informations sur les actions conduites
+par la fédération dans les domaines mentionnés ci-dessus. Les observations éventuelles du préfet sont portées dans les
+meilleurs délais à la connaissance du conseil d'administration et de l'assemblée générale de la fédération.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-34
 
 	**Codifié par**:
 
@@ -52305,126 +52334,15 @@ générale de la fédération vaut approbation tacite de ce projet.
 
 	**Créé par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 3 () JORF 5 décembre 2003
 
 	**Abrogé par**:
 
-	  - Décret n°2003-1157 du 4 décembre 2003 - art. 2 () JORF 5 décembre 2003
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
-	  - Code de l'environnement R221-35
-
-
-###### Article R*221-35
-
-Si le préfet fait l'une des constatations suivantes :
-
-1° Le conseil d'administration n'a pas établi l'avant-projet de budget avant le 1er janvier ou l'assemblée générale n'a pas
-voté les cotisations et approuvé le projet de budget avant le 1er mai ;
-
-2° Le projet de budget approuvé par l'assemblée générale présente les difficultés mentionnées à l'avant-dernier alinéa de
-l'article R. 221-34 ;
-
-3° L'exécution du budget s'écarte de façon importante du budget qu'il a approuvé ;
-
-4° Les missions de service public ne sont pas assurées ;
-
-5° La situation financière est incompatible avec la poursuite des activités,
-
-il met en demeure le président de la fédération départementale de prendre les mesures nécessaires dans le délai qu'il
-détermine.
-
-En l'absence de respect du délai imparti, il constate la défaillance de la fédération départementale et saisit le ministre
-chargé de la chasse.
-
-Celui-ci, après avoir recueilli les observations du président de la fédération départementale, peut confier au préfet la
-gestion d'office du budget ou l'administration de la fédération pendant le temps nécessaire au retour à un fonctionnement
-normal de celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1157 du 4 décembre 2003 - art. 2 () JORF 5 décembre 2003
-
-	**Cite**:
-
-	  - Code de l'environnement R221-34
-
-	**Anciens textes**:
-
-	  - Code rural R221-35
-
-
-###### Article R*221-36
-
-Lorsque l'administration de la fédération est confiée au préfet, celui-ci assure notamment, outre la gestion d'office du
-budget :
-
-1° L'établissement du budget prévisionnel ;
-
-2° La gestion du personnel ;
-
-3° La convocation du conseil d'administration et de l'assemblée générale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-36
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1157 du 4 décembre 2003 - art. 2 () JORF 5 décembre 2003
-
-
-###### Article R*221-37
-
-Si le projet de budget n'a pas été approuvé avant le début de l'exercice, le budget mensuel de la fédération départementale
-est réputé correspondre au douzième de celui de l'exercice précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-37
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1157 du 4 décembre 2003 - art. 2 () JORF 5 décembre 2003
+	  - Code de l'environnement - art. L421-10 (M)
 
 
 ##### Section 5 : Fédérations interdépartementales des chasseurs
@@ -52433,26 +52351,35 @@ est réputé correspondre au douzième de celui de l'exercice précédent.
 
 Les dispositions réglementaires relatives aux fédérations départementales des chasseurs sont applicables de plein droit aux
 deux fédérations interdépartementales mentionnées à l'article L. 421-12 du code de l'environnement, sous réserve des
-dispositions particulières définies aux articles R. 221-39 à R. 221-41.
+dispositions particulières définies aux articles R. 221-39 et R. 221-40.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L421-12 (M)
-	  - Code de l'environnement L421-12, R221-39 à R221-41
-
-	**Anciens textes**:
-
-	  - Code rural R221-38
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 4 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L421-12 (M)
+	  - Code de l'environnement L421-12, R221-39, R221-40
 
 
 ###### Article R*221-39
@@ -52460,28 +52387,32 @@ dispositions particulières définies aux articles R. 221-39 à R. 221-41.
 Le modèle de statuts fixé, en application de l'article L. 421-9 du code de l'environnement, pour les fédérations
 départementales est applicable aux fédérations interdépartementales.
 
-Toutefois, pour les fédérations interdépartementales, le modèle de statuts mentionné à l'alinéa précédent est adapté en ce
-qui concerne la composition et le nombre de membres du conseil d'administration et du bureau afin d'assurer une
-représentation équitable des chasseurs des différents départements de la fédération interdépartementale. Le conseil
-d'administration ne peut comprendre plus de vingt membres.
+Toutefois, pour les fédérations interdépartementales, le modèle de statuts mentionné à l'alinéa précédent est adapté
+notamment en ce qui concerne la composition et le nombre de membres du conseil d'administration et du bureau afin d'assurer
+une représentation équitable des chasseurs des différents départements de la fédération interdépartementale.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-39
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 4 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -52525,61 +52456,37 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-###### Article R*221-41
-
-La fédération interdépartementale des chasseurs de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne peut
-participer à des actions à caractère cynégétique, conduites, notamment, par la Fédération nationale des chasseurs, l'Etat ou
-ses établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-41
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1157 du 4 décembre 2003 - art. 4 () JORF 5 décembre 2003
-
-
 ##### Section 6 : Fédérations régionales des chasseurs
 
 ###### Article R*221-42
 
-Le montant de la cotisation que doit acquitter chaque fédération départementale à la fédération régionale est égal au produit
-du nombre de ses adhérents de l'exercice précédent par le montant national maximum de la cotisation mentionnée au quatrième
-alinéa de l'article L. 421-14 du code de l'environnement, auquel est appliqué un taux fixé par l'assemblée générale de la
-fédération régionale des chasseurs, qui ne peut excéder 5 %.
+Le montant de la cotisation que doit acquitter chaque fédération départementale et interdépartementale à la fédération
+régionale est égal au produit du nombre de ses adhérents de l'exercice précédent par le montant national maximum de la
+cotisation mentionnée au quatrième alinéa de l'article L. 421-14 du code de l'environnement, auquel est appliqué un taux fixé
+par l'assemblée générale de la fédération régionale des chasseurs.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-42
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 5 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -52589,117 +52496,99 @@ fédération régionale des chasseurs, qui ne peut excéder 5 %.
 ###### Article R*221-43
 
 Les comptes et le budget de la fédération régionale sont établis, et le contrôle mentionné à l'article L. 421-10 du code de
-l'environnement assuré, dans les conditions prévues aux articles R. 221-30 à R. 221-37. Le préfet chargé du contrôle est le
+l'environnement assuré, dans les conditions prévues aux articles R. 221-30 à R. 221-34. Le préfet chargé du contrôle est le
 préfet de région.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-43
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 5 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L421-10 (M)
-	  - Code de l'environnement L421-10, R221-30 à R221-37
+	  - Code de l'environnement L421-10, R221-30 à R221-34
 
 
 ##### Section 7 : Fédération nationale des chasseurs
 
 ##### Sous-section 1 : Cotisations et contributions des fédérations départementales
 
-###### Article R*221-44
+###### Article R*221-45
 
-L'assemblée générale de la fédération nationale fixe les montants nationaux minimum et maximum des cotisations annuelles dues
-par leurs adhérents aux fédérations départementales, prévus au quatrième alinéa de l'article L. 421-14 du code de
-l'environnement.
+L'assemblée générale de la fédération nationale des chasseurs fixe le montant de la cotisation versée à la fédération par
+chaque chasseur de grand gibier qui a validé un permis de chasser national.
 
-Le plafond du montant national maximum est fixé à 80 euros.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-44
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables), V (date d'effet)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2003-1157 du 4 décembre 2003 - art. 6 () JORF 5 décembre 2003
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'environnement - art. L421-14 (M)
-
-
-###### Article R*221-45
-
-L'assemblée générale de la fédération nationale fixe le montant de la cotisation versée à la fédération par chaque chasseur
-de grand gibier qui a validé un permis de chasser national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-45
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*221-46
 
-Le montant de la cotisation d'adhésion que doit acquitter chaque fédération départementale des chasseurs à la fédération
-nationale, en application du premier alinéa de l'article L. 421-14 du code de l'environnement, est égal au produit du nombre
-de ses adhérents de l'exercice précédent par le montant national maximum de la cotisation mentionnée au quatrième alinéa de
-l'article L. 421-14 du code de l'environnement, auquel est appliqué un taux fixé par l'assemblée générale de la Fédération
-nationale des chasseurs, qui ne peut excéder 5 %.
+Le montant de la cotisation d'adhésion que doit acquitter chaque fédération départementale, interdépartementale ou régionale
+des chasseurs à la Fédération nationale des chasseurs est, en application du premier alinéa de l'article L. 421-14, fixé par
+l'assemblée générale de la Fédération nationale des chasseurs sur proposition de son conseil d'administration.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-46
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 6 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -52708,29 +52597,33 @@ nationale des chasseurs, qui ne peut excéder 5 %.
 
 ###### Article R*221-47
 
-Le montant de la contribution obligatoire de chaque fédération départementale des chasseurs au fonds prévu au cinquième
-alinéa de l'article L. 421-14 du code de l'environnement est égal au produit du nombre de ses adhérents de l'exercice
-précédent par le montant national maximum de la cotisation mentionnée au quatrième alinéa de l'article L. 421-14 du code de
-l'environnement, auquel est appliqué un taux fixé par l'assemblée générale de la Fédération nationale des chasseurs qui ne
-peut excéder 5 %.
+L'assemblée générale de la Fédération nationale des chasseurs détermine le montant des contributions obligatoires de chaque
+fédération départementale ou interdépartementale des chasseurs et de la cotisation nationale au fonds cynégétique national
+prévu au cinquième alinéa de l'article L. 421-14 ainsi que la clé de répartition et les modalités de redistribution de ce
+fonds entre les fédérations départementales et interdépartementales bénéficiaires.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-47
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 6 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -52742,36 +52635,55 @@ peut excéder 5 %.
 ###### Article R*221-48
 
 Les comptes et le budget de la Fédération nationale des chasseurs sont établis conformément aux dispositions des articles R.
-221-30 à R. 221-37.
+221-30 à R. 221-33.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'environnement R221-30 à R221-37
-
-	**Anciens textes**:
-
-	  - Code rural R221-48
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 7 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement R221-30 à R221-33
 
 
 ###### Article R*221-49
 
-Le fonds prévu au cinquième alinéa de l'article L. 421-14 du code de l'environnement comporte deux sections :
+Le fonds cynégétique national prévu au cinquième alinéa de l'article L. 421-14 du code de l'environnement comporte deux
+sections :
 
-1° Une section de péréquation entre les fédérations départementales, à laquelle sont affectées les contributions mentionnées
-à l'article R. 221-47 ;
+1° Une section de péréquation entre les fédérations départementales et interdépartementales, à laquelle sont affectées les
+contributions mentionnées à l'article R. 221-47 ;
 
 2° Une section finançant la prévention et l'indemnisation des dégâts de grand gibier, à laquelle sont affectées les
 cotisations mentionnées à l'article R. 221-45.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -52779,53 +52691,39 @@ cotisations mentionnées à l'article R. 221-45.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 7 () JORF 5 décembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L421-14 (M)
 	  - Code de l'environnement L421-14, R221-47, R221-45
 
-	**Anciens textes**:
 
-	  - Code rural R221-49
-
-
-##### Section 8 : Contrôle économique et financier de l'Etat
+##### Sous-section 3 : Contrôle de l'exécution des missions de service public auxquelles est associée la Fédération nationale des chasseurs
 
 ###### Article R*221-50
 
-Le contrôle économique et financier des fédérations des chasseurs porte notamment sur :
+Pour l'application du premier alinéa de l'article L. 421-16, le président de la Fédération nationale des chasseurs transmet
+au ministre chargé de la chasse, à sa demande, toutes informations sur les actions qu'elle mène au titre des missions de
+service public auxquelles elle est associée. Les observations éventuelles du ministre sont portées dans les meilleurs délais
+à la connaissance du conseil d'administration et de l'assemblée générale de la Fédération nationale des chasseurs.
 
-1° En ce qui concerne les fédérations départementales :
+**Nota:**
 
-a) L'exécution du budget ;
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-b) La situation financière, au regard notamment de l'exécution de leurs missions de service public ;
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-c) Les aspects financiers de l'indemnisation des dégâts de grands gibiers et de sangliers ;
-
-d) Les investissements ;
-
-2° En ce qui concerne les fédérations régionales, l'exécution du budget ;
-
-3° En ce qui concerne la fédération nationale :
-
-a) L'exécution du budget ;
-
-b) La gestion du fonds prévu au cinquième alinéa de l'article L. 421-14 du code de l'environnement.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-50
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
 
 	**Codifié par**:
 
@@ -52833,43 +52731,15 @@ b) La gestion du fonds prévu au cinquième alinéa de l'article L. 421-14 du co
 
 	**Créé par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-1157 du 4 décembre 2003 - art. 9 () JORF 5 décembre 2003
 
 	**Abrogé par**:
 
-	  - Décret n°2003-1157 du 4 décembre 2003 - art. 8 () JORF 5 décembre 2003
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L421-14 (M)
-
-
-###### Article R*221-51
-
-Un arrêté des ministres chargés des finances, de l'économie, du budget et de la chasse précise les modalités spéciales
-d'exercice du contrôle économique et financier de l'Etat sur les fédérations de chasseurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R221-51
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-553 2001-06-27 art. 2 II, III, IV (dispositions comptables)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1157 du 4 décembre 2003 - art. 8 () JORF 5 décembre 2003
+	  - Code de l'environnement - art. L421-16 (V)
 
 
 ##### Section 9 : Observatoire national de la faune sauvage et de ses habitats
