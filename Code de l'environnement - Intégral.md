@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-12-31
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -10637,7 +10637,7 @@ imposées.
 
 L'astreinte cesse de courir le jour où ces dernières sont complètement exécutées. Elle est alors liquidée par le tribunal à
 la demande de l'intéressé et recouvrée par le comptable du Trésor comme une amende pénale. Elle ne donne pas lieu à
-contrainte par corps. Le présent article ne s'applique qu'aux rejets, déversements ou écoulements provenant de dépôts ou
+contrainte judiciaire. Le présent article ne s'applique qu'aux rejets, déversements ou écoulements provenant de dépôts ou
 d'installations fixes.
 
 **Liens relatifs à cet article**
@@ -10651,9 +10651,15 @@ d'installations fixes.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 207 : champ d'application
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -10662,11 +10668,6 @@ d'installations fixes.
 	**Cité par**:
 
 	  - Code de l'environnement - art. R218-14-1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L218-77
@@ -31674,7 +31675,8 @@ IV. - Le taux de l'astreinte, tel qu'il a été fixé par la décision d'ajourne
 Pour la liquidation de l'astreinte, la juridiction apprécie l'inexécution ou le retard dans l'exécution des prescriptions en
 tenant compte, s'il y a lieu, de la survenance des événements qui ne sont pas imputables au prévenu.
 
-L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale ; elle ne donne pas lieu à contrainte par corps.
+L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale ; elle ne donne pas lieu à contrainte
+judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -31690,7 +31692,11 @@ L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+	  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 207 : champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -37722,10 +37728,15 @@ V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité 
 VI. - Le projet de plan est soumis pour avis à une commission composée des représentants respectifs des collectivités
 territoriales, de l'Etat et des organismes publics concernés, des organisations professionnelles concourant à la production
 et à l'élimination des déchets et des associations agréées de protection de l'environnement. Il est également soumis pour
-avis aux conseils régionaux limitrophes. Il est éventuellement modifié pour tenir compte de ces avis.
+avis aux conseils régionaux limitrophes. Il est éventuellement modifié pour tenir compte de ces avis. Si, dans les conditions
+prévues à l'article L. 541-15, l'Etat élabore le plan, l'avis du conseil régional est également sollicité.
 
 VII. - Le projet de plan est alors mis à la disposition du public pendant deux mois, puis approuvé par délibération du
 conseil régional et publié.
+
+**Nota:**
+
+Loi 2004-809 du 13 août 2004, art. 48 : dispositions transitoires concernant les plans d'élimination des déchets ménagers.
 
 **Liens relatifs à cet article**
 
@@ -37764,18 +37775,18 @@ conseil régional et publié.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
+	  - Loi n°2004-809 du 13 août 2004 - art. 47 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L541-1 (M)
 	  - Code de l'environnement - art. L541-24 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
 ###### Article L541-14
@@ -37879,18 +37890,20 @@ Dans les zones où les plans visés aux articles L. 541-11, L. 541-13 et L. 541-
 les personnes morales de droit public et leurs concessionnaires dans le domaine de l'élimination des déchets et, notamment,
 les décisions prises en application du titre Ier du présent livre doivent être compatibles avec ces plans.
 
-Les prescriptions applicables aux installations existantes doivent être rendues compatibles avec ces plans dans un délai de
-cinq ans après leur publication s'agissant des plans visées à l'article L. 541-11, et de trois ans s'agissant des plans visés
-aux articles L. 541-13 et L. 541-14.
-
 Ces plans sont révisés selon une procédure identique à celle de leur adoption.
 
 Les modalités et procédures d'élaboration, de publication et de révision des plans sont déterminées par décret en Conseil
 d'Etat. Ce décret fixe notamment les modalités de la consultation du public, les mesures de publicité à prendre lors de
 l'élaboration des plans et après leur adoption et la procédure simplifiée de révision des plans applicable dès lors que les
-modifications projetées n'en remettent pas en cause l'économie générale. Ce décret détermine également les conditions dans
-lesquelles l'Etat élabore le plan prévu à l'article L. 541-13 lorsque, après avoir été invitée à y procéder, l'autorité
-compétente n'a pas adopté ce plan dans un délai de dix-huit mois.
+modifications projetées n'en remettent pas en cause l'économie générale. Ce décret fixe également les conditions dans
+lesquelles le représentant de l'Etat peut demander au président du conseil général ou au président du conseil régional une
+nouvelle délibération sur les projets de plans visés aux articles L. 541-13 et L. 541-14 ou l'élaboration ou la révision de
+ces plans, puis les élaborer ou les réviser lorsque, après avoir été invités à y procéder, les conseils régionaux ou les
+conseils généraux ne les ont pas adoptés dans un délai de dix-huit mois.
+
+**Nota:**
+
+Loi 2004-809 du 13 août 2004, art. 48 : dispositions transitoires concernant les plans d'élimination des déchets ménagers.
 
 **Liens relatifs à cet article**
 
@@ -37904,9 +37917,13 @@ compétente n'a pas adopté ce plan dans un délai de dix-huit mois.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
+	  - Loi n°2004-809 du 13 août 2004 - art. 46 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -37920,10 +37937,6 @@ compétente n'a pas adopté ce plan dans un délai de dix-huit mois.
 	  - Code de l'environnement - art. R541-22 (V)
 	  - Code de l'environnement - art. R541-27 (V)
 	  - Code général des collectivités territoriales - art. L4424-38 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
 ##### Sous-section 2 : Stockages souterrains des déchets
@@ -72186,24 +72199,35 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*235-13-1
 
-Une commission dénommée commission départementale ou interdépartementale des structures de la pêche professionnelle en eau
-douce, dont la composition est fixée par un arrêté conjoint du ministre chargé de la pêche en eau douce et du ministre chargé
-du domaine, est consultée par le préfet sur les demandes présentées par toute personne qui désire obtenir la location d'un ou
-de plusieurs lots pour y exercer la pêche professionnelle, ou l'attribution d'une licence de pêche professionnelle.
+Il est institué dans chaque bassin hydrographique une commission pour la pêche professionnelle en eau douce. Sa composition
+et son mode de fonctionnement sont fixés par arrêté conjoint du ministre chargé de la pêche en eau douce et du ministre
+chargé du domaine. Cette commission est consultée par le préfet sur les demandes de location d'un ou de plusieurs lots pour
+l'exercice de la pêche professionnelle ou d'attribution d'une licence de pêche professionnelle. Elle est également consultée,
+en ce qui concerne la pêche professionnelle, sur les modalités de constitution des lots et les clauses particulières à chaque
+lot, les dates d'ouverture de la pêche et les mesures tendant à mettre en réserve certains lots ou secteurs de pêche.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R235-13-1
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 7 () JORF 25 juin 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ##### Sous-section 2 : Modalités de location des lots.
@@ -73768,8 +73792,18 @@ coucher dans les eaux mentionnées à l'article L. 435-1 ;
 
 4° Des aloses et des lamproies à toute heure dans les zones mentionnées à l'article L. 436-10 ;
 
-5° De la carpe à toute heure dans les parties de cours d'eau ou les plans d'eau de 2e catégorie et pendant une période qu'il
-détermine.
+5° De la carpe à toute heure dans les parties de cours d'eau et de plans d'eau de 2e catégorie et pendant une période qu'il
+détermine. Toutefois, depuis une demi-heure après le coucher du soleil jusqu'à une demi-heure avant son lever, aucune carpe
+capturée par les pêcheurs amateurs aux lignes ne peut être maintenue en captivité ou transportée.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -73779,8 +73813,11 @@ détermine.
 
 	**Modifié par**:
 
-	  - Décret n°2004-599 2004-06-18 art. 10 I, II JORF 25 juin 2004
-	  - Décret n°2004-599 du 18 juin 2004 - art. 10 () JORF 25 juin 2004
+	  - Décret n°2004-599 du 18 juin 2004 - art. 10 () JORF 25 juin 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -73935,7 +73972,7 @@ après leur capture si leur longueur est inférieure à :
 
 0,23 mètre pour les truites autres que la truite de mer, l'omble ou saumon de fontaine et l'omble chevalier ;
 
-0,23 mètre pour le black-bass dans les eaux de la 2e catégorie ;
+0,30 mètre pour le black-bass dans les eaux de la 2e catégorie ;
 
 0,20 mètre pour le mulet ;
 
@@ -73944,19 +73981,28 @@ après leur capture si leur longueur est inférieure à :
 La longueur des poissons est mesurée du bout du museau à l'extrémité de la queue déployée, celle des écrevisses de la pointe
 de la tête, pinces et antennes non comprises, à l'extrémité de la queue déployée.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-23
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 11 () JORF 25 juin 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -74894,28 +74940,40 @@ l'article R. 236-29 ou sans respecter les prescriptions de l'autorisation ;
 236-6, R. 236-7, R. 236-8, R. 236-16, R. 236-28, R. 236-30 et R. 236-42 ;
 
 8° Le fait d'être trouvé, la nuit, porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés
-destinés à être utilisés dans les eaux soumises aux dispositions de la présente section.
+destinés à être utilisés dans les eaux soumises aux dispositions de la présente section ;
+
+9° Le fait de ne pas respecter les prescriptions du 5° de l'article R. 236-19 relatives au maintien en captivité et au
+transport des carpes.
 
 L'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe lorsque les infractions aux 1°, 3°, 4°,
 5°, 6° et 7° ont été commises de nuit.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'environnement R236-6, R236-7, R236-11, R236-12, R236-16, R236-18 à R236-22, R236-30 à R236-38, R236-40 à R236-49, R236-23, R236-24, R236-28, R236-29, R236-8, R236-30, R236-42
-
-	**Anciens textes**:
-
-	  - Code rural R236-54
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 12 () JORF 25 juin 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement R236-6, R236-7, R236-11, R236-12, R236-16, R236-18 à R236-22, R236-30 à R236-38, R236-40 à R236-49, R236-23, R236-24, R236-28, R236-29, R236-8, R236-30, R236-42, R236-19
 
 
 ###### Article R*236-59
@@ -75246,22 +75304,31 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 Le préfet du département, après avis du délégué régional du Conseil supérieur de la pêche, de la fédération départementale
 des associations agréées de pêche et de pisciculture et, le cas échéant, de l'association agréée de pêcheurs professionnels
-en eau douce, peut, par arrêté, instituer des réserves de pêche où toute pêche est interdite pour une durée allant d'un an à
-cinq années consécutives.
+en eau douce, peut, par arrêté, instituer des réserves de pêche où toute pêche est interdite pour une durée pouvant aller
+jusqu'à cinq années consécutives.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-91
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 13 () JORF 25 juin 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*236-92
