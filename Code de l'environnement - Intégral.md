@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-09-03
+Version Consolidée au 2003-09-07
 
 # Partie législative
 
@@ -57922,19 +57922,19 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*223-12
 
-I. - Pour obtenir la validation annuelle de son permis de chasser, le titulaire du permis complète et signe, sous sa propre
-responsabilité, un document de validation diffusé par les fédérations départementales des chasseurs.
+Pour obtenir la validation annuelle de son permis de chasser, le titulaire du permis complète et signe, sous sa propre
+responsabilité, un document de validation diffusé par les fédérations départementales ou interdépartementales des chasseurs.
 
 Ce document doit comporter :
 
 1° Les références du permis de chasser dont il est titulaire ;
 
-2° Le récépissé de sa cotisation d'adhésion à la fédération départementale des chasseurs ;
+2° Le récépissé de sa cotisation d'adhésion à la fédération départementale ou interdépartementale des chasseurs ;
 
 3° Une déclaration sur l'honneur du demandeur :
 
-a) Attestant qu'il n'est pas dans l'un des cas prévus par les articles L. 423-23, L. 423-24 ou L. 428-14 du code de
-l'environnement et qu'il est bien assuré dans les conditions prévues par l'article L. 423-16 du code de l'environnement ;
+a) Attestant qu'il n'est pas dans l'un des cas prévus par les articles L. 423-23, L. 423-24, L. 428-14 et L. 428-15 du code
+de l'environnement et qu'il est bien assuré dans les conditions prévues par l'article L. 423-16 du code de l'environnement ;
 
 b) Mentionnant, le cas échéant, les condamnations prévues à l'article L. 423-25 du code de l'environnement dont il a fait
 l'objet ;
@@ -57943,8 +57943,14 @@ l'objet ;
 
 5° Pour les majeurs en tutelle, l'autorisation du juge des tutelles.
 
-II. - L'attestation d'assurance mentionnée à l'article L. 423-16 du code de l'environnement est jointe au document de
-validation.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -57952,9 +57958,13 @@ validation.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-855 du 5 septembre 2003 - art. 1 () JORF 7 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -57964,26 +57974,23 @@ validation.
 	  - Code de l'environnement - art. L423-25 (V)
 	  - Code de l'environnement - art. L428-14 (V)
 
-	**Anciens textes**:
-
-	  - Code rural R223-12
-
 
 ###### Article R*223-13
 
-La validation annuelle du permis de chasser est demandée au comptable du Trésor territorialement compétent pour la commune où
-le demandeur est domicilié, réside, est propriétaire foncier ou possède un droit de chasser ou à celui territorialement
-compétent pour la commune du siège de la fédération départementale des chasseurs à laquelle il adhère.
+Le paiement des droits et redevances mentionnés à l'article L. 423-12 du code de l'environnement est accepté par le comptable
+du Trésor ou le régisseur des recettes de l'Etat placé auprès de la fédération départementale ou interdépartementale des
+chasseurs, sous réserve de la présentation du document de validation du permis de chasser mentionné à l'article R. 223-12,
+dûment rempli et signé par le titulaire du permis. Il est constaté sur ce document, selon les modalités définies par arrêté
+conjoint du ministre chargé de la chasse et du ministre chargé du budget.
 
-Elle est subordonnée à la présentation du document de validation du permis de chasser mentionné à l'article R. 223-12, rempli
-et signé par le titulaire du permis, ainsi qu'au paiement des taxes et redevances prévues aux articles L. 423-14 et L.
-423-21-1.
+**Nota:**
 
-Le paiement des taxes et redevances mentionnées aux articles L. 423-14 et L. 423-21-1 est constaté par le comptable du Trésor
-par l'opposition sur le document de validation du permis de chasser des timbres justificatifs de ce paiement. Cette
-constatation vaut validation du permis de chasser.
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-Le document de validation du permis de chasser doit être joint à ce permis, dont il est indissociable.
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -57991,67 +57998,80 @@ Le document de validation du permis de chasser doit être joint à ce permis, do
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-855 du 5 septembre 2003 - art. 2 () JORF 7 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L423-14 (M)
-	  - Code de l'environnement - art. L423-21-1 (M)
-	  - Code de l'environnement R223-12, L423-14, L423-21-1
-
-	**Anciens textes**:
-
-	  - Code rural R223-13
+	  - Code de l'environnement - art. L423-12 (M)
+	  - Code de l'environnement L423-12, R223-12
 
 
 ###### Article R*223-14
 
-Un duplicata de la validation peut être obtenu par le titulaire du permis de chasser auprès du comptable du Trésor qui a reçu
-le paiement initial des taxes et redevances, après paiement de la taxe mentionnée au 2° de l'article L. 423-14 du code de
-l'environnement.
+Un duplicata du document de validation peut être obtenu par le titulaire du permis de chasser auprès de la fédération
+départementale ou interdépartementale des chasseurs à laquelle il adhère, après vérification par celle-ci du paiement initial
+des droits et redevances dans des conditions définies par arrêté conjoint du ministre chargé de la chasse et du ministre
+chargé du budget.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R223-14
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-855 du 5 septembre 2003 - art. 2 () JORF 7 septembre 2003
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'environnement - art. L423-14 (M)
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*223-15
 
-L'attestation prévue à l'article L. 423-16 du code de l'environnement et dont la forme est fixée par un arrêté du ministre de
-l'intérieur, du garde des sceaux, ministre de la justice, du ministre de l'économie, des finances et du budget et du ministre
-chargé de la chasse est remise aux assurés, sur demande de leur part, dans un délai de quinze jours à compter de la date de
-la demande.
+L'attestation de la souscription de l'assurance prévue à l'article L. 423-16 du code de l'environnement dont la forme est
+fixée par un arrêté du ministre de l'intérieur, du garde des sceaux, ministre de la justice, du ministre de l'économie, des
+finances et du budget et du ministre chargé de la chasse est remise aux assurés, sur demande de leur part, dans un délai de
+quinze jours à compter de la date de la demande.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R223-15
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-855 du 5 septembre 2003 - art. 3 () JORF 7 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -58131,6 +58151,35 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 	**Créé par**:
 
 	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+###### Article R*223-22-1
+
+Le document de validation du permis de chasser et l'attestation d'assurance de son titulaire doivent être présentés en même
+temps que le permis lors de tout contrôle en action de chasse.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2003-855 du 5 septembre 2003 - art. 4 () JORF 7 septembre 2003
 
 	**Abrogé par**:
 
@@ -62705,21 +62754,31 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 ###### Article R*228-4
 
 Seront punis de l'amende prévue pour les contraventions de la 1re classe ceux qui auront chassé sans être porteurs de leur
-permis de chasser ou de la licence de chasse valables pour le temps et le lieu où ils chassent.
+permis de chasser ou de la licence de chasse valables pour le temps et le lieu où ils chassent ou du document de validation
+de permis de chasser ou de l'attestation d'assurance.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R228-4
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2003-855 du 5 septembre 2003 - art. 5 () JORF 7 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ##### Sous-section 3 : Exercice de la chasse
