@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-03-28
+Version Consolidée au 2004-04-17
 
 # Partie législative
 
@@ -11723,9 +11723,9 @@ reconnues priorités nationales.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
 
 	**Cité par**:
 
@@ -11735,6 +11735,8 @@ reconnues priorités nationales.
 	  - Code de l'environnement - art. L640-1 (V)
 	  - Code de l'environnement - art. R229-39 (VD)
 
+
+##### Section 1 : Observatoire national sur les effets du réchauffement climatique
 
 ###### Article L229-2
 
@@ -11754,9 +11756,9 @@ compétence toute action d'information auprès du public et des collectivités t
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
 
 	**Cité par**:
 
@@ -11778,9 +11780,9 @@ d'adaptation susceptibles de limiter les risques liés au réchauffement climati
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
 
 
 ###### Article L229-4
@@ -11795,9 +11797,809 @@ par décret.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+
+##### Section 2 : Quotas d'émission de gaz à effet de serre
+
+###### Article L229-5
+
+Les dispositions de la présente section s'appliquent aux installations classées rejetant un gaz à effet de serre dans
+l'atmosphère lorsqu'elles exercent une des activités dont la liste est fixée par décret en Conseil d'Etat. Ce même décret
+tient compte en outre de la capacité de production ou du rendement de l'installation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-1133 du 21 septembre 1977 - art. 17 (Ab)
+	  - Décret n°77-1133 du 21 septembre 1977 - art. 2 (Ab)
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 15 (VT)
+	  - Arrêté du 2 mars 2007 - art. 12 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 16 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 18 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 24-1 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 26-1 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 37 (M)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 38 (M)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 43 (Ab)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 44 (Ab)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 67-1 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 8 (V)
+	  - Décret n°2011-90 du 24 janvier 2011 - art. 3 (V)
+	  - Arrêté du 26 janvier 2011 - art. 1 (V)
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 2 (Ab)
+	  - Arrêté du 24 juin 2013 - art. 1 (V)
+	  - Arrêté du 4 septembre 2014 - art. Annexe 5 (VD)
+	  - Arrêté du 4 septembre 2014 - art. Annexe 7-1 (V)
+	  - Arrêté du 28 novembre 2014 (V)
+	  - Arrêté du 24 avril 2015 (V)
+	  - Arrêté du 18 février 2016 (V)
+	  - Arrêté du 21 avril 2016 (V)
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 3
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 9
+	  - Arrêté du 17 octobre 2016 (V)
+	  - Arrêté du 24 février 2017 (V)
+	  - Code de l'aviation civile - art. R330-20 (V)
+	  - Code de l'environnement - art. D181-15-2 (V)
+	  - Code de l'environnement - art. D229-37-2 (V)
+	  - Code de l'environnement - art. L229-12 (V)
+	  - Code de l'environnement - art. L229-15 (V)
+	  - Code de l'environnement - art. L229-18 (V)
+	  - Code de l'environnement - art. L229-23 (V)
+	  - Code de l'environnement - art. L229-49 (V)
+	  - Code de l'environnement - art. L229-6 (VD)
+	  - Code de l'environnement - art. L229-8 (V)
+	  - Code de l'environnement - art. L652-7 (V)
+	  - Code de l'environnement - art. R181-54 (VD)
+	  - Code de l'environnement - art. R229-16-1 (V)
+	  - Code de l'environnement - art. R229-37-7 (V)
+	  - Code de l'environnement - art. R229-37-8 (V)
+	  - Code de l'environnement - art. R512-28 (VT)
+	  - Code de l'environnement - art. R512-33 (VD)
+	  - Code de l'environnement - art. R512-4 (VT)
+	  - Code de l'environnement - art. R512-45 (VD)
+	  - Code de l'énergie - art. L221-7 (V)
+	  - Code de l'énergie - art. R641-14 (V)
+	  - Code des douanes - art. 266 quinquies B (VD)
+	  - Code des douanes - art. 266 quinquies C (M)
+	  - Code monétaire et financier - art. L420-16 (VD)
+	  - Code monétaire et financier - art. L531-2 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
 	**Créé par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-6
+
+Les installations qui entrent dans le champ d'application de la présente section sont soumises à autorisation pour l'émission
+de gaz à effet de serre.
+
+L'autorisation prévue à l'article L. 512-1 tient lieu de l'autorisation prévue à l'alinéa précédent sous réserve des
+dispositions particulières contenues dans la présente section.
+
+Un arrêté pris par le ministre chargé des installations classées fixe les modalités de mise en oeuvre des obligations
+particulières de surveillance, de déclaration et de contrôle auxquelles sont soumises les installations qui entrent dans le
+champ d'application de la présente section. Cet arrêté précise également les modalités de vérification des déclarations
+d'émissions mentionnées au III de l'article L. 229-14.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-1133 du 21 septembre 1977 - art. 2 (Ab)
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 3 (V)
+	  - Décret n°2004-832 du 19 août 2004 - art. 8 (Ab)
+	  - Décret n°2004-832 du 19 août 2004 - art. 9 (Ab)
+	  - Arrêté du 31 mars 2008 - art. 16 (VT)
+	  - Arrêté du 31 mars 2008 - art. 2 (VT)
+	  - Arrêté du 31 mars 2008 - art. 7 (VT)
+	  - Décret n°2010-300 du 22 mars 2010 - art. 1 (V)
+	  - Décret n°2010-300 du 22 mars 2010 - art. 2 (V)
+	  - Arrêté du 24 juin 2013 - art. 1 (V)
+	  - Code de l'environnement - art. L229-12 (VD)
+	  - Code de l'environnement - art. L229-14 (V)
+	  - Code de l'environnement - art. L229-18 (V)
+	  - Code de l'environnement - art. R229-20 (V)
+	  - Code de l'environnement - art. R229-21 (V)
+	  - Code de l'environnement - art. R229-37-3 (V)
+	  - Code de l'environnement - art. R229-37-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L512-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-7
+
+Un quota d'émission de gaz à effet de serre au sens de la présente section est une unité de compte représentative de
+l'émission de l'équivalent d'une tonne de dioxyde de carbone.
+
+Pour chaque installation bénéficiant de l'autorisation d'émettre des gaz à effet de serre, l'Etat affecte à l'exploitant,
+pour une période déterminée, des quotas d'émission et lui délivre chaque année, au cours de cette période, une part des
+quotas qui lui ont été ainsi affectés.
+
+La quantité de gaz à effet de serre émise par cette installation au cours d'une année civile est calculée ou mesurée et
+exprimée en tonnes de dioxyde de carbone.
+
+A l'issue de chacune des années civiles de la période d'affectation, l'exploitant restitue à l'Etat sous peine des sanctions
+prévues à l'article L. 229-18 un nombre de quotas égal au total des émissions de gaz à effet de serre de ses installations,
+que ces quotas aient été délivrés ou qu'ils aient été acquis en vertu de l'article L. 229-15.
+
+Toutefois, lorsqu'une installation utilise, dans un processus de combustion, des gaz fournis par une installation
+sidérurgique, les quotas correspondants sont affectés et délivrés à l'exploitant de cette dernière installation. Celui-ci est
+seul responsable, à ce titre, des obligations prévues par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2006-622 du 29 mai 2006 - art. 1 (Ab)
+	  - Décret n°2006-622 du 29 mai 2006 - art. 2 (Ab)
+	  - Arrêté du 31 mars 2008 - art. 3 (VT)
+	  - Arrêté du 31 mars 2008 - art. Annexe I (VT)
+	  - Arrêté du 26 janvier 2011 - art. 4 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 18 (V)
+	  - Loi n°2016-819 du 21 juin 2016 - art. 8
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 1
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 11
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 17
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 18
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 19
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 20
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 21
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 22
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 23
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 24
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 3
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 4
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 7
+	  - Ordonnance n°2016-827 du 23 juin 2016 - art. 9
+	  - Code de l'environnement - art. L181-3 (V)
+	  - Code de l'environnement - art. L229-12 (V)
+	  - Code de l'environnement - art. L229-14 (VD)
+	  - Code de l'environnement - art. L229-16 (V)
+	  - Code de l'environnement - art. L229-24-1 (VD)
+	  - Code de l'environnement - art. L229-8 (VD)
+	  - Code de l'environnement - art. L593-3 (V)
+	  - Code de l'environnement - art. L593-33 (VD)
+	  - Code de l'environnement - art. R229-38 (VD)
+	  - Code de l'environnement - art. R229-39 (VD)
+	  - Code monétaire et financier - art. L312-22 (VD)
+	  - Code monétaire et financier - art. L321-1 (VD)
+	  - Code monétaire et financier - art. L321-2 (VD)
+	  - Code monétaire et financier - art. L323-1 (VD)
+	  - Code monétaire et financier - art. L420-1 (VD)
+	  - Code monétaire et financier - art. L420-16 (VD)
+	  - Code monétaire et financier - art. L421-14 (VD)
+	  - Code monétaire et financier - art. L425-1 (VD)
+	  - Code monétaire et financier - art. L465-3-4 (VD)
+	  - Code monétaire et financier - art. L531-0 (VD)
+	  - Code monétaire et financier - art. L531-2 (VD)
+	  - Code monétaire et financier - art. L533-9 (VD)
+	  - Code monétaire et financier - art. L621-1 (V)
+	  - Code monétaire et financier - art. L621-14 (V)
+	  - Code monétaire et financier - art. L621-19 (V)
+	  - Code monétaire et financier - art. L621-7 (VD)
+	  - Code monétaire et financier - art. L621-9 (V)
+	  - Code monétaire et financier - art. L743-2 (VD)
+	  - Code monétaire et financier - art. L743-8 (VD)
+	  - Code monétaire et financier - art. L744-12 (VD)
+	  - Code monétaire et financier - art. L744-3 (VD)
+	  - Code monétaire et financier - art. L745-9 (VD)
+	  - Code monétaire et financier - art. L753-2 (VD)
+	  - Code monétaire et financier - art. L753-8 (VD)
+	  - Code monétaire et financier - art. L754-12 (VD)
+	  - Code monétaire et financier - art. L754-3 (VD)
+	  - Code monétaire et financier - art. L755-9 (VD)
+	  - Code monétaire et financier - art. L763-2 (VD)
+	  - Code monétaire et financier - art. L763-8 (VD)
+	  - Code monétaire et financier - art. L764-3 (VD)
+	  - Code monétaire et financier - art. L765-9 (VD)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-15 (V)
+	  - Code de l'environnement - art. L229-18 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-8
+
+I. - Les quotas d'émission de gaz à effet de serre sont affectés par l'Etat pour une durée de trois ans à compter du 1er
+janvier 2005, puis par périodes de cinq ans, dans le cadre d'un plan national établi pour chaque période.
+
+II. - Ce plan fixe la quantité maximale de quotas d'émission affectés par l'Etat au cours d'une période hors ceux qu'il
+acquiert en application du II de l'article L. 229-15, les critères de répartition de ces quotas et la liste des installations
+bénéficiaires.
+
+III. - La quantité maximale de quotas d'émission affectés au cours d'une période est déterminée en fonction :
+
+1° Des engagements internationaux de la France en matière d'émissions de gaz à effet de serre ;
+
+2° De la part des émissions des installations soumises aux dispositions de la présente section dans l'ensemble des émissions
+estimées en France ;
+
+3° Des prévisions d'évolution tendancielle des émissions dans l'ensemble des secteurs d'activité et de la production des
+activités relevant des catégories visées à l'article L. 229-5 ;
+
+4° Des possibilités techniques et économiques de réduction des émissions de gaz à effet de serre dans l'ensemble des secteurs
+d'activité ;
+
+5° Des prévisions de création, d'extension et de fermeture d'installations entrant dans le champ d'application de la présente
+section.
+
+IV. - Le plan répartit les quotas d'émission entre les différentes installations mentionnées à l'article L. 229-5. Cette
+répartition tient compte des possibilités techniques et économiques de réduction des émissions des activités bénéficiaires,
+des prévisions d'évolution de la production de ces activités, des mesures prises en vue de réduire les émissions de gaz à
+effet de serre avant l'établissement du système d'échange de quotas ainsi, le cas échéant, que de la concurrence d'activités
+situées dans des pays extérieurs à la Communauté européenne.
+
+V. - Le plan met en réserve des quotas d'émission destinés à être affectés aux exploitants d'installations autorisées au
+cours de la durée du plan ainsi qu'à ceux dont l'autorisation viendrait à être modifiée ou dont le niveau de production
+varierait de façon substantielle. L'Etat peut se porter acquéreur de quotas en application du II de l'article L. 229-15 pour
+compléter cette réserve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-832 du 19 août 2004 - art. 15 (V)
+	  - Décret n°2004-832 du 19 août 2004 - art. 2 (Ab)
+	  - Décret n°2004-832 du 19 août 2004 - art. 4 (Ab)
+	  - Décret n°2004-832 du 19 août 2004 - art. 5 (Ab)
+	  - Décret n°2006-622 du 29 mai 2006 - art. 1 (Ab)
+	  - Décret n°2006-622 du 29 mai 2006 - art. 2 (Ab)
+	  - Arrêté du 31 mars 2008 - art. 19 (VT)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 8 (VT)
+	  - Arrêté du 11 février 2009 - art. 1 (V)
+	  - Arrêté du 28 décembre 2009 - art. 1 (V)
+	  - Arrêté du 27 décembre 2010 - art. 1 (V)
+	  - Arrêté du 26 décembre 2011 - art. 1 (V)
+	  - Arrêté du 21 décembre 2012 - art. 1 (V)
+	  - Code de l'environnement - art. L229-11 (VD)
+	  - Code de l'environnement - art. L229-21 (VT)
+	  - Code de l'environnement - art. L229-7 (V)
+	  - Code de l'environnement - art. R229-13 (V)
+	  - Code de l'environnement - art. R229-15 (V)
+	  - Code de l'environnement - art. R229-38 (V)
+	  - Code de l'environnement - art. R229-39 (V)
+	  - Code de l'environnement - art. R229-6 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-15 (V)
+	  - Code de l'environnement - art. L229-5 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-9
+
+Sous réserve du respect du secret industriel et du secret des affaires, le projet de plan national d'affectation des quotas
+d'émission de gaz à effet de serre fait l'objet d'une consultation du public selon des modalités fixées par décret. Il est
+publié et notifié à la Commission européenne. Le plan est approuvé par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L593-33 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-10
+
+Les quotas délivrés au cours de la première période triennale débutant le 1er janvier 2005 le sont à titre gratuit.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1232 du 21 octobre 2010 - art. 2
+
+
+###### Article L229-11
+
+L'autorité administrative notifie aux exploitants des installations autorisées à émettre des gaz à effet de serre le montant
+total des quotas d'émission affectés au titre de chaque période couverte par un plan et la quantité délivrée chaque année. 
+
+Un décret en Conseil d'Etat fixe les modalités de notification des décisions d'affectation et de délivrance des quotas, les
+conditions dans lesquelles les informations correspondantes sont rendues accessibles au public, les règles de délivrance
+annuelle des quotas, les règles applicables en cas de changement d'exploitant ou de cessation ou de transfert d'activité
+ainsi que les conditions dans lesquelles les décisions d'affectation ou de délivrance et le plan national d'affectation des
+quotas prévu à l'article L. 229-8 peuvent être contestés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-8 (VT)
+
+
+###### Article L229-12
+
+I. - L'autorité administrative peut, après consultation du public, demander à la Commission européenne que des installations
+soient temporairement exclues, jusqu'au 31 décembre 2007, du champ des obligations prévues par l'article L. 229-7.
+
+L'autorité administrative fixe, en application des dispositions du livre V, des prescriptions relatives à la surveillance des
+installations ainsi exclues et à la limitation de leurs émissions de gaz à effet de serre dans la même proportion que si ces
+installations étaient soumises aux obligations prévues par l'article L. 229-7.
+
+Les exploitants de ces installations sont soumis à des exigences en matière de surveillance, de déclaration et de
+vérification équivalentes à celles prévues pour les exploitants participant au système d'échange de quotas d'émission et
+s'exposent, en cas de dépassement de la limitation des émissions de gaz qui leur a été prescrite, au paiement d'une amende de
+même montant, par tonne de dioxyde de carbone excédentaire, que celle prévue à l'article L. 229-18 pour un quota non
+restitué.
+
+II. - Pour la période triennale débutant le 1er janvier 2005, l'autorité administrative peut, avec l'accord de la Commission
+européenne, affecter à un exploitant des quotas d'émission supplémentaires non transférables, en cas de circonstances
+extérieures et imprévisibles tant pour l'exploitant que pour l'Etat, ayant pour conséquences une modification substantielle
+des émissions d'une ou de plusieurs de ses installations qu'il ne pouvait pas raisonnablement éviter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-832 du 19 août 2004 - art. 11 (Ab)
+	  - Arrêté du 21 décembre 2012 - art. 1 (V)
+	  - Code de l'environnement - art. L229-7 (V)
+	  - Code de l'environnement - art. R229-27 (V)
+	  - Code de l'environnement - art. R229-37-1 (V)
+	  - Code de l'environnement - art. R229-37-3 (V)
+	  - Code de l'environnement - art. R229-37-5 (V)
+	  - Code de l'environnement - art. R229-37-6 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-757 du 1er août 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-18
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-13
+
+Les quotas sont valables pendant la durée du plan au titre duquel ils sont affectés tant qu'ils ne sont pas utilisés.
+
+Les quotas délivrés ou acquis au cours d'une période d'affectation qui n'ont pas été utilisés au cours de cette période et
+annulés en application de l'article L. 229-14 sont rendus à l'Etat et annulés au début de la période suivante. La même
+quantité de quotas d'émission valables pour la nouvelle période est simultanément délivrée aux personnes qui étaient
+détentrices des quotas ainsi annulés.
+
+Toutefois, à l'issue de la période triennale débutant le 1er janvier 2005, dans le cas où l'application de l'alinéa précédent
+risquerait de compromettre le respect des engagements internationaux de maîtrise des émissions de gaz à effet de serre pris
+par la France, l'autorité administrative peut décider de limiter la délivrance de quotas d'émission, faite au début de la
+période suivante en vertu de cet alinéa, aux seuls exploitants d'installations autorisées à émettre des gaz à effet de serre
+et à une quantité égale pour chaque exploitant à la différence entre celle qui lui a été affectée au titre de la période
+précédente et le montant des émissions de ses installations pendant la même période.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-14 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L229-21 (V)
+	  - Code de l'environnement - art. R229-38 (VD)
+	  - Code de l'environnement - art. R229-39 (VD)
+
+
+###### Article L229-14
+
+I. - Les quotas restitués chaque année à l'Etat par les exploitants en application de l'article L. 229-7 sont annulés.
+
+II. - Les personnes détenant des quotas peuvent à tout moment demander leur annulation par l'Etat.
+
+III. - Les quotas sont restitués sur la base d'une déclaration faite par chaque exploitant des émissions de gaz à effet de
+serre de ses installations, vérifiée aux frais de l'exploitant par un organisme agréé à cet effet par l'autorité
+administrative, puis validée par l'inspection des installations classées. La déclaration des émissions de gaz à effet de
+serre d'un exploitant est réputée validée si l'inspection des installations classées n'a pas formulé d'observation dans un
+délai fixé par l'arrêté prévu à l'article L. 229-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-832 du 19 août 2004 - art. 13 (Ab)
+	  - Décret n°2004-832 du 19 août 2004 - art. 6 (Ab)
+	  - Arrêté du 31 mars 2008 - art. 16 (VT)
+	  - Décret n°2011-90 du 24 janvier 2011 - art. 3 (V)
+	  - Code de l'environnement - art. L229-13 (VD)
+	  - Code de l'environnement - art. L229-18 (V)
+	  - Code de l'environnement - art. L229-6 (VD)
+	  - Code de l'environnement - art. R229-33 (V)
+	  - Code de l'environnement - art. R229-37-7 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-7 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-15
+
+I. - Les quotas d'émission de gaz à effet de serre délivrés aux exploitants d'installations autorisées à émettre ces gaz sont
+des biens meubles exclusivement matérialisés par une inscription au compte de leur détenteur dans le registre national
+mentionné à l'article L. 229-16. Ils sont négociables, transmissibles par virement de compte à compte et confèrent des droits
+identiques à leurs détenteurs. Ils peuvent être cédés dès leur délivrance sous réserve des dispositions du II de l'article L.
+229-12 et de l'article L. 229-18.
+
+Le transfert de propriété des quotas résulte de leur inscription, par le teneur du registre national, au compte du
+bénéficiaire à la date et dans les conditions définies par décret.
+
+II. - Les quotas d'émission peuvent être acquis, détenus et cédés par tout exploitant d'une installation au titre de laquelle
+a été délivrée par un Etat membre de la Communauté européenne une autorisation d'émettre des gaz à effet de serre, par toute
+personne physique ressortissante d'un Etat membre de la Communauté européenne, par toute personne morale y ayant son siège et
+par les Etats membres eux-mêmes.
+
+A la condition qu'un accord de reconnaissance mutuelle ait été conclu par la Communauté européenne avec un des pays tiers
+mentionnés à l'annexe B du protocole fait à Kyoto le 11 décembre 1997 à la convention-cadre des Nations unies sur les
+changements climatiques et que ce pays ait ratifié ce protocole, les quotas peuvent être acquis, détenus et cédés par les
+personnes physiques ressortissantes de ce pays tiers et les personnes morales y ayant leur siège.
+
+III. - Les mêmes effets juridiques s'attachent sur le territoire national aux quotas d'émission délivrés par les autorités
+françaises et à ceux délivrés par l'autorité compétente de tout Etat membre de la Communauté européenne ou de tout autre Etat
+partie à un accord de reconnaissance mutuelle conclu avec cette dernière.
+
+IV. - Lorsque l'Etat ne dispose plus, dans la réserve constituée en application du V de l'article L. 229-8, de quotas à
+allouer aux exploitants, ces derniers sont libérés des obligations fixées par la présente section, notamment l'obligation de
+restituer des quotas prévue à l'article L. 229-7. Il ne leur est pas alloué de quotas au titre du plan en cours. L'autorité
+compétente fixe à ces exploitants des prescriptions en application des dispositions du livre V du présent code dans les
+conditions prévues aux deuxième et troisième alinéas du I de l'article L. 229-12.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 28 (VT)
+	  - Décret n°2004-832 du 19 août 2004 - art. 4 (Ab)
+	  - Arrêté du 12 octobre 2004 - art. 111-1 (V)
+	  - Arrêté du 12 novembre 2004 - art. 711-1 (V)
+	  - Décret n°2004-1412 du 23 décembre 2004 - art. 4 (Ab)
+	  - Code de l'énergie - art. L131-3 (V)
+	  - Code de l'énergie - art. L134-17 (V)
+	  - Code de l'environnement - art. L229-16 (V)
+	  - Code de l'environnement - art. L229-7 (V)
+	  - Code de l'environnement - art. L229-8 (VD)
+	  - Code de l'environnement - art. R229-12 (V)
+	  - Code de l'environnement - art. R229-37 (Ab)
+	  - Code monétaire et financier - art. L421-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-16
+
+Un registre national des quotas d'émission de gaz à effet de serre comptabilise les quotas délivrés, détenus, transférés et
+annulés. Toute personne mentionnée au II de l'article L. 229-15 peut détenir des quotas et ouvrir un compte dans ce
+registre. 
+
+Le registre national comporte un compte pour chaque personne qui détient des quotas. 
+
+Il est accessible au public dans des conditions fixées par décret. 
+
+La tenue du registre national peut être déléguée à une personne morale désignée par un décret en Conseil d'Etat qui fixe en
+outre les modalités d'application du présent article, et notamment les missions du délégataire, les conditions de sa
+rémunération et les modalités d'inscription des différentes opérations relatives aux quotas sur le registre national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-1412 du 23 décembre 2004 - art. 1 (Ab)
+	  - Décret n°2006-622 du 29 mai 2006 - art. 2 (Ab)
+	  - Arrêté du 11 février 2009 - art. 1 (V)
+	  - Arrêté du 28 décembre 2009 - art. 1 (V)
+	  - Arrêté du 27 décembre 2010 - art. 1 (V)
+	  - Arrêté du 26 décembre 2011 - art. 1 (V)
+	  - Arrêté du 21 décembre 2012 - art. 1 (V)
+	  - Code de l'environnement - art. D229-37-10 (V)
+	  - Code de l'environnement - art. L229-15 (V)
+	  - Code de l'environnement - art. L229-18 (V)
+	  - Code de l'environnement - art. L229-21 (VT)
+	  - Code de l'environnement - art. L229-22 (V)
+	  - Code de l'environnement - art. L229-23 (V)
+	  - Code de l'environnement - art. L229-24 (V)
+	  - Code de l'environnement - art. L229-24-1 (V)
+	  - Code de l'environnement - art. L229-7 (V)
+	  - Code de l'environnement - art. R229-34 (V)
+	  - Code de l'environnement - art. R229-37-4 (V)
+	  - Code de l'environnement - art. R229-37-6 (V)
+	  - Code de l'environnement - art. R229-37-7 (V)
+	  - Code de l'environnement - art. R229-39 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-17
+
+L'Etat peut, après accord de la Commission européenne, autoriser plusieurs exploitants d'installations relevant de la même
+activité à mettre en commun, au cours de la période triennale débutant le 1er janvier 2005 et au cours de la période
+quinquennale suivante, la gestion des quotas afférents à chaque installation. 
+
+Lorsque l'autorisation est accordée à plusieurs exploitants, ceux-ci désignent un mandataire auquel les dispositions de la
+présente section sont applicables. 
+
+Il est ouvert dans le registre national un compte unique pour les installations dont les quotas d'émission sont gérés en
+commun. Le mandataire désigné par les exploitants a pour mission la gestion des quotas inscrits sur ce compte. Si le
+mandataire se soustrait aux sanctions prévues au II de l'article L. 229-18 en cas d'absence de restitution de quotas
+d'émission, l'exploitant de chaque installation redevient responsable de la restitution des quotas correspondant aux
+émissions provenant de son installation et encourt les sanctions prévues par la présente section s'il enfreint cette
+obligation. 
+
+Un décret en Conseil d'Etat fixe les modalités de mise en oeuvre des dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-832 du 19 août 2004 - art. 10 (Ab)
+	  - Code de l'environnement - art. R229-26 (VT)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-18 (VT)
+
+
+###### Article L229-18
+
+I. - L'exploitant ne peut céder les quotas qu'il détient, dans la limite de ceux qui lui ont été délivrés au titre d'une
+installation et d'une année déterminée :
+
+- en cas d'absence de déclaration des émissions de l'installation au cours de cette année faite par l'exploitant avant une
+date fixée par décret ;
+
+- ou lorsque l'inspection des installations classées constate que la déclaration relative aux émissions de l'installation au
+cours de cette année ne répond pas aux conditions fixées par l'arrêté prévu à l'article L. 229-6. La décision, qui doit être
+motivée, intervient alors au plus tard à l'expiration du délai mentionné au III de l'article L. 229-14.
+
+L'exploitant recouvre la disponibilité de ses quotas lorsqu'une déclaration de sa part a été jugée satisfaisante ou, à
+défaut, lorsque le volume des émissions a été arrêté d'office par l'autorité administrative, sur la base d'un calcul
+forfaitaire établi au plus tard deux mois après qu'il a été informé du caractère insatisfaisant de sa déclaration ou, en cas
+d'absence de déclaration, au plus tard le 31 mai. Un arrêté précise les méthodes utilisées pour ce calcul et les conditions
+dans lesquelles l'exploitant est préalablement consulté.
+
+II. - Chaque année, lorsqu'à une date fixée par décret l'exploitant ou le mandataire n'a pas restitué un nombre de quotas
+suffisant pour couvrir ses émissions de l'année précédente, et lorsque l'autorité chargée de la tenue du registre national a
+informé l'autorité administrative de l'inobservation de cette obligation et de l'excédent d'émissions de gaz à effet de serre
+par rapport au nombre de quotas restitués, l'autorité compétente met en demeure l'exploitant ou le mandataire de satisfaire à
+cette obligation dans un délai d'un mois.
+
+L'autorité administrative prononce à l'encontre de l'exploitant ou du mandataire qui ne respecte pas les prescriptions de la
+mise en demeure dans le délai imparti une amende proportionnelle au nombre de quotas non restitués. Le paiement de l'amende
+ne libère pas l'exploitant ou le mandataire de l'obligation de restituer une quantité de quotas égale au volume des émissions
+excédentaires. Il doit s'acquitter de cette obligation au plus tard l'année suivante. Les quotas qu'il détient demeurent
+incessibles et une nouvelle amende est prononcée chacune des années suivantes tant qu'il n'est pas satisfait à cette
+obligation.
+
+Le montant de l'amende est fixé à 40 euros par quota non restitué pour la période triennale débutant le 1er janvier 2005 et à
+100 euros pour les périodes suivantes. Le recouvrement est effectué au profit du Trésor public comme en matière de créances
+étrangères à l'impôt et au domaine.
+
+La décision prononçant l'amende peut en outre prévoir que le nom de l'exploitant ou du mandataire sera rendu public
+lorsqu'elle sera devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-832 du 19 août 2004 - art. 13 (Ab)
+	  - Décret n°2004-832 du 19 août 2004 - art. 8 (Ab)
+	  - Arrêté du 31 décembre 2013 - art. 3 (V)
+	  - Décret n°2015-168 du 13 février 2015 - art. 1 (V)
+	  - Décret n°2015-1473 du 12 novembre 2015 - art. 1 (V)
+	  - Décret n°2017-237 du 24 février 2017 - art. 1 (V)
+	  - Code de l'environnement - art. D229-37-10 (V)
+	  - Code de l'environnement - art. L229-11-1 (V)
+	  - Code de l'environnement - art. L229-12 (Ab)
+	  - Code de l'environnement - art. L229-15 (V)
+	  - Code de l'environnement - art. L229-17 (VD)
+	  - Code de l'environnement - art. L229-7 (V)
+	  - Code de l'environnement - art. R229-20 (V)
+	  - Code de l'environnement - art. R229-31 (V)
+	  - Code de l'environnement - art. R229-33 (V)
+	  - Code de l'environnement - art. R229-37-1 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-14 (V)
+	  - Code de l'environnement - art. L229-6 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+
+###### Article L229-19
+
+Les modalités d'application de la présente section sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
 
 
 ## Livre III : Espaces naturels
