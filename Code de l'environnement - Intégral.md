@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-07-16
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -2132,7 +2132,7 @@ dispositions d'ordre administratif, social et fiscal.
 
 Les citoyens ont un droit à l'information sur les risques majeurs auxquels ils sont soumis dans certaines zones du territoire
 et sur les mesures de sauvegarde qui les concernent. Ce droit s'applique aux risques technologiques et aux risques naturels
-prévisibles.
+prévisibles. 
 
 Dans les communes sur le territoire desquelles a été prescrit ou approuvé un plan de prévention des risques naturels
 prévisibles, le maire informe la population au moins une fois tous les deux ans, par des réunions publiques communales ou
@@ -2141,16 +2141,15 @@ prévention et de sauvegarde possibles, les dispositions du plan, les modalités
 mesures prises par la commune pour gérer le risque, ainsi que sur les garanties prévues à l'article L. 125-1 du code des
 assurances. Cette information est délivrée avec l'assistance des services de l'Etat compétents, à partir des éléments portés
 à la connaissance du maire par le représentant de l'Etat dans le département, lorsqu'elle est notamment relative aux mesures
-prises en application de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection
-de la forêt contre l'incendie et à la prévention des risques majeurs et ne porte pas sur les mesures mises en oeuvre par le
-maire en application de l'article L. 2212-2 du code général des collectivités territoriales.
+prises en application de la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile et ne porte pas sur les
+mesures mises en oeuvre par le maire en application de l'article L. 2212-2 du code général des collectivités territoriales. 
 
 Un décret en Conseil d'Etat définit les conditions d'exercice de ce droit. Il détermine notamment les modalités selon
 lesquelles les mesures de sauvegarde sont portées à la connaissance du public ainsi que les catégories de locaux dans
 lesquels les informations sont affichées.
 
 L'exploitant est tenu de participer à l'information générale du public sur les mesures prises aux abords des ouvrages ou
-installations faisant l'objet d'un plan particulier d'intervention.
+installations faisant l'objet d'un plan particulier d'intervention. 
 
 Le préfet crée un comité local d'information et de concertation sur les risques pour tout bassin industriel comprenant une ou
 plusieurs installations figurant sur la liste prévue au IV de l'article L. 515-8. Ce comité peut faire appel aux compétences
@@ -2160,13 +2159,6 @@ d'application du présent alinéa et notamment les règles de composition des co
 sur les risques sont fixées par décret.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°87-565 1987-07-22
-	  - Code général des collectivités territoriales - art. L2212-2 (M)
-	  - Code des assurances - art. L125-1 (M)
-	  - Code de l'environnement - art. L515-8 (M)
 
 	**Liens**:
 
@@ -2201,10 +2193,16 @@ sur les risques sont fixées par décret.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Cite**:
+
+	  - Loi n°2004-811 du 13 août 2004 (V)
+	  - Code général des collectivités territoriales - art. L2212-2 (V)
+	  - Code des assurances - art. L125-1 (V)
+	  - Code de l'environnement - art. L515-8 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 2 () JORF 31 juillet 2003
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 40 () JORF 31 juillet 2003
+	  - Loi n°2004-811 du 13 août 2004 - art. 102 () JORF 17 août 2004
 
 	**Anciens textes**:
 
@@ -39714,9 +39712,8 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'appli
 ###### Article L551-1
 
 Les projets de création d'une installation ou d'un ouvrage pour lesquels doit être établi un plan particulier d'intervention
-en application de l'article 4 de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la
-protection de la forêt contre l'incendie et à la prévention des risques majeurs, et qui nécessitent une autorisation ou une
-décision d'approbation, doivent comprendre une étude de dangers.
+en application de l'article 15 de la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile, et qui
+nécessitent une autorisation ou une décision d'approbation, doivent comprendre une étude de dangers.
 
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article.
 
@@ -39727,14 +39724,18 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d
 	  - Loi n°87-565 1987-07-22 art. 46
 	  - Loi n°87-565 du 22 juillet 1987 - art. 46 (Ab)
 
-	**Cite**:
-
-	  - Loi n°87-565 du 22 juillet 1987 - art. 4 (M)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2004-811 2004-08-13 art. 15
+
+	**Modifié par**:
+
+	  - Loi n°2004-811 du 13 août 2004 - art. 102 () JORF 17 août 2004
 
 	**Cité par**:
 
