@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-02-04
 
 # Partie législative
 
@@ -30906,10 +30906,10 @@ autorisation administrative. Cette autorisation ne peut être accordée ou prolo
 conséquence prévoir les conditions de réversibilité du stockage. Les produits doivent être retirés à l'expiration de
 l'autorisation.
 
-A l'issue d'une période de fonctionnement autorisé de vingt-cinq ans au moins, l'autorisation peut être prolongée pour une
-durée illimitée, sur la base d'un bilan écologique comprenant une étude d'impact et l'exposé des solutions alternatives au
-maintien du stockage et de leurs conséquences. Le renouvellement s'accompagne d'une nouvelle évaluation des garanties
-financières prévues à l'article L. 541-26 ou à l'article L. 552-1.
+A l'issue d'une période de fonctionnement autorisé de vingt-cinq ans au moins, ou si l'apport de déchets a cessé depuis au
+moins un an, l'autorisation peut être prolongée pour une durée illimitée, sur la base d'un bilan écologique comprenant une
+étude d'impact et l'exposé des solutions alternatives au maintien du stockage et de leurs conséquences. Le renouvellement
+s'accompagne d'une nouvelle évaluation des garanties financières prévues à l'article L. 541-26 ou à l'article L. 552-1.
 
 Pour les stockages souterrains de déchets ultimes, l'Agence de l'environnement et de la maîtrise de l'énergie peut conclure
 avec l'exploitant, avant l'octroi de l'autorisation visée au premier alinéa, une convention qui détermine les conditions
@@ -30930,16 +30930,16 @@ Les dispositions des deux alinéas précédents ne s'appliquent pas au stockage 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2004-105 du 3 février 2004 - art. 20 () JORF 4 février 2004
+
 	**Cité par**:
 
 	  - Décret n°2006-283 du 10 mars 2006 - art. 1 (Ab)
 	  - Code de l'environnement - art. R515-10 (V)
 	  - Code de l'environnement - art. R515-9 (V)
 	  - Code de l'urbanisme - art. R*425-24 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 	**Cite**:
 
@@ -39964,101 +39964,6 @@ Les dispositions relatives à l'Autorité de contrôle des nuisances aéroportua
 (livre II, titre II, chapitre VII).
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-
-##### Sous-section 3 : Commission consultative de l'environnement
-
-###### Article L571-13
-
-I. - L'autorité administrative peut créer, pour tout aérodrome visé à l'article L. 147-2 du code de l'urbanisme, une
-commission consultative de l'environnement. Cette création est de droit lorsque la demande en est faite par une commune dont
-une partie du territoire est couverte par le plan d'exposition au bruit de l'aérodrome. La création est de droit, également,
-pour les aérodromes mentionnés au 3 de l'article 266 septies du code des douanes.
-
-II. - La commission est consultée sur toute question d'importance relative à l'aménagement ou à l'exploitation de l'aérodrome
-qui pourrait avoir une incidence sur les zones affectées par le bruit. Elle peut également, de sa propre initiative, émettre
-des recommandations sur ces questions. Lorsque l'un des aérodromes visés au 3 de l'article 266 septies du code des douanes
-est concerné, ces recommandations sont transmises à l'Autorité de contrôle des nuisances sonores aéroportuaires. La
-commission consultative de l'environnement coordonne, le cas échéant, la rédaction des documents écrits qui formalisent les
-engagements pris par les différentes parties intéressées à l'exploitation de l'aérodrome en vue d'assurer la maîtrise des
-nuisances sonores liées à cette exploitation.
-
-III. - Notamment pour les chartes de qualité de l'environnement sonore, elle assure le suivi de leur mise en oeuvre. Elle
-peut saisir l'Autorité de contrôle des nuisances sonores aéroportuaires de toute question relative au respect de ces chartes
-et de toute demande d'étude ou d'expertise.
-
-IV. - Les avis de la commission sont motivés et détaillent la position de chacun de ses membres. Ils sont rendus publics.
-
-V. - Pour les aérodromes mentionnés au 3 de l'article 266 septies du code des douanes, la commission établit un rapport
-annuel rendant compte de son activité. Ce rapport est rendu public.
-
-VI. - Les moyens de fonctionnement de la commission sont mis à sa disposition par l'exploitant de l'aérodrome.
-
-VII. - La commission se réunit au moins une fois par an. Sa réunion est de droit lorsque le tiers de ses membres en fait la
-demande ou le comité permanent.
-
-VIII. - La commission peut créer en son sein un comité permanent représentatif de sa propre composition et qui exerce les
-compétences prévues au II du présent article. La création de ce comité permanent est de droit pour les commissions
-consultatives de l'environnement des aérodromes visés au 3 de l'article 266 septies du code des douanes.
-
-IX. - La commission ou son comité permanent entend à sa demande toute personne concernée par les nuisances sonores résultant
-des trajectoires de départ, d'attente et d'approche qui ne serait pas représentée au sein de la commission consultative de
-l'environnement.
-
-X. - Le comité permanent constitue la commission consultative mentionnée à l'article L. 571-16. Toutefois, lorsque le comité
-permanent siège en cette qualité, les représentants de l'Etat et du gestionnaire d'aérodrome assistent avec voix délibérative
-à ses réunions, conformément à l'article L. 571-16. Un arrêté conjoint des ministres chargés de l'économie, de l'aviation
-civile et de l'environnement détermine les modalités d'application et la date de mise en oeuvre de cet alinéa, qui entre en
-vigueur, pour chaque commission, à la fin de son mandat en cours à la date du 13 juillet 1999.
-
-XI. - Cette commission comprend :
-
-1° Pour un tiers de ses membres, des représentants des professions aéronautiques ;
-
-2° Pour un tiers, des représentants des collectivités locales intéressées ;
-
-3° Pour un tiers, des représentants des associations de riverains de l'aérodrome et des associations de protection de
-l'environnement et du cadre de vie concernées par l'environnement aéroportuaire.
-
-XII. - Elle est présidée par le représentant de l'Etat. Les représentants des administrations intéressées assistent à ses
-réunions.
-
-XIII. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1999-07-13
-	  - Code des douanes - art. 266 septies (M)
-	  - Code de l'urbanisme - art. L147-2 (V)
-	  - Code de l'environnement - art. L571-16 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (M)
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°87-341 du 21 mai 1987 - art. 6 (Ab)
-	  - Arrêté du 24 août 2001 - art. 1 (Ab)
-	  - Code des transports - art. L6361-5 (V)
-	  - Code des transports - art. L6361-7 (V)
-	  - Code des transports - art. L6783-11 (V)
-	  - Code de l'aviation civile - art. L227-3 (VT)
-	  - Code de l'aviation civile - art. L227-5 (VT)
-	  - Code de l'environnement - art. L571-13 (V)
-	  - Code de l'environnement - art. R571-70 (V)
-	  - Code de l'environnement - art. R571-71 (V)
-	  - Code de l'environnement - art. R571-73 (V)
-	  - Code de l'environnement - art. R571-78 (V)
-	  - Code de l'environnement - art. R571-81 (V)
 
 	**Codifié par**:
 
