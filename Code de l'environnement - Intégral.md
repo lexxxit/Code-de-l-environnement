@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-04-17
+Version Consolidée au 2004-04-22
 
 # Partie législative
 
@@ -2759,6 +2759,10 @@ utilisable, dans le respect des équilibres naturels, sont d'intérêt général
 
 L'usage de l'eau appartient à tous dans le cadre des lois et règlements ainsi que des droits antérieurement établis.
 
+Les coûts liés à l'utilisation de l'eau, y compris les coûts pour l'environnement et les ressources elles-mêmes, sont
+supportés par les utilisateurs en tenant compte des conséquences sociales, environnementales et économiques ainsi que des
+conditions géographiques et climatiques.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2782,6 +2786,10 @@ L'usage de l'eau appartient à tous dans le cadre des lois et règlements ainsi 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-338 du 21 avril 2004 - art. 1 () JORF 22 avril 2004
 
 
 #### Chapitre Ier : Régime général et gestion de la ressource
@@ -3734,16 +3742,79 @@ litiges concernant les baux renouvelés en application du I.
 
 ###### Article L212-1
 
-Un ou des schémas directeurs d'aménagement et de gestion des eaux fixent pour chaque bassin ou groupement de bassins les
-orientations fondamentales d'une gestion équilibrée de la ressource en eau, telle que prévue à l'article L. 211-1.
+I. - L'autorité administrative délimite les bassins ou groupements de bassins en déterminant le cas échéant les masses d'eau
+souterraines et les eaux maritimes intérieures et territoriales qui leur sont rattachées.
 
-Ils prennent en compte les principaux programmes arrêtés par les collectivités publiques et définissent de manière générale
-et harmonisée les objectifs de quantité et de qualité des eaux ainsi que les aménagements à réaliser pour les atteindre. Ils
-délimitent le périmètre des sous-bassins correspondant à une unité hydrographique.
+II. - Le comité de bassin compétent procède dans chaque bassin ou groupement de bassins :
 
-Les programmes et les décisions administratives dans le domaine de l'eau doivent être compatibles ou rendus compatibles avec
-leurs dispositions. Les autres décisions administratives doivent prendre en compte les dispositions de ces schémas
-directeurs.
+1° A l'analyse de ses caractéristiques et des incidences des activités sur l'état des eaux ainsi qu'à une analyse économique
+des utilisations de l'eau ; ces analyses sont réexaminées périodiquement ;
+
+2° A l'établissement et à la mise à jour régulière d'un ou plusieurs registres répertoriant :
+
+- les zones faisant l'objet de dispositions législatives ou réglementaires particulières en application d'une législation
+communautaire spécifique portant sur la protection des eaux de surface ou des eaux souterraines ou la conservation des
+habitats ou des espèces directement dépendants de l'eau ;
+
+- les zones de captages, actuelles ou futures, destinées à l'alimentation en eau potable.
+
+III. - Chaque bassin ou groupement de bassins hydrographiques est doté d'un ou de plusieurs schémas directeurs d'aménagement
+et de gestion des eaux fixant les orientations fondamentales d'une gestion équilibrée de la ressource en eau telle que prévue
+à l'article L. 211-1 et des objectifs de qualité et de quantité des eaux.
+
+IV. - Les objectifs de qualité et de quantité des eaux que fixent les schémas directeurs d'aménagement et de gestion des eaux
+correspondent :
+
+1° Pour les eaux de surface, à l'exception des masses d'eau artificielles ou fortement modifiées par les activités humaines,
+à un bon état écologique et chimique ;
+
+2° Pour les masses d'eau de surface artificielles ou fortement modifiées par les activités humaines, à un bon potentiel
+écologique et à un bon état chimique ;
+
+3° Pour les masses d'eau souterraines, à un bon état chimique et à un équilibre entre les prélèvements et la capacité de
+renouvellement de chacune d'entre elles ;
+
+4° A la prévention de la détérioration de la qualité des eaux ;
+
+5° Aux exigences particulières définies pour les zones visées au 2° du II, notamment afin de réduire le traitement nécessaire
+à la production d'eau destinée à la consommation humaine.
+
+V. - Les objectifs mentionnés au IV doivent être atteints au plus tard le 22 décembre 2015. Toutefois, s'il apparaît que,
+pour des raisons techniques, financières ou tenant aux conditions naturelles, les objectifs mentionnés aux 1°, 2° et 3° du IV
+ne peuvent être atteints dans ce délai, le schéma directeur d'aménagement et de gestion des eaux peut fixer des échéances
+plus lointaines, en les motivant, sans que les reports ainsi opérés puissent excéder la période correspondant à deux mises à
+jour du schéma directeur d'aménagement et de gestion des eaux.
+
+VI. - Lorsque la réalisation des objectifs mentionnés aux 1°, 2° et 3° du IV est impossible ou d'un coût disproportionné au
+regard des bénéfices que l'on peut en attendre, des objectifs dérogatoires peuvent être fixés par le schéma directeur
+d'aménagement et de gestion des eaux en les motivant.
+
+VII. - Des modifications dans les caractéristiques physiques des eaux ou l'exercice de nouvelles activités humaines peuvent
+justifier, dans des conditions définies par le décret prévu au XIII, des dérogations motivées au respect des objectifs
+mentionnés aux 1° à 4° du IV et au VI.
+
+VIII. - Le schéma directeur d'aménagement et de gestion des eaux indique comment sont pris en charge par les utilisateurs les
+coûts liés à l'utilisation de l'eau, en distinguant au moins le secteur industriel, le secteur agricole et les usages
+domestiques. Ces données sont actualisées lors des mises à jour du schéma directeur.
+
+IX. - Le schéma directeur détermine les aménagements et les dispositions nécessaires pour prévenir la détérioration et
+assurer la protection et l'amélioration de l'état des eaux et milieux aquatiques, pour atteindre et respecter les objectifs
+de qualité et de quantité des eaux mentionnées aux IV à VII.
+
+X. - Le schéma directeur d'aménagement et de gestion des eaux détermine les eaux maritimes intérieures et territoriales et
+les sous-bassins ou groupements de sous-bassins pour lesquels un schéma d'aménagement et de gestion des eaux défini à
+l'article L. 212-3 est nécessaire pour respecter les orientations fondamentales et les objectifs fixés en application du
+présent article, et fixe le délai dans lequel le schéma d'aménagement et de gestion des eaux doit être élaboré et révisé. A
+défaut, l'autorité administrative arrête le périmètre et le délai selon les modalités prévues à l'article L. 212-3.
+
+XI. - Les programmes et les décisions administratives dans le domaine de l'eau doivent être compatibles ou rendus compatibles
+avec les dispositions des schémas directeurs d'aménagement et de gestion des eaux.
+
+XII. - Dans le cas de bassins ou groupements de bassins s'étendant au-delà de la frontière, leur délimitation prévue au I,
+les objectifs mentionnés au IV ainsi que les aménagements et dispositions visés au IX sont définis en coordination avec les
+autorités étrangères compétentes.
+
+XIII. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -3945,6 +4016,10 @@ directeurs.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2004-338 du 21 avril 2004 - art. 2 () JORF 22 avril 2004
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L211-1 (M)
@@ -3952,18 +4027,25 @@ directeurs.
 
 ###### Article L212-2
 
-Le ou les schémas directeurs d'aménagement et de gestion des eaux sont élaborés, à l'initiative du préfet coordonnateur de
-bassin, par le comité de bassin compétent.
+I. - Le comité de bassin compétent dans chaque bassin ou groupement de bassins élabore et met à jour le ou les schémas
+directeurs d'aménagement et de gestion des eaux et en suit l'application.
 
-Le comité de bassin associe à cette élaboration des représentants de l'Etat et des conseils régionaux et généraux concernés,
-qui lui communiquent toutes informations utiles relevant de leur compétence.
+II. - Le comité de bassin recueille les observations du public sur le projet de schéma directeur d'aménagement et de gestion
+des eaux.
 
-Le comité de bassin recueille l'avis des conseils régionaux et des conseils généraux concernés sur le projet de schéma qu'il
-a arrêté. Ces avis sont réputés favorables s'ils n'interviennent pas dans un délai de quatre mois après la transmission du
-projet de schéma directeur.
+Il soumet ensuite le projet, éventuellement modifié pour tenir compte des observations du public, à l'avis des conseils
+régionaux, des conseils généraux, des établissements publics territoriaux de bassin et des chambres consulaires concernés.
+Ces avis sont réputés favorables s'ils n'interviennent pas dans un délai de quatre mois suivant la transmission du projet. Le
+comité de bassin peut modifier le projet pour tenir compte des avis formulés.
 
-Le schéma directeur d'aménagement et de gestion des eaux est adopté par le comité de bassin et approuvé par l'autorité
-administrative. Il est tenu à la disposition du public et révisé selon les formes prévues aux alinéas précédents.
+III. - Le schéma directeur d'aménagement et de gestion des eaux est adopté par le comité de bassin et approuvé par l'autorité
+administrative. Il est tenu à la disposition du public.
+
+IV. - Il est mis à jour tous les six ans.
+
+V. - Un décret en Conseil d'Etat précise les modalités d'application du présent article. Il détermine les conditions dans
+lesquelles l'autorité administrative se substitue au comité de bassin s'il apparaît que les missions qui lui sont confiées ne
+peuvent pas être remplies dans les délais impartis ainsi que la procédure suivie à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -3995,6 +4077,102 @@ administrative. Il est tenu à la disposition du public et révisé selon les fo
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-338 du 21 avril 2004 - art. 3 () JORF 22 avril 2004
+
+
+###### Article L212-2-1
+
+L'autorité administrative établit et met à jour périodiquement pour chaque bassin ou groupement de bassins un programme
+pluriannuel de mesures contribuant à la réalisation des objectifs et des dispositions du schéma directeur d'aménagement et de
+gestion des eaux. Ce programme ainsi que sa mise à jour périodique sont soumis à l'avis du comité de bassin.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°96-102 du 2 février 1996 - art. 7-1 (Ab)
+	  - Décret n°2005-475 du 16 mai 2005 - art. 19 (Ab)
+	  - Décret n°2005-636 du 30 mai 2005 - art. 3 (Ab)
+	  - Arrêté du 17 mars 2006 - art. 1 (V)
+	  - Arrêté du 12 janvier 2010 - art. 10 (V)
+	  - Arrêté du 25 janvier 2010 - art. 7 (V)
+	  - Arrêté du 25 janvier 2010 - art. 8 (V)
+	  - Décret n°2017-764 du 4 mai 2017 - art. 2 (V)
+	  - Code de l'environnement - art. L212-2-3 (V)
+	  - Code de l'environnement - art. R211-9 (V)
+	  - Code de l'environnement - art. R212-19 (V)
+	  - Code de l'environnement - art. R212-21-1 (V)
+	  - Code de l'environnement - art. R213-12-2 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2004-338 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
+
+
+###### Article L212-2-2
+
+L'autorité administrative établit et met à jour pour chaque bassin ou groupement de bassins, après avis du comité de bassin,
+un programme de surveillance de l'état des eaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2004-338 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2005-636 du 30 mai 2005 - art. 3 (Ab)
+	  - Arrêté du 17 mars 2006 - art. 1 (V)
+	  - Arrêté du 29 novembre 2006 - art. 1 (Ab)
+	  - Arrêté du 17 décembre 2008 - art. 2 (V)
+	  - Arrêté du 10 juillet 2009 (V)
+	  - Arrêté du 12 janvier 2010 - art. 10 (V)
+	  - Arrêté du 25 janvier 2010 - art. Annexe V (V)
+	  - Arrêté du 27 octobre 2011 - art. 1 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Arrêté du 7 août 2015 - art.
+	  - Code de l'environnement - art. R211-76 (V)
+	  - Code de l'environnement - art. R213-12-2 (Ab)
+
+
+###### Article L212-2-3
+
+Dans le cas de bassins ou groupements de bassins s'étendant au-delà de la frontière, l'autorité administrative élabore les
+programmes prévus aux articles L. 212-2-1 et L. 212-2-2, en coordination avec les autorités étrangères compétentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2004-338 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2005-636 du 30 mai 2005 - art. 3 (Ab)
+	  - Code de l'environnement - art. R122-17 (VT)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L212-2-1 (V)
 
 
 ##### Section 2 : Schémas d'aménagement et de gestion des eaux
@@ -4153,8 +4331,11 @@ Il doit être compatible avec les orientations fixées par le schéma directeur 
 
 ###### Article L212-6
 
-Le projet de schéma d'aménagement et de gestion des eaux, élaboré ou révisé par la commission locale de l'eau, est soumis à
-l'avis des conseils généraux, des conseils régionaux et du comité de bassin intéressés. Le comité de bassin assure
+Le projet de schéma d'aménagement et de gestion des eaux est élaboré et révisé par la commission locale de l'eau, le cas
+échéant dans le délai fixé par le schéma directeur d'aménagement et de gestion des eaux en application du X de l'article L.
+212-1. Toutefois, si le projet n'a pas été élaboré ou révisé à l'expiration de ce délai, il peut l'être par l'autorité
+administrative. Le projet est soumis à l'avis des conseils généraux, des conseils régionaux, des établissements publics
+territoriaux de bassin, des chambres consulaires et du comité de bassin intéressés. Le comité de bassin assure
 l'harmonisation des schémas d'aménagement et de gestion des eaux entrant dans le champ de sa compétence.
 
 Le projet est rendu public par l'autorité administrative avec, en annexe, les avis des personnes consultées. Ce dossier est
@@ -4192,6 +4373,14 @@ d'aménagement et de gestion des eaux et des décisions visées au précédent a
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-338 du 21 avril 2004 - art. 5 () JORF 22 avril 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L212-1 (M)
 
 
 ###### Article L212-7
@@ -44079,8 +44268,8 @@ ou par l'un de ses délégués.
 III. - Sont également applicables les dispositions du code de la santé publique mentionnées aux articles L. 211-11 et L.
 214-14 du présent code, dans les conditions indiquées à l'article L. 1515-1 du code de la santé publique.
 
-IV. - Pour l'application de l'article L. 212-2 à Mayotte, les mots : "des conseils régionaux et généraux concernés" et "des
-conseils régionaux et des conseils généraux concernés" sont remplacés par les mots : "du conseil général".
+IV. - Pour l'application de l'article L. 212-2 à Mayotte, les mots : "des conseils régionaux, des conseils généraux et des
+chambres consulaires concernés" sont remplacés par les mots : "du conseil général et des chambres consulaires".
 
 V. - Pour l'application de l'article L. 212-6 à Mayotte, les mots : "des conseils généraux, des conseils régionaux" sont
 remplacés par les mots : "du conseil général".
@@ -44125,7 +44314,7 @@ antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces col
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Loi n°2004-338 du 21 avril 2004 - art. 9 (V) JORF 22 avril 2004
 
 	**Cité par**:
 
