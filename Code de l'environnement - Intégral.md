@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-07-31
 
 # Partie législative
 
@@ -1246,6 +1246,11 @@ préalable des propriétaires et des occupants par les soins de l'autorité comp
 l'audition utile et convoquer le maître d'ouvrage ou ses représentants ainsi que les autorités administratives intéressées.
 
 Il peut organiser, sous sa présidence, une réunion d'information et d'échange avec le public en présence du maître d'ouvrage.
+Lorsque l'enquête publique porte sur une demande d'autorisation concernant une installation figurant sur la liste prévue au
+IV de l'article L. 515-8, cette réunion est obligatoire à la demande du maire de la commune sur le territoire de laquelle
+sera sise l'installation ou du président d'un établissement public de coopération intercommunale compétent en matière
+d'urbanisme ou de développement économique dont le périmètre comprend le territoire de la commune sur lequel sera sise
+l'installation (NOTA).
 
 Sous réserve des dispositions de l'article L. 123-15, le maître d'ouvrage communique au public les documents existants que le
 commissaire enquêteur ou le président de la commission d'enquête juge utiles à la bonne information du public. En cas de
@@ -1253,6 +1258,11 @@ refus de communication opposé par le maître d'ouvrage, sa réponse motivée es
 
 Le commissaire enquêteur ou la commission d'enquête se tient à la disposition des personnes ou des représentants
 d'associations qui demandent à être entendus.
+
+**Nota:**
+
+Loi n° 2003-699 art. 81 I : Cette disposition ne s'applique pas aux enquêtes ouvertes avant la publication de la loi n°
+2003-699.
 
 **Liens relatifs à cet article**
 
@@ -1277,11 +1287,12 @@ d'associations qui demandent à être entendus.
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 141 () JORF 28 février 2002
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L123-15 (V)
+	  - Code de l'environnement - art. L515-8 (M)
 
 
 ###### Article L123-10
@@ -1644,6 +1655,17 @@ Les citoyens ont un droit à l'information sur les risques majeurs auxquels ils 
 et sur les mesures de sauvegarde qui les concernent. Ce droit s'applique aux risques technologiques et aux risques naturels
 prévisibles.
 
+Dans les communes sur le territoire desquelles a été prescrit ou approuvé un plan de prévention des risques naturels
+prévisibles, le maire informe la population au moins une fois tous les deux ans, par des réunions publiques communales ou
+tout autre moyen approprié, sur les caractéristiques du ou des risques naturels connus dans la commune, les mesures de
+prévention et de sauvegarde possibles, les dispositions du plan, les modalités d'alerte, l'organisation des secours, les
+mesures prises par la commune pour gérer le risque, ainsi que sur les garanties prévues à l'article L. 125-1 du code des
+assurances. Cette information est délivrée avec l'assistance des services de l'Etat compétents, à partir des éléments portés
+à la connaissance du maire par le représentant de l'Etat dans le département, lorsqu'elle est notamment relative aux mesures
+prises en application de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection
+de la forêt contre l'incendie et à la prévention des risques majeurs et ne porte pas sur les mesures mises en oeuvre par le
+maire en application de l'article L. 2212-2 du code général des collectivités territoriales.
+
 Un décret en Conseil d'Etat définit les conditions d'exercice de ce droit. Il détermine notamment les modalités selon
 lesquelles les mesures de sauvegarde sont portées à la connaissance du public ainsi que les catégories de locaux dans
 lesquels les informations sont affichées.
@@ -1651,7 +1673,21 @@ lesquels les informations sont affichées.
 L'exploitant est tenu de participer à l'information générale du public sur les mesures prises aux abords des ouvrages ou
 installations faisant l'objet d'un plan particulier d'intervention.
 
+Le préfet crée un comité local d'information et de concertation sur les risques pour tout bassin industriel comprenant une ou
+plusieurs installations figurant sur la liste prévue au IV de l'article L. 515-8. Ce comité peut faire appel aux compétences
+d'experts reconnus, notamment pour réaliser des tierces expertises. Il est tenu informé de tout incident ou accident touchant
+à la sécurité des installations visées ci-dessus. Il est doté par l'Etat des moyens de remplir sa mission. Les conditions
+d'application du présent alinéa et notamment les règles de composition des comités locaux d'information et de concertation
+sur les risques sont fixées par décret.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°87-565 1987-07-22
+	  - Code général des collectivités territoriales - art. L2212-2 (M)
+	  - Code des assurances - art. L125-1 (M)
+	  - Code de l'environnement - art. L515-8 (M)
 
 	**Liens**:
 
@@ -1686,10 +1722,10 @@ installations faisant l'objet d'un plan particulier d'intervention.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2001-321 2001-04-11 art. 9 I, II JORF 14 avril 2001
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 9 () JORF 14 avril 2001
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 2 () JORF 31 juillet 2003
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 40 () JORF 31 juillet 2003
 
 	**Anciens textes**:
 
@@ -1767,6 +1803,65 @@ diffusion. Ce droit s'exerce selon les modalités définies à la section 2 du c
 	  - Code de l'environnement - art. L124-4 (T)
 
 
+###### Article L125-5
+
+I. - Les acquéreurs ou locataires de biens immobiliers situés dans des zones couvertes par un plan de prévention des risques
+technologiques ou par un plan de prévention des risques naturels prévisibles, prescrit ou approuvé, ou dans des zones de
+sismicité définies par décret en Conseil d'Etat, sont informés par le vendeur ou le bailleur de l'existence des risques visés
+par ce plan ou ce décret.
+
+Un état des risques fondé sur les informations mises à disposition par le préfet est annexé à toute promesse unilatérale de
+vente ou d'achat et à tout contrat réalisant ou constatant la vente.
+
+II. - Pour les locataires de biens immobiliers situés dans les zones mentionnées au I, l'état des risques prévu au I est
+annexé aux contrats de location écrits constatant l'entrée dans les lieux du nouveau locataire.
+
+III. - Le préfet arrête la liste des communes dans lesquelles les dispositions du I et du II sont applicables ainsi que, pour
+chaque commune concernée, la liste des risques et des documents à prendre en compte.
+
+IV. - Lorsqu'un immeuble bâti a subi un sinistre ayant donné lieu au versement d'une indemnité en application de l'article L.
+125-2 ou de l'article L. 128-2 du code des assurances, le vendeur ou le bailleur de l'immeuble est tenu d'informer par écrit
+l'acquéreur ou le locataire de tout sinistre survenu pendant la période où il a été propriétaire de l'immeuble ou dont il a
+été lui-même informé en application des présentes dispositions. En cas de vente de l'immeuble, cette information est
+mentionnée dans l'acte authentique constatant la réalisation de la vente.
+
+V. - En cas de non-respect des dispositions du présent article, l'acquéreur ou le locataire peut poursuivre la résolution du
+contrat ou demander au juge une diminution du prix.
+
+VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 3-3 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 3-1 (V)
+	  - Décret n°2005-134 du 15 février 2005 - art. 1 (Ab)
+	  - Décret n°2005-134 du 15 février 2005 - art. 4 (Ab)
+	  - Décret n°2005-134 du 15 février 2005 - art. 5 (Ab)
+	  - Code de l'environnement - art. L125-7 (V)
+	  - Code de l'environnement - art. R125-23 (V)
+	  - Code de l'environnement - art. R125-26 (V)
+	  - Code de l'environnement - art. R125-27 (V)
+	  - Code de l'urbanisme - art. R213-7 (V)
+	  - Code de la construction et de l'habitation. - art. L271-4 (V)
+	  - Code de la construction et de l'habitation. - art. L271-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 77 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code des assurances - art. L128-2 (V)
+	  - Code de l'environnement - art. L125-2 (M)
+
+
 #### Chapitre VI : Déclaration de projet
 
 ###### Article L126-1
@@ -1840,9 +1935,9 @@ La déclaration de projet est publiée dans des conditions définies par décret
 
 Il est institué, dans chaque département, un conseil départemental de l'environnement. Ce conseil est composé notamment de
 membres de la commission des sites, perspectives et paysages, du conseil départemental de la chasse et de la faune sauvage,
-de la commission départementale des carrières, du conseil départemental d'hygiène, représentant de façon équilibrée et en
-tenant compte de leur représentativité les différents intérêts en présence. Il est présidé par le préfet ou par son
-représentant.
+de la commission départementale des carrières, du conseil départemental d'hygiène et de la commission départementale des
+risques naturels majeurs représentant de façon équilibrée et en tenant compte de leur représentativité les différents
+intérêts en présence. Il est présidé par le préfet ou par son représentant.
 
 Il peut être saisi pour avis par le préfet ou le président du conseil général sur toute question relative à l'environnement
 ou au cadre de vie du département et qui ne relève pas de la compétence exclusive de l'un des organismes mentionnés au
@@ -1863,6 +1958,14 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 44 () JORF 31 juillet 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
 
 	**Cité par**:
 
@@ -3205,16 +3308,17 @@ I. - Sous réserve du respect des dispositions des articles 5 et 25 du code du d
 intérieure, les collectivités territoriales et leurs groupements ainsi que les syndicats mixtes créés en application de
 l'article L. 5721-2 du code général des collectivités territoriales et la communauté locale de l'eau sont habilités à
 utiliser les articles L. 151-36 à L. 151-40 du code rural pour entreprendre l'étude, l'exécution et l'exploitation de tous
-travaux, ouvrages ou installations présentant un caractère d'intérêt général ou d'urgence, dans le cadre du schéma
+travaux, actions, ouvrages ou installations  présentant un caractère d'intérêt général ou d'urgence, dans le cadre du schéma
 d'aménagement et de gestion des eaux s'il existe, et visant :
 
 1° L'aménagement d'un bassin ou d'une fraction de bassin hydrographique ;
 
-2° L'entretien et l'aménagement d'un cours d'eau non domanial, y compris les accès à ce cours d'eau ;
+2° L'entretien et l'aménagement d'un cours d'eau, canal, lac ou plan d'eau, y compris les accès à ce cours d'eau, à ce canal,
+à ce lac ou à ce plan d'eau ;
 
 3° L'approvisionnement en eau ;
 
-4° La maîtrise des eaux pluviales et de ruissellement ;
+4° La maîtrise des eaux pluviales et de ruissellement ou la lutte contre l'érosion des sols ;
 
 5° La défense contre les inondations et contre la mer ;
 
@@ -3225,7 +3329,19 @@ d'aménagement et de gestion des eaux s'il existe, et visant :
 8° La protection et la restauration des sites, des écosystèmes aquatiques et des zones humides ainsi que des formations
 boisées riveraines ;
 
-9° Les aménagements hydrauliques concourant à la sécurité civile.
+9° Les aménagements hydrauliques concourant à la sécurité civile ;
+
+10° L'exploitation, l'entretien et l'aménagement d'ouvrages hydrauliques existants ;
+
+11° La mise en place et l'exploitation de dispositifs de surveillance de la ressource en eau et des milieux aquatiques ;
+
+12° L'animation et la concertation dans le domaine de la gestion et de la protection de la ressource en eau et des milieux
+aquatiques dans un sous-bassin ou un groupement de sous-bassins, ou dans un système aquifère, correspondant à une unité
+hydrographique.
+
+I bis. - Lorsqu'un projet visé aux 1°, 2° et 5° du I dépassant un seuil financier fixé par décret est situé dans le périmètre
+d'un établissement public territorial de bassin visé à l'article L. 213-10, le préfet saisit pour avis le président de cet
+établissement. A défaut de réponse dans un délai de deux mois, l'avis est réputé favorable.
 
 II. - L'étude, l'exécution et l'exploitation desdits travaux peuvent être concédées notamment à des sociétés d'économie
 mixte. Les concessionnaires sont fondés à percevoir le prix des participations prévues à l'article L. 151-36 du code rural.
@@ -3233,9 +3349,26 @@ mixte. Les concessionnaires sont fondés à percevoir le prix des participations
 III. - Il est procédé à une seule enquête publique au titre de l'article L. 151-37 du code rural, des articles L. 214-1 à L.
 214-6 du présent code et, s'il y a lieu, de la déclaration d'utilité publique.
 
-IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+IV. - Sous réserve des décisions de justice passées en force de chose jugée, les servitudes de libre passage des engins
+d'entretien dans le lit ou sur les berges des cours d'eau non domaniaux, instaurées en application du décret n° 59-96 du 7
+janvier 1959 relatif aux servitudes de libre passage sur les berges des cours d'eau non navigables ni flottables sont
+validées et valent servitudes au sens de l'article L. 151-37-1 du code rural.
+
+V. - Les dispositions du présent article s'appliquent aux travaux, actions, ouvrages ou installations de l'Etat.
+
+VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-96 1959-01-07
+	  - Code général des collectivités territoriales - art. L5721-2 (M)
+	  - Code de l'environnement - art. L213-10 (M)
+	  - Code de l'environnement L213-10, L214-1 à L214-6
+	  - Code rural L151-36 à L151-40, L151-36, L151-37, L151-37-1
+	  - Code du domaine public fluvial et de la navigation - art. 25 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 5 (M)
 
 	**Anciens textes**:
 
@@ -3301,13 +3434,9 @@ IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L5721-2 (M)
-	  - Code de l'environnement L214-1 à L214-6
-	  - Code rural L151-36, L151-40, L151-37, L151-38, L151-39
-	  - Code du domaine public fluvial et de la navigation - art. 25 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 5 (M)
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 55 () JORF 31 juillet 2003
 
 
 ###### Article L211-8
@@ -3402,6 +3531,201 @@ article L. 1336-1).
 	**Cité par**:
 
 	  - Code de l'environnement - art. L652-1 (V)
+
+
+###### Article L211-12
+
+I. - Des servitudes d'utilité publique peuvent être instituées à la demande de l'Etat, des collectivités territoriales ou de
+leurs groupements sur des terrains riverains d'un cours d'eau ou de la dérivation d'un cours d'eau, ou situés dans leur
+bassin versant, ou dans une zone estuarienne.
+
+II. - Ces servitudes peuvent avoir un ou plusieurs des objets suivants :
+
+1° Créer des zones de rétention temporaire des eaux de crues ou de ruissellement, par des aménagements permettant d'accroître
+artificiellement leur capacité de stockage de ces eaux, afin de réduire les crues ou les ruissellements dans des secteurs
+situés en aval ;
+
+2° Créer ou restaurer des zones de mobilité du lit mineur d'un cours d'eau en amont des zones urbanisées dans des zones dites
+"zones de mobilité d'un cours d'eau", afin de préserver ou de restaurer ses caractères hydrologiques et géomorphologiques
+essentiels.
+
+III. - Les zones soumises à ces servitudes sont délimitées par arrêté préfectoral. Celui-ci est pris après enquête publique
+menée conformément au code de l'expropriation pour cause d'utilité publique.
+
+IV. - Dans les zones de rétention temporaire des eaux de crues ou de ruissellement mentionnées au 1° du II, l'arrêté
+préfectoral peut obliger les propriétaires et les exploitants à s'abstenir de tout acte de nature à nuire au bon
+fonctionnement, à l'entretien et à la conservation des ouvrages destinés à permettre l'inondation de la zone. A cet effet,
+l'arrêté préfectoral peut soumettre à déclaration préalable, auprès des autorités compétentes en matière d'urbanisme, les
+travaux qui, en raison de leur nature, de leur importance ou de leur localisation, sont susceptibles de faire obstacle au
+stockage ou à l'écoulement des eaux et n'entrent pas dans le champ d'application des autorisations ou déclarations instituées
+par le code de l'urbanisme.
+
+L'arrêté préfectoral peut également soumettre à déclaration préalable les ouvrages qui, en raison de leur nature, de leur
+importance ou de leur localisation, sont susceptibles de faire obstacle au stockage ou à l'écoulement des eaux et n'entrent
+pas dans le champ d'application des autorisations ou déclarations instituées par le code de l'urbanisme. Le préfet peut, par
+décision motivée, dans un délai de deux mois à compter de la réception de la déclaration, s'opposer à la réalisation de ces
+ouvrages ou prescrire les travaux nécessaires. Les travaux de réalisation de ces ouvrages ne peuvent commencer avant
+l'expiration de ce délai.
+
+Pour les travaux visés au premier alinéa du présent IV, ainsi que pour les travaux et ouvrages soumis à une autorisation ou à
+une déclaration instituée par le code de l'urbanisme et qui sont susceptibles, en raison de leur nature, de leur importance
+ou de leur localisation, de faire obstacle au stockage ou à l'écoulement des eaux, l'autorité compétente pour statuer en
+matière d'urbanisme recueille l'accord du préfet qui dispose d'un délai de deux mois à compter de la réception de la
+déclaration ou de la demande d'autorisation pour s'opposer à l'exécution des travaux ou prescrire les modifications
+nécessaires. Les travaux ne peuvent commencer avant l'expiration de ce délai.
+
+En outre, l'arrêté préfectoral fixe les dispositions nécessaires dans un délai déterminé pour évacuer tout engin mobile
+pouvant provoquer ou subir des dommages.
+
+V. - Dans les zones de mobilité d'un cours d'eau mentionnées au 2° du II, ne peuvent être réalisés les travaux de protection
+des berges, remblais, endiguements et affouillements, les constructions ou installations et, d'une manière générale, tous les
+travaux ou ouvrages susceptibles de faire obstacle au déplacement naturel du cours d'eau. A cet effet, l'arrêté préfectoral
+peut soumettre à déclaration préalable, auprès des autorités compétentes en matière d'urbanisme, les travaux qui, en raison
+de leur nature, de leur importance ou de leur localisation, sont susceptibles de faire obstacle au déplacement naturel du
+cours d'eau et n'entrent pas dans le champ d'application des autorisations ou déclarations instituées par le code de
+l'urbanisme.
+
+L'arrêté préfectoral peut également soumettre à déclaration préalable les ouvrages qui, en raison de leur nature, de leur
+importance ou de leur localisation, sont susceptibles de faire obstacle au déplacement naturel du cours d'eau et n'entrent
+pas dans le champ d'application des autorisations ou déclarations instituées par le code de l'urbanisme. Le préfet peut, par
+décision motivée, dans un délai de deux mois à compter de la réception de la déclaration, s'opposer à la réalisation de ces
+ouvrages ou prescrire les travaux nécessaires. Les travaux de réalisation de ces ouvrages ne peuvent commencer avant
+l'expiration de ce délai.
+
+Pour les travaux visés au premier alinéa du présent V, ainsi que pour les travaux et ouvrages soumis à une autorisation ou à
+une déclaration instituée par le code de l'urbanisme et qui sont susceptibles, en raison de leur nature, de leur importance
+ou de leur localisation, de faire obstacle au déplacement naturel du cours d'eau, l'autorité compétente pour statuer en
+matière d'urbanisme recueille l'accord du préfet qui dispose d'un délai de deux mois à compter de la réception de la
+déclaration ou de la demande d'autorisation pour s'opposer à l'exécution des travaux ou prescrire les modifications
+nécessaires. Les travaux ne peuvent commencer avant l'expiration de ce délai.
+
+VI. - L'arrêté préfectoral peut identifier, le cas échéant, les éléments existants ou manquants faisant obstacle à l'objet de
+la servitude, dont la suppression, la modification ou l'instauration est rendue obligatoire. La charge financière des travaux
+et l'indemnisation du préjudice pouvant résulter de ces derniers incombent à la collectivité qui a demandé l'institution de
+la servitude. Toutefois, si lesdits éléments appartiennent à l'Etat ou à ses établissements publics, la charge des travaux
+incombe à celui-ci.
+
+VII. - Lorsque l'un des objets en vue duquel la servitude a été instituée implique la réalisation par la collectivité
+publique d'installations, travaux ou activités, les propriétaires et exploitants sont tenus de permettre en tout temps aux
+agents chargés de leur aménagement, entretien ou exploitation, d'accéder aux terrains inclus dans le périmètre des zones
+soumises à servitude.
+
+VIII. - L'instauration des servitudes mentionnées au I ouvre droit à indemnités pour les propriétaires de terrains des zones
+grevées lorsqu'elles créent un préjudice matériel, direct et certain. Ces indemnités sont à la charge de la collectivité qui
+a demandé l'institution de la servitude. Elles sont fixées, à défaut d'accord amiable, par le juge de l'expropriation
+compétent dans le département.
+
+IX. - Les dommages matériels touchant les récoltes, les cultures, le cheptel mort ou vif, les véhicules terrestres à moteur
+et les bâtiments causés par une surinondation liée à une rétention temporaire des eaux dans les zones grevées de servitudes
+mentionnées au II ouvrent droit à indemnités pour les occupants. Toutefois, les personnes physiques ou morales qui auront
+contribué par leur fait ou par leur négligence à la réalisation des dommages sont exclues du bénéfice de l'indemnisation dans
+la proportion où lesdits dommages peuvent leur être imputables. Ces indemnités sont à la charge de la collectivité qui a
+demandé l'institution de la servitude grevant la zone.
+
+Les dommages touchant les récoltes, les cultures, les bâtiments et le cheptel mort ou vif affectés aux exploitations
+agricoles sont évalués dans le cadre de protocoles d'accords locaux. A défaut, ils sont évalués dans les conditions prévues
+par l'article L. 361-10 du code rural.
+
+X. - Pour une période de dix ans à compter de la date de publication de l'arrêté préfectoral constatant l'achèvement des
+travaux mentionnés au VI ou, si de tels travaux ne sont pas nécessaires, à compter de la date de publication de l'arrêté
+préfectoral instituant une ou plusieurs des servitudes mentionnées au I, le propriétaire d'une parcelle de terrain grevée par
+une de ces servitudes peut en requérir l'acquisition partielle ou totale par la collectivité qui a demandé l'institution de
+la servitude. Ce droit de délaissement s'exerce dans les conditions prévues aux articles L. 230-1 et suivants du code de
+l'urbanisme. Le propriétaire peut, dans le même temps, requérir l'acquisition partielle ou totale d'autres parcelles de
+terrain si l'existence de la servitude compromet leur exploitation ou leur usage dans des conditions similaires à celles
+existant avant l'institution de la servitude.
+
+XI. - Dans les zones mentionnées au II, les communes ou les établissements publics de coopération intercommunale compétents
+peuvent instaurer le droit de préemption urbain dans les conditions définies à l'article L. 211-1 du code de l'urbanisme. Ils
+peuvent déléguer ce droit à la collectivité qui a demandé l'institution de la servitude.
+
+XII. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 48 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-116 du 7 février 2005 - art. 1 (Ab)
+	  - Décret n°2005-116 du 7 février 2005 - art. 10 (Ab)
+	  - Décret n°2005-116 du 7 février 2005 - art. 13 (Ab)
+	  - Décret n°2005-116 du 7 février 2005 - art. 2 (Ab)
+	  - Décret n°2005-116 du 7 février 2005 - art. 4 (Ab)
+	  - Décret n°2005-116 du 7 février 2005 - art. 8 (Ab)
+	  - Décret n°2006-665 du 7 juin 2006 - art. 34 (Ab)
+	  - Arrêté du 18 novembre 2011 - art. (V)
+	  - Code de l'environnement - art. L211-13 (V)
+	  - Code de l'environnement - art. L213-12-1 (V)
+	  - Code de l'environnement - art. L216-1 (VT)
+	  - Code de l'environnement - art. L216-3 (VD)
+	  - Code de l'environnement - art. L216-5 (VT)
+	  - Code de l'environnement - art. L565-1 (Ab)
+	  - Code de l'environnement - art. R181-20 (VD)
+	  - Code de l'environnement - art. R211-103 (V)
+	  - Code de l'environnement - art. R211-105 (V)
+	  - Code de l'environnement - art. R211-106 (V)
+	  - Code de l'environnement - art. R211-96 (V)
+	  - Code de l'environnement - art. R211-97 (VD)
+	  - Code de l'environnement - art. R211-99 (V)
+	  - Code de l'environnement - art. R565-5 (V)
+	  - Code de l'urbanisme - art. (V)
+	  - Code de l'urbanisme - art. L211-1 (V)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+	  - Code de l'urbanisme - art. R*315-18 (Ab)
+	  - Code de l'urbanisme - art. R*421-15 (M)
+	  - Code de l'urbanisme - art. R*422-8 (Ab)
+	  - Code de l'urbanisme - art. R*430-10 (Ab)
+	  - Code de l'urbanisme - art. R*443-5 (M)
+	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
+	  - Code de l'urbanisme - art. R442-4-7 (Ab)
+	  - Code rural et de la pêche maritime - art. L411-27 (V)
+	  - Livre des procédures fiscales - art. L135 P (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L230-1 (M)
+	  - Code rural L361-10
+
+
+###### Article L211-13
+
+I. - Nonobstant toutes dispositions contraires, les collectivités publiques qui ont acquis des terrains situés dans les zones
+de rétention temporaire des eaux de crues ou de ruissellement ou les zones de mobilité d'un cours d'eau visées à l'article L.
+211-12 du présent code peuvent, lors du renouvellement des baux ruraux visés au titre Ier du livre IV du code rural portant
+sur ces terrains, prescrire au preneur des modes d'utilisation du sol afin de prévenir les inondations ou ne pas aggraver les
+dégâts potentiels.
+
+II. - Par dérogation au titre Ier du livre IV du code rural, le tribunal administratif est seul compétent pour régler les
+litiges concernant les baux renouvelés en application du I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 53 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-116 du 7 février 2005 - art. 13 (Ab)
+	  - Code de l'environnement - art. R211-106 (V)
+	  - Code rural - art. L411-79 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L211-12 (M)
 
 
 #### Chapitre II : Planification
@@ -4376,24 +4700,23 @@ Un décret détermine les conditions d'application du présent article.
 	  - Code de l'environnement - art. L211-7 (M)
 
 
-##### Section 6 : Etablissements publics à vocation de maîtrise d'ouvrage
+##### Section 6 : Organismes à vocation de maîtrise d'ouvrage
 
 ###### Article L213-10
 
-Peuvent être créés, par décret en Conseil d'Etat, après consultation des personnes publiques et privées intéressées, des
-établissements publics administratifs, placés sous la tutelle de l'Etat, ayant pour objet, dans un bassin ou fraction de
-bassin, un cours d'eau ou section de cours d'eau, ou dans une zone déterminée, la lutte contre la pollution des eaux,
-l'approvisionnement en eau, la défense contre les inondations, l'entretien et l'amélioration des cours d'eau, des lacs et des
-étangs non domaniaux et des canaux et fossés d'irrigation et d'assainissement.
+Pour faciliter, à l'échelle d'un bassin ou d'un sous-bassin hydrographique, la prévention des inondations et la gestion
+équilibrée de la ressource en eau, les collectivités territoriales intéressées et leurs groupements peuvent s'associer au
+sein d'un établissement public territorial de bassin.
 
-Si les conseils municipaux des deux tiers au moins des communes intéressées, représentant plus de la moitié de la population
-totale de celles-ci, ou les conseils municipaux de la moitié au moins des communes intéressées représentant plus des deux
-tiers de cette population, émettent un avis défavorable, l'établissement ne peut être créé qu'après consultation des conseils
-généraux intéressés.
+Cet organisme public est constitué et fonctionne, selon les cas, conformément aux dispositions du code général des
+collectivités territoriales régissant les établissements constitués en application des articles L. 5421-1 à L. 5421-6 ou des
+articles L. 5721-1 à L. 5721-8 du même code.
 
-Les conditions dans lesquelles les personnes privées sont appelées à participer à la création et à la gestion des
-établissements publics susvisés, ainsi que la procédure de création et les conditions de fonctionnement de ces établissements
-sont fixées par décret en Conseil d'Etat.
+Le préfet coordonnateur de bassin délimite, par arrêté et après avis du comité de bassin et des collectivités territoriales
+concernées et, s'il y a lieu, après avis de la commission locale de l'eau, le périmètre d'intervention de cet établissement
+public.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -4405,6 +4728,10 @@ sont fixées par décret en Conseil d'Etat.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 46 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -4422,101 +4749,14 @@ sont fixées par décret en Conseil d'Etat.
 	  - Code rural - art. D341-8 (V)
 	  - Livre des procédures fiscales - art. L135 R (V)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales L5721-1 à L5721-8
+	  - Code de l'environnement L5421-1 à L5421-6
+
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L213-12 (V)
-
-
-###### Article L213-11
-
-L'organisme directeur de l'établissement public mentionné à l'article L. 213-10 doit comporter des représentants de toutes
-les catégories de personnes publiques et privées intéressées à l'accomplissement de son objet. Il comprend notamment une
-représentation des intérêts agricoles, correspondant à leur importance, dans la mesure où ceux-ci sont concernés par les
-objectifs statutaires et les attributions dudit établissement. Il doit être composé, à concurrence de plus de la moitié de
-ses membres, de représentants de l'Etat, des collectivités locales et des établissements publics administratifs intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°64-1245 1964-12-16 art. 17 al. 1
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 46 () JORF 31 juillet 2003
-
-	**Cité par**:
-
-	  - ORDONNANCE n°2015-1244 du 7 octobre 2015 - art. 2 (V)
-	  - Code de l'environnement - art. L213-11-15-1 (V)
-	  - Code de l'environnement - art. L213-11-16 (V)
-	  - Code de l'environnement - art. L213-11-17 (V)
-	  - Code de l'environnement - art. L213-11-6 (V)
-	  - Code de l'environnement - art. L652-1 (V)
-	  - Code de l'environnement - art. R213-48-21 (VD)
-	  - Code de l'environnement - art. R213-48-38 (V)
-	  - Code rural et de la pêche maritime - art. L254-10-1 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L213-10 (M)
-
-
-###### Article L213-12
-
-Pour faire face à ses charges, l'établissement peut percevoir des redevances qui lui sont versées par les personnes publiques
-ou privées, compte tenu de la mesure dans laquelle celles-ci ont rendu l'aménagement nécessaire ou utile ou y trouvent leur
-intérêt.
-
-Des décrets, précédés d'une enquête publique dont les modalités sont fixées par un décret en Conseil d'Etat, déterminent les
-bases générales de répartition et l'assiette de ces redevances ainsi que les conditions de fixation de leurs taux.
-
-Si l'établissement public exerce son activité sur le territoire de communes appartenant à un même département, les
-dispositions édictées par les décrets prévus à l'alinéa précédent sont fixées par arrêté du préfet.
-
-Dans tous les cas, le taux des redevances est fixé par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°64-1245 1964-12-16 art. 17 al. 2, 3, 4, 5
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 3 (Ab)
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 4 (Ab)
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 5 (Ab)
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 17 (Ab)
-	  - Code de l'environnement - art. L213-10 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 46 () JORF 31 juillet 2003
-
-	**Cité par**:
-
-	  - Arrêté du 17 mars 2006 - art. 11 (V)
-	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 17 (VD)
-	  - Décret n°2015-1038 du 20 août 2015 (V)
-	  - Décret n°2017-764 du 4 mai 2017 - art. 2 (V)
-	  - Code de l'environnement - art. L211-7 (VT)
-	  - Code de l'environnement - art. L213-10-9 (V)
-	  - Code de l'environnement - art. L213-12-1 (V)
-	  - Code de l'environnement - art. L566-10 (V)
-	  - Code de l'environnement - art. R213-22 (Ab)
-	  - Code de l'environnement - art. R213-49 (M)
-	  - Code de l'environnement - art. R213-49-2 (V)
-	  - Code de l'environnement - art. R213-54 (V)
-	  - Code rural et de la pêche maritime - art. R114-7 (V)
 
 
 ##### Section 7 : Offices de l'eau des départements d'outre-mer
@@ -6216,7 +6456,7 @@ décharge formées par les imposés sont portées devant la juridiction administ
 
 Pendant la durée des travaux, les propriétaires sont tenus de laisser passer sur leurs terrains les fonctionnaires et agents
 chargés de la surveillance, les entrepreneurs et ouvriers, ainsi que les engins mécaniques strictement nécessaires à la
-réalisation des travaux.
+réalisation des travaux, dans la limite d'une largeur de six mètres.
 
 Les terrains bâtis ou clos de murs à la date du 3 février 1995 ainsi que les cours et les jardins attenant aux habitations
 sont exempts de la servitude en ce qui concerne le passage des engins.
@@ -6231,9 +6471,16 @@ existants.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 58 () JORF 31 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
+
 	**Anciens textes**:
 
-	  - Code rural ancien - art. 119 (M)
 	  - Code rural ancien - art. 119 (Ab)
 
 
@@ -18145,8 +18392,7 @@ gibier, les milieux et les activités humaines en assurant un véritable équili
 
 Le principe de prélèvement raisonnable sur les ressources naturelles renouvelables s'impose aux activités d'usage et
 d'exploitation de ces ressources. En contrepartie de prélèvements raisonnés sur les espèces dont la chasse est autorisée, les
-chasseurs doivent contribuer à la gestion équilibrée des écosystèmes. La chasse s'exerce dans des conditions compatibles avec
-les usages non appropriatifs de la nature, dans le respect du droit de propriété.
+chasseurs doivent contribuer à la gestion équilibrée des écosystèmes.
 
 **Liens relatifs à cet article**
 
@@ -18154,6 +18400,10 @@ les usages non appropriatifs de la nature, dans le respect du droit de propriét
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 2 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -18165,7 +18415,6 @@ les usages non appropriatifs de la nature, dans le respect du droit de propriét
 	**Anciens textes**:
 
 	  - Code rural - art. L220-1 (Ab)
-	  - Code rural L220-1
 
 
 ###### Article L420-2
@@ -18252,11 +18501,12 @@ Les dispositions du présent titre ne sont pas applicables dans le département 
 
 ###### Article L421-1
 
-I. - L'Office national de la chasse et de la faune sauvage est un établissement public de l'Etat à caractère administratif.
-Il a pour mission de réaliser des études, des recherches et des expérimentations concernant la conservation, la restauration
-et la gestion de la faune sauvage et ses habitats et la mise en valeur de celle-ci par la chasse. Dans ces domaines, il
-délivre des formations. Il participe à la mise en valeur et la surveillance de la faune sauvage ainsi qu'au respect de la
-réglementation relative à la police de la chasse.
+I. - L'Office national de la chasse et de la faune sauvage est un établissement public de l'Etat à caractère administratif
+placé sous la double tutelle des ministres chargés de la chasse et de l'agriculture. Il a pour mission de réaliser des
+études, des recherches et des expérimentations concernant la conservation, la restauration et la gestion de la faune sauvage
+et ses habitats et la mise en valeur de celle-ci par la chasse. Dans ces domaines, il délivre des formations. Il participe à
+la mise en valeur et la surveillance de la faune sauvage ainsi qu'au respect de la réglementation relative à la police de la
+chasse.
 
 Il apporte à l'Etat son concours pour l'évaluation de l'état de la faune sauvage ainsi que le suivi de sa gestion, et sa
 capacité d'expertise et son appui technique pour l'élaboration des orientations régionales visées au I de l'article L. 421-7
@@ -18289,12 +18539,21 @@ dons et legs et par le produit des ventes qu'il effectue dans le cadre de ses mi
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 3 () JORF 31 juillet 2003
+
 	**Cité par**:
 
+	  - Décret n°2008-636 du 30 juin 2008 - art. 3 (V)
 	  - Arrêté du 16 février 2017 - art. (V)
 	  - Code de l'environnement - art. L420-4 (V)
 	  - Code de l'environnement - art. L654-1 (M)
-	  - Décret n°2008-636 du 30 juin 2008 - art. 3 (V)
 
 	**Cite**:
 
@@ -18303,12 +18562,6 @@ dons et legs et par le produit des ventes qu'il effectue dans le cadre de ses mi
 	**Anciens textes**:
 
 	  - Code rural - art. L221-1 (Ab)
-	  - Code rural L221-1
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ##### Sous-section 2 : Administration générale
@@ -18437,7 +18690,10 @@ Conseil d'Etat, leurs constats font foi jusqu'à preuve contraire.
 
 Les fédérations départementales des chasseurs peuvent exercer les droits reconnus à la partie civile en ce qui concerne les
 faits constituant une infraction aux dispositions du présent titre et des textes pris pour son application et portant un
-préjudice direct ou indirect aux intérêts collectifs, matériels et moraux qu'elles ont pour objet de défendre.
+préjudice direct ou indirect aux intérêts collectifs, matériels et moraux qu'elles ont pour objet de défendre. 
+
+A ces fins, une copie des procès-verbaux et rapports prévus aux articles L. 428-19 et suivants est adressée au président de
+la fédération départementale ou interdépartementale concernée.
 
 **Liens relatifs à cet article**
 
@@ -18446,6 +18702,14 @@ préjudice direct ou indirect aux intérêts collectifs, matériels et moraux qu
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 8 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L428-19 (VT)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L654-1 (M)
@@ -18453,19 +18717,19 @@ préjudice direct ou indirect aux intérêts collectifs, matériels et moraux qu
 	**Anciens textes**:
 
 	  - Code rural - art. L221-2-1 (Ab)
-	  - Code rural L221-2-1
 
 
 ###### Article L421-7
 
 I. - Conformément aux orientations régionales de gestion de la faune sauvage et d'amélioration de la qualité de ses habitats
-arrêtées par le préfet de région, il est mis en place dans chaque département un schéma départemental de gestion cynégétique.
-Ce schéma est établi pour une période de cinq ans renouvelable. Il est élaboré par la fédération départementale des chasseurs
-en prenant en compte le document départemental de gestion de l'espace agricole et forestier mentionné à l'article L. 112-1 du
-code rural, et approuvé, après avis du conseil départemental de la chasse et de la faune sauvage, par le préfet, qui vérifie
-notamment sa conformité aux principes énoncés à l'article L. 420-1. Il peut être complété par des schémas locaux élaborés et
-approuvés selon la même procédure. Ces schémas sont mis en oeuvre sous la responsabilité du préfet et encadrent les actions
-de la fédération départementale des chasseurs.
+arrêtées par le préfet de région, ou, lorsque la région a demandé à exercer cette compétence, par le président du conseil
+régional, il est mis en place dans chaque département un schéma départemental de gestion cynégétique. Ce schéma est établi
+pour une période de cinq ans renouvelable. Il est élaboré par la fédération départementale des chasseurs en prenant en compte
+le document départemental de gestion de l'espace agricole et forestier mentionné à l'article L. 112-1 du code rural, et
+approuvé, après avis du conseil départemental de la chasse et de la faune sauvage, par le préfet, qui vérifie notamment sa
+conformité aux principes énoncés à l'article L. 420-1. Il peut être complété par des schémas locaux élaborés et approuvés
+selon la même procédure. Ces schémas sont mis en oeuvre sous la responsabilité du préfet et encadrent les actions de la
+fédération départementale des chasseurs.
 
 II. - Le schéma départemental de gestion cynégétique comprend notamment :
 
@@ -18479,18 +18743,13 @@ de gibier, la recherche au sang du grand gibier et les prescriptions relatives �
 
 4° Les actions menées en vue de préserver ou de restaurer les habitats naturels de la faune sauvage.
 
-III. - Pour assurer une meilleure coordination des actions des chasseurs, les demandeurs de plans de chasse et de plans de
+III. - Pour assurer une meilleure coordination des actions des chasseurs, les bénéficiaires de plans de chasse et de plans de
 gestion sont adhérents à la fédération départementale des chasseurs.
 
 IV. - Le schéma départemental de gestion cynégétique est opposable aux chasseurs et aux sociétés, groupements et associations
 de chasse du département.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -18504,18 +18763,56 @@ de chasse du département.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L420-1 (M)
 	  - Code rural L112-1
+	  - Code de l'environnement - art. L420-1 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 10 () JORF 31 juillet 2003
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 9 () JORF 31 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Anciens textes**:
 
 	  - Code rural - art. L221-2-2 (Ab)
-	  - Code rural L221-2-2
 
 
 ###### Article L421-8
 
-Il ne peut exister qu'une fédération des chasseurs par département.
+I.-Il ne peut exister qu'une fédération de chasseurs par département. 
+
+II.-Dans l'intérêt général et afin de contribuer à la coordination et à la cohérence des activités cynégétiques dans le
+département, chaque fédération départementale des chasseurs regroupe : 
+
+1° Les titulaires du permis de chasser ayant validé celui-ci dans le département ; 
+
+2° Les personnes physiques et les personnes morales titulaires de droits de chasse sur des terrains situés dans le
+département et bénéficiaires d'un plan de chasse ou d'un plan de gestion pour tout ou partie de ces terrains. 
+
+III.-Peut en outre adhérer à la fédération : 
+
+1° Toute autre personne détenant un permis de chasser ou titulaire de droits de chasse sur des terrains situés dans le
+département ; 
+
+2° Sauf opposition de son conseil d'administration, toute personne désirant bénéficier des services de la fédération. 
+
+Une même personne peut adhérer à la fédération départementale en qualité de titulaire d'un permis de chasser et de titulaire
+de droits de chasse. 
+
+IV.-L'adhésion est constatée par le paiement à la fédération d'une cotisation annuelle dont les montants, qui peuvent être
+distincts selon qu'il s'agit de l'adhésion d'un chasseur ou du titulaire de droits de chasse, sont fixés par l'assemblée
+générale, sur proposition du conseil d'administration. 
+
+Les adhérents sont également redevables des participations éventuelles décidées par la fédération pour assurer
+l'indemnisation des dégâts de grand gibier, en application de l'article L. 426-5.
 
 **Liens relatifs à cet article**
 
@@ -18523,6 +18820,14 @@ Il ne peut exister qu'une fédération des chasseurs par département.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 11 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L426-5 (V)
 
 	**Anciens textes**:
 
@@ -18534,23 +18839,31 @@ Il ne peut exister qu'une fédération des chasseurs par département.
 Les statuts des fédérations départementales des chasseurs doivent être conformes à un modèle adopté par le ministre chargé de
 la chasse.
 
-Les assemblées générales des fédérations départementales des chasseurs statuent à la majorité des suffrages exprimés, chaque
-titulaire de permis de chasser membre de la fédération disposant d'une voix. Le président d'une société, groupement ou
-association de chasse gérant un territoire de chasse adhérent à la fédération, ou son représentant dûment mandaté par lui,
-peut recevoir les délégations de vote des titulaires de permis de chasser adhérents de la société, du groupement ou de
-l'association.
+Leurs assemblées générales statuent à la majorité des suffrages exprimés des membres présents ou représentés.
+
+Chaque titulaire du permis de chasser adhérent d'une fédération dispose d'une voix. Il peut donner procuration à un autre
+adhérent de la même fédération.
+
+Chaque titulaire de droits de chasse dans le département, adhérent d'une fédération, dispose d'un nombre de voix qui dépend,
+dans la limite d'un plafond, de la surface de son territoire. Il peut donner procuration à un autre adhérent de la même
+fédération.
+
+Le nombre maximum de voix dont peut disposer chaque adhérent, soit directement, soit par procuration, est fixé dans le modèle
+de statuts mentionné au premier alinéa.
+
+Toute personne membre de la fédération et détentrice d'un permis de chasser validé depuis cinq années consécutives peut être
+candidate au conseil d'administration quel que soit son âge.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L221-4
-	  - Code rural - art. L221-4 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 12 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -18560,15 +18873,18 @@ l'association.
 	  - Code de l'environnement - art. R421-41 (V)
 	  - Code rural - art. R221-39 (Ab)
 
+	**Anciens textes**:
 
-###### Article L421-10
+	  - Code rural - art. L221-4 (Ab)
 
-Le préfet contrôle l'exécution des missions de service public auxquelles participent les fédérations départementales des
-chasseurs. Le budget de la fédération est, avant d'être exécuté, soumis à son approbation. Il a notamment le droit d'y
-inscrire les dépenses obligatoires, notamment celles liées à la mise en oeuvre du schéma départemental de gestion cynégétique
-et à l'indemnisation des dégâts de gibier.
 
-En cas de défaillance d'une fédération, la gestion d'office de son budget ou son administration peut être confiée au préfet.
+###### Article L421-9-1
+
+Chaque fédération départementale des chasseurs désigne, dans les conditions prévues par l'article L. 612-4 du code de
+commerce, un commissaire aux comptes, qui exerce ses fonctions selon les modalités prévues par cet article.
+
+Le rapport spécial mentionné au dernier alinéa de l'article L. 612-4 du code de commerce est transmis par le commissaire aux
+comptes au préfet.
 
 **Liens relatifs à cet article**
 
@@ -18576,6 +18892,41 @@ En cas de défaillance d'une fédération, la gestion d'office de son budget ou 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 13 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L612-4 (M)
+
+
+###### Article L421-10
+
+Le préfet contrôle l'exécution des missions de service public auxquelles participe la fédération départementale des
+chasseurs.
+
+Il est destinataire des délibérations de l'assemblée générale, du rapport annuel du commissaire aux comptes et des comptes
+annuels.
+
+Le budget de la fédération est exécutoire de plein droit dès qu'il a été transmis au préfet.
+
+Si le préfet constate, après avoir recueilli les remarques du président de la fédération, que le budget approuvé ne permet
+pas à celle-ci d'assurer ses missions d'indemnisation des dégâts de grand gibier et d'organisation de la formation
+préparatoire à l'examen du permis de chasser, il procède à l'inscription d'office à ce budget des recettes et des dépenses
+nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 14 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -18590,15 +18941,11 @@ En cas de défaillance d'une fédération, la gestion d'office de son budget ou 
 	**Anciens textes**:
 
 	  - Code rural - art. L221-6 (Ab)
-	  - Code rural L221-6
 
 
 ###### Article L421-11
 
-Les fédérations départementales des chasseurs sont soumises au contrôle visé aux articles L. 111-7 et L. 211-6 du code des
-juridictions financières.
-
-Les fédérations départementales des chasseurs sont en outre soumises au contrôle économique et financier de l'Etat.
+Les fédérations départementales ont la libre utilisation de leurs réserves conformément à leur objet social.
 
 **Liens relatifs à cet article**
 
@@ -18607,10 +18954,9 @@ Les fédérations départementales des chasseurs sont en outre soumises au contr
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des juridictions financières - art. L111-7 (M)
-	  - Code des juridictions financières - art. L211-6 (M)
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 15 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -18619,7 +18965,31 @@ Les fédérations départementales des chasseurs sont en outre soumises au contr
 	**Anciens textes**:
 
 	  - Code rural - art. L221-7 (Ab)
-	  - Code rural L221-7
+
+
+###### Article L421-11-1
+
+En cas de mise en oeuvre des dispositions du dernier alinéa de l'article L. 612-4 du code de commerce, ou de manquement grave
+et persistant d'une fédération départementale à ses missions d'indemnisation des dégâts de grand gibier et d'organisation de
+la formation préparatoire à l'examen du permis de chasser constaté à l'issue d'une procédure contradictoire, le préfet
+transmet à la chambre régionale des comptes ses observations. Si la chambre régionale des comptes constate que la fédération
+départementale n'a pas pris de mesures suffisantes pour rétablir des conditions normales de fonctionnement, elle demande au
+préfet d'assurer son administration ou la gestion d'office de son budget jusqu'à son exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 16 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L612-4 (M)
 
 
 ##### Section 5 : Fédérations interdépartementales des chasseurs
@@ -18630,7 +19000,14 @@ Il est créé deux fédérations interdépartementales des chasseurs pour les d�
 Yvelines, d'une part, et pour les départements de Paris, des Hauts-de-Seine, de Seine-Saint-Denis et du Val-de-Marne, d'autre
 part.
 
-Les modalités de fonctionnement de ces deux fédérations sont fixées par un décret en Conseil d'Etat.
+Les dispositions applicables aux fédérations départementales des chasseurs s'appliquent aux fédérations mentionnées au
+premier alinéa, sous réserve des adaptations exigées par leur caractère interdépartemental.
+
+Les règles de désignation du conseil d'administration de la fédération interdépartementale de Paris, des Hauts-de-Seine, de
+Seine-Saint-Denis et du Val-de-Marne prévoient que ses membres sont désignés, pour une moitié d'entre eux, par le ministre
+chargé de la chasse parmi des personnalités qualifiées dans le domaine cynégétique proposées par la Fédération nationale des
+chasseurs et sont élus, pour l'autre moitié, par les adhérents de la fédération. Le président est désigné par le ministre
+chargé de la chasse, sur proposition du conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -18638,6 +19015,10 @@ Les modalités de fonctionnement de ces deux fédérations sont fixées par un d
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 17 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -18649,23 +19030,25 @@ Les modalités de fonctionnement de ces deux fédérations sont fixées par un d
 	**Anciens textes**:
 
 	  - Code rural - art. L221-10 (Ab)
-	  - Code rural L221-10
 
 
 ##### Section 6 : Fédérations régionales des chasseurs
 
 ###### Article L421-13
 
-Les associations dénommées fédérations régionales des chasseurs regroupent l'ensemble des fédérations départementales d'une
-même région administrative du territoire métropolitain dont l'adhésion est constatée par le paiement d'une cotisation
-obligatoire. Elles assurent la représentation des fédérations départementales des chasseurs au niveau régional.
+Les associations dénommées fédérations régionales des chasseurs regroupent l'ensemble des fédérations départementales et
+interdépartementales d'une même région administrative du territoire métropolitain dont l'adhésion est constatée par le
+paiement d'une cotisation obligatoire. Elles assurent la représentation des fédérations départementales et
+interdépartementales des chasseurs au niveau régional.
 
-Elles sont consultées par le préfet de région pour l'élaboration des orientations régionales de gestion de la faune sauvage
-et d'amélioration de la qualité des habitats visées à l'article L. 421-7.
+Elles sont consultées par le préfet de région ou, le cas échéant, par le président du conseil régional pour l'élaboration des
+orientations régionales de gestion de la faune sauvage et d'amélioration de la qualité des habitats visées à l'article L.
+421-7.
 
-Les associations spécialisées de chasse sont associées aux travaux de la fédération régionale.
+Les associations de chasse spécialisée sont associées aux travaux de la fédération régionale.
 
-Les fédérations régionales des chasseurs sont soumises aux dispositions des articles L. 421-9, L. 421-10 et L. 421-11.
+Les dispositions du premier alinéa de l'article L. 421-9, de l'article L. 421-10 et de l'article L. 421-11 sont applicables
+aux fédérations régionales des chasseurs.
 
 **Liens relatifs à cet article**
 
@@ -18673,6 +19056,11 @@ Les fédérations régionales des chasseurs sont soumises aux dispositions des a
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 2003-07-30 art. 10 2°, art. 18 JORF 31 juillet 2003
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 18 () JORF 31 juillet 2003
 
 	**Cite**:
 
@@ -18688,52 +19076,40 @@ Les fédérations régionales des chasseurs sont soumises aux dispositions des a
 	**Anciens textes**:
 
 	  - Code rural - art. L221-8 (Ab)
-	  - Code rural L221-8
 
 
 ##### Section 7 : Fédération nationale des chasseurs
 
 ###### Article L421-14
 
-L'association dénommée Fédération nationale des chasseurs regroupe l'ensemble des fédérations départementales des chasseurs
-dont l'adhésion est constatée par le paiement d'une cotisation obligatoire. Elle assure la représentation des fédérations
-départementales des chasseurs à l'échelon national.
+L'association dénommée Fédération nationale des chasseurs regroupe l'ensemble des fédérations départementales,
+interdépartementales et régionales des chasseurs dont l'adhésion est constatée par le paiement d'une cotisation obligatoire.
+Elle assure la représentation des fédérations départementales, interdépartementales et régionales des chasseurs à l'échelon
+national.
 
 Elle est chargée d'assurer la promotion et la défense de la chasse, ainsi que la représentation des intérêts cynégétiques.
-Elle coordonne l'action des fédérations départementales des chasseurs.
+Elle coordonne l'action des fédérations départementales, interdépartementales et régionales des chasseurs.
 
-Les associations de chasse spécialisées sont associées aux travaux de la fédération nationale dans des conditions fixées par
-le statut de celle-ci.
+Les associations de chasse spécialisée sont associées aux travaux de la fédération nationale.
 
-La Fédération nationale des chasseurs détermine chaque année en assemblée générale le montant national minimum de la
-cotisation due à la fédération départementale des chasseurs par tout chasseur et par tout territoire adhérent, ainsi que son
-montant national maximum, inférieur à un plafond fixé par décret en Conseil d'Etat.
+La Fédération nationale des chasseurs détermine chaque année en assemblée générale les montants nationaux minimaux des
+cotisations dues à la fédération départementale ou interdépartementale des chasseurs par tout adhérent.
 
-Elle gère, dans des conditions fixées par décret en Conseil d'Etat, un fonds assurant, d'une part, une péréquation entre les
-fédérations départementales des chasseurs en fonction de leurs ressources et de leurs charges et, d'autre part, la prévention
-et l'indemnisation des dégâts de grand gibier par les fédérations départementales des chasseurs. Ce fonds est alimenté par
-des contributions obligatoires acquittées par les fédérations départementales des chasseurs ainsi que par le produit d'une
-cotisation nationale versé à la Fédération nationale des chasseurs par chaque chasseur de grand gibier ayant validé un permis
-de chasser national.
+Elle gère, dans les conditions fixées par décret en Conseil d'Etat, un fonds dénommé Fonds cynégétique national assurant,
+d'une part, une péréquation entre les fédérations départementales des chasseurs en fonction de leurs ressources et de leurs
+charges et, d'autre part, la prévention et l'indemnisation des dégâts de grand gibier par les fédérations départementales des
+chasseurs. Ce fonds est alimenté par des contributions obligatoires acquittées par les fédérations départementales des
+chasseurs ainsi que par le produit d'une cotisation nationale versé à la Fédération nationale des chasseurs par chaque
+chasseur de grand gibier ayant validé un permis de chasser national.
 
 La Fédération nationale des chasseurs élabore une charte de la chasse en France. Celle-ci expose les principes d'un
 développement durable de la chasse et sa contribution à la conservation de la biodiversité. Ce document établit un code de
 comportement du chasseur et des bonnes pratiques cynégétiques mis en oeuvre par chaque fédération départementale des
 chasseurs et ses adhérents.
 
-Les statuts de la Fédération nationale des chasseurs doivent être conformes à un modèle adopté par le ministre chargé de la
-chasse. Le président de la fédération nationale est élu par l'ensemble des présidents des fédérations départementales des
-chasseurs.
-
-Le ministre chargé de la chasse contrôle l'exécution des missions de service public auxquelles est associée la Fédération
-nationale des chasseurs.
-
-La Fédération nationale des chasseurs est soumise au contrôle visé aux articles L. 111-7 et L. 211-6 du code des juridictions
-financières. Son budget est, avant d'être exécuté, soumis à l'approbation du ministre chargé de la chasse. Il a notamment le
-droit d'y inscrire les dépenses obligatoires liées au fonctionnement du fond de péréquation. En cas de défaillance de la
-fédération nationale, il peut décider d'assurer la gestion de ce fonds.
-
-La Fédération nationale des chasseurs est soumise au contrôle économique et financier de l'Etat.
+Les fédérations départementales et interdépartementales des chasseurs communiquent chaque année à la fédération nationale le
+nombre de leurs adhérents dans les différentes catégories pour l'exercice en cours. Une copie du fichier visé à l'article L.
+423-4 est adressée annuellement à la Fédération nationale des chasseurs.
 
 **Liens relatifs à cet article**
 
@@ -18770,15 +19146,134 @@ La Fédération nationale des chasseurs est soumise au contrôle économique et 
 	  - Code rural - art. R221-50 (Ab)
 	  - Code rural - art. R226-2 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 19 () JORF 31 juillet 2003
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 20 () JORF 31 juillet 2003
+
 	**Cite**:
 
-	  - Code des juridictions financières - art. L111-7 (M)
-	  - Code des juridictions financières - art. L211-6 (M)
+	  - Code de l'environnement - art. L423-4 (M)
 
 	**Anciens textes**:
 
 	  - Code rural - art. L221-9 (Ab)
-	  - Code rural L221-9
+
+
+###### Article L421-15
+
+Les statuts de la Fédération nationale des chasseurs doivent être conformes à un modèle adopté par le ministre chargé de la
+chasse et le ministre de l'agriculture.
+
+La Fédération nationale des chasseurs désigne, dans les conditions prévues par l'article L. 612-4 du code de commerce, un
+commissaire aux comptes, qui exerce ses fonctions selon les modalités prévues par cet article.
+
+Le rapport spécial mentionné au dernier alinéa de l'article L. 612-4 du code de commerce est transmis par le commissaire aux
+comptes au ministre chargé de la chasse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 21 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L612-4 (M)
+
+
+###### Article L421-16
+
+Le ministre chargé de la chasse contrôle l'exécution des missions de service public auxquelles est associée la Fédération
+nationale des chasseurs. Il est destinataire des délibérations de l'assemblée générale, du rapport annuel du commissaire aux
+comptes et des comptes annuels.
+
+Le budget de la fédération est exécutoire de plein droit dès qu'il a été transmis au ministre chargé de la chasse. Si celui-
+ci constate, après avoir recueilli les observations du président de la fédération nationale, que le budget approuvé ne permet
+pas d'assurer le fonctionnement du fonds de péréquation, il procède à l'inscription d'office à ce budget des recettes et des
+dépenses nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 21 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Arrêté du 4 décembre 2003 - art. Annexe (V)
+	  - Code de l'environnement - art. R*221-50 (Ab)
+	  - Code de l'environnement - art. R421-50 (V)
+
+
+###### Article L421-17
+
+En cas de mise en oeuvre des dispositions du dernier alinéa de l'article L. 612-4 du code de commerce, ou de manquement grave
+et persistant de la fédération nationale à sa mission de gestion du fonds mentionné à l'article L. 421-14 du présent code
+constaté à l'issue d'une procédure contradictoire, le ministre chargé de la chasse transmet à la Cour des comptes ses
+observations. Si la Cour des comptes constate que la fédération nationale n'a pas pris de mesures suffisantes pour rétablir
+des conditions normales de fonctionnement, elle demande au ministre d'assurer son administration ou la gestion d'office de
+son budget jusqu'à son exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 21 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L612-4 (M)
+	  - Code de l'environnement - art. L421-14 (M)
+
+
+###### Article L421-18
+
+La Fédération nationale des chasseurs a la libre utilisation de ses réserves conformément à son objet social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 22 () JORF 31 juillet 2003
+
+
+##### Section 8 : Dispositions diverses
+
+###### Article L421-19
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 23 () JORF 31 juillet 2003
 
 
 #### Chapitre II : Territoire de chasse
@@ -19533,16 +20028,15 @@ effectue auprès de lui les démarches nécessaires.
 IV. - Le propriétaire ou le détenteur de droits de chasse ayant exercé un droit à opposition ne peut prétendre à la qualité
 de membre de l'association, sauf décision souveraine de l'association communale de chasse agréée.
 
+V. - Outre les dispositions énumérées ci-dessus, les statuts de chaque association doivent comporter des clauses obligatoires
+déterminées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2001-602 du 9 juillet 2001 - art. 64 () JORF 11 juillet 2001
 
 	**Cité par**:
 
@@ -19557,6 +20051,10 @@ de membre de l'association, sauf décision souveraine de l'association communale
 	  - Code rural - art. R*222-33 (Ab)
 	  - Code rural - art. R*222-34 (Ab)
 	  - Code rural - art. R*222-63 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 24 () JORF 31 juillet 2003
 
 	**Cite**:
 
@@ -19916,8 +20414,11 @@ dans les conditions fixées par le présent chapitre.
 
 ###### Article L423-4
 
-Il est constitué un fichier national des permis et des autorisations de chasser. L'autorité judiciaire informe l'Office
-national de la chasse et de la faune sauvage qui assure la gestion de ce fichier des peines prononcées en application des
+Il est constitué un ficher national des permis délivrés, des validations, des licences de chasse et des autorisations de
+chasser géré par l'Office national de la chasse et de la faune sauvage. Les fédérations départementales et
+interdépartementales des chasseurs transmettent chaque année au gestionnaire du fichier la liste de leurs adhérents
+titulaires du permis de chasser. L'autorité judiciaire informe l'Office national de la chasse et de la faune sauvage ainsi
+que la fédération départementale des chasseurs dont le chasseur est adhérent des peines prononcées en application des
 articles L. 428-14 et L. 428-15, ainsi que des retraits du permis de chasser prononcés en application des articles 131-14 et
 131-16 du code pénal.
 
@@ -19934,6 +20435,10 @@ modalités d'application du présent article.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 25 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -20827,12 +21332,6 @@ conformément aux dispositions de l'article L. 425-5, des dérogations peuvent �
 
 Un décret en Conseil d'Etat fixe les modalités d'application de cette disposition.
 
-La pratique de la chasse à tir est interdite du mercredi 6 heures au jeudi 6 heures. Cette interdiction ne s'applique pas aux
-postes fixes pour la chasse aux colombidés du 1er octobre au 15 novembre ainsi qu'à la chasse au gibier d'eau dans les
-conditions fixées à l'article L. 424-5.
-
-Elle s'applique aux espaces clos sans toutefois faire obstacle à l'application des dispositions de l'article L. 424-3.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -20842,7 +21341,7 @@ Elle s'applique aux espaces clos sans toutefois faire obstacle à l'application 
 
 	**Modifié par**:
 
-	  - Loi n°2001-602 du 9 juillet 2001 - art. 5 () JORF 11 juillet 2001
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 27 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -20851,8 +21350,6 @@ Elle s'applique aux espaces clos sans toutefois faire obstacle à l'application 
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L424-3 (M)
-	  - Code de l'environnement - art. L424-5 (M)
 	  - Code de l'environnement - art. L425-5 (M)
 
 	**Anciens textes**:
@@ -20973,15 +21470,15 @@ démontée, ou déchargée et placée sous étui.
 Dans le temps où la chasse est ouverte, le permis de chasser donne en outre à celui qui l'a obtenu le droit de chasser le
 gibier d'eau la nuit à partir de postes fixes tels que hutteaux, huttes, tonnes et gabions existants au 1er janvier 2000 dans
 les départements où cette pratique est traditionnelle. Ces départements sont : l'Aisne, les Ardennes, l'Aube, l'Aude, les
-Bouches-du-Rhône, le Calvados, la Charente-Maritime, l'Eure, la Gironde, l'Hérault, les Landes, la Manche, la Marne, le Nord,
-l'Orne, le Pas-de-Calais, les Pyrénées-Atlantiques, la Seine-Maritime, la Seine-et-Marne, la Somme et l'Oise. La chasse de
-nuit du gibier d'eau est également autorisée, dans les mêmes conditions, dans des cantons des départements où elle est
-traditionnelle. Un décret en Conseil d'Etat fixe la liste des cantons concernés.
+Bouches-du-Rhône, le Calvados, la Charente-Maritime, les Côtes-d'Armor, l'Eure, le Finistère, la Haute-Garonne, la Gironde,
+l'Hérault, l'Ille-et-Vilaine, les Landes, la Manche, la Marne, la Meuse, le Nord, l'Oise, l'Orne, le Pas-de-Calais, les
+Pyrénées-Atlantiques, les Hautes-Pyrénées, la Seine-Maritime, la Seine-et-Marne et la Somme.
 
-Le déplacement d'un poste fixe est soumis à l'autorisation du préfet.
+Le déplacement d'un poste fixe est soumis à l'autorisation du préfet. Toutefois, pour les hutteaux, seul le changement de
+parcelle ou de lot de chasse est soumis à autorisation.
 
-Tout propriétaire d'un poste fixe visé à l'alinéa précédent doit déclarer celui-ci à l'autorité administrative contre
-délivrance d'un récépissé dont devront être porteurs les chasseurs pratiquant la chasse de nuit à partir de ce poste fixe.
+Tout propriétaire d'un poste fixe visé au premier alinéa doit déclarer celui-ci à l'autorité administrative contre délivrance
+d'un récépissé dont devront être porteurs les chasseurs pratiquant la chasse de nuit à partir de ce poste fixe.
 
 La déclaration d'un poste fixe engage son propriétaire à participer, selon des modalités prévues par le schéma départemental
 de mise en valeur cynégétique, à l'entretien des plans d'eau et des parcelles attenantes de marais et de prairies humides sur
@@ -20998,6 +21495,12 @@ Un carnet de prélèvements doit être tenu pour chaque poste fixe visé au prem
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 28 () JORF 31 juillet 2003
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 29 () JORF 31 juillet 2003
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 31 () JORF 31 juillet 2003
+
 	**Cité par**:
 
 	  - Arrêté du 8 avril 2005 - art. Annexe (V)
@@ -21013,14 +21516,9 @@ Un carnet de prélèvements doit être tenu pour chaque poste fixe visé au prem
 	  - Code de l'environnement - art. R428-8 (V)
 	  - Code de l'environnement - art. R428-9 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L423-2 (M)
-
 	**Anciens textes**:
 
 	  - Code rural - art. L224-4-1 (Ab)
-	  - Code rural L224-4-1
 
 
 ###### Article L424-6
@@ -21557,23 +22055,30 @@ l'indemnisation des dégâts causés aux récoltes par certaines espèces de gib
 
 ###### Article L425-5
 
-Dans des conditions déterminées par décret en Conseil d'Etat, l'autorité administrative peut, après avis de la fédération
-nationale ou départementale des chasseurs et de l'Office national de la chasse et de la faune sauvage, fixer le nombre
-maximal d'animaux qu'un chasseur est autorisé à capturer dans une période déterminée sur un territoire donné.
+Dans des conditions déterminées par décret en Conseil d'Etat, le ministre peut, après avis de la Fédération nationale des
+chasseurs et de l'Office national de la chasse et de la faune sauvage, fixer le nombre maximal d'animaux qu'un chasseur est
+autorisé à prélever dans une période déterminée sur un territoire donné.
+
+Dans les mêmes conditions, le préfet peut, sur proposition de la fédération départementale ou interdépartementale des
+chasseurs, fixer le nombre maximal d'animaux qu'un chasseur ou un groupe de chasseurs est autorisé à prélever dans une
+période déterminée sur un territoire donné.
 
 Ces dispositions prennent en compte les orientations du schéma départemental de gestion cynégétique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code rural L225-5
-	  - Code rural - art. L225-5 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 32 () JORF 31 juillet 2003
+
+	**Transféré par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -21584,6 +22089,10 @@ Ces dispositions prennent en compte les orientations du schéma départemental d
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L425-14 (V)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L225-5 (Ab)
 
 
 #### Chapitre VI : Indemnisation des dégâts de gibiers
@@ -22032,7 +22541,8 @@ les terrains visés au 5° de l'article L. 422-10.
 ###### Article L427-7
 
 Dans les communes situées à proximité des massifs forestiers où les cultures sont menacées périodiquement de destruction par
-les sangliers, et dont la liste est établie par arrêté du préfet, celui-ci peut déléguer ses pouvoirs aux maires des communes
+les sangliers ou dans celles où existent des formes d'élevage professionnel menacées périodiquement de destruction par les
+renards, et dont la liste est établie par arrêté du préfet, celui-ci peut déléguer ses pouvoirs aux maires des communes
 intéressées. Les battues sont organisées sous le contrôle et la responsabilité technique des lieutenants de louveterie.
 
 **Liens relatifs à cet article**
@@ -22041,6 +22551,10 @@ intéressées. Les battues sont organisées sous le contrôle et la responsabili
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 7 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -22053,7 +22567,6 @@ intéressées. Les battues sont organisées sous le contrôle et la responsabili
 	**Anciens textes**:
 
 	  - Code rural - art. L227-7 (Ab)
-	  - Code rural L227-7
 
 
 ##### Section 2 : Droits des particuliers
@@ -22640,8 +23153,9 @@ du tribunal compétent. La confiscation et, s'il y a lieu, la destruction en son
 
 ###### Article L428-12
 
-Ceux qui ont chassé sans être titulaires d'un permis dûment validé sont condamnés au paiement des redevances cynégétiques
-exigibles prévues aux articles L. 423-14 et L. 423-19.
+Ceux qui ont chassé sans être titulaires d'un permis de chasser valable et dûment validé sont condamnés au paiement des
+cotisations statutaires à la fédération départementale des chasseurs et à la Fédération nationale des chasseurs ainsi qu'au
+paiement des redevances cynégétiques exigibles prévues aux articles L. 423-14 et L. 423-19.
 
 Le recouvrement du montant de cette condamnation est poursuivi même si la peine principale est assortie du sursis prévu par
 l'article 734 du code de procédure pénale.
@@ -22656,15 +23170,15 @@ La portion des frais que la loi attribue aux communes est versée à la commune 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 26 () JORF 31 juillet 2003
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 734 (M)
 	  - Code de l'environnement - art. L423-14 (M)
 	  - Code de l'environnement - art. L423-19 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L428-13 (V)
 
 	**Cité par**:
 
@@ -22673,7 +23187,6 @@ La portion des frais que la loi attribue aux communes est versée à la commune 
 	**Anciens textes**:
 
 	  - Code rural - art. L228-19 (Ab)
-	  - Code rural L228-19
 
 
 ###### Article L428-13
@@ -23887,7 +24400,11 @@ Le ministre chargé de la chasse fixe par arrêté les dispositions d'applicatio
 
 ###### Article L429-19
 
-La nuit s'entend du temps qui commence une heure après le coucher du soleil et finit une heure avant son lever.
+La nuit s'entend du temps qui commence une heure après le coucher du soleil et finit une heure avant son lever. 
+
+Par dérogation à l'article L. 424-4 et dans le temps où la chasse est ouverte pour cette espèce, l'autorité administrative
+peut autoriser, dans les conditions qu'elle détermine, le tir de nuit du sanglier, à l'affût ou à l'approche, sans l'aide de
+sources lumineuses.
 
 **Liens relatifs à cet article**
 
@@ -23895,6 +24412,14 @@ La nuit s'entend du temps qui commence une heure après le coucher du soleil et 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-698 du 30 juillet 2003 - art. 33 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L429-4 (V)
 
 	**Cité par**:
 
@@ -23904,7 +24429,6 @@ La nuit s'entend du temps qui commence une heure après le coucher du soleil et 
 	**Anciens textes**:
 
 	  - Code rural - art. L229-16 (Ab)
-	  - Code rural L229-16
 
 
 ##### Sous-section 3 : Modes et moyens de chasse
@@ -26354,6 +26878,15 @@ des parcours déterminés.
 
 II. - Le droit de pêche défini par le présent article ne peut s'exercer qu'à l'aide d'une seule ligne.
 
+III. - Les dispositions du I et du II sont également applicables dans les eaux qui faisaient partie du domaine public fluvial
+de l'Etat à la date de promulgation de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques
+technologiques et naturels et à la réparation des dommages et qui ont fait l'objet d'un transfert à une collectivité
+territoriale en application de ladite loi.
+
+**Nota:**
+
+NOTA : La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal officiel du 31 juillet 2003.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -26361,13 +26894,14 @@ II. - Le droit de pêche défini par le présent article ne peut s'exercer qu'à
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
 	**Cite**:
 
+	  - Loi n°2003-699 2003-07-30
 	  - Code de l'environnement - art. L436-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 57 () JORF 31 juillet 2003
 
 	**Cité par**:
 
@@ -26378,7 +26912,6 @@ II. - Le droit de pêche défini par le présent article ne peut s'exercer qu'à
 	**Anciens textes**:
 
 	  - Code rural - art. L236-4 (Ab)
-	  - Code rural L236-4
 
 
 ###### Article L436-5
@@ -28145,11 +28678,21 @@ intérêts visés à l'article L. 511-1.
 L'autorisation ne peut être accordée que si ces dangers ou inconvénients peuvent être prévenus par des mesures que spécifie
 l'arrêté préfectoral.
 
+Le demandeur fournit une étude de dangers qui précise les risques auxquels l'installation peut exposer, directement ou
+indirectement, les intérêts visés à l'article L. 511-1 en cas d'accident, que la cause soit interne ou externe à
+l'installation.
+
+Cette étude donne lieu à une analyse de risques qui prend en compte la probabilité d'occurrence, la cinétique et la gravité
+des accidents potentiels selon une méthodologie qu'elle explicite.
+
+Elle définit et justifie les mesures propres à réduire la probabilité et les effets de ces accidents.
+
 La délivrance de l'autorisation, pour ces installations, peut être subordonnée notamment à leur éloignement des habitations,
 immeubles habituellement occupés par des tiers, établissements recevant du public, cours d'eau, voies de communication,
 captages d'eau, ou des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers. Elle prend en
 compte les capacités techniques et financières dont dispose le demandeur, à même de lui permettre de conduire son projet dans
-le respect des intérêts visés à l'article L. 511-1.
+le respect des intérêts visés à l'article L. 511-1 et d'être en mesure de satisfaire aux obligations de l'article L. 512-17
+lors de la cessation d'activité.
 
 **Liens relatifs à cet article**
 
@@ -28278,13 +28821,15 @@ le respect des intérêts visés à l'article L. 511-1.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 25 () JORF 31 juillet 2003
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 4 () JORF 31 juillet 2003
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L511-1 (M)
+	  - Code de l'environnement - art. L512-17 (V)
 
 
 ###### Article L512-2
@@ -28569,9 +29114,9 @@ de la date à laquelle il a été saisi par l'autorité compétente. Cet avis es
 
 En vue de protéger les intérêts visés à l'article L. 511-1, le préfet peut prescrire la réalisation des évaluations et la
 mise en oeuvre des remèdes que rendent nécessaires soit les conséquences d'un accident ou incident survenu dans
-l'installation, soit les conséquences entraînées par l'inobservation des conditions imposées en application du présent titre.
-Ces mesures sont prescrites par des arrêtés pris, sauf cas d'urgence, après avis de la commission départementale consultative
-compétente.
+l'installation, soit les conséquences entraînées par l'inobservation des conditions imposées en application du présent titre,
+soit tout autre danger ou inconvénient portant ou menaçant de porter atteinte aux intérêts précités. Ces mesures sont
+prescrites par des arrêtés pris, sauf cas d'urgence, après avis de la commission départementale consultative compétente.
 
 **Liens relatifs à cet article**
 
@@ -28584,6 +29129,14 @@ compétente.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 26 () JORF 31 juillet 2003
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-663 du 11 juin 2009 - art. 4
 
 	**Cité par**:
 
@@ -28624,13 +29177,13 @@ compétente.
 	  - Code minier (nouveau) - art. L341-1 (VT)
 	  - Code rural et de la pêche maritime - art. R214-28 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
-
 	**Cite**:
 
 	  - Code de l'environnement - art. L511-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L512-20 (V)
 
 
 ##### Section 2 : Installations soumises à déclaration.
@@ -29104,6 +29657,124 @@ l'activité ou remettre en état le site dans le respect de la protection des in
 	**Cite**:
 
 	  - Code de l'environnement - art. L511-1 (V)
+
+
+###### Article L512-17
+
+Lorsque l'installation est mise à l'arrêt définitif, son exploitant place son site dans un état tel qu'il ne puisse porter
+atteinte aux intérêts mentionnés à l'article L. 511-1 et qu'il permette un usage futur du site déterminé conjointement avec
+le maire ou le président de l'établissement public de coopération intercommunale compétent en matière d'urbanisme et, s'il ne
+s'agit pas de l'exploitant, le propriétaire du terrain sur lequel est sise l'installation.
+
+A défaut d'accord entre les personnes mentionnées au premier alinéa, lorsque l'installation est mise à l'arrêt définitif, son
+exploitant place son site dans un état tel qu'il ne puisse porter atteinte aux intérêts mentionnés à l'article L. 511-1 et
+qu'il permette un usage futur du site comparable à celui de la dernière période d'exploitation de l'installation mise à
+l'arrêt.
+
+Toutefois, dans le cas où la réhabilitation prévue en application de l'alinéa précédent est manifestement incompatible avec
+l'usage futur de la zone, apprécié notamment en fonction des documents d'urbanisme en vigueur à la date à laquelle
+l'exploitant fait connaître à l'administration sa décision de mettre l'installation à l'arrêt définitif et de l'utilisation
+des terrains situés au voisinage du site, le préfet peut fixer, après avis des personnes mentionnées au premier alinéa, des
+prescriptions de réhabilitation plus contraignantes permettant un usage du site cohérent avec ces documents d'urbanisme.
+
+Pour un nouveau site sur lequel les installations ont été autorisées à une date postérieure de plus de six mois à la
+publication de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la
+réparation des dommages, l'arrêté d'autorisation détermine, après avis des personnes mentionnées au premier alinéa, l'état
+dans lequel devra être remis le site à son arrêt définitif.
+
+Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+**Nota:**
+
+La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal officiel du 31 juillet 2003.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-1133 du 21 septembre 1977 - art. 34-2 (Ab)
+	  - Code de l'environnement - art. L512-1 (V)
+	  - Code de l'environnement - art. R512-75 (Ab)
+	  - Code de l'environnement - art. R515-101 (VD)
+	  - Code de l'environnement - art. R553-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2003-699 du 30 juillet 2003
+	  - Code de l'environnement - art. L511-1
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 27 () JORF 31 juillet 2003
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-526 du 12 mai 2009 - art. 114
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L512-7-1 (V)
+
+
+###### Article L512-18
+
+L'exploitant d'une installation classée relevant des catégories visées à l'article L. 516-1 est tenu de mettre à jour à
+chaque changement notable des conditions d'exploitation un état de la pollution des sols sur lesquels est sise
+l'installation. Cet état est transmis par l'exploitant au préfet, au maire de la commune concernée et, le cas échéant, au
+président de l'établissement public de coopération intercommunale compétent en matière d'urbanisme concerné ainsi qu'au
+propriétaire du terrain sur lequel est sise l'installation. Le dernier état réalisé est joint à toute promesse unilatérale de
+vente ou d'achat et à tout contrat réalisant ou constatant la vente des terrains sur lesquels est sise l'installation
+classée. 
+
+Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 28 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. D181-15-2 (V)
+	  - Code de l'environnement - art. R512-4 (VT)
+	  - Code de l'environnement - art. R516-1 (VD)
+	  - Code de l'urbanisme - art. R213-7 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L516-1 (V)
+
+
+###### Article L512-19
+
+Lorsqu'une installation n'a pas été exploitée durant trois années consécutives, le préfet peut mettre en demeure l'exploitant
+de procéder à la mise à l'arrêt définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 2003-07-30 art. 29 1° JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L514-11 (VD)
 
 
 #### Chapitre III : Installations fonctionnant au bénéfice des droits acquis
@@ -29660,7 +30331,8 @@ L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale 
 
 I. - Le fait d'exploiter une installation en infraction à une mesure de fermeture, de suppression ou de suspension prise en
 application des articles L. 514-1, L. 514-2 ou L. 514-7 ou à une mesure d'interdiction prononcée en vertu des articles L.
-514-9 ou L. 514-10 est puni de deux ans d'emprisonnement et de 150 000 euros d'amende.
+514-9 ou L. 514-10 ou de ne pas se conformer à l'arrêté de mise en demeure pris en application de l'article L. 512-19 est
+puni de deux ans d'emprisonnement et de 150 000 euros d'amende.
 
 II. - Le fait de poursuivre l'exploitation d'une installation classée sans se conformer à l'arrêté de mise en demeure d'avoir
 à respecter, au terme d'un délai fixé, les prescriptions techniques déterminées en application des articles L. 512-1, L.
@@ -29673,6 +30345,9 @@ consultative compétente.
 III. - Le fait de ne pas se conformer à l'arrêté de mise en demeure de prendre, dans un délai déterminé, les mesures de
 surveillance ou de remise en état d'une installation ou de son site prescrites en application des articles L. 512-3, L.
 512-5, L. 512-7, L. 512-9, L. 512-12, L. 514-2, L. 514-4 ou L. 514-7 lorsque l'activité a cessé est puni de six mois
+d'emprisonnement et de 75 000 euros d'amende.
+
+IV. - Le fait de ne pas se conformer aux dispositions du premier alinéa de l'article L. 516-2 est puni de six mois
 d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
@@ -29689,13 +30364,8 @@ d'emprisonnement et de 75 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Loi n°2003-699 2003-07-30 art. 29 2°, art. 30 JORF 31 juillet 2003
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 30 () JORF 31 juillet 2003
 
 	**Cite**:
 
@@ -29712,11 +30382,17 @@ d'emprisonnement et de 75 000 euros d'amende.
 	  - Code de l'environnement - art. L514-4 (V)
 	  - Code de l'environnement - art. L514-7 (V)
 	  - Code de l'environnement - art. L514-9 (M)
+	  - Code de l'environnement L514-1, L514-2, L514-7, L514-9, L514-10, L512-1, L512-3, L512-5, L512-7, L512-8, L512-9, L512-12, L514-4, L516-12
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L514-18 (VT)
 	  - Code de l'environnement - art. L655-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L514-12
@@ -29970,6 +30646,10 @@ Lorsqu'une installation soumise à autorisation a été exploitée sur un terrai
 informer par écrit l'acheteur ; il l'informe également, pour autant qu'il les connaisse, des dangers ou inconvénients
 importants qui résultent de l'exploitation.
 
+Si le vendeur est l'exploitant de l'installation, il indique également par écrit à l'acheteur si son activité a entraîné la
+manipulation ou le stockage de substances chimiques ou radioactives. L'acte de vente atteste de l'accomplissement de cette
+formalité.
+
 A défaut, l'acheteur a le choix de poursuivre la résolution de la vente ou de se faire restituer une partie du prix ; il peut
 aussi demander la remise en état du site aux frais du vendeur, lorsque le coût de cette remise en état ne paraît pas
 disproportionné par rapport au prix de vente.
@@ -29985,15 +30665,15 @@ disproportionné par rapport au prix de vente.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 35 () JORF 31 juillet 2003
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L125-7 (V)
 	  - Code de l'environnement - art. L593-40 (V)
 	  - Code de l'urbanisme - art. L213-2 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 
 #### Chapitre V : Dispositions particulières à certaines installations
@@ -30331,6 +31011,10 @@ créer, par danger d'explosion ou d'émanation de produits nocifs, des risques t
 populations voisines et pour l'environnement, des servitudes d'utilité publique peuvent être instituées concernant
 l'utilisation du sol ainsi que l'exécution de travaux soumis au permis de construire.
 
+Les dispositions ci-dessus sont également applicables à raison des risques supplémentaires créés par une installation
+nouvelle sur un site existant ou par la modification d'une installation existante, nécessitant la délivrance d'une nouvelle
+autorisation.
+
 II. - Ces servitudes comportent, en tant que de besoin :
 
 1° La limitation ou l'interdiction du droit d'implanter des constructions ou des ouvrages et d'aménager des terrains de
@@ -30462,10 +31146,9 @@ catégories, et éventuellement les seuils de capacité, des installations dans 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
-	  - SPEC_APPLI: Code de l'environnement - art. L517-1 (V)
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 3 () JORF 31 juillet 2003
 
 
 ###### Article L515-9
@@ -30747,6 +31430,486 @@ les mesures prévues aux articles L. 541-25 et L. 541-26.
 	  - Code de l'environnement - art. L541-26 (M)
 
 
+##### Section 6 : Installations soumises à un plan de prévention des risques technologiques
+
+###### Article L515-15
+
+L'Etat élabore et met en oeuvre des plans de prévention des risques technologiques qui ont pour objet de limiter les effets
+d'accidents susceptibles de survenir dans les installations figurant sur la liste prévue au IV de l'article L. 515-8 et
+pouvant entraîner des effets sur la salubrité, la santé et la sécurité publiques directement ou par pollution du milieu. 
+
+Ces plans délimitent un périmètre d'exposition aux risques en tenant compte de la nature et de l'intensité des risques
+technologiques décrits dans les études de dangers et des mesures de prévention mises en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-82 du 1 février 2005 - art. 1 (Ab)
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 3 (Ab)
+	  - Loi n°2008-492 du 26 mai 2008 - art. 10 (Ab)
+	  - Code de l'environnement - art. D125-29 (VD)
+	  - Code de l'environnement - art. L515-25 (V)
+	  - Code de l'environnement - art. L655-3 (V)
+	  - Code de l'environnement - art. R122-17 (VD)
+	  - Code de l'environnement - art. R515-41 (V)
+	  - Code de l'urbanisme - art. (V)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+	  - Code de l'urbanisme - art. R460-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-5 (VD)
+	  - Code du travail - art. L236-1 (AbD)
+	  - Code du travail - art. L4524-1 (VD)
+	  - Code du travail - art. R236-10-2 (VT)
+	  - Code du travail - art. R4524-1 (VD)
+	  - Code général des collectivités territoriales - art. R2225-4 (V)
+	  - Code général des impôts, CGI. - art. 1383 G (V)
+	  - Code général des impôts, CGI. - art. 1383 G bis (VD)
+	  - Code minier (nouveau) - art. L264-2 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L515-8 (V)
+
+
+###### Article L515-16
+
+A l'intérieur du périmètre d'exposition aux risques, les plans de prévention des risques technologiques peuvent, en fonction
+du type de risques, de leur gravité, de leur probabilité et de leur cinétique :
+
+I. - Délimiter les zones dans lesquelles la réalisation d'aménagements ou d'ouvrages ainsi que les constructions nouvelles et
+l'extension des constructions existantes sont interdites ou subordonnées au respect de prescriptions relatives à la
+construction, à l'utilisation ou à l'exploitation.
+
+Dans ces zones, les communes ou les établissements publics de coopération intercommunale compétents peuvent instaurer le
+droit de préemption urbain dans les conditions définies à l'article L. 211-1 du code de l'urbanisme.
+
+II. - Délimiter, à l'intérieur des zones prévues au I, des secteurs où, en raison de l'existence de risques importants
+d'accident à cinétique rapide présentant un danger grave pour la vie humaine, les communes ou les établissements publics de
+coopération intercommunale compétents peuvent instaurer un droit de délaissement des bâtiments ou parties de bâtiments
+existant à la date d'approbation du plan qui s'exerce dans les conditions définies aux articles L. 230-1 et suivants du code
+de l'urbanisme. Toutefois, pour la détermination du prix d'acquisition, la valeur du bien est appréciée sans tenir compte de
+la dépréciation supplémentaire éventuelle apportée par l'intervention de la servitude instituée en application du I. La
+commune ou l'établissement public de coopération intercommunale peut, par convention passée avec un établissement public, lui
+confier le soin de réaliser l'acquisition des biens faisant l'objet du délaissement.
+
+III. - Délimiter, à l'intérieur des zones prévues au I, des secteurs où, en raison de l'existence de risques importants
+d'accident à cinétique rapide présentant un danger très grave pour la vie humaine, l'Etat peut déclarer d'utilité publique
+l'expropriation, par les communes ou les établissements publics de coopération intercommunale compétents et à leur profit,
+dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique, des immeubles et droits réels
+immobiliers lorsque les moyens de sauvegarde et de protection des populations qu'il faudrait mettre en oeuvre s'avèrent
+impossibles ou plus coûteux que l'expropriation.
+
+La procédure prévue par les articles L. 15-6 à L. 15-8 du code de l'expropriation pour cause d'utilité publique est
+applicable lorsque la gravité des risques potentiels rend nécessaire la prise de possession immédiate.
+
+Pour la détermination du prix d'acquisition ou du montant des indemnités, il n'est pas tenu compte de la dépréciation
+supplémentaire éventuelle apportée au bien par l'intervention de la servitude instituée en application du I.
+
+IV. - Prescrire les mesures de protection des populations face aux risques encourus, relatives à l'aménagement, l'utilisation
+ou l'exploitation des constructions, des ouvrages, des installations et des voies de communication existant à la date
+d'approbation du plan, qui doivent être prises par les propriétaires, exploitants et utilisateurs dans les délais que le plan
+détermine. Ces mesures peuvent notamment comprendre des prescriptions relatives aux mouvements et au stationnement des
+véhicules de transport de matières dangereuses.
+
+Lorsque des travaux de protection sont prescrits en application de l'alinéa précédent, ils ne peuvent porter que sur des
+aménagements dont le coût n'excède pas des limites fixées par le décret en Conseil d'Etat prévu à l'article L. 515-25.
+
+V. - Définir des recommandations tendant à renforcer la protection des populations face aux risques encourus et relatives à
+l'aménagement, l'utilisation ou l'exploitation des constructions, des ouvrages, des voies de communication et des terrains de
+camping ou de stationnement de caravanes, pouvant être mises en oeuvre par les propriétaires, exploitants et utilisateurs.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 18 (M)
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 3 (Ab)
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 4 (Ab)
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 73
+	  - ORDONNANCE n°2015-1324 du 22 octobre 2015 - art. 6 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 quater (M)
+	  - Code de l'environnement - art. L515-16-1 (V)
+	  - Code de l'environnement - art. L515-17 (M)
+	  - Code de l'environnement - art. L515-18 (V)
+	  - Code de l'environnement - art. L515-19 (V)
+	  - Code de l'environnement - art. L515-20 (Ab)
+	  - Code de l'environnement - art. L515-24 (V)
+	  - Code de l'environnement - art. R515-41 (V)
+	  - Code de l'environnement - art. R515-42 (M)
+	  - Code de l'environnement - art. R515-43 (V)
+	  - Code de l'environnement - art. R515-44 (VD)
+	  - Code de l'urbanisme - art. L211-1 (V)
+	  - Code de l'urbanisme - art. L480-13 (M)
+	  - Code de la construction et de l'habitation. - art. R31-10-3 (VD)
+	  - Code des assurances - art. L128-4 (V)
+	  - Code général des impôts, CGI. - art. 1383 G (M)
+	  - Code général des impôts, CGI. - art. 1391 D (M)
+	  - Code général des impôts, CGI. - art. 200 quater A (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L230-1 (M)
+	  - Code de l'environnement - art. L515-25 (V)
+	  - Code de l'expropriation pour cause d'utilité publique L15-6 à L15-8
+
+
+###### Article L515-17
+
+Les mesures visées aux II et III de l'article L. 515-16 ne peuvent être prises qu'à raison de risques créés par des
+installations existant à la date de publication de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques
+technologiques et naturels et à la réparation des dommages.
+
+**Nota:**
+
+La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal officiel du 31 juillet 2003.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 (V)
+	  - Code de l'environnement - art. L515-16 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R515-41 (V)
+
+
+###### Article L515-18
+
+Les mesures prévues par les plans de prévention des risques technologiques, en particulier au II et au III de l'article L.
+515-16, sont mises en oeuvre progressivement en fonction notamment de la probabilité, de la gravité et de la cinétique des
+accidents potentiels ainsi que du rapport entre le coût des mesures envisagées et le gain en sécurité attendu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 3 (Ab)
+	  - Code de l'environnement - art. R515-41 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L515-16 (V)
+
+
+###### Article L515-19
+
+I. - L'Etat, les exploitants des installations à l'origine du risque et les collectivités territoriales compétentes ou leurs
+groupements compétents, dès lors qu'ils perçoivent la taxe professionnelle dans le périmètre couvert par le plan, assurent le
+financement des mesures prises en application du II et du III de l'article L. 515-16. A cet effet, ils concluent une
+convention fixant leurs contributions respectives. Avant la conclusion de cette convention, le droit de délaissement
+mentionné au II du même article ne peut être instauré et l'expropriation mentionnée au premier alinéa du III du même article
+ne peut être déclarée d'utilité publique que si la gravité des risques potentiels rend nécessaire la prise de possession
+immédiate selon la procédure mentionnée au deuxième alinéa de ce III.
+
+Sans préjudice des obligations mises à la charge de l'exploitant par le préfet en application des articles L. 512-1 à L.
+512-5 et de l'article L. 512-7, ces conventions peuvent permettre à l'Etat, aux collectivités territoriales ou à leurs
+groupements de participer au financement par l'exploitant de mesures supplémentaires de prévention des risques permettant de
+réduire les secteurs mentionnés aux II et III de l'article L. 515-16 lorsque cette participation financière est inférieure
+aux coûts qu'ils supporteraient en raison de la mise en oeuvre des mesures prévues à ces II et III.
+
+II. - Une convention conclue entre les collectivités territoriales compétentes ou leurs groupements et les exploitants des
+installations à l'origine du risque, dans le délai d'un an à compter de l'approbation du plan de prévention des risques
+technologiques, précise les conditions d'aménagement et de gestion des terrains situés dans les zones mentionnées au I et
+dans les secteurs mentionnés aux II et III de l'article L. 515-16.
+
+III. - Une convention conclue entre les collectivités territoriales compétentes ou leurs groupements, les exploitants des
+installations à l'origine du risque et les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de
+la construction et de l'habitation bailleurs d'immeubles situés dans les secteurs mentionnés au III de l'article L. 515-6 (1)
+du présent code définit, le cas échéant, un programme de relogement des occupants des immeubles situés dans ces secteurs.
+Cette convention peut également associer les autres bailleurs d'immeubles situés dans ces mêmes secteurs.
+
+**Nota:**
+
+(1) Au lieu de L515-6, lire L515-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 3 (Ab)
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 7 (Ab)
+	  - Code de l'environnement - art. L515-16 (VD)
+	  - Code de l'environnement - art. L515-19 (V)
+	  - Code de l'environnement - art. R515-41 (V)
+	  - Code de l'environnement - art. R515-43 (VD)
+	  - Code de l'environnement - art. R515-45 (Ab)
+	  - Code général des impôts, CGI. - art. 200 quater A (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+	  - Code de l'environnement - art. L512-7 (M)
+	  - Code de l'environnement - art. L515-6 (V)
+
+
+###### Article L515-20
+
+Les terrains situés dans le périmètre du plan de prévention des risques technologiques que les communes ou leurs groupements
+et les établissements publics mentionnés à la dernière phrase du II de l'article L. 515-16 ont acquis par préemption,
+délaissement ou expropriation peuvent être cédés à prix coûtant aux exploitants des installations à l'origine du risque. 
+
+L'usage de ces terrains ne doit pas aggraver l'exposition des personnes aux risques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L515-16 (V)
+
+
+###### Article L515-21
+
+Le plan de prévention des risques technologiques mentionne les servitudes d'utilité publique instituées en application de
+l'article L. 515-8 autour des installations situées dans le périmètre du plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L515-8 (V)
+
+
+###### Article L515-22
+
+Le préfet définit les modalités de la concertation relative à l'élaboration du projet de plan de prévention des risques
+technologiques dans les conditions prévues à l'article L. 300-2 du code de l'urbanisme. 
+
+Sont notamment associés à l'élaboration du plan de prévention des risques technologiques les exploitants des installations à
+l'origine du risque, les communes sur le territoire desquelles le plan doit s'appliquer, les établissements publics de
+coopération intercommunale compétents en matière d'urbanisme et dont le périmètre d'intervention est couvert en tout ou
+partie par le plan ainsi que le comité local d'information et de concertation créé en application de l'article L. 125-2. 
+
+Le préfet recueille leur avis sur le projet de plan, qui est ensuite soumis à enquête publique dans les conditions
+mentionnées aux articles L. 123-1 et suivants. 
+
+Le plan de prévention des risques technologiques est approuvé par arrêté préfectoral. 
+
+Il est révisé selon les mêmes dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-82 du 1 février 2005 - art. 3 (Ab)
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 2 (Ab)
+	  - Code de l'environnement - art. D125-31 (V)
+	  - Code de l'environnement - art. L515-16 (VD)
+	  - Code de l'environnement - art. R515-40 (VD)
+	  - Code des assurances - art. L128-4 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-2 (V)
+	  - Code de l'environnement - art. L123-1 (V)
+	  - Code de l'environnement - art. L125-2 (V)
+
+
+###### Article L515-23
+
+Le plan de prévention des risques technologiques approuvé vaut servitude d'utilité publique. Il est porté à la connaissance
+des maires des communes situées dans le périmètre du plan en application de l'article L. 121-2 du code de l'urbanisme. Il est
+annexé aux plans locaux d'urbanisme, conformément à l'article L. 126-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-2 (VT)
+	  - Code de l'urbanisme - art. L126-1 (V)
+
+
+###### Article L515-24
+
+I. - Les infractions aux prescriptions édictées en application du I de l'article L. 515-16 du présent code sont punies des
+peines prévues à l'article L. 480-4 du code de l'urbanisme.
+
+II. - Les dispositions des articles L. 460-1, L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-12 du code de l'urbanisme
+sont également applicables aux infractions visées au I, sous la seule réserve des conditions suivantes :
+
+1° Les infractions sont constatées, en outre, par les fonctionnaires et agents commissionnés à cet effet par l'autorité
+administrative compétente en matière d'installations classées pour la protection de l'environnement et assermentés ;
+
+2° Le droit de visite prévu à l'article L. 460-1 dudit code est également ouvert aux représentants de l'autorité
+administrative compétente en matière d'installations classées pour la protection de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L460-1 (M)
+	  - Code de l'urbanisme - art. L480-1 (M)
+	  - Code de l'urbanisme - art. L480-2 (M)
+	  - Code de l'urbanisme - art. L480-3 (M)
+	  - Code de l'urbanisme - art. L480-4 (M)
+	  - Code de l'urbanisme L480-4, L460-1, L480-1, L480-2, L480-3, L480-5 à L480-12
+	  - Code de l'environnement - art. L515-16 (V)
+
+
+###### Article L515-25
+
+Un décret en Conseil d'Etat précise les modalités d'application des articles L. 515-15 à L. 515-24 et les délais
+d'élaboration et de mise en oeuvre des plans de prévention des risques technologiques. Pour les installations classées
+relevant du ministère de la défense et les dépôts de munitions anciennes, ce décret peut, en tant que de besoin, prévoir des
+modalités de consultation et d'information du public adaptées aux exigences de la défense nationale ou spécifiques aux dépôts
+de munitions anciennes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 11 (Ab)
+	  - Code de l'environnement - art. L515-16 (V)
+	  - Code de l'environnement - art. R515-49 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L515-15 (V)
+
+
+###### Article L515-26
+
+Tout exploitant d'un établissement comportant au moins une installation figurant sur la liste prévue au IV de l'article L.
+515-8 du présent code ou visée à l'article 3-1 du code minier est tenu de faire procéder à une estimation de la probabilité
+d'occurrence et du coût des dommages matériels potentiels aux tiers en cas d'accident survenant dans cette installation et de
+transmettre le rapport d'évaluation au préfet ainsi qu'au président du comité local d'information et de concertation sur les
+risques créé en application de l'article L. 125-2 du présent code. 
+
+Cette estimation est réalisée pour chacun des accidents majeurs identifiés dans l'étude de dangers de l'établissement
+réalisée au titre de la réglementation des installations classées. Elle est révisée à l'occasion des révisions de l'étude de
+dangers précitée. 
+
+Cette estimation n'est pas opposable à l'exploitant par les tiers en cas de litige lié à un accident survenant dans
+l'installation. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-1133 du 21 septembre 1977 - art. 24-9 (Ab)
+	  - Décret n°2005-82 du 1 février 2005 - art. 3 (Ab)
+	  - Loi n°2015-1567 du 2 décembre 2015 - art. 10
+	  - Code de l'environnement - art. D125-31 (VD)
+	  - Code de l'environnement - art. R515-51 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 21 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code minier - art. 3-1 (V)
+	  - Code de l'environnement - art. L125-2 (V)
+	  - Code de l'environnement - art. L515-8 (V)
+
+
 #### Chapitre VI : Dispositions financières
 
 ###### Article L516-1
@@ -30815,6 +31978,48 @@ indépendamment des poursuites pénales qui peuvent être exercées.
 	**Cite**:
 
 	  - Code de l'environnement - art. L514-1 (VT)
+
+
+###### Article L516-2
+
+Pour les installations relevant des catégories visées à l'article L. 516-1, l'exploitant est tenu d'informer le préfet en cas
+de modification substantielle des capacités techniques et financières visées à l'article L. 512-1. 
+
+S'il constate que les capacités techniques et financières ne sont pas susceptibles de permettre de satisfaire aux obligations
+de l'article L. 512-1, le préfet peut imposer la constitution ou la révision des garanties financières visées à l'article L.
+516-1. 
+
+Un décret en Conseil d'Etat définit les modalités d'application de l'article L. 516-1 et du présent article ainsi que les
+conditions de leur application aux installations régulièrement mises en service ou autorisées avant la publication de la loi
+n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des
+dommages.
+
+**Nota:**
+
+La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal officiel du 31 juillet 2003.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 (V)
+	  - Code de l'environnement - art. L512-1 (V)
+	  - Code de l'environnement - art. L516-1 (VT)
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 31 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Arrêté du 5 février 2014 - art. (V)
+	  - Code de l'environnement - art. L514-11 (VD)
+	  - Code de l'environnement - art. R516-1 (VD)
 
 
 #### Chapitre VII : Dispositions diverses
@@ -34600,15 +35805,15 @@ tous autres produits dans des conditions propres à éviter les nuisances mentio
 
 ###### Article L541-3
 
-Au cas où les déchets sont abandonnés, déposés ou traités contrairement aux prescriptions du présent chapitre et des
-règlements pris pour leur application, l'autorité titulaire du pouvoir de police peut, après mise en demeure, assurer
-d'office l'élimination desdits déchets aux frais du responsable. L'exécution des travaux ordonnés d'office peut être confiée
-par le ministre chargé de l'environnement à l'Agence de l'environnement et de la maîtrise de l'énergie. L'autorité titulaire
-du pouvoir de police peut également obliger le responsable à consigner entre les mains d'un comptable public une somme
-répondant du montant des travaux à réaliser, laquelle sera restituée au fur et à mesure de l'exécution des travaux. Les
-sommes consignées peuvent, le cas échéant, être utilisées pour régler les dépenses entraînées par l'exécution d'office.
-Lorsque l'Agence de l'environnement et de la maîtrise de l'énergie intervient pour exécuter des travaux ordonnés d'office,
-les sommes consignées lui sont réservées à sa demande.
+En cas de pollution des sols, de risque de pollution des sols, ou au cas où des déchets sont abandonnés, déposés ou traités
+contrairement aux prescriptions du présent chapitre et des règlements pris pour leur application, l'autorité titulaire du
+pouvoir de police peut, après mise en demeure, assurer d'office l'exécution des travaux nécessaires aux frais du responsable.
+L'exécution des travaux ordonnés d'office peut être confiée par le ministre chargé de l'environnement à l'Agence de
+l'environnement et de la maîtrise de l'énergie. L'autorité titulaire du pouvoir de police peut également obliger le
+responsable à consigner entre les mains d'un comptable public une somme répondant du montant des travaux à réaliser, laquelle
+sera restituée au fur et à mesure de l'exécution des travaux. Les sommes consignées peuvent, le cas échéant, être utilisées
+pour régler les dépenses entraînées par l'exécution d'office. Lorsque l'Agence de l'environnement et de la maîtrise de
+l'énergie intervient pour exécuter des travaux ordonnés d'office, les sommes consignées lui sont réservées à sa demande.
 
 Il est procédé, le cas échéant, au recouvrement de ces sommes comme en matière de créances étrangères à l'impôt et au
 domaine. Pour ce recouvrement, l'Etat bénéficie d'un privilège de même rang que celui prévu à l'article 1920 du code général
@@ -34667,9 +35872,9 @@ d'enquête a émis un avis défavorable, la déclaration d'utilité publique est
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 32 () JORF 31 juillet 2003
 
 
 ###### Article L541-4
@@ -37112,6 +38317,64 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d
 	  - Code de la défense. - art. R*1333-63 (V)
 
 
+###### Article L551-2
+
+Lorsque du fait du stationnement, chargement ou déchargement de véhicules ou d'engins de transport contenant des matières
+dangereuses, l'exploitation d'un ouvrage d'infrastructure routière, ferroviaire, portuaire ou de navigation intérieure ou
+d'une installation multimodale peut présenter de graves dangers pour la sécurité des populations, la salubrité et la santé
+publiques, directement ou par pollution du milieu, le maître d'ouvrage fournit à l'autorité administrative compétente une
+étude de dangers. Cette étude est mise à jour au moins tous les cinq ans par l'exploitant. Lorsqu'il s'agit d'un ouvrage ou
+d'une installation faisant l'objet d'un rapport sur la sécurité ou d'un diagnostic au titre des articles L. 118-1 et suivants
+du code de la voirie routière, 13-1 et 13-2 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs,
+30 du code du domaine public fluvial et de la navigation intérieure ou L. 155-1 du code des ports maritimes, cette étude de
+dangers est intégrée à ce rapport ou à ce diagnostic.
+
+Pour les ouvrages et installations en service à la date de publication de la loi n° 2003-699 du 30 juillet 2003 relative à la
+prévention des risques technologiques et naturels et à la réparation des dommages, cette étude est fournie, au plus tard,
+dans les trois années suivant l'entrée en vigueur de ladite loi.
+
+Les modalités d'application du présent article, et notamment les catégories d'ouvrages concernés, sont déterminées, pour
+chaque mode de transport, par décret en Conseil d'Etat.
+
+**Nota:**
+
+La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal officiel du 31 juillet 2003.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 13-1 (M)
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 13-2 (V)
+	  - Loi n°2003-699 2003-07-30
+	  - Code de la voirie routière - art. L118-1 (V)
+	  - Code des ports maritimes - art. L155-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 6 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-1158 du 13 septembre 2005 - art. 1 (VT)
+	  - Décret n°2005-1158 du 13 septembre 2005 - art. 14 (VT)
+	  - Arrêté du 18 décembre 2009 - art. 1 (V)
+	  - Code des transports - art. L1614-3 (VD)
+	  - Code de la sécurité intérieure - art. R741-18 (V)
+	  - Code de l'environnement - art. L551-4 (VT)
+	  - Code de l'environnement - art. L551-6 (V)
+	  - Code de l'environnement - art. L553-3 (VT)
+	  - Code de l'environnement - art. L655-7 (V)
+	  - Code de l'environnement - art. R551-3 (V)
+	  - Code de la défense. - art. R*1333-36 (Ab)
+	  - Code de la défense. - art. R*1333-67-4 (V)
+
+
 #### Chapitre II : Garanties financières
 
 ###### Article L552-1
@@ -37235,10 +38498,10 @@ II. - Les services de l'Etat peuvent concourir à l'élaboration de ce schéma �
 
 Sans préjudice des dispositions prévues au 5° de l'article L. 2212-2 et à l'article L. 2212-4 du code général des
 collectivités territoriales, lorsqu'un risque prévisible de mouvements de terrain, ou d'affaissements de terrain dus à une
-cavité souterraine ou à une marnière, d'avalanches ou de crues torrentielles menace gravement des vies humaines, les biens
-exposés à ce risque peuvent être expropriés par l'Etat dans les conditions prévues par le code de l'expropriation pour cause
-d'utilité publique et sous réserve que les moyens de sauvegarde et de protection des populations s'avèrent plus coûteux que
-les indemnités d'expropriation.
+cavité souterraine ou à une marnière, d'avalanches ou de crues torrentielles menace gravement des vies humaines, l'Etat peut
+déclarer d'utilité publique l'expropriation par lui-même, les communes ou leurs groupements, des biens exposés à ce risque,
+dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique et sous réserve que les moyens de
+sauvegarde et de protection des populations s'avèrent plus coûteux que les indemnités d'expropriation.
 
 Ces dispositions ne s'appliquent pas aux cavités souterraines d'origine naturelle ou humaine résultant de l'exploitation
 passée ou en cours d'une mine.
@@ -37247,7 +38510,9 @@ La procédure prévue par les articles L. 15-6 à L. 15-8 du code de l'expropria
 applicable lorsque l'extrême urgence rend nécessaire l'exécution immédiate de mesures de sauvegarde.
 
 Toutefois, pour la détermination du montant des indemnités qui doit permettre le remplacement des biens expropriés, il n'est
-pas tenu compte de l'existence du risque.
+pas tenu compte de l'existence du risque. Les indemnités perçues en application du quatrième alinéa de l'article L. 125-2 du
+code des assurances viennent en déduction des indemnités d'expropriation, lorsque les travaux de réparation liés au sinistre
+n'ont pas été réalisés et la valeur du bien a été estimée sans tenir compte des dommages subis.
 
 **Liens relatifs à cet article**
 
@@ -37273,12 +38538,13 @@ pas tenu compte de l'existence du risque.
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 159 (Ab) JORF 28 février 2002
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 60 () JORF 31 juillet 2003
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L2212-2 (M)
 	  - Code général des collectivités territoriales - art. L2212-4 (V)
-	  - Code de l'environnement L2212-2
+	  - Code des assurances - art. L125-2 (M)
 	  - Code de l'expropriation pour cause d'utilité publique L15-6 à L15-8
 
 
@@ -37315,28 +38581,59 @@ ou, en l'absence d'un tel plan, postérieures à l'ouverture de l'enquête publi
 
 ###### Article L561-3
 
-Le fonds de prévention des risques naturels majeurs est chargé de financer, dans la limite de ses ressources, les indemnités
-allouées en vertu des dispositions de l'article L. 561-1 ainsi que les dépenses liées à la limitation de l'accès et à la
-démolition éventuelle des biens exposés afin d'en empêcher toute occupation future. En outre, il finance, dans les mêmes
-limites, les dépenses de prévention liées aux évacuations temporaires et au relogement des personnes exposées.
+I. Le fonds de prévention des risques naturels majeurs est chargé de financer, dans la limite de ses ressources, les
+indemnités allouées en vertu des dispositions de l'article L. 561-1 ainsi que les dépenses liées à la limitation de l'accès
+et à la démolition éventuelle des biens exposés afin d'en empêcher toute occupation future. En outre, il finance, dans les
+mêmes limites, les dépenses de prévention liées aux évacuations temporaires et au relogement des personnes exposées.
 
-Il peut également, selon des modalités fixées par décret en Conseil d'Etat, contribuer au financement :
+Il peut également, sur décision préalable de l'Etat et selon des modalités et conditions fixées par décret en Conseil d'Etat,
+contribuer au financement des mesures de prévention intéressant des biens couverts par un contrat d'assurance mentionné au
+premier alinéa de l'article L. 125-1 du code des assurances. Les mesures de prévention susceptibles de faire l'objet de ce
+financement sont :
 
-- des opérations de reconnaissance des cavités souterraines et des marnières dont les dangers pour les constructions ou les
-vies humaines sont avérés ;
+1° L'acquisition amiable par une commune, un groupement de communes ou l'Etat d'un bien exposé à un risque prévisible de
+mouvements de terrain ou d'affaissements de terrain dus à une cavité souterraine ou à une marnière, d'avalanches, de crues
+torrentielles ou à montée rapide menaçant gravement des vies humaines ainsi que les mesures nécessaires pour en limiter
+l'accès et en empêcher toute occupation, sous réserve que le prix de l'acquisition amiable s'avère moins coûteux que les
+moyens de sauvegarde et de protection des populations ;
 
-- de l'acquisition amiable d'un immeuble exposé à des risques d'effondrement du sol qui menacent gravement des vies humaines,
-ou du traitement ou du comblement des cavités souterraines et des marnières qui occasionnent ces mêmes risques, sous réserve
-de l'accord du propriétaire du bien exposé, dès lors que ce traitement est moins coûteux que l'expropriation prévue à
-l'article L. 561-1.
+2° L'acquisition amiable, par une commune, un groupement de communes ou l'Etat, de biens à usage d'habitation ou de biens
+utilisés dans le cadre d'activités professionnelles relevant de personnes physiques ou morales employant moins de vingt
+salariés et notamment d'entreprises industrielles, commerciales, agricoles ou artisanales et de leurs terrains d'assiette
+ainsi que les mesures nécessaires pour en limiter l'accès et en empêcher toute occupation, sous réserve que les terrains
+acquis soient rendus inconstructibles dans un délai de trois ans, lorsque ces biens ont été sinistrés à plus de la moitié de
+leur valeur et indemnisés en application de l'article L. 125-2 du code des assurances ;
 
-Ce fonds est alimenté par un prélèvement sur le produit des primes ou cotisations additionnelles relatives à la garantie
+3° Les opérations de reconnaissance des cavités souterraines et des marnières, dont les dangers pour les constructions ou les
+vies humaines sont avérés, ainsi que le traitement ou le comblement des cavités souterraines et des marnières qui
+occasionnent des risques d'effondrement du sol menaçant gravement des vies humaines, dès lors que ce traitement est moins
+coûteux que l'expropriation prévue à l'article L. 561-1 ;
+
+4° Les études et travaux de prévention définis et rendus obligatoires par un plan de prévention des risques naturels
+prévisibles approuvé en application du 4° du II de l'article L. 562-1 sur des biens à usage d'habitation ou sur des biens
+utilisés dans le cadre d'activités professionnelles relevant de personnes physiques ou morales employant moins de vingt
+salariés et notamment d'entreprises industrielles, commerciales, agricoles ou artisanales ;
+
+5° Les campagnes d'information, notamment celles menées en application du deuxième alinéa de l'article L. 125-2 du présent
+code, portant sur les garanties visées à l'article L. 125-1 du code des assurances.
+
+Le financement par le fonds des acquisitions amiables mentionnées au 1° et au 2° est subordonné à la condition que le prix
+fixé pour ces acquisitions n'excède pas le montant des indemnités calculées conformément au quatrième alinéa de l'article L.
+561-1. Lorsqu'une collectivité publique autre que l'Etat a bénéficié d'un financement en application du 2° et que les
+terrains acquis n'ont pas été rendus inconstructibles dans le délai de trois ans, elle est tenue de rembourser le fonds.
+
+Le financement par le fonds des opérations de reconnaissance et des études et travaux mentionnés au 3° et au 4° est réalisé
+déduction faite du montant des indemnités perçues, le cas échéant en application de l'article L. 125-2 du code des assurances
+pour la réalisation d'études ou de travaux de réparation susceptibles de contribuer à ces opérations de reconnaissance ou à
+ces études et travaux de prévention.
+
+II. Ce fonds est alimenté par un prélèvement sur le produit des primes ou cotisations additionnelles relatives à la garantie
 contre le risque de catastrophes naturelles, prévues à l'article L. 125-2 du code des assurances. Il est versé par les
 entreprises d'assurances ou leur représentant fiscal visé à l'article 1004 bis du code général des impôts.
 
-Le taux de ce prélèvement est fixé par arrêté conjoint des ministres chargés de la prévention des risques et de l'économie
-dans la limite de 2,5 %. Le prélèvement est recouvré suivant les mêmes règles, sous les mêmes garanties et les mêmes
-sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants du code général des impôts.
+Le taux de ce prélèvement est fixé par l'autorité administrative dans la limite de 4 %. Le prélèvement est recouvré suivant
+les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur les conventions d'assurance prévue aux
+articles 991 et suivants du code général des impôts.
 
 En outre, le fonds peut recevoir des avances de l'Etat.
 
@@ -37349,8 +38646,11 @@ pour cette gestion sont imputés sur le fonds.
 	**Cite**:
 
 	  - CGI 1004 bis, 991
+	  - Code des assurances - art. L125-1 (M)
 	  - Code des assurances - art. L125-2 (M)
+	  - Code de l'environnement - art. L125-2 (M)
 	  - Code de l'environnement - art. L561-1 (M)
+	  - Code de l'environnement - art. L562-1 (M)
 
 	**Anciens textes**:
 
@@ -37389,7 +38689,7 @@ pour cette gestion sont imputés sur le fonds.
 
 	**Modifié par**:
 
-	  - Loi - art. 75 (V) JORF 31 décembre 2002
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 61 () JORF 31 juillet 2003
 
 
 ###### Article L561-4
@@ -37459,15 +38759,16 @@ les cyclones.
 
 II. - Ces plans ont pour objet, en tant que de besoin :
 
-1° De délimiter les zones exposées aux risques en tenant compte de la nature et de l'intensité du risque encouru, d'y
-interdire tout type de construction, d'ouvrage, d'aménagement ou d'exploitation agricole, forestière, artisanale, commerciale
-ou industrielle ou, dans le cas où des constructions, ouvrages, aménagements ou exploitations agricoles, forestières,
-artisanales, commerciales ou industrielles pourraient y être autorisés, prescrire les conditions dans lesquelles ils doivent
-être réalisés, utilisés ou exploités ;
+1° De délimiter les zones exposées aux risques, dites "zones de danger", en tenant compte de la nature et de l'intensité du
+risque encouru, d'y interdire tout type de construction, d'ouvrage, d'aménagement ou d'exploitation agricole, forestière,
+artisanale, commerciale ou industrielle ou, dans le cas où des constructions, ouvrages, aménagements ou exploitations
+agricoles, forestières, artisanales, commerciales ou industrielles pourraient y être autorisés, prescrire les conditions dans
+lesquelles ils doivent être réalisés, utilisés ou exploités ;
 
-2° De délimiter les zones qui ne sont pas directement exposées aux risques mais où des constructions, des ouvrages, des
-aménagements ou des exploitations agricoles, forestières, artisanales, commerciales ou industrielles pourraient aggraver des
-risques ou en provoquer de nouveaux et y prévoir des mesures d'interdiction ou des prescriptions telles que prévues au 1° ;
+2° De délimiter les zones, dites "zones de précaution", qui ne sont pas directement exposées aux risques mais où des
+constructions, des ouvrages, des aménagements ou des exploitations agricoles, forestières, artisanales, commerciales ou
+industrielles pourraient aggraver des risques ou en provoquer de nouveaux et y prévoir des mesures d'interdiction ou des
+prescriptions telles que prévues au 1° ;
 
 3° De définir les mesures de prévention, de protection et de sauvegarde qui doivent être prises, dans les zones mentionnées
 au 1° et au 2°, par les collectivités publiques dans le cadre de leurs compétences, ainsi que celles qui peuvent incomber aux
@@ -37546,6 +38847,10 @@ utilisateurs ne peuvent porter que sur des aménagements limités.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 66 () JORF 31 juillet 2003
+
 
 ###### Article L562-2
 
@@ -37589,8 +38894,16 @@ approuvé dans un délai de trois ans.
 
 ###### Article L562-3
 
-Après enquête publique, et après avis des conseils municipaux des communes sur le territoire desquelles il doit s'appliquer,
-le plan de prévention des risques naturels prévisibles est approuvé par arrêté préfectoral.
+Le préfet définit les modalités de la concertation relative à l'élaboration du projet de plan de prévention des risques
+naturels prévisibles.
+
+Sont associés à l'élaboration de ce projet les collectivités territoriales et les établissements publics de coopération
+intercommunale concernés.
+
+Après enquête publique menée dans les conditions prévues aux articles L. 123-1 et suivants et après avis des conseils
+municipaux des communes sur le territoire desquelles il doit s'appliquer, le plan de prévention des risques naturels
+prévisibles est approuvé par arrêté préfectoral. Au cours de cette enquête, sont entendus, après avis de leur conseil
+municipal, les maires des communes sur le territoire desquelles le plan doit s'appliquer.
 
 **Liens relatifs à cet article**
 
@@ -37603,10 +38916,20 @@ le plan de prévention des risques naturels prévisibles est approuvé par arrê
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 38 () JORF 31 juillet 2003
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 39 () JORF 31 juillet 2003
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 62 () JORF 31 juillet 2003
+
 	**Cité par**:
 
 	  - Loi n°2011-725 du 23 juin 2011 - art. 6 (V)
 	  - Code de l'environnement - art. L562-4-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L123-1 (M)
 
 
 ###### Article L562-4
@@ -37639,9 +38962,9 @@ I. - Le fait de construire ou d'aménager un terrain dans une zone interdite par
 prévisibles approuvé ou de ne pas respecter les conditions de réalisation, d'utilisation ou d'exploitation prescrites par ce
 plan est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme.
 
-II. - Les dispositions des articles L. 460-1, L. 480-1, L. 480-2, L. 480-3, L. 480-5 à L. 480-9 et L. 480-12 du code de
-l'urbanisme sont également applicables aux infractions visées au I du présent article, sous la seule réserve des conditions
-suivantes :
+II. - Les dispositions des articles L. 460-1, L. 480-1, L. 480-2, L. 480-3, L. 480-5 à L. 480-9, L. 480-12 et L. 480-14 du
+code de l'urbanisme sont également applicables aux infractions visées au I du présent article, sous la seule réserve des
+conditions suivantes :
 
 1° Les infractions sont constatées, en outre, par les fonctionnaires et agents commissionnés à cet effet par l'autorité
 administrative compétente et assermentés ;
@@ -37652,6 +38975,9 @@ conformité des lieux ou des ouvrages avec les dispositions du plan, soit sur le
 
 3° Le droit de visite prévu à l'article L. 460-1 du code de l'urbanisme est ouvert aux représentants de l'autorité
 administrative compétente.
+
+4° Le tribunal de grande instance peut également être saisi en application de l'article L. 480-14 du code de l'urbanisme par
+le préfet.
 
 **Liens relatifs à cet article**
 
@@ -37669,16 +38995,21 @@ administrative compétente.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 63 () JORF 31 juillet 2003
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L460-1 (M)
 	  - Code de l'urbanisme - art. L480-1 (M)
 	  - Code de l'urbanisme - art. L480-12 (M)
+	  - Code de l'urbanisme - art. L480-14 (M)
 	  - Code de l'urbanisme - art. L480-2 (M)
 	  - Code de l'urbanisme - art. L480-3 (M)
 	  - Code de l'urbanisme - art. L480-4 (M)
 	  - Code de l'urbanisme - art. L480-5 (M)
-	  - Code de l'urbanisme L480-4, L460-1, L480-1, L480-2, L480-3, L480-5 à L480-9, L480-12, L480-5
+	  - Code de l'urbanisme L480-4, L460-1, L480-1, L480-2, L480-3, L480-5 à L480-9, L480-12, L480-14, L480-5
 
 
 ###### Article L562-6
@@ -37801,10 +39132,10 @@ naturels prévisibles.
 ###### Article L563-1
 
 Dans les zones particulièrement exposées à un risque sismique ou cyclonique, des règles particulières de construction
-parasismique ou paracyclonique peuvent être imposées aux équipements, bâtiments et installations.
+parasismique ou paracyclonique peuvent être imposées aux équipements, bâtiments et installations. 
 
 Si un plan de prévention des risques naturels prévisibles est approuvé dans l'une des zones mentionnées au premier alinéa, il
-peut éventuellement fixer, en application de l'article L. 562-1, des règles plus sévères.
+peut éventuellement fixer, en application de l'article L. 562-1, des règles plus adaptées. 
 
 Un décret en Conseil d'Etat définit les modalités d'application du présent article.
 
@@ -37830,9 +39161,13 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 64 () JORF 31 juillet 2003
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L562-1 (M)
+	  - Code de l'environnement - art. L562-1 (V)
 
 
 ###### Article L563-2
@@ -37864,6 +39199,326 @@ compte des risques naturels pour la délivrance des autorisations correspondante
 
 	  - Code de l'urbanisme - art. L145-11 (M)
 	  - Code de l'urbanisme - art. L445-1 (M)
+
+
+###### Article L563-3
+
+I. – Dans les zones exposées au risque d'inondations, le maire, avec l'assistance des services de l'Etat compétents, procède
+à l'inventaire des repères de crues existant sur le territoire communal et établit les repères correspondant aux crues
+historiques, aux nouvelles crues exceptionnelles ou aux submersions marines. La commune ou le groupement de collectivités
+territoriales compétent matérialisent, entretiennent et protègent ces repères. 
+
+II. – Les dispositions de la loi n° 43-374 du 6 juillet 1943 relative à l'exécution des travaux géodésiques et cadastraux et
+à la conservation des signaux, bornes et repères sont applicables. 
+
+III. – Un décret en Conseil d'Etat fixe les conditions d'application du présent article (voir nota).
+
+**Nota:**
+
+Décret n° 2005-233 du 14 mars 2005, publié au JORF du 16 mars 2005.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°43-374 du 6 juillet 1943 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 42 () JORF 31 juillet 2003
+
+
+###### Article L563-4
+
+Les dispositions prévues aux articles L. 54 à L. 56-1 du code des postes et télécommunications s'appliquent également aux
+radars hydrométéorologiques dont la liste est fixée par arrêté conjoint du ministre chargé des transports et du ministre
+chargé de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L54 à L56-1
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 47 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R125-23 (V)
+
+
+###### Article L563-5
+
+I. - Sur demande des collectivités territoriales ou de leurs groupements motivée par la sécurité des personnes et des biens
+sur les territoires de leur compétence, l'Etat et ses établissements publics communiquent à cette seule fin gratuitement à
+ces collectivités et à leurs groupements les données dont ils disposent. Toutefois, ils peuvent mettre à la charge des
+demandeurs les frais de reproduction et de transmission de ces données.
+
+II. - Un décret en Conseil d'Etat précise les modalités de mise en oeuvre du présent article. Ce décret précise notamment les
+informations produites par l'Etat ou par ses établissements publics qui peuvent être accessibles gratuitement par les
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 78 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R563-16 (V)
+	  - Code de l'environnement - art. R563-20 (V)
+
+
+###### Article L563-6
+
+I. - Les communes ou leurs groupements compétents en matière de documents d'urbanisme élaborent, en tant que de besoin, des
+cartes délimitant les sites où sont situées des cavités souterraines et des marnières susceptibles de provoquer
+l'effondrement du sol.
+
+II. - Toute personne qui a connaissance de l'existence d'une cavité souterraine ou d'une marnière dont l'effondrement est
+susceptible de porter atteinte aux personnes ou aux biens, ou d'un indice susceptible de révéler cette existence, en informe
+le maire, qui communique, sans délai, au représentant de l'Etat dans le département et au président du conseil général les
+éléments dont il dispose à ce sujet.
+
+La diffusion d'informations manifestement erronées, mensongères ou résultant d'une intention dolosive relatives à l'existence
+d'une cavité souterraine ou d'une marnière est punie d'une amende de 30 000 euros.
+
+III. - Le représentant de l'Etat dans le département publie et met à jour, selon des modalités fixées par décret en Conseil
+d'Etat, la liste des communes pour lesquelles il a été informé par le maire de l'existence d'une cavité souterraine ou d'une
+marnière et de celles où il existe une présomption réelle et sérieuse de l'existence d'une telle cavité.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°90-918 du 11 octobre 1990 - art. 2 (Ab)
+	  - Décret n°90-918 du 11 octobre 1990 - art. 3 (Ab)
+	  - Code de l'environnement - art. R125-10 (V)
+	  - Code de l'environnement - art. R125-11 (V)
+	  - Code de l'environnement - art. R563-10 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 43 () JORF 31 juillet 2003
+
+
+#### Chapitre IV : Prévision des crues
+
+###### Article L564-1
+
+L'organisation de la surveillance, de la prévision et de la transmission de l'information sur les crues est assurée par
+l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 41 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R563-16 (V)
+
+
+###### Article L564-2
+
+I. - Un schéma directeur de prévision des crues est arrêté pour chaque bassin par le préfet coordonnateur de bassin en vue
+d'assurer la cohérence des dispositifs que peuvent mettre en place, sous leur responsabilité et pour leurs besoins propres,
+les collectivités territoriales ou leurs groupements afin de surveiller les crues de certains cours d'eau ou zones
+estuariennes, avec les dispositifs de l'Etat et de ses établissements publics.
+
+II. - Les collectivités territoriales ou leurs groupements peuvent accéder gratuitement, pour les besoins du fonctionnement
+de leurs systèmes de surveillance, aux données recueillies et aux prévisions élaborées grâce aux dispositifs de surveillance
+mis en place par l'Etat, ses établissements publics et les exploitants d'ouvrages hydrauliques.
+
+III. - Les informations recueillies et les prévisions élaborées grâce aux dispositifs de surveillance mis en place par les
+collectivités territoriales ou leurs groupements sont transmises aux autorités détentrices d'un pouvoir de police. Les
+responsables des équipements ou exploitations susceptibles d'être intéressés par ces informations peuvent y accéder
+gratuitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 41 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-28 du 12 janvier 2005 - art. 2 (Ab)
+	  - Code de l'environnement - art. L566-7 (VD)
+	  - Code de l'environnement - art. R564-2 (V)
+
+
+###### Article L564-3
+
+I. - L'organisation de la surveillance, de la prévision et de la transmission de l'information sur les crues par l'Etat, ses
+établissements publics et, le cas échéant, les collectivités territoriales ou leurs groupements fait l'objet de règlements
+arrêtés par le préfet.
+
+II. - Un décret en Conseil d'Etat précise les modalités de mise en oeuvre du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 41 () JORF 31 juillet 2003
+
+
+#### Chapitre V : Commissions départementales et schémas de prévention des risques naturels majeurs
+
+###### Article L565-1
+
+Il est institué dans chaque département une commission départementale des risques naturels majeurs.
+
+Cette commission présidée par le préfet comprend en nombre égal :
+
+1° Des représentants élus des collectivités territoriales, des établissements publics de coopération intercommunale et des
+établissements publics territoriaux de bassin situés en tout ou partie dans le département ;
+
+2° Des représentants d'organisations professionnelles dont un représentant des organisations d'exploitants agricoles, un
+représentant des organismes consulaires, un représentant des assurances, un représentant des notaires, des représentants
+d'associations, dont un représentant d'associations de sinistrés lorsque de telles associations existent, des représentants
+de la propriété foncière et forestière et des personnalités qualifiées, dont un représentant de la presse écrite ou
+audiovisuelle locale ;
+
+3° Des représentants des administrations, notamment l'inspection d'académie et les services de secours, ainsi que des
+établissements publics de l'Etat concernés.
+
+Cette commission donne notamment un avis sur :
+
+a) Les actions à mener pour développer la connaissance des risques, et notamment les programmes de sensibilisation des maires
+à la prévention des risques naturels ;
+
+b) Les documents d'information sur les risques élaborés en application de l'article L. 125-2 ;
+
+c) La délimitation des zones d'érosion et les programmes d'action correspondants ainsi que leur application, définis dans les
+conditions prévues par l'article L. 114-1 du code rural ;
+
+d) La délimitation des zones de rétention temporaire des eaux de crue ou de ruissellement ou des zones de mobilité d'un cours
+d'eau visées à l'article L. 211-12, ainsi que les obligations des propriétaires et des exploitants en résultant ;
+
+e) La programmation, la conception, la mise en oeuvre et l'actualisation des plans de prévention des risques naturels
+prévisibles ;
+
+f) La nature et le montant prévisionnel des aides aux travaux permettant de réduire le risque ;
+
+g) Les expropriations pour cause de risque naturel majeur ;
+
+h) Un rapport, établi par le préfet, sur les autres utilisations du fonds de prévention des risques naturels majeurs ;
+
+i) Les retours d'expériences suite à catastrophes.
+
+Elle est informée annuellement des demandes de reconnaissance de l'état de catastrophe naturelle.
+
+Elle est habilitée à donner un avis sur tout rapport, programme ou projet ayant trait à la prévention ou à la gestion des
+risques naturels qui lui est soumis par le préfet.
+
+Elle peut également être saisie par le préfet de toute réflexion sur l'impact des servitudes instituées en application de
+l'article L. 211-12 sur le développement durable de l'espace rural concerné.
+
+**Nota:**
+
+NOTA : L'ordonnance 2005-727 du 30 juin 2005 a modifié la date d'entrée en vigueur de l'article 32 de l'ordonnance 2004-637.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L114-1
+	  - Code de l'environnement - art. L125-2 (M)
+	  - Code de l'environnement - art. L211-12 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 44 () JORF 31 juillet 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 32 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L655-1 (M)
+
+
+###### Article L565-2
+
+I. - Le préfet peut élaborer des schémas de prévention des risques naturels, tenant compte des documents interdépartementaux
+portant sur les risques existants. Ces schémas précisent les actions à conduire dans le département en matière :
+
+- de connaissance du risque ;
+
+- de surveillance et prévision des phénomènes ;
+
+- d'information et éducation sur les risques ;
+
+- de prise en compte des risques dans l'aménagement du territoire ;
+
+- de travaux permettant de réduire le risque ;
+
+- de retours d'expériences.
+
+La commission départementale des risques naturels majeurs donne un avis sur ces schémas.
+
+II. - Un décret en Conseil d'Etat précise les modalités de mise en oeuvre du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 45 () JORF 31 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-4 du 4 janvier 2005 - art. 1 (Ab)
+	  - Code de l'environnement - art. R565-1 (V)
 
 
 ### Titre VII : Prévention des nuisances acoustiques et visuelles
