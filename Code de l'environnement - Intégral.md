@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-11-14
 
 # Partie législative
 
@@ -41002,7 +41002,7 @@ II. - Un décret en Conseil d'Etat précise les modalités de mise en oeuvre du 
 	  - Code de l'environnement - art. R565-1 (V)
 
 
-### Titre VII : Prévention des nuisances acoustiques et visuelles
+### Titre VII : Prévention des nuisances sonores
 
 #### Chapitre Ier : Lutte contre le bruit
 
@@ -41024,6 +41024,10 @@ l'environnement.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -41064,6 +41068,10 @@ détenteur, la conformité des objets et dispositifs aux prescriptions mentionn�
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L173-1 (V)
@@ -41094,9 +41102,13 @@ l'article L. 571-2 est tenu d'en faire connaître les caractéristiques acoustiq
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-2 (M)
+	  - Code de l'environnement - art. L571-2 (V)
 
 	**Liens**:
 
@@ -41121,9 +41133,13 @@ article est nul de plein droit.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-2 (M)
+	  - Code de l'environnement - art. L571-2 (V)
 
 	**Liens**:
 
@@ -41150,6 +41166,10 @@ route ou du travail.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L571-2 (V)
@@ -41165,26 +41185,26 @@ Sans préjudice des autres dispositions législatives et réglementaires applica
 entreprises, les établissements, centres d'activités ou installations publiques ou privées établis à titre permanent ou
 temporaire, et ne figurant pas à la nomenclature des installations classées pour la protection de l'environnement, peuvent
 être soumises à des prescriptions générales ou, lorsqu'elles sont susceptibles, par le bruit qu'elles provoquent, de
-présenter les dangers ou de causer les troubles mentionnés à l'article L. 571-1, à autorisation.
+présenter les dangers ou de causer les troubles mentionnés à l'article L. 571-1, à autorisation. 
 
 Peuvent être soumises aux mêmes dispositions les activités bruyantes sportives et de plein air susceptibles de causer des
-nuisances sonores.
+nuisances sonores. 
 
 La liste des activités soumises à autorisation est définie dans une nomenclature des activités bruyantes établie par décret
-en Conseil d'Etat pris après avis du Conseil national du bruit.
+en Conseil d'Etat pris après avis du Conseil national du bruit. 
 
 Les prescriptions générales visées au premier alinéa et les prescriptions imposées aux activités soumises à autorisation
 précisent les mesures de prévention, d'aménagement ou d'isolation phonique applicables aux activités, les conditions
 d'éloignement de ces activités des habitations ainsi que les modalités selon lesquelles sont effectués les contrôles
-techniques.
+techniques. 
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment la procédure de délivrance de
 l'autorisation, les documents à fournir à l'appui de la demande d'autorisation et les modalités d'information ou de
-consultation du public.
+consultation du public. 
 
 La délivrance de l'autorisation visée au premier alinéa est subordonnée à la réalisation d'une étude d'impact dans les
 conditions fixées par les articles L. 122-1 à L. 122-3 et soumise à consultation du public dans des conditions fixées par
-décret.
+décret. 
 
 Les délais et conditions de mise en conformité des activités existantes aux prescriptions établies en application du présent
 article sont fixés par décret en Conseil d'Etat.
@@ -41201,6 +41221,15 @@ article sont fixés par décret en Conseil d'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-1 (V)
+	  - Code de l'environnement - art. L571-1 (V)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L173-1 (V)
@@ -41208,11 +41237,6 @@ article sont fixés par décret en Conseil d'Etat.
 	  - Code de l'environnement - art. L571-23 (VT)
 	  - Code de l'environnement - art. L571-24 (VT)
 	  - Code de l'environnement - art. L571-8 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L571-1 (M)
-	  - Code de l'environnement L571-1, L122-1 à L122-3
 
 	**Liens**:
 
@@ -41248,6 +41272,10 @@ Un décret en Conseil d'Etat fixe les modalités d'application de cet article.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R227-16 (VD)
@@ -41262,7 +41290,7 @@ Les dispositions de l'article L. 571-6 ne sont pas applicables aux activités et
 nationale, des services publics de protection civile et de lutte contre l'incendie, ainsi qu'aux aménagements et
 infrastructures de transports terrestres soumis aux dispositions des articles L. 571-9 et L. 571-10 du présent code et L.
 111-11, L. 111-11-1 et L. 111-11-2 du code de la construction et de l'habitation ainsi qu'aux aérodromes dont la création est
-soumise à arrêté ministériel.
+soumise à arrêté ministériel. 
 
 Toutefois, les prescriptions visant à limiter les nuisances sonores imposées à ces activités et installations par l'autorité
 administrative dont elles relèvent sont portées à la connaissance du public.
@@ -41279,11 +41307,15 @@ administrative dont elles relèvent sont portées à la connaissance du public.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-10 (M)
-	  - Code de l'environnement - art. L571-6 (M)
-	  - Code de l'environnement - art. L571-9 (M)
+	  - Code de la construction et de l'habitation. - art. L111-11 (V)
+	  - Code de l'environnement - art. L571-6 (V)
+	  - Code de l'environnement - art. L571-9 (V)
 
 	**Liens**:
 
@@ -41323,6 +41355,10 @@ publique, comporte les mesures envisagées pour supprimer ou réduire les consé
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code des transports - art. L1521-2 (VD)
@@ -41356,6 +41392,10 @@ l'information des constructeurs et du classement des infrastructures en fonction
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Décret n°2017-983 du 10 mai 2017 - art. 2
@@ -41384,6 +41424,10 @@ de l'urbanisme (livre Ier, titre IV, chapitre VII).
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code des transports - art. L6361-7 (V)
@@ -41404,6 +41448,118 @@ Les dispositions relatives à l'Autorité de contrôle des nuisances aéroportua
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+
+##### Sous-section 3 : Commission consultative de l'environnement
+
+###### Article L571-13
+
+I. - L'autorité administrative peut créer, pour tout aérodrome visé à l'article L. 147-2 du code de l'urbanisme, une
+commission consultative de l'environnement. Cette création est de droit lorsque la demande en est faite par une commune dont
+une partie du territoire est couverte par le plan d'exposition au bruit de l'aérodrome. La création est de droit, également,
+pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts (1).
+
+II. - La commission est consultée sur toute question d'importance relative à l'aménagement ou à l'exploitation de l'aérodrome
+qui pourrait avoir une incidence sur les zones affectées par le bruit. Elle peut également, de sa propre initiative, émettre
+des recommandations sur ces questions. Lorsque l'un des aérodromes visés au I de l'article 1609 quatervicies A du code
+général des impôts est concerné, ces recommandations sont transmises à l'Autorité de contrôle des nuisances sonores
+aéroportuaires. La commission consultative de l'environnement coordonne, le cas échéant, la rédaction des documents écrits
+qui formalisent les engagements pris par les différentes parties intéressées à l'exploitation de l'aérodrome en vue d'assurer
+la maîtrise des nuisances sonores liées à cette exploitation.
+
+III. - Notamment pour les chartes de qualité de l'environnement sonore, elle assure le suivi de leur mise en oeuvre. Elle
+peut saisir l'Autorité de contrôle des nuisances sonores aéroportuaires de toute question relative au respect de ces chartes
+et de toute demande d'étude ou d'expertise.
+
+IV. - Les avis de la commission sont motivés et détaillent la position de chacun de ses membres. Ils sont rendus publics.
+
+V. - Pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts, la commission établit un
+rapport annuel rendant compte de son activité. Ce rapport est rendu public.
+
+VI. - Les moyens de fonctionnement de la commission sont mis à sa disposition par l'exploitant de l'aérodrome.
+
+VII. - La commission se réunit au moins une fois par an. Sa réunion est de droit lorsque le tiers de ses membres en fait la
+demande ou le comité permanent.
+
+VIII. - La commission peut créer en son sein un comité permanent représentatif de sa propre composition et qui exerce les
+compétences prévues au II du présent article. La création de ce comité permanent est de droit pour les commissions
+consultatives de l'environnement des aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts.
+
+IX. - La commission ou son comité permanent entend à sa demande toute personne concernée par les nuisances sonores résultant
+des trajectoires de départ, d'attente et d'approche qui ne serait pas représentée au sein de la commission consultative de
+l'environnement.
+
+X. - Le comité permanent constitue la commission consultative mentionnée à l'article L. 571-16. Toutefois, lorsque le comité
+permanent siège en cette qualité, les représentants de l'Etat et du gestionnaire d'aérodrome assistent avec voix délibérative
+à ses réunions, conformément à l'article L. 571-16. Un arrêté conjoint des ministres chargés de l'économie, de l'aviation
+civile et de l'environnement détermine les modalités d'application et la date de mise en oeuvre de cet alinéa, qui entre en
+vigueur, pour chaque commission, à la fin de son mandat en cours à la date du 13 juillet 1999.
+
+XI. - Cette commission comprend :
+
+1° Pour un tiers de ses membres, des représentants des professions aéronautiques ;
+
+2° Pour un tiers, des représentants des collectivités locales intéressées ;
+
+3° Pour un tiers, des représentants des associations de riverains de l'aérodrome et des associations de protection de
+l'environnement et du cadre de vie concernées par l'environnement aéroportuaire.
+
+XII. - Elle est présidée par le représentant de l'Etat. Les représentants des administrations intéressées assistent à ses
+réunions.
+
+XIII. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Nota:**
+
+NOTA : (1) Une erreur matérielle s'est glissée dans la rédaction de l'article 19 III (2, a) de la loi n° 2003-1312 du 30
+décembre 2003. La référence faite à l'article 1609 quatervicies A du code général des douanes doit être lue comme "code
+général des impôts".
+
+NOTA : La date d'entrée en vigueur de l'article 31 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1999-07-13
+	  - CGI 1609 quatervicies A
+	  - Code de l'urbanisme - art. L147-2 (V)
+	  - Code de l'environnement - art. L571-16 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (M)
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°87-341 du 21 mai 1987 - art. 6 (Ab)
+	  - Arrêté du 24 août 2001 - art. 1 (Ab)
+	  - Code des transports - art. L6361-5 (V)
+	  - Code des transports - art. L6361-7 (V)
+	  - Code des transports - art. L6783-11 (V)
+	  - Code de l'aviation civile - art. L227-3 (VT)
+	  - Code de l'aviation civile - art. L227-5 (VT)
+	  - Code de l'environnement - art. L571-13 (V)
+	  - Code de l'environnement - art. R571-70 (V)
+	  - Code de l'environnement - art. R571-71 (V)
+	  - Code de l'environnement - art. R571-73 (V)
+	  - Code de l'environnement - art. R571-78 (V)
+	  - Code de l'environnement - art. R571-81 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 19 (V) JORF 31 décembre 2003
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 
 ##### Sous-section 4 : Aide aux riverains
 
@@ -41416,10 +41572,6 @@ nuisances sonores dans des conditions fixées par décret en Conseil d'Etat. Pou
 la taxe instituée par ce même article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 quatervicies A
 
 	**Anciens textes**:
 
@@ -41441,7 +41593,7 @@ la taxe instituée par ce même article.
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 31 décembre 2003
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
 
 
 ###### Article L571-15
@@ -41468,7 +41620,7 @@ dont les modalités d'établissement et de révision sont définies par décret.
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 31 décembre 2003
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -41522,35 +41674,36 @@ La composition et les règles de fonctionnement de cette commission sont défini
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 31 décembre 2003
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
 
 
 ##### Section 5 : Contrôles et sanctions administratifs
 
 ###### Article L571-17
 
-I. - Indépendamment des poursuites pénales, l'autorité administrative compétente peut, après mise en demeure et procédure
+I.-Indépendamment des poursuites pénales, l'autorité administrative compétente peut, après mise en demeure et procédure
 contradictoire, prendre toutes mesures destinées à faire cesser les troubles résultant de l'émission ou de la propagation de
 bruits ayant pour origine tout objet ou dispositif non pourvu de l'homologation ou de la certification prévues par l'article
 L. 571-2, ou ne satisfaisant pas aux prescriptions établies en application de cet article, et décider à titre provisoire
 l'arrêt du fonctionnement, l'immobilisation, l'interdiction de mise sur le marché, la saisie en tout lieu où il se trouve, ou
-demander au juge que l'objet ou le dispositif soit rendu inutilisable ou détruit.
+demander au juge que l'objet ou le dispositif soit rendu inutilisable ou détruit. 
 
-II. - Indépendamment des poursuites pénales encourues, lorsque l'autorité administrative compétente a constaté
-l'inobservation des dispositions prévues à l'article L. 571-6 ou des règlements et décisions individuelles pris pour son
-application, elle met en demeure l'exploitant ou le responsable de l'activité d'y satisfaire dans un délai déterminé. Si, à
-l'expiration du délai fixé pour l'exécution, il n'a pas été obtempéré à cette injonction, l'autorité administrative
-compétente peut, après avoir mis l'intéressé en mesure de présenter sa défense :
+II.-Indépendamment des poursuites pénales encourues, lorsque l'autorité administrative compétente a constaté l'inobservation
+des dispositions prévues à l'article L. 571-6 ou des règlements et décisions individuelles pris pour son application, elle
+met en demeure l'exploitant ou le responsable de l'activité d'y satisfaire dans un délai déterminé. Si, à l'expiration du
+délai fixé pour l'exécution, il n'a pas été obtempéré à cette injonction, l'autorité administrative compétente peut, après
+avoir mis l'intéressé en mesure de présenter sa défense : 
 
 1° Obliger l'exploitant ou le responsable de l'activité à consigner entre les mains d'un comptable public une somme
 correspondant au montant des travaux à réaliser, laquelle sera restituée au fur et à mesure de l'exécution des mesures
-prescrites ; il est procédé au recouvrement de cette somme comme en matière de créance étrangère à l'impôt et au domaine ;
+prescrites ; il est procédé au recouvrement de cette somme comme en matière de créance étrangère à l'impôt et au domaine ; 
 
-2° Faire procéder d'office, aux frais de l'exploitant ou du responsable de l'activité, à l'exécution des mesures prescrites ;
+2° Faire procéder d'office, aux frais de l'exploitant ou du responsable de l'activité, à l'exécution des mesures
+prescrites ; 
 
-3° Suspendre l'activité jusqu'à exécution des mesures prescrites.
+3° Suspendre l'activité jusqu'à exécution des mesures prescrites. 
 
-III. - Les sommes consignées en application des dispositions du 1° du II peuvent être utilisées pour régler les dépenses
+III.-Les sommes consignées en application des dispositions du 1° du II peuvent être utilisées pour régler les dépenses
 entraînées par l'exécution d'office des mesures prévues au 2° du II.
 
 **Liens relatifs à cet article**
@@ -41565,10 +41718,18 @@ entraînées par l'exécution d'office des mesures prévues au 2° du II.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 18
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-2 (M)
-	  - Code de l'environnement - art. L571-6 (M)
+	  - Code de l'environnement - art. L571-2 (V)
+	  - Code de l'environnement - art. L571-6 (V)
 
 	**Cité par**:
 
@@ -41579,7 +41740,7 @@ entraînées par l'exécution d'office des mesures prévues au 2° du II.
 
 ##### Section 6 : Dispositions pénales
 
-##### Sous-section 1 : Constatation des infractions.
+##### Sous-section 1 : Constatation des infractions
 
 ###### Article L571-18
 
@@ -41614,6 +41775,10 @@ que définies par décret en Conseil d'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Arrêté du 14 avril 2009 - art. 3 (V)
@@ -41638,10 +41803,10 @@ En vue de rechercher et constater les infractions, les agents mentionnés à l'a
 installations et lieux où sont réalisées les opérations à l'origine des infractions, à l'exclusion des domiciles ou de la
 partie des locaux qui sert de domicile ; ils peuvent demander la communication de tout document professionnel et en prendre
 copie et recueillir sur convocation ou sur place les renseignements et justifications propres à l'accomplissement de leur
-mission. Les propriétaires et exploitants sont tenus de leur livrer passage.
+mission. Les propriétaires et exploitants sont tenus de leur livrer passage. 
 
 Ils ne peuvent accéder à ces locaux qu'entre 8 heures et 20 heures ou en dehors de ces heures si l'établissement est ouvert
-au public ou lorsqu'une activité est en cours.
+au public ou lorsqu'une activité est en cours. 
 
 Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions. Il
 peut s'opposer à ces opérations.
@@ -41658,9 +41823,13 @@ peut s'opposer à ces opérations.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-18 (M)
+	  - Code de l'environnement - art. L571-18 (VT)
 
 
 ###### Article L571-20
@@ -41685,38 +41854,41 @@ Une copie en est également remise, dans le même délai, à l'intéressé.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
 
 ###### Article L571-21
 
-I. - Dans le cadre des opérations prévues à l'article L. 571-18, les agents mentionnés audit article, à l'exception des
-fonctionnaires et agents des collectivités territoriales, peuvent :
+I.-Dans le cadre des opérations prévues à l'article L. 571-18, les agents mentionnés audit article, à l'exception des
+fonctionnaires et agents des collectivités territoriales, peuvent : 
 
 1° Prélever des échantillons en vue de faire effectuer des analyses ou des essais ; les modalités d'application du présent
-alinéa sont prévues par décret en Conseil d'Etat ;
+alinéa sont prévues par décret en Conseil d'Etat ; 
 
 2° Consigner, dans l'attente des contrôles nécessaires, les objets ou dispositifs suspectés d'être non conformes aux
-dispositions du présent chapitre et aux textes pris pour son application.
+dispositions du présent chapitre et aux textes pris pour son application. 
 
-II. - Il ne peut être procédé à cette consignation que sur autorisation du président du tribunal de grande instance dans le
-ressort duquel sont situés les lieux de détention des objets et dispositifs litigieux ou du magistrat délégué à cet effet.
+II.-Il ne peut être procédé à cette consignation que sur autorisation du président du tribunal de grande instance dans le
+ressort duquel sont situés les lieux de détention des objets et dispositifs litigieux ou du magistrat délégué à cet effet. 
 
-III. - Ce magistrat est saisi sur requête par les agents mentionnés au présent article. Il statue dans les vingt-quatre
-heures.
+III.-Ce magistrat est saisi sur requête par les agents mentionnés au présent article. Il statue dans les vingt-quatre
+heures. 
 
-IV. - Le président du tribunal de grande instance vérifie que la demande de consignation qui lui est soumise est fondée.
-Cette demande comporte tous les éléments d'information de nature à justifier cette mesure.
+IV.-Le président du tribunal de grande instance vérifie que la demande de consignation qui lui est soumise est fondée. Cette
+demande comporte tous les éléments d'information de nature à justifier cette mesure. 
 
-V. - La mesure de consignation ne peut excéder quinze jours. En cas de difficultés particulières liées à l'examen des objets
-en cause, le président du tribunal de grande instance peut renouveler la mesure pour une même durée par une ordonnance
-motivée.
+V.-La mesure de consignation ne peut excéder quinze jours. En cas de difficultés particulières liées à l'examen des objets en
+cause, le président du tribunal de grande instance peut renouveler la mesure pour une même durée par une ordonnance motivée. 
 
-VI. - Les objets consignés sont laissés à la charge de leur détenteur.
+VI.-Les objets consignés sont laissés à la charge de leur détenteur. 
 
-VII. - Le président du tribunal de grande instance peut ordonner mainlevée de la mesure de consignation à tout moment. Cette
+VII.-Le président du tribunal de grande instance peut ordonner mainlevée de la mesure de consignation à tout moment. Cette
 mainlevée est de droit dans tous les cas où les agents habilités ont constaté la conformité des objets consignés ou leur mise
-en conformité.
+en conformité. 
 
-VIII. - En cas de non-conformité, les frais éventuels sont mis à la charge de l'auteur de l'infraction dans des conditions
+VIII.-En cas de non-conformité, les frais éventuels sont mis à la charge de l'auteur de l'infraction dans des conditions
 fixées par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -41731,12 +41903,20 @@ fixées par un décret en Conseil d'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 18
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-18 (M)
+	  - Code de l'environnement - art. L571-18
 
 
-##### Sous-section 2 : Sanctions.
+##### Sous-section 2 : Sanctions
 
 ###### Article L571-22
 
@@ -41757,11 +41937,15 @@ par les agents mentionnés à l'article L. 571-18.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 18
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-18 (M)
+	  - Code de l'environnement - art. L571-18
 
 	**Liens**:
 
@@ -41771,10 +41955,10 @@ par les agents mentionnés à l'article L. 571-18.
 
 ###### Article L571-23
 
-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de :
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait de : 
 
 1° Fabriquer, importer ou mettre sur le marché des objets ou des dispositifs non pourvus de l'homologation ou de la
-certification exigées en application de l'article L. 571-2 ;
+certification exigées en application de l'article L. 571-2 ; 
 
 2° Exercer une activité sans l'autorisation prévue à l'article L. 571-6, ou poursuivre l'exercice d'une activité sans se
 conformer à la mise en demeure prévue au II de l'article L. 571-17.
@@ -41788,18 +41972,22 @@ conformer à la mise en demeure prévue au II de l'article L. 571-17.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 18
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-17 (M)
-	  - Code de l'environnement - art. L571-2 (M)
-	  - Code de l'environnement - art. L571-6 (M)
+	  - Code de l'environnement - art. L571-17
+	  - Code de l'environnement - art. L571-2
+	  - Code de l'environnement - art. L571-6
 
 	**Liens**:
 
@@ -41810,7 +41998,7 @@ conformer à la mise en demeure prévue au II de l'article L. 571-17.
 ###### Article L571-24
 
 En cas de condamnation, le tribunal peut ordonner, aux frais du condamné, le retrait, la saisie ou la destruction des objets
-ou dispositifs sur lesquels a porté l'infraction.
+ou dispositifs sur lesquels a porté l'infraction. 
 
 De même, en cas de condamnation pour non respect des dispositions de l'article L. 571-6, le tribunal peut prononcer
 l'interdiction temporaire de l'activité en cause jusqu'à ce que les dispositions auxquelles il a été contrevenu aient été
@@ -41828,9 +42016,17 @@ respectées.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 18
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L571-6 (M)
+	  - Code de l'environnement - art. L571-6
 
 
 ###### Article L571-25
@@ -41848,7 +42044,7 @@ les cas, la décision peut être assortie de l'exécution provisoire.
 A l'audience de renvoi, qui doit intervenir au plus tard dans le délai d'un an à compter de la décision d'ajournement, le
 tribunal prononce les peines et liquide, s'il y a lieu, l'astreinte. Il peut, le cas échéant, supprimer l'astreinte ou en
 réduire le montant. L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale. Elle ne peut donner lieu à
-contrainte par corps.
+contrainte judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -41861,6 +42057,14 @@ contrainte par corps.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 207 : champ d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
 
 
 ###### Article L571-26
@@ -41881,31 +42085,34 @@ du code pénal, sans toutefois que les frais de cette publicité puissent excéd
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 18
 
 	**Cite**:
 
-	  - Code pénal - art. 131-35 (M)
-	  - Code pénal - art. 434-39 (M)
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 434-39
 
 
-#### Chapitre II : Prévention des nuisances visuelles
+#### Chapitre II : Evaluation, prévention et réduction du bruit dans l'environnement
 
 ###### Article L572-1
 
-La pose de nouvelles lignes électriques aériennes d'une tension inférieure à 63 000 volts est interdite à compter du 1er
-janvier 2000 dans les zones d'habitat dense définies par décret en Conseil d'Etat.
-
-Lorsque des nécessités techniques impératives ou des contraintes topographiques rendent l'enfouissement impossible, ou bien
-lorsque les impacts de cet enfouissement sont jugés supérieurs à ceux d'une pose de ligne aérienne, il peut être dérogé, à
-titre exceptionnel, à cette interdiction par arrêté conjoint du ministre chargé de l'énergie et du ministre chargé de
-l'environnement.
+Le bruit émis dans l'environnement aux abords des principales infrastructures de transport ainsi que dans les grandes unités
+urbaines est évalué et fait l'objet d'actions tendant à le prévenir ou à le réduire, dans les conditions prévues par le
+présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°95-101 1995-02-02 art. 91 II, III
 	  - Loi n°95-101 du 2 février 1995 - art. 91 (Ab)
 
 	**Codifié par**:
@@ -41913,18 +42120,303 @@ l'environnement.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 2° JORF 14 novembre 2004
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
 
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L582-1 (V)
 
 
+###### Article L572-2
+
+Une carte de bruit et un plan de prévention du bruit dans l'environnement sont établis :
+
+1° Pour chacune des infrastructures de transport suivantes :
+
+infrastructures routières et autoroutières dont le trafic annuel est supérieur à trois millions de véhicules, infrastructures
+ferroviaires dont le trafic annuel est supérieur à 30 000 passages de trains, aérodromes civils dont le trafic annuel est
+supérieur à 50 000 mouvements à l'exception des mouvements effectués exclusivement à des fins d'entraînement sur des avions
+légers ;
+
+2° Pour chaque unité urbaine de plus de 100 000 habitants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L572-4 (V)
+	  - Code de l'environnement - art. L572-7 (M)
+	  - Code des transports - art. L1521-1 (VD)
+
+
+###### Article L572-3
+
+Les cartes de bruit sont destinées à permettre l'évaluation globale de l'exposition au bruit dans l'environnement et à
+établir des prévisions générales de son évolution.
+
+Elles comportent un ensemble de représentations graphiques et de données numériques. Elles sont établies en fonction
+d'indicateurs évaluant le niveau sonore fixés dans des conditions définies par décret en Conseil d'Etat.
+
+Les cartes relatives aux unités urbaines prennent en compte le bruit émis par le trafic routier, ferroviaire et aérien ainsi
+que par les activités industrielles et, le cas échéant, d'autres sources de bruit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+	**Cité par**:
+
+	  - Code des transports - art. L1521-1 (VD)
+
+
+###### Article L572-4
+
+I. - Les cartes de bruit sont établies :
+
+1° Par le représentant de l'Etat lorsqu'elles sont relatives aux infrastructures de transport visées au 1° de l'article L.
+572-2 ;
+
+2° Par les présidents des établissements publics de coopération intercommunale compétents en matière d'environnement et
+situés dans le périmètre des unités urbaines de plus de 100 000 habitants, et les maires des communes situées dans ces mêmes
+périmètres mais ne relevant pas de ces établissements publics, lorsqu'elles sont relatives à ces unités urbaines.
+
+II. - Les autorités ou organismes gestionnaires des infrastructures mentionnées au 1° de l'article L. 572-2 transmettent,
+s'il y a lieu, aux autorités mentionnées au I du présent article les éléments nécessaires à l'établissement des cartes de
+bruit dans des délais compatibles avec les échéances fixées par les articles L. 572-5 et L. 572-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L572-2 (M)
+	  - Code de l'environnement - art. L572-5 (V)
+	  - Code de l'environnement - art. L572-9 (M)
+
+
+###### Article L572-5
+
+Les cartes de bruit sont réexaminées et, le cas échéant, révisées, au moins tous les cinq ans.
+
+Les cartes sont rendues publiques, le cas échéant par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L572-10 (V)
+	  - Code de l'environnement - art. L572-4 (V)
+
+
+###### Article L572-6
+
+Les plans de prévention du bruit dans l'environnement tendent à prévenir les effets du bruit, à réduire, si nécessaire, les
+niveaux de bruit, ainsi qu'à protéger les zones calmes. Les zones calmes sont des espaces extérieurs remarquables par leur
+faible exposition au bruit, dans lesquels l'autorité qui établit le plan souhaite maîtriser l'évolution de cette exposition
+compte tenu des activités humaines pratiquées ou prévues.
+
+Ils comportent une évaluation du nombre de personnes exposées à un niveau de bruit excessif et identifient les sources des
+bruits dont les niveaux devraient être réduits.
+
+Ils recensent les mesures prévues par les autorités compétentes pour traiter les situations identifiées par les cartes de
+bruit et notamment lorsque des valeurs limites fixées dans des conditions définies par décret en Conseil d'Etat sont
+dépassées ou risquent de l'être.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2006-361 du 24 mars 2006 - art. 3 (Ab)
+	  - Décret n°2006-361 du 24 mars 2006 - art. 5 (Ab)
+	  - Code de l'environnement - art. R572-4 (V)
+	  - Code de l'environnement - art. R572-5 (V)
+	  - Code de l'environnement - art. R572-8 (V)
+
+
+###### Article L572-7
+
+I. - Les plans de prévention du bruit dans l'environnement relatifs aux infrastructures autoroutières, ferroviaires, ainsi
+qu'aux aérodromes visés au 1° de l'article L. 572-2, sont établis par le représentant de l'Etat.
+
+II. - Les plans relatifs aux infrastructures routières sont établis :
+
+1° Par le représentant de l'Etat, ou le président du conseil exécutif de Corse, pour la voirie nationale ;
+
+2° Par le président du conseil général pour la voirie départementale ;
+
+3° Par le président de l'établissement public de coopération intercommunale ou de l'établissement public d'agglomération
+nouvelle ou par le maire, pour la voirie communale.
+
+III. - Les plans relatifs aux unités urbaines sont établis par les présidents des établissements publics de coopération
+intercommunale compétents en matière d'environnement et situés dans le périmètre de ces unités urbaines et par les maires des
+communes situées dans ces mêmes périmètres mais ne relevant pas de ces établissements publics.
+
+IV. - L'autorité qui élabore le plan s'assure au préalable de l'accord des autorités ou organismes compétents pour décider et
+mettre en oeuvre les mesures qu'il recense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L572-2 (M)
+
+
+###### Article L572-8
+
+Les projets de plans de prévention du bruit dans l'environnement font l'objet d'une consultation du public, dans des
+conditions fixées par décret en Conseil d'Etat.
+
+Les plans de prévention du bruit dans l'environnement sont publiés.
+
+Ils sont réexaminés et, le cas échéant, révisés en cas d'évolution significative des niveaux de bruit identifiés, et en tout
+état de cause au moins tous les cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+
+###### Article L572-9
+
+I. - Les cartes de bruit relatives aux unités urbaines de plus de 250 000 habitants, aux infrastructures routières dont le
+trafic annuel est supérieur à 6 millions de véhicules, aux infrastructures ferroviaires dont le trafic annuel est supérieur à
+60 000 passages de trains, et aux aérodromes dont le trafic annuel dépasse 50 000 mouvements, à l'exception des mouvements
+effectués exclusivement à des fins d'entraînement sur des avions légers, sont publiées le 30 juin 2007 au plus tard. Les
+plans de prévention du bruit dans l'environnement correspondants sont publiés le 18 juillet 2008 au plus tard.
+
+II. - Les autres cartes de bruit sont publiées le 30 juin 2012 au plus tard, et les plans d'action correspondants le 18
+juillet 2013 au plus tard.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L572-10 (V)
+	  - Code de l'environnement - art. L572-4 (M)
+
+
+###### Article L572-10
+
+Les cartes de bruit et plans de prévention du bruit dans l'environnement dont l'établissement incombe à des autorités autres
+que l'Etat sont transmis au représentant de l'Etat. 
+
+Lorsque celui-ci constate qu'une autorité n'a pas établi, réexaminé ou publié une carte ou un plan dans les délais prescrits
+par les dispositions des articles L. 572-5 et L. 572-9, il y procède au lieu et place et aux frais de cette autorité, après
+mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L572-5 (V)
+	  - Code de l'environnement - art. L572-9 (V)
+
+
+###### Article L572-11
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre. Il fixe notamment :
+
+- le contenu et les modalités d'établissement, de publication, de réexamen et de révision des cartes de bruit ;
+
+- le contenu, les modalités d'élaboration, de réexamen, de révision et de publication des plans de prévention du bruit dans
+l'environnement, ainsi que les modalités de coordination et d'association des autorités et organismes compétents pour la mise
+en oeuvre des mesures qu'ils prévoient ;
+
+- les modalités d'information du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+
 ### Titre VIII : Protection du cadre de vie
 
-#### Chapitre unique : Publicité, enseignes et préenseignes
+#### Chapitre Ier : Publicité, enseignes et préenseignes
 
 ##### Section 1 : Principes généraux
 
@@ -41944,6 +42436,10 @@ d'enseignes et de préenseignes, conformément aux lois en vigueur et sous rése
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -41967,6 +42463,10 @@ si l'utilisation de celui-ci est principalement celle d'un support de publicité
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -42000,6 +42500,10 @@ déterminée.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L581-44 (V)
@@ -42008,7 +42512,7 @@ déterminée.
 
 ##### Section 2 : Publicité
 
-##### Sous-section 1 : Dispositions générales.
+##### Sous-section 1 : Dispositions générales
 
 ###### Article L581-4
 
@@ -42069,6 +42573,10 @@ préfet.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 
 ###### Article L581-5
 
@@ -42085,6 +42593,10 @@ personne physique ou morale qui l'a apposée ou fait apposer.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -42110,6 +42622,10 @@ déclaration préalable auprès du maire et du préfet dans des conditions fixé
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L581-19 (VD)
@@ -42119,7 +42635,7 @@ déclaration préalable auprès du maire et du préfet dans des conditions fixé
 	  - Code de l'environnement - art. R581-73 (V)
 
 
-##### Sous-section 2 : Publicité en dehors des agglomérations.
+##### Sous-section 2 : Publicité en dehors des agglomérations
 
 ###### Article L581-7
 
@@ -42143,6 +42659,10 @@ par les actes qui les instituent.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L581-14 (V)
@@ -42165,7 +42685,7 @@ par les actes qui les instituent.
 	  - Code de l'environnement - art. L581-4 (M)
 
 
-##### Sous-section 3 : Publicité à l'intérieur des agglomérations.
+##### Sous-section 3 : Publicité à l'intérieur des agglomérations
 
 ###### Article L581-8
 
@@ -42216,6 +42736,10 @@ de liquidation des biens ou lorsqu'une ou plusieurs zones de réglementations sp
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -42272,6 +42796,10 @@ par transparence est soumise à l'autorisation du maire.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L581-10 (M)
@@ -42312,9 +42840,17 @@ par les actes instituant lesdites zones.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 41
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-14 (M)
+	  - Code de l'environnement - art. L581-14
 
 	**Cité par**:
 
@@ -42353,41 +42889,9 @@ des modalités fixées par le décret visé audit article.
 
 	  - Loi n°79-1150 du 29 décembre 1979 - art. 10 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L581-13 (M)
-	  - Code de l'environnement - art. L581-8 (M)
-	  - Code de l'environnement - art. L581-9 (M)
-
-
-###### Article L581-12
-
-L'acte instituant une zone de publicité élargie y soumet la publicité à des prescriptions moins restrictives que celles du
-régime fixé en application de l'article L. 581-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°79-1150 du 29 décembre 1979 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Abrogé par**:
 
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 36
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L581-9 (M)
 
 
 ###### Article L581-13
@@ -42417,6 +42921,10 @@ d'autres emplacements.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L581-11 (V)
@@ -42428,12 +42936,12 @@ d'autres emplacements.
 	  - Code de l'environnement - art. R581-2 (V)
 
 
-##### Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie.
+##### Sous-section 4 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie
 
 ###### Article L581-14
 
-I.-La délimitation des zones de publicité autorisée, des zones de publicité restreinte ou des zones de publicité élargie,
-ainsi que les prescriptions qui s'y appliquent, sont établies à la demande du conseil municipal. 
+I. - La délimitation des zones de publicité autorisée, des zones de publicité restreinte ou des zones de publicité élargie,
+ainsi que les prescriptions qui s'y appliquent, sont établies à la demande du conseil municipal.
 
 Le projet de réglementation spéciale est préparé par un groupe de travail dont la composition est fixée par arrêté
 préfectoral. Il est présidé par le maire qui, en cette qualité, dispose d'une voix prépondérante. Il comprend, en nombre
@@ -42442,30 +42950,30 @@ intercommunal compétent en matière d'urbanisme, d'une part, et, d'autre part, 
 chambres de commerce et d'industrie, les chambres de métiers, les chambres d'agriculture, les associations locales d'usagers
 visées à l'article L. 121-8 du code de l'urbanisme, ainsi que les représentants des professions directement intéressées,
 désignés dans des conditions fixées par décret en Conseil d'Etat, sont, s'ils le demandent, associés, avec voix consultative,
-à ce groupe de travail. 
+à ce groupe de travail.
 
 Le projet ainsi élaboré est transmis pour avis à la commission départementale compétente en matière de sites. Cet avis est
-réputé favorable s'il n'est pas intervenu dans un délai de deux mois. 
+réputé favorable s'il n'est pas intervenu dans un délai de deux mois.
 
 Le projet établi par le groupe de travail et qui a recueilli l'avis favorable de la commission départementale compétente en
-matière de sites est arrêté par le maire après délibération du conseil municipal. 
+matière de sites est arrêté par le maire après délibération du conseil municipal.
 
 En cas d'avis défavorable de cette commission ou d'opposition du conseil municipal, il est procédé à une nouvelle
-délibération du groupe de travail sur un nouveau projet présenté par le préfet. 
+délibération du groupe de travail sur un nouveau projet présenté par le préfet.
 
 Si, après cette nouvelle délibération, le conseil municipal s'oppose au projet, éventuellement modifié, qui lui est présenté
 par le préfet ou émet des réserves, la délimitation des zones ainsi que les prescriptions qui s'y appliquent sont fixées par
-arrêté préfectoral ou, sur demande du maire, par arrêté ministériel. 
+arrêté préfectoral ou, sur demande du maire, par arrêté ministériel.
 
 La délimitation des zones et les prescriptions qui s'y appliquent peuvent être modifiées dans la forme prévue pour leur
 établissement.
 
 A défaut de proposition du conseil municipal, le préfet peut, après consultation du maire, constituer d'office le groupe de
-travail prévu au présent article. 
+travail prévu au présent article.
 
-II.-En vue de présenter un projet commun, des communes limitrophes, même si elles dépendent de plusieurs départements,
+II. - En vue de présenter un projet commun, des communes limitrophes, même si elles dépendent de plusieurs départements,
 peuvent constituer un seul groupe de travail, présidé par le maire d'une des communes intéressées, qui, en cette qualité,
-dispose d'une voix prépondérante. 
+dispose d'une voix prépondérante.
 
 La composition et le fonctionnement du groupe de travail mentionné à l'alinéa précédent ainsi que la procédure de
 délimitation des zones de publicité autorisée, des zones de publicité restreinte ou des zones de publicité élargie et
@@ -42488,6 +42996,10 @@ convient de lire "L. 121-5".
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -42512,10 +43024,10 @@ convient de lire "L. 121-5".
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-8 (V)
+	  - Code de l'urbanisme - art. L121-8 (M)
 
 
-##### Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité.
+##### Sous-section 5 : Dispositions particulières applicables à certains modes d'exercice de la publicité
 
 ###### Article L581-15
 
@@ -42536,6 +43048,10 @@ publicitaires.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -42560,9 +43076,13 @@ l'article L. 581-13, les palissades de chantier lorsque leur installation a donn
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-13 (M)
+	  - Code de l'environnement - art. L581-13 (V)
 
 
 ###### Article L581-17
@@ -42582,6 +43102,10 @@ dans les lieux considérés.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -42620,6 +43144,10 @@ Les enseignes à faisceau de rayonnement laser sont soumises à l'autorisation d
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Décret n°2015-1408 du 5 novembre 2015 - art. Annexe 1 (V)
@@ -42643,10 +43171,10 @@ Les enseignes à faisceau de rayonnement laser sont soumises à l'autorisation d
 
 ###### Article L581-19
 
-Les préenseignes sont soumises aux dispositions qui régissent la publicité.
+Les préenseignes sont soumises aux dispositions qui régissent la publicité. 
 
 Les dispositions relatives à la déclaration prévue par l'article L. 581-6 sont applicables aux préenseignes dans des
-conditions, notamment de dimensions, précisées par décret en Conseil d'Etat.
+conditions, notamment de dimensions, précisées par décret en Conseil d'Etat. 
 
 Un décret en Conseil d'Etat détermine les cas et les conditions dans lesquels l'installation de préenseignes peut déroger aux
 dispositions visées au premier alinéa du présent article lorsqu'il s'agit de signaler les activités soit particulièrement
@@ -42665,6 +43193,10 @@ publique, soit en relation avec la fabrication ou la vente de produits du terroi
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L581-20 (V)
@@ -42678,22 +43210,22 @@ publique, soit en relation avec la fabrication ou la vente de produits du terroi
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-6 (M)
+	  - Code de l'environnement - art. L581-6 (V)
 
 
 ###### Article L581-20
 
-I. - Le décret prévu à l'article L. 581-18 détermine les conditions dans lesquelles peuvent être temporairement apposées sur
-des immeubles des enseignes annonçant :
+I.-Le décret prévu à l'article L. 581-18 détermine les conditions dans lesquelles peuvent être temporairement apposées sur
+des immeubles des enseignes annonçant : 
 
-1° Des opérations exceptionnelles qui ont pour objet lesdits immeubles ou sont relatives aux activités qui s'y exercent ;
+1° Des opérations exceptionnelles qui ont pour objet lesdits immeubles ou sont relatives aux activités qui s'y exercent ; 
 
-2° Des manifestations exceptionnelles à caractère culturel ou touristique qui y ont lieu ou y auront lieu.
+2° Des manifestations exceptionnelles à caractère culturel ou touristique qui y ont lieu ou y auront lieu. 
 
-II. - Le décret prévu à l'article L. 581-19 détermine les conditions dans lesquelles peuvent être temporairement apposées des
-préenseignes indiquant la proximité des immeubles mentionnés au paragraphe I.
+II.-Le décret prévu à l'article L. 581-19 détermine les conditions dans lesquelles peuvent être temporairement apposées des
+préenseignes indiquant la proximité des immeubles mentionnés au paragraphe I. 
 
-III. - Le décret prévu à l'article L. 581-19 détermine les conditions dans lesquelles peuvent être apposées des préenseignes
+III.-Le décret prévu à l'article L. 581-19 détermine les conditions dans lesquelles peuvent être apposées des préenseignes
 indiquant la proximité de monuments historiques, classés ou inscrits, ouverts à la visite.
 
 **Liens relatifs à cet article**
@@ -42707,6 +43239,10 @@ indiquant la proximité de monuments historiques, classés ou inscrits, ouverts 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Arrêté du 23 mars 2015 - art. 1 (V)
@@ -42715,7 +43251,7 @@ indiquant la proximité de monuments historiques, classés ou inscrits, ouverts 
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-18 (M)
+	  - Code de l'environnement - art. L581-18 (V)
 
 
 ##### Section 4 : Dispositions communes
@@ -42744,6 +43280,10 @@ sauvegardé.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 
 ###### Article L581-22
 
@@ -42763,6 +43303,10 @@ Conseil d'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 
 ###### Article L581-23
 
@@ -42780,6 +43324,10 @@ disposition du public.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 
 ###### Article L581-24
 
@@ -42795,6 +43343,10 @@ Nul ne peut apposer de publicité ni installer une préenseigne sur un immeuble 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -42836,6 +43388,10 @@ Les dispositions du présent article sont d'ordre public.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1649 B (V)
@@ -42872,7 +43428,7 @@ L. 581-24.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cite**:
 
@@ -42917,6 +43473,10 @@ ou préenseignes ont été réalisées.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L581-14-2 (V)
@@ -42950,6 +43510,10 @@ l'article L. 581-30.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cite**:
 
@@ -42985,6 +43549,10 @@ laquelle la publicité a été réalisée.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L581-24 (M)
@@ -43019,12 +43587,23 @@ pour l'exécution totale de ses obligations qu'en raison de circonstances indép
 
 **Nota:**
 
-NOTA : (1) Pour l'année 2003, la nouvelle valeur ainsi calculée à partir de l'indice des prix à la consommation des ménages
-calculée par l'INSEE pour le mois de janvier de l'année considérée, publiée au JORF du 28 février 2003, s'applique à tous les
-arrêtés pris postérieurement à cette date.
+(1) Pour l'année 2004, le montant de l'astreinte est porté à 85,80 euros par application de l'indice INSEE publié au JORF du
+28 février 2004. 
 
-Pour l'année 2004, le montant de l'astreinte est porté à 85,80 euros par application de l'indice INSEE publié au JORF du 28
-février 2004.
+Pour l'année 2005, le montant de l'astreinte est porté à 87,15 euros par application de l'indice INSEE publié au JORF du 26
+février 2005. 
+
+Pour l'année 2006, le montant de l'astreinte est porté à 88,96 euros par application de l'indice INSEE publié au JORF du 24
+février 2006. 
+
+Pour l'année 2007, le montant de l'astreinte est porté à 90,08 euros par application de l'indice INSEE publié au JORF du 25
+février 2007.
+
+Pour l'année 2008, le montant de l'astreinte est porté à 92,57 euros par application de l'indice INSEE publié au JORF du 23
+février 2008.
+
+Pour l'année 2009, le montant de l'astreinte est porté à 93,21 euros par application de l'indice INSEE publié au JORF du 22
+février 2009.
 
 **Liens relatifs à cet article**
 
@@ -43039,7 +43618,7 @@ février 2004.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cite**:
 
@@ -43056,9 +43635,8 @@ février 2004.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
 ###### Article L581-31
@@ -43087,7 +43665,7 @@ lieux, la date de commencement des travaux.
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -43124,6 +43702,10 @@ accord, les publicités ou préenseignes, en font la demande.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L141-1 (M)
@@ -43149,6 +43731,10 @@ Le maire ou le préfet, selon le cas, adresse au procureur de la République cop
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cite**:
 
@@ -43196,7 +43782,7 @@ III. - L'amende est appliquée autant de fois qu'il y a de publicités, d'enseig
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cite**:
 
@@ -43228,7 +43814,7 @@ III. - L'amende est appliquée autant de fois qu'il y a de publicités, d'enseig
 
 Est puni des mêmes peines que l'auteur de l'infraction, celui pour le compte duquel la publicité est réalisée, lorsque la
 publicité ou le dispositif publicitaire ne comporte pas les mentions visées à l'article L. 581-5 ou lorsque celles-ci sont
-inexactes ou incomplètes.
+inexactes ou incomplètes. 
 
 Dans le cas d'une publicité de caractère électoral, l'autorité administrative compétente met en demeure celui pour le compte
 duquel cette publicité a été réalisée de la supprimer et de procéder à la remise en état des lieux dans un délai de deux
@@ -43245,6 +43831,10 @@ jours francs. Si cette mise en demeure est suivie d'effet, les dispositions de l
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L581-39 (M)
@@ -43257,7 +43847,7 @@ jours francs. Si cette mise en demeure est suivie d'effet, les dispositions de l
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-5 (M)
+	  - Code de l'environnement - art. L581-5 (V)
 
 
 ###### Article L581-36
@@ -43280,7 +43870,7 @@ ordonne, le cas échéant, la remise en état des lieux. Il peut déclarer sa d�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -43314,11 +43904,11 @@ conditions prévues au troisième alinéa de l'article L. 581-30.
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-30 (M)
+	  - Code de l'environnement - art. L581-30 (V)
 
 	**Liens**:
 
@@ -43347,14 +43937,18 @@ dispositions auxquelles il est contrevenu.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L581-39 (M)
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L581-39 (M)
 	  - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L581-39 (M)
 
 
 ###### Article L581-39
@@ -43373,12 +43967,9 @@ applicables aux contraventions aux dispositions réglementaires prises pour l'ap
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L581-35 (M)
-	  - Code de l'environnement - art. L581-36 (M)
-	  - Code de l'environnement - art. L581-37 (M)
-	  - Code de l'environnement - art. L581-38 (M)
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Liens**:
 
@@ -43388,6 +43979,10 @@ applicables aux contraventions aux dispositions réglementaires prises pour l'ap
 	  - SPEC_APPLI: Code de l'environnement - art. L581-38 (V)
 	  - SPEC_APPLI: Code de l'environnement - art. L581-40 (M)
 	  - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L581-35 (V)
 
 	**Cité par**:
 
@@ -43419,6 +44014,15 @@ constatation au procureur de la République, au maire et au préfet.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°1913-12-31
+	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - Code de l'environnement - art. L581-27 (M)
+	  - Code de l'environnement - art. L581-39 (M)
+	  - Code de la route L24
+
 	**Anciens textes**:
 
 	  - Loi n°79-1150 du 29 décembre 1979 - art. 36 (Ab)
@@ -43428,14 +44032,9 @@ constatation au procureur de la République, au maire et au préfet.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. 20 (M)
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
-	  - Code de l'environnement - art. L581-27 (M)
-	  - Code de l'environnement - art. L581-39 (M)
-	  - Code de la route L24
-	  - Loi n°1913-12-31
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Cité par**:
 
@@ -43467,11 +44066,9 @@ l'article L. 1211-1 du code général des collectivités territoriales.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1211-1 (V)
-	  - Code de l'environnement - art. L581-34 (M)
-	  - Code de l'environnement - art. L581-35 (M)
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
 
 	**Liens**:
 
@@ -43495,9 +44092,13 @@ le ou les emplacements prévus au même article.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-13 (M)
+	  - Code de l'environnement - art. L581-13 (V)
 
 	**Liens**:
 
@@ -43547,6 +44148,10 @@ administrative compétente en ordonnant la suppression ou la modification.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L581-34 (V)
@@ -43568,16 +44173,20 @@ administrative compétente en ordonnant la suppression ou la modification.
 Les décrets en Conseil d'Etat mentionnés aux articles L. 581-9 et L. 581-18 et, le cas échéant, les actes pris en application
 des articles L. 581-7 et L. 581-10, déterminent celles des prescriptions édictées en application du code de l'urbanisme en
 matière d'implantation, de hauteur et d'aspect des constructions, ainsi que de mode de clôture des propriétés foncières qui
-sont, au titre de la présente loi, applicables à l'installation des dispositifs mentionnés au deuxième alinéa de l'article L.
-581-3, des enseignes et des préenseignes.
+sont, au titre de la présente loi (1), applicables à l'installation des dispositifs mentionnés au deuxième alinéa de
+l'article L. 581-3, des enseignes et des préenseignes. 
 
 Ils déterminent également les conditions d'application des dispositions relatives à la publicité, aux enseignes et aux
-préenseignes figurant dans le règlement annexé à un plan de sauvegarde et de mise en valeur rendu public ou approuvé.
+préenseignes figurant dans le règlement annexé à un plan de sauvegarde et de mise en valeur rendu public ou approuvé. 
 
 En vue d'assurer le respect des prescriptions et dispositions visées aux deux alinéas précédents, un décret en Conseil d'Etat
 définit les cas et les conditions dans lesquels le scellement au sol ou l'installation directe sur le sol des publicités, des
 dispositifs mentionnés au deuxième alinéa de l'article L. 581-3, des enseignes et des préenseignes, sont soumis à une
 autorisation préalable.
+
+**Nota:**
+
+(1) lire : présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -43591,13 +44200,17 @@ autorisation préalable.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-10 (M)
-	  - Code de l'environnement - art. L581-18 (M)
-	  - Code de l'environnement - art. L581-3 (M)
-	  - Code de l'environnement - art. L581-7 (M)
-	  - Code de l'environnement - art. L581-9 (M)
+	  - Code de l'environnement - art. L581-10 (Ab)
+	  - Code de l'environnement - art. L581-18 (V)
+	  - Code de l'environnement - art. L581-3 (V)
+	  - Code de l'environnement - art. L581-7 (V)
+	  - Code de l'environnement - art. L581-9 (V)
 
 	**Liens**:
 
@@ -43626,9 +44239,72 @@ Les modalités d'application du présent chapitre sont définies par décret en 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L581-42 (M)
+
+
+#### Chapitre unique : Publicité, enseignes et préenseignes
+
+##### Section 2 : Publicité
+
+##### Sous-section 3 : Publicité à l'intérieur des agglomérations.
+
+###### Article L581-12
+
+L'acte instituant une zone de publicité élargie y soumet la publicité à des prescriptions moins restrictives que celles du
+régime fixé en application de l'article L. 581-9.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°79-1150 du 29 décembre 1979 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 36
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L581-9 (M)
+
+
+#### Chapitre II : Prévention des nuisances visuelles
+
+###### Article L582-1
+
+La pose de nouvelles lignes électriques aériennes d'une tension inférieure à 63 000 volts est interdite à compter du 1er
+janvier 2000 dans les zones d'habitat dense définies par décret en Conseil d'Etat.
+
+Lorsque des nécessités techniques impératives ou des contraintes topographiques rendent l'enfouissement impossible, ou bien
+lorsque les impacts de cet enfouissement sont jugés supérieurs à ceux d'une pose de ligne aérienne, il peut être dérogé, à
+titre exceptionnel, à cette interdiction par arrêté conjoint du ministre chargé de l'énergie et du ministre chargé de
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2004-1199 2004-11-12 art. 1 2° JORF 14 novembre 2004
+
+	**Anciens textes**:
+
+	  - Code de l'environnement - art. L572-1 (T)
 
 
 ## Livre VI : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française, à Wallis et Futuna, dans les terres australes et antarctiques françaises et à Mayotte
