@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-06-05
+Version Consolidée au 2004-06-25
 
 # Partie législative
 
@@ -69821,25 +69821,32 @@ locations d'une durée supérieure à neuf ans ;
 
 11° L'acceptation des dons et legs ;
 
-12° Les actions en justice ;
+12° L'organisation et les missions des délégations régionales du Conseil supérieur de la pêche ;
 
-13° L'organisation et les missions des délégations régionales du Conseil supérieur de la pêche ;
+13° Les conditions générales d'attribution des aides et subventions.
 
-14° Les conditions générales d'attribution des aides et subventions.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R234-10
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 2 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*234-11
@@ -69848,7 +69855,7 @@ Les délibérations du conseil d'administration sont exécutoires de plein droit
 leur réception par le ministre chargé de la pêche en eau douce, à moins que, dans ce délai, et à l'exception de celles
 mentionnées au 6° de l'article R. 234-10, le ministre n'y fasse opposition.
 
-Toutefois, les délibérations portant sur les matières énumérées aux 1°, 3°, 4°, 8° et 14° de l'article R. 234-10 ne
+Toutefois, les délibérations portant sur les matières énumérées aux 1°, 3°, 4°, 8° et 13° de l'article R. 234-10 ne
 deviennent exécutoires qu'à l'issue du délai d'un mois suivant la réception du procès-verbal par le ministre chargé de la
 pêche en eau douce et par le ministre chargé du budget sauf opposition expresse de l'un d'entre eux. Les délibérations
 portant sur les matières énumérées aux 7° et 10° de l'article R. 234-10 ne sont exécutoires qu'après approbation par arrêté
@@ -69861,17 +69868,13 @@ Elles sont soumises pour information au conseil d'administration lors de sa plus
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code rural R234-12
-
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 2 () JORF 25 juin 2004
 
 	**Cite**:
 
@@ -69915,28 +69918,42 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*234-13
 
-Le directeur général assiste le président dans la préparation des délibérations du conseil d'administration et en assure
-l'exécution. Il rend compte au conseil d'administration de l'exécution des décisions prises par le conseil, il assure la
-direction du Conseil supérieur de la pêche et le représente dans tous les actes de la vie civile, dans ses rapports avec les
-tiers et dans les relations internationales. Il représente l'établissement en justice. Il prépare le budget du Conseil
-supérieur de la pêche. Il assure le secrétariat du conseil d'administration. Il est ordonnateur des recettes et des dépenses
-de l'établissement. Il peut déléguer sa signature.
+Le directeur général dirige le Conseil supérieur de la pêche et le représente dans tous les actes de la vie civile, dans ses
+rapports avec les tiers et dans les relations internationales. Il nomme et gère les personnels de l'établissement.
 
-Le directeur général nomme les personnels de l'établissement et en assure la gestion.
+Il assure le secrétariat du conseil d'administration et assiste le président dans la préparation des délibérations du
+conseil. Il assure l'exécution des décisions du conseil d'administration et lui en rend compte.
+
+Il prépare le budget de l'établissement. Il est ordonnateur des recettes et des dépenses. Il est la personne responsable des
+marchés. Il peut déléguer cette compétence à des personnels de conception et d'encadrement placés sous son autorité. Les
+délégations précisent les catégories et les montants des marchés pour lesquelles elles sont données.
+
+Il décide des actions en justice et des transactions et en rend compte au conseil d'administration.
+
+Il peut déléguer sa signature.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R234-13
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 3 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ##### Paragraphe 3 : Les personnels techniques du Conseil supérieur de la pêche.
@@ -71303,22 +71320,32 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 Les eaux mentionnées à l'article L. 435-1 sont divisées en lots.
 
-Dans chaque lot, sans préjudice des décisions de mise en réserve, le droit de pêche aux lignes et le droit de pêche aux
-engins et aux filets font l'objet d'exploitations distinctes.
+Dans chaque lot, sans préjudice des décisions de mise en réserve, le droit de pêche exercé par les pêcheurs amateurs aux
+lignes, par les pêcheurs amateurs aux engins et aux filets dans les eaux du domaine public et par les pêcheurs professionnels
+en eau douce fait l'objet d'exploitations distinctes.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R235-2
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 4 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -71455,19 +71482,31 @@ Lorsque l'emploi d'engins et de filets n'est pas jugé nécessaire à l'exploita
 des anguilles peuvent cependant y être attribuées aux membres de l'association agréée départementale de pêcheurs amateurs aux
 engins et aux filets sur les eaux du domaine public.
 
+Des licences particulières sont attribuées dans les lots où la réduction du nombre d'engins destinés à la pêche des anguilles
+fait l'objet de mesures de compensation permettant l'usage d'engins pour la pêche d'espèces autres que l'anguille.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R235-6
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 5 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*235-7
@@ -71512,8 +71551,8 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ###### Article R*235-7-1
 
-Les licences sont délivrées aux pêcheurs professionnels par le préfet après avis de la commission départementale ou
-interdépartementale des structures de la pêche professionnelle en eau douce prévue à l'article R. 235-13-1 du présent code.
+Les licences sont délivrées aux pêcheurs professionnels par le préfet après avis de la commission de bassin pour la pêche
+professionnelle en eau douce prévue à l'article R. 235-13-1 du présent code.
 
 Les licences sont nominatives. Elles sont délivrées pour cinq ans et font l'objet d'un renouvellement général. Toutefois,
 leur date d'expiration peut être prorogée d'un an dans les conditions fixées au premier alinéa de l'article R. 235-8. Le prix
@@ -71524,19 +71563,28 @@ Les demandes de licences de pêche professionnelle doivent comporter tous les é
 candidat à participer à la gestion piscicole et le programme qu'il envisage d'engager pour l'exploitation de la pêche. Le
 candidat doit aussi indiquer s'il entend exercer la pêche professionnelle à temps plein ou à temps partiel.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R235-7
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 6 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -71875,8 +71923,8 @@ ou la collectivité gestionnaire du cours d'eau.
 Il détermine également les clauses et conditions particulières du cahier des charges pour l'exploitation de chaque lot, après
 avis, le cas échéant, de l'organisme ou de la collectivité gestionnaire. Ces clauses ont notamment pour objet :
 
-1° La désignation des lots où l'exercice de la pêche aux engins et aux filets est jugé nécessaire à une gestion rationnelle
-des ressources piscicoles ;
+1° La désignation des lots où l'exercice de la pêche est jugé nécessaire à une gestion rationnelle des ressources
+piscicoles ;
 
 2° L'indication, pour les lots mentionnés au 1°, du mode d'exploitation retenu, par voie de location ou de licences, et le
 nombre maximum de licences de chaque catégorie ;
@@ -71890,23 +71938,28 @@ nombre maximum de licences de chaque catégorie ;
 6° L'indication, pour l'ensemble des lots, du prix de base des loyers de la pêche aux lignes et, s'il y a lieu, de la pêche
 aux engins, ainsi que du prix des licences.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R235-14
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 8 () JORF 25 juin 2004
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'environnement R235-6
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*235-15
@@ -71968,25 +72021,34 @@ doit aussi indiquer s'il entend exercer la pêche professionnelle à temps plein
 S'il est déjà locataire d'un lot, le pêcheur professionnel doit aussi justifier, à l'appui de sa demande, des conditions dans
 lesquelles il a exercé la pêche précédemment.
 
-Les demandes présentées par les pêcheurs professionnels sont soumises à l'avis de la commission des structures de la pêche
+Les demandes présentées par les pêcheurs professionnels sont soumises à l'avis de la commission de bassin pour la pêche
 professionnelle en eau douce, mentionnée à l'article R. 235-13-1.
 
 Les demandes prévues par le présent article sont adressées au préfet par lettre recommandée quatre mois au moins avant
 l'expiration des baux en cours.
 
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R235-16
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 9 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -73391,38 +73453,37 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 Toutefois, le préfet peut, par arrêté, autoriser la pêche :
 
 1° De la truite de mer depuis une demi-heure avant le lever du soleil jusqu'à deux heures après son coucher dans les cours
-d'eau classés comme cours d'eau à truite de mer en vertu de l'article R. 236-27 ;
+d'eau figurant comme cours d'eau à truite de mer sur la liste établie par le ministre chargé de la pêche en eau douce ;
 
 2° Des aloses, du flet, des lamproies et du mulet depuis deux heures avant le lever du soleil jusqu'à deux heures après son
 coucher dans les eaux mentionnées à l'article L. 435-1 ;
 
 3° De l'anguille à toute heure ;
 
-4° Des aloses et des lamproies à toute heure dans la zone mentionnée au premier alinéa de l'article L. 436-10 ;
+4° Des aloses et des lamproies à toute heure dans les zones mentionnées à l'article L. 436-10 ;
 
 5° De la carpe à toute heure dans les parties de cours d'eau ou les plans d'eau de 2e catégorie et pendant une période qu'il
 détermine.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code rural R236-19
-
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 2004-06-18 art. 10 I, II JORF 25 juin 2004
+	  - Décret n°2004-599 du 18 juin 2004 - art. 10 () JORF 25 juin 2004
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L435-1 (M)
 	  - Code de l'environnement - art. L436-10 (V)
-	  - Code de l'environnement R236-27, L435-1, L436-10
+
+	**Anciens textes**:
+
+	  - Code rural R236-19
 
 
 ###### Article R*236-20
@@ -75175,672 +75236,279 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ##### Section 6 : Dispositions particulières
 
-##### Sous-section 1 : Dispositions communes.
+##### Sous-section 1 : Dispositions relatives à la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne.
 
 ###### Article R*236-98
 
-Les dispositions des articles R. 236-6 à R. 236-83 relatives aux conditions d'exercice du droit de pêche ne sont pas
-applicables à la Bidassoa et à la section du Doubs formant frontière avec la Suisse ; les dispositions des articles R. 236-6
-à R. 236-66 ne sont pas applicables au lac Léman.
+Les dispositions des articles R. 236-6 à R. 236-95 ne sont pas applicables à la pêche dans la section de la Bidassoa et de la
+baie du Figuier formant frontière avec l'Espagne.
 
-Les dispositions des articles R. 236-84 à R. 236-95, relatives aux réserves et aux interdictions permanentes de pêche, ne
-sont pas applicables au lac Léman et à la Bidassoa.
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Modifié par**:
+
+	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement R236-6 à R236-95
+
+
+###### Article R*236-99
+
+L'exercice de la pêche dans la section de la Bidassoa et de la baie du Figuier formant frontière avec l'Espagne est soumis
+aux stipulations de la convention entre la France et l'Espagne relative à la pêche en Bidassoa et baie du Figuier du 14
+juillet 1959 modifiée.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'environnement R236-6 à R236-83, R236-6 à R236-66, R236-84 à R236-95
-
-	**Anciens textes**:
-
-	  - Code rural R236-98
+	  - Convention 1959-07-14
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
 
+	**Abrogé par**:
 
-##### Sous-section 2 : Réglementation de la pêche dans les eaux françaises du lac Léman.
-
-###### Article R*236-99
-
-Les dispositions de la présente sous-section s'appliquent à la pêche dans les eaux françaises du lac Léman.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-99
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-##### Paragraphe 1 : Temps et heures d'interdiction.
+##### Sous-section 2 : Dispositions relatives à la pêche dans les eaux françaises du lac Léman
 
 ###### Article R*236-100
 
-La pêche est autorisée toute l'année à l'exception de :
+Les dispositions des articles R. 236-6 à R. 236-95 ne sont pas applicables à la pêche dans les eaux françaises du lac Léman.
 
-1° La pêche de la truite Salmo trutta, de l'omble chevalier et du corégone, qui est interdite pendant une période d'au moins
-89 jours consécutifs comprise entre la mi-octobre et la mi-janvier. Cette période est fixée par le préfet ;
+**Nota:**
 
-2° La pêche de l'ombre commun, qui est interdite du 1er mars au 14 mai inclus ;
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-3° La pêche du brochet, qui est interdite du 1er avril au 10 mai inclus.
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-La pêche de l'écrevisse à pattes blanches (Austrapotamobius pallipes) et de l'écrevisse à pattes rouges (Astacus astacus) est
-interdite toute l'année.
-
-Tout poisson capturé pendant la période où sa pêche est interdite doit être immédiatement et soigneusement remis à l'eau, à
-l'exception des perches pêchées par les amateurs, quelle que soit leur taille.
-
-La pêche à la traîne est interdite pendant la période d'interdiction de la pêche des truites, de l'omble chevalier et du
-corégone.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-100
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement R236-6 à R236-95
 
 
 ###### Article R*236-101
 
-La pêche aux lignes ne peut s'exercer plus d'une demi-heure avant le lever du soleil ni plus d'une demi-heure après son
-coucher.
+L'exercice de la pêche dans les eaux françaises du lac Léman est soumis aux stipulations de l'accord entre le Gouvernement de
+la République française et le Conseil fédéral suisse concernant la pêche dans le lac Léman du 20 novembre 1980 et de son
+règlement d'application modifiés.
 
-Les nasses, engins et filets ne peuvent être tendus, posés ou relevés que durant les heures suivantes :
+**Nota:**
 
-De 6 h 30 à 18 heures en janvier ;
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-De 6 heures à 18 h 45 en février ;
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-De 5 h 30 à 19 h 30 en mars ;
-
-De 5 heures à 20 heures en avril ;
-
-De 4 h 15 à 20 h 45 en mai ;
-
-De 4 heures à 21 h 15 en juin ;
-
-De 4 h 15 à 21 heures en juillet ;
-
-De 4 h 45 à 20 h 30 en août ;
-
-De 5 heures à 19 h 30 en septembre ;
-
-De 5 h 15 à 18 h 30 en octobre ;
-
-De 5 h 45 à 17 h 45 en novembre ;
-
-De 6 h 30 à 17 h 30 en décembre.
-
-Pendant la période où l'heure d'été est appliquée, il convient d'ajouter une heure aux heures définies ci-dessus.
-
-Toutefois, les grands pics peuvent être levés une heure avant les heures définies ci-dessus.
-
-Pendant les mois de juin, juillet, août et septembre, la pose des filets à perches dont les dimensions des mailles sont
-inférieures à 32 millimètres est autorisée une heure et demie avant les heures définies ci-dessus.
-
-La circulation sur le lac avec des engins de pêche est autorisée une demi-heure avant l'heure d'ouverture pour autant que les
-filets soient secs.
-
-La circulation sur le lac demeure autorisée une demi-heure après l'heure de fermeture pour le transport des engins, des
-filets ou des poissons.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code rural R236-101
+	  - Accord 1980-11-20
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*236-102
 
-Le préfet peut, par arrêté, interdire ou réglementer la pêche certains jours ou certaines heures ou en certains lieux au
-moyen des types de filets ou d'engins qu'il définit.
+Est puni de l'amende prévue pour les contraventions de la 3e classe le fait de ne pas respecter les stipulations du règlement
+d'application mentionné à l'article R. 236-101. L'amende encourue est celle prévue pour les contraventions de la 4e classe
+lorsque les infractions ont été commises de nuit.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-102
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement R236-101
 
 
-##### Paragraphe 2 : Tailles minimales des poissons.
+##### Sous-section 3 : Dispositions relatives à la pêche dans la section du Doubs formant frontière avec la Suisse.
 
 ###### Article R*236-103
 
-Les poissons désignés ci-après ne peuvent être capturés que s'ils ont atteint la taille minimale suivante :
+Les dispositions des articles R. 236-6 à R. 236-62 ne sont pas applicables à la pêche dans la section Doubs formant frontière
+avec la Suisse.
 
-0,35 mètre pour les truites de lac et de rivière ;
+**Nota:**
 
-0,27 mètre pour l'omble chevalier ;
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-0,30 mètre pour l'ombre commun ;
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-0,30 mètre pour les corégones ;
-
-0,50 mètre pour les brochets ;
-
-0,15 mètre pour la perche.
-
-La taille du poisson est mesurée du bout du museau à l'extrémité de la nageoire caudale normalement déployée.
-
-Tout poisson n'ayant pas atteint la taille minimale doit être immédiatement et soigneusement remis à l'eau.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-103
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
 
+	**Abrogé par**:
 
-##### Paragraphe 3 : Nombre de captures autorisées, conditions de capture.
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement R236-6 à R236-62
+
 
 ###### Article R*236-104
 
-Le préfet fixe par arrêté les nombres de captures de perches, truites et ombles chevaliers autorisés par jour et par an pour
-les pêcheurs amateurs.
+L'exercice de la pêche dans la section du Doubs formant frontière avec la Suisse est soumis aux stipulations de l'accord
+entre le Gouvernement de la République française et le Conseil fédéral suisse concernant l'exercice de la pêche et la
+protection des milieux aquatiques dans la partie du Doubs formant frontière entre les deux Etats du 29 juillet 1991 et de son
+règlement d'application modifié.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code rural R236-104
+	  - Accord 1991-07-29
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*236-105
 
-Chaque pêcheur détenteur d'une licence doit tenir à jour des fiches statistiques ou un carnet de pêche selon les modalités
-définies par le préfet.
+Est puni de l'amende prévue pour les contraventions de la 3e classe le fait de ne pas respecter les stipulations du règlement
+d'application mentionné à l'article R. 236-104. L'amende encourue est celle prévue pour les contraventions de la 4e classe
+lorsque les infractions ont été commises de nuit.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-105
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-
-##### Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés.
-
-###### Article R*236-106
-
-Les membres de l'association agréée de pêche et de pisciculture, locataire du droit de pêche sur le lac Léman, ne peuvent
-pêcher qu'avec les moyens suivants :
-
-1° Trois lignes au choix parmi les suivantes, qui ne peuvent être utilisées qu'à partir du bord ou d'une embarcation
-immobile : ligne flottante, ligne au lancer, ligne plongeante ou plombée ordinaire, gambe ou plombier, ces lignes étant
-pourvues chacune au maximum de six hameçons mesurant au plus 15 millimètres entre la pointe et la tige, quel que soit le
-nombre de pointes ;
-
-2° Pendant la période d'ouverture fixée au 1° de l'article R. 236-100, quatre lignes ou traînes ou traîneaux portant en tout
-un maximum de vingt hameçons par embarcation ;
-
-3° La filoche ou épuisette, d'un diamètre maximum de 0,75 mètre, pour retirer de l'eau des poissons déjà ferrés ou pour
-pêcher des amorces à usage personnel ;
-
-4° Deux bouteilles à vairons ou gobemouches, d'une capacité unitaire d'un maximum de trois litres, utilisables pour pêcher
-des amorces à usage personnel ;
-
-5° Six balances destinées à la pêche des écrevisses appartenant aux espèces autres que celles mentionnées à l'article R.
-236-100, d'un diamètre maximum de 0,30 mètre.
-
-Les membres d'associations agréées de pêche et de pisciculture autres que celle mentionnée au premier alinéa du présent
-article ne peuvent pêcher que du bord ou en marchant dans l'eau, au moyen d'une seule ligne munie au plus de deux hameçons.
-
-Les pêcheurs amateurs résidant en Suisse et munis d'un permis de pêche valable pour le lac Léman délivré par cet Etat peuvent
-utiliser les moyens de pêche prévus au présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-106
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
 
 	**Abrogé par**:
 
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
-	  - Code de l'environnement R236-100
-
-
-###### Article R*236-107
-
-L'emploi de la gambe et des lignes de traîne est autorisé aux porteurs de licences selon les modalités fixées par arrêté du
-préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-107
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-108
-
-Un arrêté du préfet fixe :
-
-a) Les dimensions maximales des filets ;
-
-b) Le nombre et les structures de chaque type de filet et d'engin, les époques et les conditions de leur utilisation, les
-conditions de jalonnement, les zones en dehors desquelles ils ne peuvent être tendus ou utilisés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-108
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-109
-
-Sont seuls autorisés les filets dont les mailles sont carrées ou losangiques et les nasses dont les mailles sont carrées,
-losangiques ou hexagonales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-109
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-110
-
-Les dimensions minimales des mailles pour chaque type d'engin et de filet sont fixées par arrêté du préfet en fonction des
-différentes espèces de poisson susceptibles d'être capturées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-110
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-111
-
-Le mode de vérification des mailles et des dimensions des engins et filets est fixé par arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-111
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-112
-
-Il est interdit en vue de la capture du poisson :
-
-1° De pêcher à la main ou sous la glace ou en troublant l'eau ou en fouillant sous les racines et autres retraites
-fréquentées par le poisson ;
-
-2° D'employer tous procédés ou de faire usage de tous engins destinés à accrocher le poisson autrement que par la bouche.
-L'emploi de la gaffe est interdit pour retirer de l'eau le poisson déjà ferré ;
-
-3° De se servir d'armes à feu, de fagot, de lacets ou de collets, de moyens optiques ou acoustiques servant à attirer les
-poissons ;
-
-4° D'utiliser des engins de plongée subaquatique ;
-
-5° D'utiliser comme appâts ou comme amorces des oeufs de poisson naturels, qu'ils soient frais, de conserve ou mélangés à une
-composition d'appâts ou artificiels ;
-
-6° D'établir des appareils, d'effectuer des manoeuvres, de battre la surface de l'eau en vue de rassembler le poisson afin
-d'en faciliter la capture ;
-
-7° De détenir tout appareil de sondage par ondes, ou sonar, sur un bateau utilisé pour la pêche à la monte ou à la grande
-senne, ou sur un bateau qui participe à cette pêche ;
-
-8° D'utiliser comme appâts des poissons des espèces dont la taille minimale a été fixée par l'article R. 236-103, des espèces
-mentionnées aux 1° et 2° de l'article L. 432-10.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L432-10 (M)
-	  - Code de l'environnement R236-103, L432-10
-
-	**Anciens textes**:
-
-	  - Code rural R236-112
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-##### Paragraphe 5 : Zones de protection du poisson.
-
-###### Article R*236-113
-
-Il est interdit de pêcher avec des filets ou engins quelconques :
-
-- en tout temps, dans une zone de 300 mètres autour de l'embouchure de la Dranse ;
-
-- durant la fermeture de la pêche des truites, dans une zone de 100 mètres autour de l'embouchure de l'Hermance, de la Morge,
-du Pamphiot, du Foron, du Redon et du Vion.
-
-Les limites de ces zones de protection sont indiquées par des bornes ou des marques placées sur la rive.
-
-L'usage des lignes, quelle qu'en soit la nature, est autorisé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-113
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-114
-
-Pendant la période d'interdiction de la pêche de l'omble chevalier, il est interdit de tendre des filets, engins ou lignes
-sur les emplacements des frayères de ce poisson, dites "omblières", délimitées par arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-114
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-115
-
-Il est interdit de pêcher à l'intérieur des roselières et des réserves naturelles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-115
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-###### Article R*236-116
-
-Le préfet peut, par arrêté, instituer des réserves de pêche où toute pêche est interdite pour une durée maximale d'une année.
-L'arrêté mentionne l'emplacement de la réserve et sa durée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-116
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-
-##### Paragraphe 6 : Dispositions pénales.
-
-###### Article R*236-117
-
-Sera puni de l'amende prévue pour les contraventions de la 3e classe :
-
-1° Le fait de pêcher pendant les temps d'interdiction fixés par l'article R. 236-100 ;
-
-2° Le fait de pêcher pendant les heures d'interdiction fixées par l'article R. 236-101 ou en application de l'article R.
-236-102 ;
-
-3° Le fait d'employer un procédé ou un mode de pêche ou de l'un des instruments, filets ou engins de pêche prohibés en
-application des articles R. 236-106 à R. 236-110 et R. 236-112 (1° à 7°) ;
-
-4° Le fait de pêcher, de transporter ou de vendre des poissons provenant des eaux soumises à la présente sous-section qui
-n'ont pas les dimensions fixées par l'article R. 236-103 ;
-
-5° Le fait de pêcher ou de transporter des poissons provenant des eaux soumises aux dispositions de la présente sous-section
-dont le nombre excède celui fixé par l'article R. 236-104 ;
-
-6° Le fait d'utiliser comme appâts des poissons appartenant aux espèces définies à l'article R. 236-112 (8°) ;
-
-7° Le fait d'être trouvé, la nuit, porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés
-destinés à être utilisés dans les eaux soumises aux dispositions de la présente sous-section ;
-
-8° Le fait de pêcher dans les zones de protection du poisson fixées par les articles R. 236-113 à R. 236-115 et en
-application de l'article R. 236-116 ;
-
-L'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe lorsque les infractions aux 1°, 3°, 4°,
-5°, 6° et 8° ont été commises de nuit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-117
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-	**Cite**:
-
-	  - Code de l'environnement R236-100, R236-101, R236-102, R236-106 à R236-110, R236-112, R236-103, R236-104, R236-113 à R236-115, R236-116
-
-
-##### Paragraphe 7 : Capture de géniteurs.
-
-###### Article R*236-121
-
-Par dérogation à l'article R. 236-100, le préfet peut, par arrêté, ouvrir la pêche aux engins et aux filets des géniteurs de
-corégones et d'ombles chevaliers en vue de la récolte de leurs oeufs pour satisfaire les objectifs d'alevinage définis au
-plan d'aménagement piscicole :
-
-- du 15 novembre au 31 décembre pour l'omble chevalier ;
-
-- du 1er décembre au 10 janvier pour les corégones.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R236-121
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-599 du 18 juin 2004 - art. 14 () JORF 25 juin 2004
-
-	**Cite**:
-
-	  - Code de l'environnement R236-100
+	  - Code de l'environnement R236-104
 
 
 #### Chapitre VII : Recherche et constatation des infractions
