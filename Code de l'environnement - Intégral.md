@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-07-14
+Version Consolidée au 2004-07-16
 
 # Partie législative
 
@@ -50165,18 +50165,103 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 ##### Section 1 : Conservatoires botaniques nationaux
 
+###### Article R*214-2
+
+L'agrément en qualité de conservatoire botanique national est délivré pour une durée de cinq ans renouvelable, par le
+ministre chargé de la protection de la nature, après avis de la commission des conservatoires botaniques nationaux.
+L'agrément est accordé pour un territoire constitué d'un ensemble de départements présentant des caractéristiques biologiques
+et géographiques communes. Peuvent bénéficier de l'agrément des personnes morales publiques ou privées à l'exception des
+sociétés commerciales.
+
+Les missions des conservatoires botaniques nationaux sont précisées par un cahier des charges fixé par arrêté du ministre
+chargé de la protection de la nature.
+
+Lorsque l'activité ou le fonctionnement d'un conservatoire botanique national n'est pas conforme aux objectifs mentionnés à
+l'article R. 214-1 ou au cahier des charges, le ministre chargé de la protection de la nature peut retirer l'agrément. Il
+recueille, au préalable, l'avis de la commission des conservatoires botaniques nationaux et entend le responsable de
+l'établissement.
+
+Le contenu du dossier de demande d'agrément ainsi que la procédure d'instruction des demandes par la commission des
+conservatoires botaniques nationaux sont fixés par arrêté du ministre chargé de la protection de la nature.
+
+**Nota:**
+
+NOTA : Décret n° 2005-934 du 2 août 2005 art. 4 I :
+
+I. - Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna,
+dans les Terres australes et antarctiques françaises et à Mayotte, les dispositions du livre II (partie réglementaire) du
+code de l'environnement intitulé : "Protection de la nature" énumérées ci-après :
+
+2° La première phrase du premier alinéa et le troisième alinéa de l'article R. 214-2.
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural R214-2
+	  - Décret n°93-742 du 29 mars 1993 - art. 1 (Ab)
+	  - Code rural - art. R214-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+
+	**Modifié par**:
+
+	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004 rectificatif JORF 18 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 I 1° JORF 5 août 2005
+	  - Décret n°2005-934 2005-08-02 art. 4 I sous réserve art. 4 I 1° JORF 5 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+	  - Code de l'environnement - art. R*214-14 (Ab)
+	  - Code de l'environnement - art. R*214-3 (Ab)
+
+
+##### Sous-section 1 : Missions et agrément des conservatoires botaniques nationaux
+
 ###### Article R*214-1
 
-Peut être agréé en tant que Conservatoire botanique national un établissement qui poursuit l'ensemble des objectifs
-suivants :
+Peuvent être agréés en tant que conservatoires botaniques nationaux les établissements qui exercent sur un territoire
+déterminé les missions suivantes :
 
-- connaissance des éléments rares ou menacés de la flore sauvage, d'une région ou d'un groupe d'espèces donné, et de leur
-localisation ;
+1. La connaissance de l'état et de l'évolution, appréciés selon des méthodes scientifiques, de la flore sauvage et des
+habitats naturels et semi-naturels. Cette mission comporte la mise à la disposition de l'Etat, de ses établissements publics,
+des collectivités territoriales et de leurs groupements des informations nécessaires à la mise en oeuvre des politiques
+nationales et régionales de protection de la nature.
 
-- conservation par tous moyens appropriés, notamment par la culture, de ces taxons menacés, dans le souci de la conservation
-de leur patrimoine génétique ;
+2. L'identification et la conservation des éléments rares et menacés de la flore sauvage et des habitats naturels et semi-
+naturels.
 
-- information et éducation des différents publics concernés par la conservation du patrimoine floristique sauvage.
+3. La fourniture à l'Etat, à ses établissements publics, aux collectivités territoriales et à leurs groupements, dans leurs
+domaines respectifs de compétences, d'un concours technique et scientifique pouvant prendre la forme de missions d'expertise
+en matière de flore sauvage et d'habitats naturels et semi-naturels.
+
+4. L'information et l'éducation du public à la connaissance et à la préservation de la diversité végétale.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -50254,45 +50339,34 @@ de leur patrimoine génétique ;
 
 	  - Décret n°93-743 du 29 mars 1993 - art. 1 (Ab)
 	  - Code rural - art. R214-1 (Ab)
-	  - Code rural R214-1
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004 rectificatif JORF 18 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-###### Article R*214-2
+###### Article R*214-3
 
-L'agrément en qualité de conservatoire botanique national est délivré pour une durée de cinq ans renouvelable, par le
-ministre chargé de la protection de la nature, après avis de la commission des conservatoires botaniques nationaux.
-L'agrément est accordé pour un territoire constitué d'un ensemble de départements présentant des caractéristiques biologiques
-et géographiques communes. Peuvent bénéficier de l'agrément des personnes morales publiques ou privées à l'exception des
-sociétés commerciales.
+L'agrément vaut autorisation d'utiliser, dans le cadre des activités du conservatoire, la dénomination "Conservatoire
+botanique national" et son identité graphique enregistrées par le ministre chargé de la protection de la nature à l'Institut
+national de la propriété industrielle sous forme de marque collective. Les modalités de cet usage sont fixées par le
+règlement joint au dépôt de marque.
 
-Les missions des conservatoires botaniques nationaux sont précisées par un cahier des charges fixé par arrêté du ministre
-chargé de la protection de la nature.
+Le retrait de l'agrément emporte interdiction pour l'établissement d'utiliser la marque collective déposée.
 
-Lorsque l'activité ou le fonctionnement d'un conservatoire botanique national n'est pas conforme aux objectifs mentionnés à
-l'article R. 214-1 ou au cahier des charges, le ministre chargé de la protection de la nature peut retirer l'agrément. Il
-recueille, au préalable, l'avis de la commission des conservatoires botaniques nationaux et entend le responsable de
-l'établissement.
-
-Le contenu du dossier de demande d'agrément ainsi que la procédure d'instruction des demandes par la commission des
-conservatoires botaniques nationaux sont fixés par arrêté du ministre chargé de la protection de la nature.
+L'usage de la marque collective mentionnée au premier alinéa peut également être confié par le ministre à la Fédération des
+conservatoires botaniques nationaux, regroupant exclusivement des conservatoires botaniques nationaux. Il peut lui être
+retiré dans les conditions prévues au troisième alinéa de l'article R. 214-2.
 
 **Nota:**
-
-NOTA : Décret n° 2005-934 du 2 août 2005 art. 4 I :
-
-I. - Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna,
-dans les Terres australes et antarctiques françaises et à Mayotte, les dispositions du livre II (partie réglementaire) du
-code de l'environnement intitulé : "Protection de la nature" énumérées ci-après :
-
-2° La première phrase du premier alinéa et le troisième alinéa de l'article R. 214-2.
 
 NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
@@ -50305,47 +50379,6 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 
 	**Anciens textes**:
 
-	  - Code rural R214-2
-	  - Décret n°93-742 du 29 mars 1993 - art. 1 (Ab)
-	  - Code rural - art. R214-2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Modifié par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004 rectificatif JORF 18 septembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2005-935 2005-08-02 art. 8 I 1° JORF 5 août 2005
-	  - Décret n°2005-934 2005-08-02 art. 4 I sous réserve art. 4 I 1° JORF 5 août 2005
-
-	**Cité par**:
-
-	  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
-	  - Code de l'environnement - art. R*214-14 (Ab)
-	  - Code de l'environnement - art. R*214-3 (Ab)
-
-
-###### Article R*214-3
-
-La commission des conservatoires botaniques nationaux conseille le ministre chargé de la protection de la nature pour la mise
-en oeuvre de la politique nationale en matière de conservatoires botaniques.
-
-Elle étudie les candidatures à l'agrément de conservatoire botanique national. Elle participe à l'élaboration du cahier des
-charges des établissements agréés et en suit l'application.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R214-3
 	  - Décret n°93-742 du 29 mars 1993 - art. 1 (Ab)
 	  - Code rural - art. R214-3 (Ab)
 
@@ -50353,49 +50386,50 @@ charges des établissements agréés et en suit l'application.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004 rectificatif JORF 18 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R*214-2 (Ab)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R214-53 (VD)
 
 
+##### Sous-section 2 : Commission des conservatoires botaniques nationaux
+
 ###### Article R*214-4
 
-La commission des conservatoires botaniques nationaux est composée, sous la présidence du ministre chargé de la protection de
-la nature ou de son représentant, de :
+La commission des conservatoires botaniques nationaux est placée auprès du ministre chargé de la protection de la nature.
+Elle peut émettre des avis et faire des propositions sur l'activité des conservatoires botaniques nationaux et l'organisation
+générale du réseau.
 
-1° Quatre membres de droit :
+Elle instruit les demandes d'agrément en qualité de conservatoire botanique national qui lui sont soumises par le ministre,
+puis rend un avis sur ces demandes.
 
-a) Le directeur du bureau des ressources génétiques, ou son représentant ;
+Elle participe à l'élaboration du cahier des charges des conservatoires botaniques nationaux et, à la demande du ministre
+chargé de la protection de la nature, en vérifie l'application.
 
-b) Le directeur général du Centre national de la recherche scientifique, ou son représentant ;
+**Nota:**
 
-c) Le directeur général de l'Institut national de la recherche agronomique, ou son représentant ;
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-d) Le directeur du Muséum national d'histoire naturelle, ou son représentant.
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-2° Huit membres nommés, pour une durée de quatre ans renouvelable, par le ministre chargé de la protection de la nature :
-
-a) Sept personnalités qualifiées en botanique, phytogéographie ou biologie de la conservation ;
-
-b) Un membre du Conseil national de la protection de la nature, proposé par cette instance.
-
-Un membre nommé peut être remplacé, en tant que de besoin, par un suppléant si celui-ci a été nommé en même temps que lui sur
-proposition de l'organisme qu'il représente.
-
-En cas de partage égal des voix, le président de la commission a voix prépondérante.
-
-Toute personnalité ou tout représentant d'organisme qualifié peut être appelé, en tant que de besoin, à assister aux séances
-de la commission à titre consultatif.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code rural R214-4
 	  - Décret n°93-742 du 29 mars 1993 - art. 2 (Ab)
 	  - Décret n°93-743 du 29 mars 1993 - art. 2 (Ab)
 	  - Code rural - art. R214-4 (Ab)
@@ -50404,9 +50438,13 @@ de la commission à titre consultatif.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004 rectificatif JORF 18 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cité par**:
 
@@ -50415,8 +50453,38 @@ de la commission à titre consultatif.
 
 ###### Article R*214-5
 
-L'agrément est accordé, pour une durée de cinq ans renouvelable, par le ministre chargé de la protection de la nature, sur
-proposition de la commission des conservatoires botaniques nationaux.
+La commission des conservatoires botaniques nationaux est présidée par le ministre chargé de la protection de la nature ou
+son représentant. Elle comprend les membres suivants :
+
+- deux représentants du Conseil national de la protection de la nature désignés par ce conseil ;
+
+- deux personnalités membres de conseils scientifiques régionaux du patrimoine naturel, choisis par le ministre ;
+
+- le directeur général du Centre national de la recherche scientifique ou son représentant ;
+
+- le directeur général de l'Institut national de la recherche agronomique ou son représentant ;
+
+- cinq personnalités nommées par le ministre en raison de leur compétence dans les matières touchant aux missions des
+conservatoires botaniques nationaux.
+
+Le président de la Fédération des conservatoires botaniques nationaux assiste, avec voix consultative, aux séances de la
+commission.
+
+Les membres sont nommés pour une durée de quatre ans renouvelable. Des membres suppléants sont désignés dans les mêmes
+conditions que les membres titulaires. Ils ne siègent qu'en cas d'absence du membre titulaire qu'ils suppléent.
+
+En cas de partage égal des voix, le président de la commission a voix prépondérante.
+
+La commission peut décider d'entendre toute personne dont l'audition lui semble utile à l'avancement de ses travaux.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -50425,15 +50493,18 @@ proposition de la commission des conservatoires botaniques nationaux.
 	  - Décret n°93-742 du 29 mars 1993 - art. 3 (Ab)
 	  - Décret n°93-743 du 29 mars 1993 - art. 3 (Ab)
 	  - Code rural - art. R214-5 (Ab)
-	  - Code rural R214-5
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004 rectificatif JORF 18 septembre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cité par**:
 
@@ -50444,385 +50515,6 @@ proposition de la commission des conservatoires botaniques nationaux.
 	  - Code général de la propriété des personnes publ... - art. R5121-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R5261-1 (V)
 	  - Code général des collectivités territoriales - art. R2224-22 (VD)
-
-
-###### Article R*214-6
-
-Le dossier de demande d'agrément comprend notamment :
-
-1. La dénomination ou raison sociale, la forme juridique et l'adresse de l'établissement demandeur, ses modes de gestion et
-de financement, ainsi que l'identité et la qualité du signataire de la demande ;
-
-2. Une présentation générale des activités de l'établissement , y compris celles ne concernant pas l'objet de la demande ;
-
-3. Un bilan des actions déjà menées par l'établissement dans le domaine de la conservation de la flore ;
-
-4. La liste des espèces mises en culture ou conservées (sous diverses formes à préciser) dans l'établissement ;
-
-5. La spécialisation (géographique, taxonomique ou d'une autre nature) pour laquelle l'agrément de conservatoire est
-sollicité ;
-
-6. Une description des installations dont dispose l'établissement pour assurer la multiplication et la culture des espèces
-concernées et la conservation de leurs semences ;
-
-7. Une présentation du personnel dont dispose l'établissement ainsi que de ses éventuels correspondants assurant des missions
-de prospection sur le terrain ;
-
-8. Les mesures que l'établissement prend ou entend prendre pour assurer la bonne conservation du patrimoine et de la
-diversité génétiques des taxons conservés ;
-
-9. La composition du conseil scientifique chargé de suivre l'activité du conservatoire,
-
-ainsi que toutes autres pièces dont la liste est fixée par le ministre chargé de la protection de la nature.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R214-6
-	  - Code rural - art. R214-6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Cité par**:
-
-	  - Arrêté du 22 juin 2007 - art. 2 (VT)
-	  - Arrêté du 24 novembre 2009 - art. 8 (V)
-	  - Décret n°2014-751 du 1er juillet 2014 - art. 4 (VT)
-	  - Décret n°2014-751 du 1er juillet 2014 - art. 5 (VT)
-	  - Arrêté du 21 juillet 2015 - art. 9 (V)
-	  - Arrêté du 11 septembre 2015 - art. 14 (V)
-	  - Code de l'environnement - art. R*214-27 (Ab)
-	  - Code de l'environnement - art. R122-5 (VT)
-	  - Code de l'environnement - art. R211-46 (V)
-	  - Code de l'environnement - art. R214-1 (VD)
-	  - Code de l'environnement - art. R214-100 (VD)
-	  - Code de l'environnement - art. R214-17 (VT)
-	  - Code de l'environnement - art. R214-20 (VT)
-	  - Code de l'environnement - art. R214-31-1 (V)
-	  - Code de l'environnement - art. R214-45 (V)
-	  - Code de l'environnement - art. R214-53 (V)
-	  - Code de l'environnement - art. R214-62 (VD)
-	  - Code de l'environnement - art. R214-63 (V)
-	  - Code de l'environnement - art. R214-71 (Ab)
-	  - Code de l'environnement - art. R214-72 (Ab)
-	  - Code de l'environnement - art. R214-99 (V)
-	  - Code de l'environnement - art. R217-1 (V)
-	  - Code de l'environnement - art. R217-10 (VD)
-	  - Code de l'environnement - art. R562-14 (V)
-	  - Code de l'environnement - art. R562-19 (V)
-	  - Code de l'environnement - art. R652-15 (VD)
-	  - Code des ports maritimes - art. R*122-4 (V)
-	  - Code des transports - art. R5313-65 (V)
-	  - Code des transports - art. R5313-66 (V)
-	  - Code des transports - art. R5314-3 (V)
-	  - Code des transports - art. R5314-4 (V)
-	  - Code rural et de la pêche maritime - art. R123-10 (V)
-
-
-###### Article R*214-7
-
-Le dossier de demande d'agrément est adressé en quatorze exemplaires au ministre chargé de la protection de la nature
-(direction de la protection de la nature) qui le soumet à la commission des conservatoires botaniques nationaux.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R211-47 (V)
-	  - Code de l'environnement - art. R214-23 (V)
-	  - Code de l'environnement - art. R214-31-1 (V)
-	  - Code de l'environnement - art. R217-3 (VT)
-	  - Code de l'environnement - art. R217-7 (VD)
-
-	**Anciens textes**:
-
-	  - Code rural - art. R214-7 (Ab)
-	  - Code rural R214-7
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-
-###### Article R*214-8
-
-La commission désigne en son sein un rapporteur.
-
-Le rapporteur examine le dossier et demande, le cas échéant, des pièces complémentaires.
-
-Il peut visiter l'établissement demandeur.
-
-Il rédige un projet d'avis. Si l'avis proposé est favorable, le rapporteur élabore un projet de cahier des charges, propre à
-l'établissement, et comprenant notamment l'ensemble des contraintes scientifiques et techniques à respecter pour assurer,
-dans des conditions optimales, la conservation génétique des taxons concernés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Cité par**:
-
-	  - Décret n°2014-751 du 1er juillet 2014 - art. 13 (VT)
-	  - Code de l'environnement - art. R214-31-1 (V)
-	  - Code de l'environnement - art. R214-65 (V)
-	  - Code de l'environnement - art. R214-73 (Ab)
-	  - Code de l'environnement - art. R214-75 (Ab)
-	  - Code de l'environnement - art. R652-16 (VT)
-
-	**Anciens textes**:
-
-	  - Code rural - art. R214-8 (Ab)
-	  - Code rural R214-8
-
-
-###### Article R*214-9
-
-La commission entend le rapporteur et étudie ses propositions.
-
-Le demandeur est invité à présenter son dossier mais la commission délibère à huis clos.
-
-La commission rend son avis au ministre accompagné, le cas échéant, du projet de cahier des charges.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R214-9
-	  - Décret n°93-742 du 29 mars 1993 - art. 5 (Ab)
-	  - Code rural - art. R214-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Cité par**:
-
-	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
-	  - Code de l'environnement - art. R214-21 (V)
-	  - Code de l'environnement - art. R214-76 (Ab)
-	  - Code de l'environnement - art. R652-16 (VT)
-
-
-###### Article R*214-10
-
-En cas de suite positive, la décision d'agrément est notifiée au demandeur, par le ministre chargé de la protection de la
-nature, accompagnée du cahier des charges arrêté par le ministre.
-
-En cas de rejet de la demande d'agrément, le ministre chargé de la protection de la nature informe par lettre le demandeur et
-lui communique les raisons de ce rejet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R214-10
-	  - Décret n°93-742 du 29 mars 1993 - art. 6 (Ab)
-	  - Code rural - art. R214-10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Cité par**:
-
-	  - Décret n°2014-751 du 1er juillet 2014 - art. 8 (VT)
-	  - Décret n°2016-1304 du 4 octobre 2016 - art. 8
-	  - Code de l'environnement - art. R214-23 (V)
-	  - Code de l'environnement - art. R217-7 (VD)
-	  - Code de l'environnement - art. R555-14 (VD)
-
-
-###### Article R*214-11
-
-Le renouvellement d'agrément s'effectue dans les conditions fixées aux articles R. 214-5 à R. 214-10 ci-dessus.
-
-La demande de renouvellement comprend un bilan détaillé des actions entreprises par l'établissement dans le cadre de ses
-missions de conservatoire botanique national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R214-11
-	  - Décret n°93-742 du 29 mars 1993 - art. 7 (Ab)
-	  - Code rural - art. R214-11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R214-17 (VT)
-	  - Code de l'environnement - art. R214-24 (V)
-	  - Code de l'environnement - art. R214-73 (Ab)
-	  - Code de l'environnement - art. R217-3 (VT)
-
-	**Cite**:
-
-	  - Code de l'environnement R214-5 à R214-10
-
-
-###### Article R*214-12
-
-Un établissement agréé en tant que conservatoire botanique national peut être amené à fournir tout rapport d'activité à la
-demande du ministre chargé de la protection de la nature.
-
-Le ministre chargé de la protection de la nature peut mandater toute personne afin de contrôler un établissement agréé en
-tant que conservatoire botanique national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-742 du 29 mars 1993 - art. 8 (Ab)
-	  - Code rural - art. R214-12 (Ab)
-	  - Code rural R214-12
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Cité par**:
-
-	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
-	  - Code de l'environnement - art. R214-119 (V)
-	  - Code de l'environnement - art. R214-24 (V)
-	  - Code de l'environnement - art. R217-4 (VT)
-
-
-###### Article R*214-13
-
-Lorsque l'activité ou le fonctionnement d'un conservatoire n'est pas conforme aux objectifs qu'il poursuit, et en particulier
-à son cahier des charges, le ministre chargé de la protection de la nature peut retirer son agrément de conservatoire
-botanique national.
-
-Il recueille au préalable l'avis de la commission des conservatoires botaniques nationaux et entend le responsable de
-l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R214-13
-	  - Décret n°93-742 du 29 mars 1993 - art. 11 (Ab)
-	  - Code rural - art. R214-13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-
-###### Article R*214-14
-
-L'usage de la marque collective mentionnée à l'article R. 214-2 déposée au nom de l'Etat par le ministre chargé de la
-protection de la nature ne peut être confié qu'à un établissement agréé en tant que Conservatoire botanique national ou à une
-personne morale regroupant uniquement de tels établissements.
-
-Dans ce dernier cas, le ministre chargé de la protection de la nature autorise la création de cette personne morale et en
-approuve les statuts ainsi que leurs modifications.
-
-Les modalités de l'usage de la marque collective sont fixées par le règlement joint au dépôt de marque.
-
-Le retrait de l'agrément emporte interdiction pour l'établissement d'utiliser la marque déposée et d'être membre d'une
-personne morale mentionnée au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-742 du 29 mars 1993 - art. 12 (Ab)
-	  - Code rural - art. R214-14 (Ab)
-	  - Code rural R214-14
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2004-696 du 8 juillet 2004 - art. 1 () JORF 16 juillet 2004
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R*214-2 (Ab)
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. R214-13 (V)
 
 
 ##### Section 2 : Sites Natura 2000
