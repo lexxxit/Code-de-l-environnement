@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2004-12-28
 
 # Partie législative
 
@@ -73194,7 +73194,7 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 Les taux de la taxe piscicole due par les membres des associations agréées de pêche et de pisciculture, des associations
 agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public et des associations agréées de pêcheurs
 professionnels en eau douce ainsi que par les personnes qui pratiquent la capture du poisson à l'aide de lignes dans les
-piscicultures créées à des fins de valorisation touristique sont fixés ainsi qu'il suit pour l'année 2004 :
+piscicultures créées à des fins de valorisation touristique sont fixés ainsi qu'il suit pour l'année 2005 :
 
 1° Pêcheurs professionnels à temps plein ou partiel, notamment les adjudicataires, cofermiers et titulaires de licences de
 pêche professionnelle sur les eaux du domaine public : 140 euros. Le taux de la taxe est de 28 euros pour les compagnons de
@@ -73224,7 +73224,7 @@ pisciculture, quel que soit le mode de pêche, sans préjudice de celui prévu �
 code de l'environnement, à l'exception de la personne physique propriétaire du plan d'eau : 10,50 euros ;
 
 7° Pêcheurs amateurs, membres d'une association agréée de pêche et de pisciculture, titulaires d'une carte de pêche Vacances,
-valable pour quinze jours consécutifs entre le 1er juin et le 30 septembre : 12 euros ;
+valable pour 15 jours consécutifs entre le 1er juin et le 30 septembre : 12 euros ;
 
 8° Pêcheurs amateurs dans les cours d'eau de 2e catégorie et dans les plans d'eau de 1re et de 2e catégorie, membres d'une
 association agréée de pêche et de pisciculture, titulaires d'une carte de pêche à la journée : 3 euros.
@@ -73233,14 +73233,23 @@ Les pêcheurs appartenant à plusieurs des catégories mentionnées ci-dessus ne
 dont le taux est le plus élevé.
 
 Tout pêcheur amateur qui pratique la pêche des salmonidés migrateurs (truite de mer et saumon) doit acquitter une taxe
-supplémentaire au taux de 23,50 euros.
+supplémentaire au taux de 33,50 euros.
 
 Tout pêcheur professionnel qui pratique la pêche des salmonidés migrateurs (truite de mer et saumon) doit acquitter une taxe
-supplémentaire au taux de 32 euros.
+supplémentaire au taux de 42 euros.
 
-Tout pêcheur professionnel de civelle doit acquitter une taxe supplémentaire au taux de 205 euros.
+Tout pêcheur professionnel de civelle doit acquitter une taxe supplémentaire au taux de 220 euros.
 
-Tout pêcheur amateur de civelle doit acquitter une taxe supplémentaire au taux de 41 euros.
+Tout pêcheur amateur de civelle doit acquitter une taxe supplémentaire au taux de 56 euros.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -73248,15 +73257,19 @@ Tout pêcheur amateur de civelle doit acquitter une taxe supplémentaire au taux
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2003-1268 du 23 décembre 2003 - art. 1 () JORF 28 décembre 2003
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L431-6 (M)
 	  - Code de l'environnement - art. L436-2 (AbD)
 	  - Code de l'environnement R236-30, L436-2, L431-6
+
+	**Modifié par**:
+
+	  - Décret n°2004-1414 2004-12-23 art. 1 JORF 28 décembre 2004
 
 
 ###### Article R*236-2
