@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2002-01-23
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -27,8 +27,9 @@ les meilleures techniques disponibles à un coût économiquement acceptable ;
 3° Le principe pollueur-payeur, selon lequel les frais résultant des mesures de prévention, de réduction de la pollution et
 de lutte contre celle-ci doivent être supportés par le pollueur ;
 
-4° Le principe de participation, selon lequel chacun doit avoir accès aux informations relatives à l'environnement, y compris
-celles relatives aux substances et activités dangereuses.
+4° Le principe de participation, selon lequel chacun a accès aux informations relatives à l'environnement, y compris celles
+relatives aux substances et activités dangereuses, et le public est associé au processus d'élaboration des projets ayant une
+incidence importante sur l'environnement ou l'aménagement du territoire.
 
 **Liens relatifs à cet article**
 
@@ -36,6 +37,10 @@ celles relatives aux substances et activités dangereuses.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 132 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -69,7 +74,6 @@ celles relatives aux substances et activités dangereuses.
 	**Anciens textes**:
 
 	  - Code rural - art. L200-1 (Ab)
-	  - Code rural L200-1
 
 
 ###### Article L110-2
@@ -101,15 +105,36 @@ Les personnes publiques et privées doivent, dans toutes leurs activités, se co
 
 ### Titre II : Information et participation des citoyens
 
-#### Chapitre Ier : Débat public relatif aux opérations d'aménagement
+#### Chapitre Ier : Participation du public à l'élaboration des projets d'aménagement ou d'équipement ayant une incidence importante sur l'environnement ou l'aménagement du territoire
+
+##### Section 1 : Missions de la Commission nationale du débat public. Champ d'application et objet du débat public
 
 ###### Article L121-1
 
-Sans préjudice des dispositions du chapitre III du présent titre et de l'article L. 300-2 du code de l'urbanisme, pour les
-grandes opérations publiques d'aménagement d'intérêt national de l'Etat, des collectivités territoriales, des établissements
-publics et des sociétés d'économie mixte présentant un fort enjeu socio-économique ou ayant un impact significatif sur
-l'environnement, un débat public peut être organisé sur les objectifs et les caractéristiques principales des projets,
-pendant la phase de leur élaboration.
+La Commission nationale du débat public, autorité administrative indépendante, est chargée de veiller au respect de la
+participation du public au processus d'élaboration des projets d'aménagement ou d'équipement d'intérêt national de l'Etat,
+des collectivités territoriales, des établissements publics et des personnes privées, relevant de catégories d'opérations
+dont la liste est fixée par décret en Conseil d'Etat, dès lors qu'ils présentent de forts enjeux socio-économiques ou ont des
+impacts significatifs sur l'environnement ou l'aménagement du territoire.
+
+La participation du public peut prendre la forme d'un débat public. Celui-ci porte sur l'opportunité, les objectifs et les
+caractéristiques principales du projet.
+
+La participation du public est assurée pendant toute la phase d'élaboration d'un projet, depuis l'engagement des études
+préliminaires jusqu'à la clôture de l'enquête publique réalisée en application des dispositions du chapitre III du titre II
+du livre Ier du présent code ou du chapitre Ier du titre Ier du code de l'expropriation pour cause d'utilité publique.
+
+En outre, la Commission nationale du débat public veille au respect de bonnes conditions d'information du public durant la
+phase de réalisation des projets dont elle a été saisie jusqu'à la réception des équipements et travaux.
+
+Elle conseille à leur demande les autorités compétentes et tout maître d'ouvrage sur toute question relative à la
+concertation avec le public tout au long de l'élaboration d'un projet.
+
+La Commission nationale du débat public a également pour mission d'émettre tous avis et recommandations à caractère général
+ou méthodologique de nature à favoriser et développer la concertation avec le public.
+
+La Commission nationale du débat public et les commissions particulières ne se prononcent pas sur le fond des projets qui
+leur sont soumis.
 
 **Liens relatifs à cet article**
 
@@ -123,9 +148,9 @@ pendant la phase de leur élaboration.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L300-2 (M)
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -135,19 +160,12 @@ pendant la phase de leur élaboration.
 
 ###### Article L121-2
 
-La Commission nationale du débat public peut être saisie conjointement par les ministres dont dépendent les projets pouvant
-donner lieu à débat public et par le ministre chargé de l'environnement ainsi que, pour les projets des collectivités
-territoriales ou de leurs établissements publics, par le ministre chargé des collectivités locales après consultation
-desdites collectivités territoriales.
+Les dispositions du présent chapitre ne sont pas applicables aux documents d'urbanisme et aux opérations d'aménagement
+prévues par le livre III du code de l'urbanisme. Toutefois peuvent en relever certains projets d'investissement dont la liste
+est fixée par décret en Conseil d'Etat. 
 
-La Commission nationale du débat public peut aussi être saisie par au moins vingt députés ou vingt sénateurs ainsi que par
-les conseils régionaux territorialement concernés par le projet.
-
-Les associations agréées de protection de l'environnement mentionnées à l'article L. 141-1, exerçant leur activité sur
-l'ensemble du territoire national, peuvent demander à la commission de se saisir d'un projet tel que défini à l'article L.
-121-1.
-
-Lorsque la commission est saisie, elle consulte les ministres concernés.
+Lorsque le débat public est organisé dans les conditions prévues au présent chapitre, les dispositions prévues à l'article L.
+300-2 du code de l'urbanisme ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -161,6 +179,10 @@ Lorsque la commission est saisie, elle consulte les ministres concernés.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
 	**Cité par**:
 
 	  - Décret n°2005-664 du 10 juin 2005 - art. 15 (Ab)
@@ -171,28 +193,46 @@ Lorsque la commission est saisie, elle consulte les ministres concernés.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L121-1 (M)
-	  - Code de l'environnement - art. L141-1 (M)
+	  - Code de l'urbanisme - art. L300-2 (V)
 
+
+##### Section 2 : Composition et fonctionnement de la Commission nationale  du débat public
 
 ###### Article L121-3
 
-I. - La Commission nationale du débat public est composée, à parts égales :
+La Commission nationale du débat public est composée de vingt et un membres nommés pour cinq ans ou pour la durée de leur
+mandat. Outre son président et deux vice-présidents, elle comprend : 
 
-1° De parlementaires et d'élus locaux ;
+1° Un député et un sénateur nommés respectivement par le Président de l'Assemblée nationale et par le Président du Sénat ; 
 
-2° De membres du Conseil d'Etat et des juridictions des ordres administratif et judiciaire ;
+2° Six élus locaux nommés par décret sur proposition des associations représentatives des élus concernés ; 
 
-3° De représentants d'associations de protection de l'environnement agréées au titre de l'article L. 141-1 exerçant leur
-activité sur l'ensemble du territoire national, de représentants des usagers et de personnalités qualifiées.
+3° Un membre du Conseil d'Etat, élu par l'assemblée générale du Conseil d'Etat ; 
 
-II. - Elle est présidée par un conseiller d'Etat en activité ou honoraire.
+4° Un membre de la Cour de cassation, élu par l'assemblée générale de la Cour de cassation ; 
 
-III. - La Commission nationale du débat public constitue pour chaque projet une commission particulière qui organise le débat
-public.
+5° Un membre de la Cour des comptes, élu par l'assemblée générale de la Cour des comptes ; 
 
-IV. - Les personnes intéressées à l'opération à titre personnel ou en raison de leurs fonctions ne peuvent faire partie de la
-commission particulière chargée d'organiser le débat public sur ladite opération.
+6° Un membre du corps des membres des tribunaux administratifs et des cours administratives d'appel, nommé par décret sur
+proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel ; 
+
+7° Deux représentants d'associations de protection de l'environnement agréées au titre de l'article L. 141-1 exerçant leur
+activité sur l'ensemble du territoire national, nommés par arrêté du Premier ministre sur proposition du ministre chargé de
+l'environnement ; 
+
+8° Deux représentants des consommateurs et des usagers, respectivement nommés par arrêté du Premier ministre sur proposition
+du ministre chargé de l'économie et du ministre chargé des transports ; 
+
+9° Deux personnalités qualifiées, dont l'une ayant exercé des fonctions de commissaire enquêteur, respectivement nommées par
+arrêté du Premier ministre sur proposition du ministre chargé de l'industrie et du ministre chargé de l'équipement. 
+
+Le président et les vice-présidents sont nommés par décret. 
+
+Le mandat des membres est renouvelable une fois. 
+
+Le président et les vice-présidents exercent leurs fonctions à plein temps et sont rémunérés. 
+
+Les fonctions des autres membres donnent lieu à indemnité.
 
 **Liens relatifs à cet article**
 
@@ -206,15 +246,19 @@ commission particulière chargée d'organiser le débat public sur ladite opéra
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L141-1 (M)
+	  - Code de l'environnement - art. L141-1 (V)
 
 
 ###### Article L121-4
 
-A l'issue du débat public, le président de la Commission nationale du débat public dresse un bilan de ce débat et en publie
-le compte rendu, qui est mis à la disposition du commissaire enquêteur ou de la commission d'enquête.
+La commission peut bénéficier de la mise à disposition de fonctionnaires en position d'activité. Elle peut recruter des
+agents contractuels pour les besoins de son fonctionnement.
 
 **Liens relatifs à cet article**
 
@@ -228,6 +272,10 @@ le compte rendu, qui est mis à la disposition du commissaire enquêteur ou de l
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
 	**Cité par**:
 
 	  - Décret n°2017-626 du 25 avril 2017 - art. 11
@@ -235,10 +283,9 @@ le compte rendu, qui est mis à la disposition du commissaire enquêteur ou de l
 
 ###### Article L121-5
 
-Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions d'application du présent chapitre et, notamment,
-le stade d'élaboration du projet avant lequel le débat peut être organisé, les conditions de nomination du président et des
-membres de la commission et les conditions dans lesquelles le maître d'ouvrage peut être appelé à contribuer au financement
-du déroulement du débat public.
+Les membres de la Commission nationale et des commissions particulières intéressés à une opération à titre personnel ou en
+raison de leurs fonctions ne peuvent participer à un débat ou à une procédure de concertation se rapportant à cette
+opération.
 
 **Liens relatifs à cet article**
 
@@ -252,6 +299,328 @@ du déroulement du débat public.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+
+###### Article L121-6
+
+Les crédits nécessaires au fonctionnement de la Commission nationale du débat public sont inscrits au budget général de
+l'Etat sur proposition du Premier ministre. Le président de la commission est ordonnateur des dépenses. Il a autorité sur les
+services. 
+
+Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas
+applicables aux dépenses de la commission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 10 août 1922 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+	**Cité par**:
+
+	  - Arrêté du 10 mars 2009 (Ab)
+
+
+###### Article L121-7
+
+La Commission nationale du débat public établit chaque année un rapport rendant compte de son activité. Ce rapport est remis
+au Gouvernement et au Parlement. Il est rendu public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 32
+
+
+##### Section 3 : Organisation du débat public
+
+###### Article L121-8
+
+I.-La Commission nationale du débat public est saisie de tous les projets d'aménagement ou d'équipement qui, par leur nature,
+leurs caractéristiques techniques ou leur coût prévisionnel, tel qu'il peut être évalué lors de la phase d'élaboration,
+répondent à des critères ou excèdent des seuils fixés par décret en Conseil d'Etat. 
+
+Le maître d'ouvrage ou la personne publique responsable du projet adresse à la commission un dossier présentant les objectifs
+et les principales caractéristiques du projet, ainsi que les enjeux socio-économiques, le coût estimatif et l'identification
+des impacts significatifs du projet sur l'environnement ou l'aménagement du territoire. 
+
+II.-En outre, les projets appartenant aux catégories définies en application du I mais dont le coût prévisionnel est d'un
+montant inférieur au seuil fixé en application du I, et qui répondent à des critères techniques ou excèdent des seuils fixés
+par décret en Conseil d'Etat pour chaque nature de projet, sont rendus publics par leur maître d'ouvrage ou par la personne
+publique responsable du projet, qui en publie les objectifs et caractéristiques essentielles. 
+
+En ce cas, la commission peut être saisie par le maître d'ouvrage ou la personne publique responsable du projet et par dix
+parlementaires ; elle peut également être saisie par un conseil régional, un conseil général, un conseil municipal ou un
+établissement public de coopération intercommunale ayant une compétence en matière d'aménagement de l'espace,
+territorialement intéressés ou par l'une des associations agréées de protection de l'environnement mentionnées à l'article L.
+141-1 exerçant leur activité sur l'ensemble du territoire national. Cette saisine intervient dans un délai de deux mois à
+compter du moment où ces projets sont rendus publics par le maître d'ouvrage. 
+
+Le maître d'ouvrage adresse à la Commission nationale du débat public un dossier constitué conformément au deuxième alinéa du
+I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-1275 du 22 octobre 2002 - art. 2 (Ab)
+	  - Décret n°2002-1275 du 22 octobre 2002 - art. 3 (Ab)
+	  - Décret n°2002-1275 du 22 octobre 2002 - art. 5 (Ab)
+	  - Décret n°2002-1275 du 22 octobre 2002 - art. ANNEXE (Ab)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 8 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 3 (VD)
+	  - Décret n°2016-530 du 27 avril 2016 - art. 1
+	  - Code de l'environnement - art. L121-1 (V)
+	  - Code de l'environnement - art. L121-1-A (V)
+	  - Code de l'environnement - art. L121-12 (VT)
+	  - Code de l'environnement - art. L121-15-1 (V)
+	  - Code de l'environnement - art. L121-16-1 (V)
+	  - Code de l'environnement - art. L121-9 (VT)
+	  - Code de l'environnement - art. L123-12 (V)
+	  - Code de l'environnement - art. R121-2 (V)
+	  - Code de l'environnement - art. R121-3 (M)
+	  - Code de l'environnement - art. R121-5 (V)
+	  - Code de l'environnement - art. R122-6 (V)
+	  - Code de l'environnement - art. R123-8 (VD)
+	  - Code de l'environnement - art. R555-9 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-15 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L322-2 (VD)
+	  - Code de l'énergie - art. R521-5 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L141-1 (V)
+
+
+###### Article L121-9
+
+Lorsque la Commission nationale du débat public est saisie en application des dispositions de l'article L. 121-8, elle
+détermine les modalités de participation du public au processus de décision dans les conditions suivantes : 
+
+I.-La commission apprécie, pour chaque projet, si le débat public doit être organisé en fonction de l'intérêt national du
+projet, de son incidence territoriale, des enjeux socio-économiques qui s'y attachent et de ses impacts sur l'environnement
+ou l'aménagement du territoire. 
+
+Si la commission estime qu'un débat public est nécessaire, elle peut soit l'organiser elle-même et, dans ce cas, elle en
+confie l'animation à une commission particulière qu'elle constitue, soit en confier l'organisation au maître d'ouvrage ou à
+la personne publique responsable du projet. Dans ce cas, elle définit les modalités d'organisation du débat et veille à son
+bon déroulement. 
+
+Si la commission estime qu'un débat public n'est pas nécessaire, elle peut recommander au maître d'ouvrage ou à la personne
+publique responsable du projet l'organisation d'une concertation selon des modalités qu'elle propose. 
+
+II.-La Commission nationale du débat public se prononce dans un délai de deux mois sur la suite à réserver aux saisines
+prévues aux I et II de l'article L. 121-8. 
+
+Elle se prononce sur les demandes de débat dont elle est saisie en vertu de l'article L. 121-8 par une décision motivée. 
+
+En l'absence de décision explicite à l'issue de ce délai, la commission est réputée avoir renoncé à organiser le débat public
+ou à en confier l'organisation au maître d'ouvrage ou à la personne publique responsable du projet. 
+
+III.-Les dépenses relatives à l'organisation matérielle d'un débat public sont à la charge du maître d'ouvrage ou de la
+personne publique responsable du projet. En revanche, le coût des expertises complémentaires est à la charge de la Commission
+nationale du débat public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+	**Cité par**:
+
+	  - Loi n°2010-597 du 3 juin 2010 - art. 4 (V)
+	  - Décret n°2017-626 du 25 avril 2017 - art. 19 (V)
+	  - Code de l'environnement - art. L121-15-1 (V)
+	  - Code de l'environnement - art. L121-8 (V)
+
+
+###### Article L121-10
+
+Le ministre chargé de l'environnement, conjointement avec le ministre intéressé, peut saisir la Commission nationale du débat
+public en vue de l'organisation d'un débat public portant sur des options générales en matière d'environnement ou
+d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+	**Cité par**:
+
+	  - Décret n°2002-1275 du 22 octobre 2002 - art. 10 (Ab)
+	  - Loi n°2016-87 du 2 février 2016 - art. 12
+	  - Code de l'environnement - art. R121-10 (M)
+
+
+###### Article L121-11
+
+La Commission nationale du débat public établit et publie le calendrier de déroulement du débat public, dont la durée ne peut
+excéder quatre mois, celle-ci pouvant être prolongée de deux mois par une décision motivée de la Commission nationale du
+débat public.
+
+La Commission nationale du débat public peut demander au maître d'ouvrage ou à la personne publique responsable de compléter
+le dossier qu'il est prévu de soumettre au débat public. Dans ce cas, le délai prévu à l'alinéa précédent ne court qu'à
+compter de la réception du dossier complet par la Commission nationale du débat public.
+
+Dans un délai de deux mois à compter de la date de clôture du débat public, le président de la Commission nationale du débat
+public publie un compte rendu du débat et en dresse le bilan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+
+###### Article L121-12
+
+En ce qui concerne les projets relevant de l'article L. 121-8, l'ouverture de l'enquête publique prévue à l'article L. 123-1
+ne peut être décidée qu'à compter soit de la date à partir de laquelle un débat public ne peut plus être organisé, soit de la
+date de publication du bilan ou à l'expiration du délai imparti au président de la Commission nationale du débat public pour
+procéder à cette publication et au plus tard dans le délai de cinq ans qui suivent ces dates. Au-delà de ce délai, la
+commission ne peut décider de relancer la concertation avec le public que si les circonstances de fait ou de droit justifiant
+le projet ont subi des modifications substantielles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L121-8 (V)
+	  - Code de l'environnement - art. L123-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L542-10-1 (V)
+
+
+###### Article L121-13
+
+Lorsqu'un débat public a été organisé sur un projet, le maître d'ouvrage ou la personne publique responsable du projet
+décide, dans un délai de trois mois après la publication du bilan du débat public, par un acte qui est publié, du principe et
+des conditions de la poursuite du projet. Il précise, le cas échéant, les principales modifications apportées au projet
+soumis au débat public. Cet acte est transmis à la Commission nationale du débat public.
+
+Lorsque le maître d'ouvrage ou la personne publique responsable du projet est une collectivité territoriale, cet acte donne
+lieu à une délibération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L121-14 (V)
+
+
+###### Article L121-14
+
+Aucune irrégularité au regard des dispositions du présent chapitre ne peut être invoquée lorsque l'acte par lequel la
+Commission nationale du débat public a renoncé à organiser un débat public ou l'acte mentionné à l'article L. 121-13 est
+devenu définitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2016-1060 du 3 août 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L121-13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L121-15 (VD)
+
+
+###### Article L121-15
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 134 () JORF 28 février 2002
+
 
 #### Chapitre II : Etudes d'impact
 
@@ -263,6 +632,19 @@ une décision d'approbation, ainsi que les documents d'urbanisme, doivent respec
 Les études préalables à la réalisation d'aménagements ou d'ouvrages qui, par l'importance de leurs dimensions ou leurs
 incidences sur le milieu naturel, peuvent porter atteinte à ce dernier, doivent comporter une étude d'impact permettant d'en
 apprécier les conséquences.
+
+Sans préjudice de l'application des dispositions des articles L. 11-1-1 du code de l'expropriation pour cause d'utilité
+publique et L. 126-1 du présent code relatives à la motivation des déclarations d'utilité publique et des déclarations de
+projet, lorsqu'une décision d'octroi ou de refus de l'autorisation concernant le projet soumis à l'étude d'impact a été
+prise, l'autorité compétente en informe le public et, sous réserve du secret de la défense nationale, met à sa disposition
+les informations suivantes :
+
+- la teneur de la décision et les conditions dont celle-ci est le cas échéant assortie ;
+
+- les motifs qui ont fondé la décision ;
+
+- les lieux où peuvent être consultées l'étude d'impact ainsi que, le cas échéant, les principales mesures destinées à
+éviter, réduire et si possible compenser les effets négatifs importants du projet.
 
 **Liens relatifs à cet article**
 
@@ -416,6 +798,14 @@ apprécier les conséquences.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 147 () JORF 28 février 2002
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1-1 (V)
+
 
 ###### Article L122-2
 
@@ -470,7 +860,8 @@ les infrastructures de transport, l'étude d'impact comprend une analyse des co�
 des avantages induits pour la collectivité ainsi qu'une évaluation des consommations énergétiques résultant de l'exploitation
 du projet, notamment du fait des déplacements qu'elle entraîne ou permet d'éviter ;
 
-3° Les conditions dans lesquelles l'étude d'impact est rendue publique ;
+3° Les conditions dans lesquelles sont rendues publiques l'étude d'impact, ainsi que les principales mesures destinées à
+éviter, réduire, et si possible compenser les effets négatifs importants du projet ;
 
 4° La liste limitative des ouvrages qui, en raison de la faiblesse de leurs répercussions sur l'environnement, ne sont pas
 soumis à la procédure de l'étude d'impact ;
@@ -489,6 +880,10 @@ soumis à la procédure de l'étude d'impact ;
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 147 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -513,14 +908,17 @@ soumis à la procédure de l'étude d'impact ;
 
 ###### Article L123-1
 
-La réalisation d'aménagements, d'ouvrages ou de travaux exécutés par des personnes publiques ou privées est précédée d'une
-enquête publique soumise aux prescriptions du présent chapitre, lorsqu'en raison de leur nature, de leur consistance ou du
-caractère des zones concernées, ces opérations sont susceptibles d'affecter l'environnement.
+I -  La réalisation d'aménagements, d'ouvrages ou de travaux exécutés par des personnes publiques ou privées est précédée
+d'une enquête publique soumise aux prescriptions du présent chapitre, lorsqu'en raison de leur nature, de leur consistance ou
+du caractère des zones concernées, ces opérations sont susceptibles d'affecter l'environnement. La liste des catégories
+d'opérations visées à l'alinéa précédent et les seuils et critères techniques qui servent à les définir sont fixés par
+décrets en Conseil d'Etat. Ces seuils ou critères peuvent être modulés pour tenir compte de la sensibilité du milieu et des
+zones qui bénéficient au titre de l'environnement d'une protection d'ordre législatif ou réglementaire.
 
-La liste des catégories d'opérations visées à l'alinéa précédent et les seuils et critères techniques qui servent à les
-définir sont fixés par décrets en Conseil d'Etat. Ces seuils ou critères peuvent être modulés pour tenir compte de la
-sensibilité du milieu et des zones qui bénéficient au titre de l'environnement d'une protection d'ordre législatif ou
-réglementaire.
+II  - La décision d'ouverture de l'enquête publique portant sur le projet d'une collectivité territoriale, d'un groupement de
+collectivités territoriales ou d'un des établissements publics en dépendant est prise par le président de l'organe délibérant
+de la collectivité ou de l'établissement. Toutefois, lorsque l'enquête est préalable à une déclaration d'utilité publique, la
+décision est prise par l'autorité compétente de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -581,6 +979,10 @@ réglementaire.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 138 () JORF 28 février 2002
 
 
 ###### Article L123-2
@@ -837,6 +1239,8 @@ et à leurs frais.
 Le commissaire enquêteur ou le président de la commission d'enquête conduit l'enquête de manière à permettre au public de
 prendre une connaissance complète du projet et de présenter ses appréciations, suggestions et contre-propositions.
 
+Il reçoit le maître d'ouvrage de l'opération soumise à l'enquête publique.
+
 Il peut recevoir tous documents, visiter les lieux concernés, à l'exception des lieux d'habitation, après information
 préalable des propriétaires et des occupants par les soins de l'autorité compétente, entendre toutes personnes dont il juge
 l'audition utile et convoquer le maître d'ouvrage ou ses représentants ainsi que les autorités administratives intéressées.
@@ -870,6 +1274,10 @@ d'associations qui demandent à être entendus.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 141 () JORF 28 février 2002
 
 	**Cite**:
 
@@ -997,6 +1405,10 @@ membres des commissions d'enquête, ainsi que les frais qui sont entraînés par
 enquêteur ou de la commission d'enquête des moyens matériels nécessaires à l'organisation et au déroulement de la procédure
 d'enquête.
 
+Saisi d'une demande en ce sens par le commissaire enquêteur ou le président de la commission d'enquête, le président du
+tribunal administratif ou le magistrat qu'il désigne à cet effet ordonne le versement par le maître d'ouvrage d'une provision
+dont il définit le montant. L'enquête publique ne peut être ouverte qu'après le versement de cette provision.
+
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles, aux fins de garantir l'indépendance des commissaires
 enquêteurs et des membres des commissions d'enquête, sont fixées les règles d'indemnisation de ceux-ci et les modalités de
 versement par les maîtres d'ouvrage des sommes correspondantes aux intéressés.
@@ -1021,6 +1433,10 @@ versement par les maîtres d'ouvrage des sommes correspondantes aux intéressés
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 142 () JORF 28 février 2002
 
 
 ###### Article L123-15
@@ -1349,6 +1765,69 @@ diffusion. Ce droit s'exerce selon les modalités définies à la section 2 du c
 	**Anciens textes**:
 
 	  - Code de l'environnement - art. L124-4 (T)
+
+
+#### Chapitre VI : Déclaration de projet
+
+###### Article L126-1
+
+Lorsqu'un projet public de travaux, d'aménagements ou d'ouvrages a fait l'objet d'une enquête publique en application du
+chapitre III du présent titre, l'autorité de l'Etat ou l'organe délibérant de la collectivité territoriale ou de
+l'établissement public responsable du projet se prononce, par une déclaration de projet, sur l'intérêt général de l'opération
+projetée.
+
+La déclaration de projet mentionne l'objet de l'opération tel qu'il figure dans le dossier soumis à l'enquête et comporte les
+motifs et considérations qui justifient son caractère d'intérêt général. Elle indique, le cas échéant, la nature et les
+motifs des principales modifications qui, sans en altérer l'économie générale, sont apportées au projet au vu des résultats
+de l'enquête publique.
+
+Si la déclaration de projet n'est pas intervenue dans le délai d'un an à compter de la clôture de l'enquête, l'opération ne
+peut être réalisée sans une nouvelle enquête.
+
+En l'absence de déclaration de projet, aucune autorisation de travaux ne peut être délivrée.
+
+Si les travaux n'ont pas reçu de commencement d'exécution dans un délai de cinq ans à compter de la publication de la
+déclaration de projet, la déclaration devient caduque. Toutefois, en l'absence de changement dans les circonstances de fait
+ou de droit, le délai peut être prorogé une fois pour la même durée, sans nouvelle enquête, par une déclaration de projet
+prise dans les mêmes formes que la déclaration initiale et intervenant avant l'expiration du délai de cinq ans.
+
+La déclaration de projet est publiée dans des conditions définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 144 () JORF 28 février 2002
+
+	**Cité par**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L122-1 (VD)
+	  - Code de l'environnement - art. L122-1 (VD)
+	  - Code de l'environnement - art. L651-7 (V)
+	  - Code de l'environnement - art. R126-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-1-1 (VT)
+	  - Code de l'urbanisme - art. R*122-11-1 (Ab)
+	  - Code de l'urbanisme - art. R*122-11-2 (Ab)
+	  - Code de l'urbanisme - art. R*122-11-3 (Ab)
+	  - Code de l'urbanisme - art. R*122-13-1 (VT)
+	  - Code de l'urbanisme - art. R*122-13-2 (VT)
+	  - Code de l'urbanisme - art. R*122-13-3 (VT)
+	  - Code de l'urbanisme - art. R*123-23-1 (T)
+	  - Code de l'urbanisme - art. R*123-23-2 (T)
+	  - Code de l'urbanisme - art. R*123-23-3 (T)
+	  - Code de l'urbanisme - art. R*123-23-4 (VT)
+	  - Code de l'urbanisme - art. R143-11 (V)
+	  - Code de l'urbanisme - art. R143-12 (V)
+	  - Code de l'urbanisme - art. R143-13 (V)
+	  - Code de l'urbanisme - art. R153-15 (V)
+	  - Code de l'urbanisme - art. R153-16 (V)
+	  - Code de l'urbanisme - art. R153-17 (V)
+	  - Code rural - art. L121-1 (V)
 
 
 ### Titre III : Institutions
@@ -9426,10 +9905,11 @@ information aux organismes agréés prévus à l'article L. 221-3.
 
 ###### Article L222-1
 
-Le préfet de région, élabore un plan régional pour la qualité de l'air qui fixe des orientations permettant, pour atteindre
-les objectifs de qualité de l'air mentionnés à l'article L. 221-1, de prévenir ou de réduire la pollution atmosphérique ou
-d'en atténuer les effets. Ce plan fixe également des objectifs de qualité de l'air spécifiques à certaines zones lorsque les
-nécessités de leur protection le justifient.
+Le président du conseil régional, élabore un plan régional pour la qualité de l'air qui fixe des orientations permettant,
+pour atteindre les objectifs de qualité de l'air mentionnés à l'article L. 221-1, de prévenir ou de réduire la pollution
+atmosphérique ou d'en atténuer les effets. Les services de l'Etat sont associés à son élaboration. Le conseil régional
+recueille l'avis du comité de massif pour les zones où s'applique la convention alpine. Ce plan fixe également des objectifs
+de qualité de l'air spécifiques à certaines zones lorsque les nécessités de leur protection le justifient.
 
 A ces fins, le plan régional pour la qualité de l'air s'appuie sur un inventaire des émissions et une évaluation de la
 qualité de l'air et de ses effets sur la santé publique et sur l'environnement.
@@ -9438,6 +9918,10 @@ En Corse, le plan régional pour la qualité de l'air est élaboré par le prés
 sont associés à son élaboration.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 	**Anciens textes**:
 
@@ -9494,15 +9978,7 @@ sont associés à son élaboration.
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L221-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 
 ###### Article L222-2
@@ -9510,12 +9986,13 @@ sont associés à son élaboration.
 Le comité régional de l'environnement, les conseils départementaux d'hygiène et les représentants des organismes agréés
 prévus à l'article L. 221-3 sont associés à l'élaboration du plan régional pour la qualité de l'air.
 
-Le projet de plan est mis à la disposition du public pour consultation. Il est transmis pour avis aux conseils municipaux des
-communes où il existe un plan de déplacements urbains ou un plan de protection de l'atmosphère, ainsi qu'aux autorités
-compétentes pour l'organisation des transports urbains et aux conseils généraux. Après modifications éventuelles afin de
-tenir compte des observations du public et des avis des collectivités consultées, il est arrêté par le préfet après avis du
-conseil régional ou, en Corse, par délibération de l'Assemblée de Corse sur proposition du président du conseil exécutif et
-après avis du représentant de l'Etat.
+Le projet de plan est mis à la disposition du public pour consultation. Il est transmis pour avis aux communes, aux
+établissements publics de coopération intercommunale et aux syndicats mixtes compétents pour l'élaboration d'un schéma de
+cohérence territoriale, aux communes où il existe un plan de déplacements urbains ou un plan de protection de l'atmosphère,
+ainsi qu'aux autorités compétentes pour l'organisation des transports urbains et aux conseils généraux. Après modifications
+éventuelles afin de tenir compte des observations du public et des avis des collectivités consultées, il est arrêté par
+délibération du conseil régional ou, en Corse, par délibération de l'Assemblée de Corse sur proposition du président du
+conseil exécutif et après avis du représentant de l'Etat.
 
 Au terme d'une période de cinq ans, le plan fait l'objet d'une évaluation et est révisé, le cas échéant, si les objectifs de
 qualité de l'air n'ont pas été atteints.
@@ -9542,7 +10019,8 @@ En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et 
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2002-276 2002-02-27 art. 109 I B, C JORF 28 février 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -9559,7 +10037,10 @@ En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et 
 
 ###### Article L222-3
 
-Les modalités d'application de la présente section sont déterminées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat fixe les modalités d'application de la présente section, notamment les conditions dans lesquelles
+le représentant de l'Etat dans la région élabore ou révise le plan régional pour la qualité de l'air, lorsqu'après avoir été
+invité à y procéder, le conseil régional ou, en Corse, l'Assemblée de Corse, ne l'a pas adopté dans un délai de dix-huit
+mois.
 
 **Liens relatifs à cet article**
 
@@ -9571,6 +10052,10 @@ Les modalités d'application de la présente section sont déterminées par déc
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Liens**:
 
@@ -11015,6 +11500,12 @@ moteur autres que les véhicules de secours, de police et d'exploitation sont in
 le rivage de la mer et sur les dunes et plages appartenant au domaine public ou privé des personnes publiques lorsque ces
 lieux sont ouverts au public.
 
+Les concessions de plage sont accordées par priorité aux communes ou groupements de communes ou, après leur avis si elles
+renoncent à leur priorité, à des personnes publiques ou privées après publicité et mise en concurrence préalable. Les
+éventuels sous-traités d'exploitation sont également accordés après publicité et mise en concurrence préalable.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11026,6 +11517,10 @@ lieux sont ouverts au public.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 115 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -11177,10 +11672,10 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 ###### Article L321-12
 
-Ainsi qu'il est dit à l'article 285 quater du code des douanes ci-après reproduit :
+Ainsi qu'il est dit à l'article 285 quater du code des douanes ci-après reproduit : 
 
-"Il est perçu une taxe due par les entreprises de transport public maritime. Cette taxe est assise sur le nombre de passagers
-embarqués à destination :
+" Il est perçu une taxe due par les entreprises de transport public maritime. Cette taxe est assise sur le nombre de
+passagers embarqués à destination :
 
 - d'un site naturel classé ou inscrit au titre du chapitre Ier du titre IV du livre III du code de l'environnement ;
 
@@ -11188,27 +11683,27 @@ embarqués à destination :
 
 - d'une réserve naturelle créée en application de l'article L. 332-1 du même code ;
 
-- d'un site appartenant au Conservatoire de l'espace littoral et des rivages lacustres, en application de l'article L. 322-1
-du même code ;
+- d'un site du domaine relevant du Conservatoire de l'espace littoral et des rivages lacustres ou sur lequel il a instauré
+une servitude de protection, en application de l'article L. 322-1 du même code ;
 
-- ou d'un port desservant exclusivement ou principalement un des espaces mentionnés ci-dessus sans y être inclus.
+- ou d'un port desservant exclusivement ou principalement un des espaces mentionnés ci-dessus sans y être inclus. 
 
 La liste des sites, parcs, réserves et ports mentionnés aux deuxième à sixième alinéas est fixée par décret. Les sites
 inscrits au titre du chapitre Ier du titre IV du livre III du code de l'environnement précité ne pourront figurer sur cette
-liste que sur demande des communes concernées.
+liste que sur demande des communes concernées. 
 
 La taxe est ajoutée au prix demandé aux passagers. Elle est constatée, recouvrée et contrôlée par le service des douanes sous
-les mêmes garanties, sanctions et privilèges qu'en matière de droits de douane. L'Etat perçoit sur le produit de cette taxe
-un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % dudit produit. Le tarif de la taxe est fixé par arrêté
-du ministre chargé du budget dans la limite de 1,52 euro par passager. Cet arrêté peut prévoir des tarifs différents ou la
+les mêmes garanties, sanctions et privilèges qu'en matière de droits de douane.L'Etat perçoit sur le produit de cette taxe un
+prélèvement pour frais d'assiette et de recouvrement égal à 2, 5 % dudit produit. Le tarif de la taxe est fixé par arrêté du
+ministre chargé du budget dans la limite de 1, 52 euro par passager. Cet arrêté peut prévoir des tarifs différents ou la
 gratuité selon les diverses catégories d'usagers pour tenir compte soit d'une nécessité d'intérêt général en rapport avec
 l'espace protégé, soit de la situation particulière de certains usagers, et notamment de ceux qui ont leur domicile ou leur
-lieu de travail dans l'espace protégé ou dans une île dont tout ou partie du territoire fait partie de l'espace protégé.
+lieu de travail dans l'espace protégé ou dans une île dont tout ou partie du territoire fait partie de l'espace protégé. 
 
 La taxe est perçue au profit de la personne publique qui assure la gestion de l'espace naturel protégé ou, à défaut, de la
-commune sur le territoire de laquelle se trouve le site et est affectée à sa préservation.
+commune sur le territoire de laquelle se trouve le site et est affectée à sa préservation. 
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article."
+Un décret en Conseil d'Etat précise les conditions d'application du présent article. "
 
 **Liens relatifs à cet article**
 
@@ -11219,7 +11714,17 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 166 () JORF 28 février 2002
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code des douanes - art. 285 quater (M)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-1 (V)
+	  - Code de l'environnement - art. L331-1 (V)
+	  - Code de l'environnement - art. L332-1 (V)
 
 	**Cité par**:
 
@@ -11234,8 +11739,9 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 ###### Article L322-1
 
 I. - Le Conservatoire de l'espace littoral et des rivages lacustres est un établissement public de l'Etat à caractère
-administratif qui a pour mission de mener, après avis des conseils municipaux intéressés, une politique foncière de
-sauvegarde de l'espace littoral et de respect des sites naturels et de l'équilibre écologique :
+administratif qui a pour mission de mener, après avis des conseils municipaux et en partenariat avec les collectivités
+territoriales intéressés, une politique foncière de sauvegarde de l'espace littoral et de respect des sites naturels et de
+l'équilibre écologique :
 
 1° Dans les cantons côtiers délimités au 10 juillet 1975 ;
 
@@ -11251,6 +11757,9 @@ demande auprès du préfet, après avis de cet établissement et accord du préf
 II. - Il peut présenter aux collectivités publiques toutes suggestions en rapport avec sa mission. Il peut notamment proposer
 les mesures propres à éviter toute construction des terrains contigus au domaine public maritime.
 
+Afin de promouvoir une gestion plus intégrée des zones côtières, le Conservatoire de l'espace littoral et des rivages
+lacustres peut également exercer ses missions sur le domaine public maritime qui lui est affecté ou confié.
+
 III. - Son intervention peut être étendue par décret en Conseil d'Etat à des secteurs géographiques limitrophes des cantons
 et communes mentionnés au I et constituant avec eux une unité écologique ou paysagère dont la majorité de la surface est
 située dans les limites desdits cantons et communes.
@@ -11261,6 +11770,11 @@ située dans les limites desdits cantons et communes.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 2002-02-27 art. 160 I, II JORF 28 février 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 160 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -11293,7 +11807,6 @@ située dans les limites desdits cantons et communes.
 	**Anciens textes**:
 
 	  - Code rural - art. L243-1 (Ab)
-	  - Code rural L243-1
 
 
 ###### Article L322-2
@@ -11400,23 +11913,18 @@ biens compte tenu des servitudes existantes, lesdites servitudes ne pouvant ouvr
 ###### Article L322-6
 
 Le Conservatoire de l'espace littoral et des rivages lacustres peut être affectataire, à titre gratuit, d'immeubles dépendant
-du domaine privé de l'Etat. Toutefois, lorsque le service précédemment affectataire est doté de l'autonomie financière,
-l'immeuble est affecté à titre onéreux à l'établissement public ou lui est cédé dans les formes du droit commun.
+du domaine public ou privé de l'Etat. Toutefois, lorsque le service précédemment affectataire est doté de l'autonomie
+financière, l'immeuble est affecté à titre onéreux à l'établissement public ou lui est cédé dans les formes du droit commun. 
 
 Le Conservatoire de l'espace littoral et des rivages lacustres est substitué à l'Etat dans la gestion des immeubles qui lui
 sont affectés : il passe toutes conventions les concernant, notamment celles visées à l'article L. 322-9, perçoit à son
 profit tous leurs produits et supporte les charges y afférentes, de quelque nature qu'elles soient. Ces dispositions sont
-applicables aux immeubles domaniaux remis à l'établissement à titre de dotation.
+applicables aux immeubles domaniaux remis à l'établissement à titre de dotation. 
 
 Les biens domaniaux qui lui sont affectés ou remis en dotation ne peuvent être désaffectés ou retirés que dans les conditions
 prévues pour les aliénations du domaine propre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L243-6
-	  - Code rural - art. L243-6 (Ab)
 
 	**Cité par**:
 
@@ -11430,9 +11938,17 @@ prévues pour les aliénations du domaine propre.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 160 () JORF 28 février 2002
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L322-9 (M)
+	  - Code de l'environnement - art. L322-9 (V)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L243-6 (Ab)
 
 
 ###### Article L322-7
@@ -11493,11 +12009,29 @@ gratuit, lorsqu'ils sont faits au profit du Conservatoire de l'espace littoral e
 
 ###### Article L322-9
 
-La gestion des immeubles dont le Conservatoire de l'espace littoral et des rivages lacustres est propriétaire ou affectataire
-est réalisée par voie de conventions avec les collectivités locales ou leurs groupements, les établissements publics ou les
-fondations et associations spécialisées agréées à cet effet ou les exploitants agricoles. Ces conventions prévoient
-expressément l'usage à donner aux terrains, cet usage devant obligatoirement contribuer à la réalisation des objectifs
-définis à l'article L. 322-1.
+Le domaine relevant du Conservatoire de l'espace littoral et des rivages lacustres comprend les biens immobiliers acquis
+ainsi que ceux qui lui sont affectés, attribués, confiés ou remis en gestion par l'Etat. Le domaine propre du conservatoire
+est constitué des terrains dont il est devenu propriétaire et qu'il décide de conserver afin d'assurer sa mission définie à
+l'article L. 322-1. Le domaine relevant du Conservatoire du littoral et des rivages lacustres est du domaine public à
+l'exception des terrains acquis non classés dans le domaine propre. Dans la limite de la vocation et de la fragilité de
+chaque espace, ce domaine est ouvert au public. 
+
+Les immeubles du domaine relevant du Conservatoire de l'espace littoral et des rivages lacustres peuvent être gérés par les
+collectivités locales ou leurs groupements, ou les établissements publics ou les fondations et associations spécialisées
+agréées qui en assurent les charges et perçoivent les produits correspondants. Priorité est donnée, si elles le demandent,
+aux collectivités locales sur le territoire desquelles les immeubles sont situés. Les conventions signées à ce titre entre le
+conservatoire et les gestionnaires prévoient expressément l'usage à donner aux terrains, cet usage devant obligatoirement
+contribuer à la réalisation des objectifs définis à l'article L. 322-1. 
+
+Le conservatoire et le gestionnaire peuvent autoriser par voie de convention un usage temporaire et spécifique des immeubles
+dès lors que cet usage est compatible avec la mission poursuivie par le conservatoire, telle que définie à l'article L.
+322-1. 
+
+Dans le cas d'un usage de ce domaine public associé à une exploitation agricole, priorité est donnée à l'exploitant présent
+sur les lieux au moment où les immeubles concernés sont entrés dans le domaine relevant du conservatoire. En l'absence
+d'exploitant présent sur les lieux, le conservatoire, et le gestionnaire le cas échéant, consultent les organismes
+professionnels pour le choix de l'exploitant. La convention avec celui-ci fixe les droits et obligations de l'exploitant en
+application d'une convention-cadre approuvée par le conseil d'administration et détermine les modes de calcul des redevances.
 
 **Liens relatifs à cet article**
 
@@ -11529,20 +12063,32 @@ définis à l'article L. 322-1.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 161 () JORF 28 février 2002
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L322-1 (M)
+	  - Code de l'environnement - art. L322-1 (V)
 
 	**Anciens textes**:
 
 	  - Code rural - art. L243-9 (Ab)
-	  - Code rural L243-9
 
 
 ###### Article L322-10
 
-La gestion de ces droits immobiliers est confiée par priorité, si elles le demandent, aux collectivités locales sur le
-territoire desquelles ils sont situés.
+L'aménagement et la réalisation des travaux portant sur des immeubles relevant du Conservatoire de l'espace littoral et des
+rivages lacustres peuvent être confiés, en vue d'assurer la conservation, la protection et la mise en valeur des biens, à
+l'une des personnes publiques ou privées désignées à l'article L. 322-9 dans le cadre d'une convention d'occupation
+n'excédant pas trente ans. Les missions confiées doivent être conformes à la mission poursuivie par le conservatoire. Cette
+convention peut habiliter le bénéficiaire à accorder des autorisations d'occupation non constitutives de droits réels d'une
+durée n'excédant pas celle de la convention.
+
+Le bénéficiaire est autorisé à encaisser directement à son profit les produits de l'immeuble. Dans ce cas, il doit procéder
+au reversement périodique au conservatoire du surplus des produits qui n'ont pas été affectés à la mise en valeur et à la
+gestion du bien. Le bénéficiaire est choisi librement. En fin de convention d'occupation, le gestionnaire ne peut prétendre à
+aucune indemnité pour les améliorations apportées à l'immeuble.
 
 **Liens relatifs à cet article**
 
@@ -11550,6 +12096,14 @@ territoire desquelles ils sont situés.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 162 () JORF 28 février 2002
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-9 (M)
 
 	**Cité par**:
 
@@ -11562,7 +12116,127 @@ territoire desquelles ils sont situés.
 	**Anciens textes**:
 
 	  - Code rural - art. L243-10 (Ab)
-	  - Code rural L243-10
+
+
+###### Article L322-10-1
+
+Les personnes physiques chargées par les gestionnaires visés à l'article L. 322-9 d'assurer la garderie du domaine administré
+par le Conservatoire de l'espace littoral et des rivages lacustres constituent les gardes du littoral.
+
+Pour exercer les pouvoirs de police définis par le présent article, les gardes du littoral doivent être commissionnés par le
+représentant de l'Etat dans le département, sur proposition du directeur du Conservatoire de l'espace littoral et des rivages
+lacustres, puis assermentés. Dans ce cas, ils sont au nombre des agents mentionnés au 3° de l'article 15 du code de procédure
+pénale.
+
+Les gardes du littoral et les agents visés à l'article L. 322-20 du présent code constatent par procès-verbal les
+contraventions aux arrêtés municipaux ou préfectoraux relatifs à l'accès aux terrains concernés ou à leurs usages, ainsi qu'à
+ceux pris en application des articles L. 2213-2, L. 2213-4, L. 2213-23, L. 2215-1 et L. 2215-3 du code général des
+collectivités territoriales, lorsqu'ils concernent le domaine administré par le Conservatoire de l'espace littoral et des
+rivages lacustres.
+
+Les gardes du littoral peuvent également constater par procès-verbal les contraventions aux dispositions du présent titre et
+à celles du code du domaine de l'Etat sur le domaine administré par le Conservatoire de l'espace littoral et des rivages
+lacustres.
+
+**Nota:**
+
+NOTA : la référence à l'article L322-20 est erronée et doit se lire comme L332-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 162 () JORF 28 février 2002
+
+	**Cité par**:
+
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 44 (V)
+	  - Code de l'environnement - art. L216-3 (V)
+	  - Code de l'environnement - art. L322-10-2 (V)
+	  - Code de l'environnement - art. L322-10-4 (V)
+	  - Code de l'environnement - art. L334-2-1 (M)
+	  - Code de l'environnement - art. L334-6 (VT)
+	  - Code de l'environnement - art. L341-20 (V)
+	  - Code de l'environnement - art. L362-5 (M)
+	  - Code de l'environnement - art. L415-1 (V)
+	  - Code de l'environnement - art. L428-20 (VD)
+	  - Code de l'environnement - art. L437-1 (V)
+	  - Code de l'environnement - art. L581-40 (VD)
+	  - Code de l'environnement - art. R*243-8-5 (Ab)
+	  - Code de l'environnement - art. R173-1 (V)
+	  - Code de l'environnement - art. R322-15 (V)
+	  - Code de l'environnement - art. R322-42 (M)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2213-2 (M)
+	  - Code général des collectivités territoriales - art. L2213-23 (M)
+	  - Code général des collectivités territoriales - art. L2213-4 (M)
+	  - Code général des collectivités territoriales - art. L2215-1 (M)
+	  - Code général des collectivités territoriales - art. L2215-3 (V)
+	  - CODE DE PROCEDURE PENALE - art. 15 (V)
+	  - Code de l'environnement - art. L322-9 (M)
+	  - Code de l'environnement - art. L332-20 (M)
+
+
+###### Article L322-10-2
+
+Les contrevenants aux dispositions mentionnées à l'article précédent sont punis de l'amende prévue par les contraventions de
+la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 162 () JORF 28 février 2002
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-10-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R322-42 (M)
+	  - Code de procédure pénale - art. R48-1 (V)
+
+
+###### Article L322-10-3
+
+Les procès-verbaux dressés par les gardes du littoral font foi jusqu'à preuve contraire. Ils sont remis ou envoyés
+directement au procureur de la République, cinq jours francs après celui où la contravention a été constatée, à peine de
+nullité. 
+
+Les contraventions peuvent donner lieu à la procédure de l'amende forfaitaire, conformément aux dispositions des articles 529
+à 529-2 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 162 () JORF 28 février 2002
+
+	**Cité par**:
+
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 44 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 529 (V)
 
 
 ##### Section 3 : Administration
@@ -11611,27 +12285,39 @@ Le président du conseil d'administration est élu par le conseil en son sein.
 ###### Article L322-13
 
 Le Conservatoire de l'espace littoral et des rivages lacustres comprend des conseils de rivage. Ces conseils sont composés de
-membres élus en leur sein par les assemblées délibérantes des collectivités locales.
+membres élus en leur sein par les assemblées délibérantes des collectivités locales. 
 
 Ils proposent des opérations d'acquisitions et ils sont consultés sur les opérations envisagées par le conseil
-d'administration de l'établissement public.
+d'administration de l'établissement public. 
 
 Les maires des communes sur le territoire desquelles des opérations sont proposées ou envisagées doivent être entendus s'ils
-en font la demande.
+en font la demande. 
 
-La composition, le fonctionnement et les limites territoriales de ces conseils sont fixés par décret en Conseil d'Etat.
+La composition, le fonctionnement et les limites territoriales de ces conseils sont fixés par décret en Conseil d'Etat. 
+
+Ils font en particulier au conseil d'administration toute proposition relative aux conditions d'aménagement et de gestion du
+patrimoine de l'établissement public et aux accords de partenariat entre le Conservatoire et les collectivités territoriales,
+et notamment les départements et les régions et leurs groupements, définissant, sur une base pluriannuelle, les objectifs et
+les moyens mobilisés par les parties pour la mise en oeuvre de la mission définie à l'article L. 322-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L243-13
-	  - Code rural - art. L243-13 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 163 () JORF 28 février 2002
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-1 (V)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L243-13 (Ab)
 
 
 ##### Section 4 : Dispositions financières
@@ -12653,15 +13339,45 @@ activités humaines.
 
 ###### Article L332-2
 
-La décision de classement est prononcée par décret, après consultation de toutes les collectivités locales intéressées.
+I. - La décision de classement d'une réserve naturelle nationale est prononcée, par décret, pour assurer la conservation
+d'éléments du milieu naturel d'intérêt national ou la mise en oeuvre d'une réglementation communautaire ou d'une obligation
+résultant d'une convention internationale.
 
-En Corse, la décision de classement est prononcée par délibération de l'Assemblée de Corse, après consultation de toutes les
-collectivités locales intéressées et avis du représentant de l'Etat. Celui-ci peut demander à la collectivité territoriale de
-Corse de procéder au classement d'une réserve naturelle afin d'assurer la mise en oeuvre d'une réglementation communautaire
-ou d'une obligation résultant d'une convention internationale. S'il n'est pas fait droit à cette demande, l'Etat procède à ce
-classement selon des modalités définies par décret en Conseil d'Etat.
+La décision intervient après consultation de toutes les collectivités locales intéressées et, dans les zones de montagne, des
+comités de massif.
 
-A défaut du consentement du propriétaire, le classement est prononcé par décret en Conseil d'Etat.
+A défaut de consentement du propriétaire, le classement est prononcé par décret en Conseil d'Etat.
+
+II. - Le conseil régional peut, de sa propre initiative ou à la demande des propriétaires concernés, classer comme réserve
+naturelle régionale les propriétés présentant un intérêt pour la faune, la flore, le patrimoine géologique ou paléontologique
+ou, d'une manière générale, pour la protection des milieux naturels.
+
+La décision de classement intervient après avis du conseil scientifique régional du patrimoine naturel et consultation de
+toutes les collectivités locales intéressées ainsi que, dans les zones de montagne, des comités de massif.
+
+La délibération précise la durée du classement, les mesures de protection qui sont applicables dans la réserve, ainsi que les
+modalités de sa gestion et de contrôle des prescriptions contenues dans l'acte de classement.
+
+Cette délibération est prise après accord du ou des propriétaires concernés, tant sur le périmètre de la réserve que sur les
+mesures de protection qui y sont applicables. A défaut d'accord, elle est prise par décret en Conseil d'Etat.
+
+La modification d'une réserve naturelle régionale intervient dans les mêmes formes.
+
+Un décret en Conseil d'Etat fixe les dispositions applicables en matière de délai pour exprimer les avis prévus au présent
+article, de déclaration d'utilité publique affectant le périmètre de la réserve, de retrait du classement et de publicité
+foncière, ainsi que de responsabilité civile du propriétaire.
+
+III. - En Corse, la décision de classement des réserves naturelles est prononcée par délibération de l'Assemblée de Corse,
+après consultation de toutes les collectivités territoriales intéressées et avis du représentant de l'Etat. Celui-ci peut
+demander à la collectivité territoriale de Corse de procéder au classement d'une réserve naturelle afin d'assurer la mise en
+oeuvre d'une réglementation communautaire ou d'une obligation résultant d'une convention internationale. S'il n'est pas fait
+droit à cette demande, l'Etat procède à ce classement selon des modalités définies par décret en Conseil d'Etat.
+
+Cette délibération est prise après accord du ou des propriétaires concernés, tant sur le périmètre de la réserve que sur les
+mesures de protection qui y sont applicables. A défaut d'accord, elle est prise par décret en Conseil d'Etat.
+
+Les modalités de gestion des réserves naturelles ainsi que de contrôle des prescriptions sont définies par l'Assemblée de
+Corse, après accord de l'Etat lorsque la décision de classement a été prise par celui-ci ou à sa demande.
 
 **Liens relatifs à cet article**
 
@@ -12672,7 +13388,7 @@ A défaut du consentement du propriétaire, le classement est prononcé par déc
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -12700,15 +13416,22 @@ A défaut du consentement du propriétaire, le classement est prononcé par déc
 
 ###### Article L332-3
 
-L'acte de classement peut soumettre à un régime particulier et, le cas échéant, interdire à l'intérieur de la réserve toute
-action susceptible de nuire au développement naturel de la faune et de la flore et, plus généralement, d'altérer le caractère
-de ladite réserve, notamment la chasse et la pêche, les activités agricoles, forestières et pastorales, industrielles,
-minières et commerciales, l'exécution de travaux publics ou privés, l'extraction de matériaux concessibles ou non,
-l'utilisation des eaux, la circulation du public, quel que soit le moyen employé, la divagation des animaux domestiques et le
-survol de la réserve.
+I. - L'acte de classement d'une réserve naturelle nationale peut soumettre à un régime particulier et, le cas échéant,
+interdire à l'intérieur de la réserve toute action susceptible de nuire au développement naturel de la faune et de la flore
+et, plus généralement, d'altérer le caractère de ladite réserve, notamment la chasse et la pêche, les activités agricoles,
+forestières et pastorales, industrielles, minières et commerciales, l'exécution de travaux publics ou privés, l'extraction de
+matériaux concessibles ou non, l'utilisation des eaux, la circulation du public, quel que soit le moyen employé, la
+divagation des animaux domestiques et le survol de la réserve.
 
-L'acte de classement tient compte de l'intérêt du maintien des activités traditionnelles existantes dans la mesure où elles
-sont compatibles avec les intérêts définis à l'article L. 332-1.
+II. - L'acte de classement d'une réserve naturelle régionale ou d'une réserve naturelle de la collectivité territoriale de
+Corse peut soumettre à un régime particulier ou, le cas échéant, interdire : les activités agricoles, pastorales et
+forestières, l'exécution de travaux, de constructions et d'installations diverses, la circulation et le stationnement des
+personnes, des animaux et des véhicules, le jet ou le dépôt de matériaux, résidus et détritus de quelque nature que ce soit
+pouvant porter atteinte au milieu naturel, les actions de nature à porter atteinte à l'intégrité des animaux non domestiques
+ou des végétaux non cultivés de la réserve ainsi qu'à l'enlèvement hors de la réserve de ces animaux ou végétaux.
+
+III. - L'acte de classement tient compte de l'intérêt du maintien des activités traditionnelles existantes dans la mesure où
+elles sont compatibles avec les intérêts définis à l'article L. 332-1.
 
 **Liens relatifs à cet article**
 
@@ -12716,6 +13439,10 @@ sont compatibles avec les intérêts définis à l'article L. 332-1.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -12752,14 +13479,13 @@ sont compatibles avec les intérêts définis à l'article L. 332-1.
 	**Anciens textes**:
 
 	  - Code rural - art. L242-3 (Ab)
-	  - Code rural L242-3
 
 
 ###### Article L332-4
 
-L'acte de classement est publié par les soins de l'autorité administrative, dans les formes et de la manière prescrites par
-les lois et règlements concernant la publicité foncière. Cette publication ne donne lieu à aucune perception au profit de
-l'Etat.
+L'acte de classement est publié par les soins de l'autorité administrative compétente, dans les formes et de la manière
+prescrites par les lois et règlements concernant la publicité foncière. Cette publication ne donne lieu à aucune perception
+au profit de l'Etat.
 
 Cet acte est communiqué aux maires en vue de sa transcription à la révision du cadastre.
 
@@ -12767,21 +13493,28 @@ Il est notifié aux propriétaires et aux titulaires de droits réels.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code rural L242-4
-	  - Code rural - art. L242-4 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L332-10 (V)
 	  - Code de l'environnement - art. L332-19-1 (V)
 	  - Code de l'environnement - art. R*242-15 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'environnement R332-19-1 : définition des autorités administratives compétentes
+
+	**Anciens textes**:
+
+	  - Code rural - art. L242-4 (Ab)
 
 
 ###### Article L332-5
@@ -12814,12 +13547,13 @@ A défaut d'accord amiable, l'indemnité est fixée par le juge de l'expropriati
 
 ###### Article L332-6
 
-A compter du jour où l'autorité administrative notifie au propriétaire intéressé son intention de constituer une réserve
-naturelle, aucune modification ne peut être apportée à l'état des lieux ou à leur aspect pendant un délai de quinze mois,
-sauf autorisation spéciale de l'autorité administrative et sous réserve de l'exploitation des fonds ruraux selon les
-pratiques antérieures. Ce délai est renouvelable une fois par arrêté préfectoral à condition que les premières consultations
-ou l'enquête publique aient commencé. Lorsque la notification a été effectuée en Corse par le président du conseil exécutif,
-le délai est renouvelable aux mêmes conditions par décision du conseil exécutif.
+A compter du jour où l'autorité administrative compétente notifie au propriétaire intéressé son intention de constituer une
+réserve naturelle, aucune modification ne peut être apportée à l'état des lieux ou à leur aspect pendant un délai de quinze
+mois, sauf autorisation spéciale de l'autorité administrative compétente et sous réserve de l'exploitation des fonds ruraux
+selon les pratiques antérieures. Ce délai est renouvelable une fois par décision du président du conseil régional ou arrêté
+préfectoral, selon les cas, à condition que les premières consultations ou l'enquête publique aient commencé. Lorsque la
+notification a été effectuée en Corse par le président du conseil exécutif, le délai est renouvelable aux mêmes conditions
+par décision du conseil exécutif.
 
 **Liens relatifs à cet article**
 
@@ -12830,7 +13564,8 @@ le délai est renouvelable aux mêmes conditions par décision du conseil exécu
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2002-276 2002-02-27 art. 109 II C 2, D JORF 28 février 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -12866,13 +13601,14 @@ le délai est renouvelable aux mêmes conditions par décision du conseil exécu
 	  - Code de l'urbanisme - art. R*425-4 (V)
 	  - Code de l'urbanisme - art. R421-38-7 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'environnement R332-19-1 : définition des autorités administratives compétentes
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
+
 	**Anciens textes**:
 
 	  - Code rural - art. L242-6 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ###### Article L332-7
@@ -12883,7 +13619,7 @@ Quiconque aliène, loue ou concède un territoire classé en réserve naturelle 
 locataire ou concessionnaire, l'existence du classement.
 
 Toute aliénation d'un immeuble situé dans une réserve naturelle doit être notifiée, dans les quinze jours, à l'autorité
-administrative par celui qui l'a consentie.
+administrative compétente par celui qui l'a consentie.
 
 **Liens relatifs à cet article**
 
@@ -12892,9 +13628,14 @@ administrative par celui qui l'a consentie.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
+
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L332-18 (V)
+	  - SPEC_APPLI: Code de l'environnement R332-19-1 : définition des autorités administratives compétentes
 
 	**Cité par**:
 
@@ -12906,12 +13647,14 @@ administrative par celui qui l'a consentie.
 	**Anciens textes**:
 
 	  - Code rural - art. L242-7 (Ab)
-	  - Code rural L242-7
 
 
 ###### Article L332-8
 
-La gestion des réserves naturelles peut être confiée à des établissements publics créés à cet effet.
+La gestion des réserves naturelles peut être confiée par voie de convention à des établissements publics, des groupements
+d'intérêt public ou des associations régies par la loi du 1er juillet 1901 relative au contrat d'association, ayant pour
+objet statutaire principal la protection du patrimoine naturel, à des fondations, aux propriétaires de terrains classés, ou à
+des collectivités territoriales ou leurs groupements.
 
 **Liens relatifs à cet article**
 
@@ -12919,6 +13662,10 @@ La gestion des réserves naturelles peut être confiée à des établissements p
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -12945,34 +13692,10 @@ La gestion des réserves naturelles peut être confiée à des établissements p
 	**Anciens textes**:
 
 	  - Code rural - art. L242-8 (Ab)
-	  - Code rural L242-8
 
+	**Cite**:
 
-###### Article L332-8-1
-
-En Corse, les modalités de gestion des réserves naturelles ainsi que de contrôle des prescriptions contenues dans l'acte de
-classement sont définies par l'Assemblée de Corse, après accord de l'Etat lorsque la décision de classement a été prise par
-celui-ci, ou à sa demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L332-18 (V)
-	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
+	  - Loi n°1901-07-01
 
 
 ##### Sous-section 2 : Modifications de l'état ou de l'aspect d'une réserve naturelle
@@ -12980,15 +13703,14 @@ celui-ci, ou à sa demande.
 ###### Article L332-9
 
 Les territoires classés en réserve naturelle ne peuvent être ni détruits ni modifiés dans leur état ou dans leur aspect, sauf
-autorisation spéciale de l'autorité administrative délivrée selon des modalités fixées par décret en Conseil d'Etat
-prévoyant, notamment, la consultation préalable des organismes compétents.
+autorisation spéciale du conseil régional pour les réserves naturelles régionales, ou du représentant de l'Etat pour les
+réserves naturelles nationales. En Corse, l'autorisation relève de l'Assemblée de Corse lorsque la collectivité territoriale
+a pris la décision de classement.
+
+Un décret en Conseil d'Etat fixe les modalités de cette autorisation, notamment la consultation préalable des organismes
+compétents.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L242-9
-	  - Code rural - art. L242-9 (Ab)
 
 	**Cité par**:
 
@@ -13061,13 +13783,22 @@ prévoyant, notamment, la consultation préalable des organismes compétents.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
+
+	**Anciens textes**:
+
+	  - Code rural - art. L242-9 (Ab)
+
 
 ##### Sous-section 3 : Déclassement
 
 ###### Article L332-10
 
 Le déclassement total ou partiel d'un territoire classé en réserve naturelle est prononcé après enquête publique, par décret
-en Conseil d'Etat.
+en Conseil d'Etat lorsqu'il s'agit d'une réserve naturelle nationale, ou par délibération du conseil régional lorsqu'il
+s'agit d'une réserve naturelle régionale.
 
 Il fait l'objet des mesures prévues à l'article L. 332-4.
 
@@ -13077,6 +13808,10 @@ représentant de l'Etat. La décision de déclassement fait l'objet des mesures 
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
@@ -13084,7 +13819,7 @@ représentant de l'Etat. La décision de déclassement fait l'objet des mesures 
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cite**:
 
@@ -13099,22 +13834,15 @@ représentant de l'Etat. La décision de déclassement fait l'objet des mesures 
 
 	  - Code rural - art. L242-10 (Ab)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
-
 
 ##### Section 2 : Réserves naturelles volontaires
 
 ###### Article L332-11
 
-Afin de protéger, sur les propriétés privées, les espèces de la flore et de la faune sauvage présentant un intérêt
-scientifique et écologique, les propriétaires peuvent demander qu'elles soient agréées comme réserves naturelles volontaires
-par l'autorité administrative après consultation des collectivités territoriales intéressées.
-
-En Corse, l'Assemblée de Corse peut, par délibération prise après consultation des collectivités territoriales intéressées et
-avis du représentant de l'Etat, agréer comme réserves naturelles volontaires des propriétés privées à la demande de leur
-propriétaire.
+Les réserves naturelles volontaires agréées à la date d'entrée en vigueur de la loi n° 2002-276 du 27 février 2002 relative à
+la démocratie de proximité deviennent des réserves naturelles régionales ou, en Corse, des réserves naturelles de la
+collectivité territoriale de Corse. Toutefois, pendant un délai d'un an à compter de la même date, les propriétaires
+concernés peuvent demander le retrait de l'agrément dont ils bénéficient.
 
 **Liens relatifs à cet article**
 
@@ -13123,9 +13851,13 @@ propriétaire.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Cite**:
+
+	  - Loi n°2002-276 du 27 février 2002 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -13143,35 +13875,6 @@ propriétaire.
 	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
-###### Article L332-12
-
-Un décret en Conseil d'Etat précise la durée de l'agrément, ses modalités, les mesures conservatoires dont bénéficient ces
-territoires ainsi que les obligations du propriétaire, notamment en matière de gardiennage et de responsabilité civile à
-l'égard des tiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L332-20 (V)
-	  - Code de l'environnement - art. L332-25 (V)
-	  - Code de l'environnement - art. R*242-29 (M)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L242-12 (Ab)
-	  - Code rural L242-12
-
-
 ##### Section 3 : Dispositions communes
 
 ##### Sous-section 1 : Protection des réserves naturelles
@@ -13181,9 +13884,9 @@ l'égard des tiers.
 Nul ne peut acquérir par prescription, sur une réserve naturelle, des droits de nature à modifier son caractère ou à changer
 l'aspect des lieux.
 
-Aucune servitude ne peut être établie par convention dans une réserve naturelle qu'avec l'accord du ministre chargé de la
-protection de la nature. En Corse, l'accord requis est délivré par l'Assemblée de Corse lorsque celle-ci a pris la décision
-de classement ou d'agrément.
+Une servitude ne peut être établie par convention dans une réserve naturelle qu'avec l'accord du représentant de l'Etat ou,
+lorsqu'il a pris la décision de classement, du conseil régional. En Corse, l'accord requis est délivré par l'Assemblée de
+Corse lorsque celle-ci a pris la décision de classement.
 
 **Liens relatifs à cet article**
 
@@ -13202,7 +13905,7 @@ de classement ou d'agrément.
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 
 ###### Article L332-14
@@ -13254,7 +13957,9 @@ ministre chargé de l'environnement.
 
 ###### Article L332-16
 
-L'autorité administrative peut instituer des périmètres de protection autour des réserves naturelles.
+Le conseil régional, pour les réserves naturelles régionales, ou le représentant de l'Etat, pour les réserves naturelles
+nationales, peut instituer des périmètres de protection autour de ces réserves. En Corse, la décision relève de l'Assemblée
+de Corse lorsque la collectivité territoriale a pris la décision de classement.
 
 Ces périmètres sont créés après enquête publique sur proposition ou après accord des conseils municipaux.
 
@@ -13264,6 +13969,10 @@ Ces périmètres sont créés après enquête publique sur proposition ou après
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -13284,7 +13993,6 @@ Ces périmètres sont créés après enquête publique sur proposition ou après
 	**Anciens textes**:
 
 	  - Code rural - art. L242-15 (Ab)
-	  - Code rural L242-15
 
 
 ###### Article L332-17
@@ -13376,38 +14084,30 @@ présent chapitre.
 
 ###### Article L332-19-1
 
-Dans les sections 1 et 3 du présent chapitre, les mots :
+Dans les articles L. 332-4, L. 332-6 et L. 332-7, les mots : 
 
-l'autorité administrative désignent, pour l'application des articles L. 332-9 et L. 332-16, l'Assemblée de Corse et, pour
-celle des articles L. 332-4, L. 332-6 et L. 332-7, le président du conseil exécutif lorsque la collectivité territoriale a
-pris la décision de classement ou d'agrément.
+" autorité administrative compétente " désignent le président du conseil exécutif lorsque la collectivité territoriale de
+Corse a pris la décision de classement.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L332-16 (M)
-	  - Code de l'environnement - art. L332-4 (M)
-	  - Code de l'environnement - art. L332-6 (M)
-	  - Code de l'environnement - art. L332-7 (M)
-	  - Code de l'environnement - art. L332-9 (M)
-
-	**Anciens textes**:
-
-	  - Code rural L242-19
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
+	  - Code de l'environnement - art. L332-4 (V)
+	  - Code de l'environnement - art. L332-6 (V)
 
 
 ##### Section 4 : Dispositions pénales
@@ -13718,19 +14418,20 @@ ayant servi à commettre l'infraction.
 
 ###### Article L332-27
 
-En cas d'infraction aux dispositions des articles L. 332-6, L. 332-9, L. 332-17 et L. 332-18 ou aux prescriptions de l'acte
-de classement telles qu'elles sont prévues à l'article L. 332-3 du présent code, les dispositions et sanctions édictées aux
-articles L. 480-2, L. 480-3, L. 480-5 à L. 480-9 du code de l'urbanisme et à l'article L. 341-20 du présent code sont
-applicables aux territoires placés en réserve naturelle, le ministre chargé de la protection de la nature étant substitué au
-ministre chargé de l'urbanisme.
+En cas d'infraction aux dispositions des articles L. 332-6, 
+L. 332-9, L. 332-17 et L. 332-18 ou aux prescriptions de l'acte de classement telles qu'elles sont prévues à l'article L.
+332-3 du présent code, les dispositions et sanctions édictées aux articles L. 480-2, L. 480-3, L. 480-5 à L. 480-9 du code de
+l'urbanisme et à l'article L. 341-20 du présent code sont applicables aux territoires placés en réserve naturelle, le
+ministre chargé de la protection de la nature étant substitué au ministre chargé de l'urbanisme. 
 
 Pour l'application de l'alinéa 1er de l'article L. 480-2 du code de l'urbanisme, le ministère public ne peut agir qu'à la
 requête du maire, du fonctionnaire compétent ou d'une association de protection de l'environnement agréée au titre de
-l'article L. 141-1 du présent code.
+l'article L. 141-1 du présent code. 
 
 Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal statue soit sur la mise en conformité des lieux
-avec les prescriptions formulées par le ministre chargé de la protection de la nature, soit sur leur rétablissement dans leur
-état antérieur.
+avec les prescriptions formulées respectivement par le ministre chargé de l'environnement, le président du conseil régional
+ou le président du conseil exécutif de Corse, selon qu'il s'agit d'une réserve naturelle nationale, d'une réserve naturelle
+régionale, ou d'une réserve naturelle classée par l'Assemblée de Corse, soit sur le rétablissement dans leur état antérieur.
 
 **Liens relatifs à cet article**
 
@@ -13739,19 +14440,19 @@ avec les prescriptions formulées par le ministre chargé de la protection de la
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L480-2 (M)
-	  - Code de l'urbanisme - art. L480-3 (M)
-	  - Code de l'urbanisme - art. L480-5 (M)
-	  - Code de l'urbanisme L480-2, L480-3, L480-5 à L480-9, L480-5
-	  - Code de l'environnement - art. L141-1 (M)
+	  - Code de l'urbanisme - art. L332-3 (Ab)
+	  - Code de l'urbanisme - art. L332-6 (V)
+	  - Code de l'urbanisme - art. L332-9 (Ab)
+	  - Code de l'urbanisme - art. L480-2 (V)
+	  - Code de l'urbanisme - art. L480-5 (V)
+	  - Code de l'environnement - art. L141-1 (V)
 	  - Code de l'environnement - art. L332-17 (V)
-	  - Code de l'environnement - art. L332-18 (V)
-	  - Code de l'environnement - art. L332-3 (M)
-	  - Code de l'environnement - art. L332-6 (M)
-	  - Code de l'environnement - art. L332-9 (M)
-	  - Code de l'environnement - art. L341-20 (V)
 
 	**Cité par**:
 
@@ -13762,7 +14463,6 @@ avec les prescriptions formulées par le ministre chargé de la protection de la
 	**Anciens textes**:
 
 	  - Code rural - art. L242-23 (Ab)
-	  - Code rural L242-23
 
 
 #### Chapitre III : Parcs naturels régionaux
@@ -15765,17 +16465,41 @@ l'environnement.
 
 ###### Article L411-5
 
-L'Etat peut décider l'élaboration d'inventaires locaux et régionaux du patrimoine faunistique et floristique. Les
-collectivités territoriales sont informées de cette élaboration. Ces inventaires sont étudiés sous la responsabilité
-scientifique du Muséum national d'histoire naturelle.
+I. - L'inventaire du patrimoine naturel est institué pour l'ensemble du territoire national terrestre, fluvial et marin. On
+entend par inventaire du patrimoine naturel l'inventaire des richesses écologiques, faunistiques, floristiques, géologiques,
+minéralogiques et paléontologiques.
 
-Lors de l'élaboration d'un plan d'occupation des sols, le préfet communique à la commune ou à l'établissement public
-compétent toutes informations contenues dans ces inventaires utiles à cette élaboration.
+L'Etat en assure la conception, l'animation et l'évaluation. Les régions peuvent être associées à la conduite de cet
+inventaire dans le cadre de leurs compétences. En outre, les collectivités territoriales peuvent contribuer à la connaissance
+du patrimoine naturel par la réalisation d'inventaires locaux.
 
-En Corse, l'initiative de l'élaboration des inventaires appartient à la collectivité territoriale. Cette élaboration est
-assurée dans les conditions prévues au premier alinéa, après information du représentant de l'Etat. Celui-ci peut demander à
-la collectivité territoriale de Corse de faire procéder à un inventaire. S'il n'est pas fait droit à cette demande, l'Etat
-peut décider de son élaboration, dans les conditions prévues au premier alinéa.
+Le préfet de région, les préfets de départements et les autres collectivités territoriales concernées sont informés de ces
+élaborations.
+
+Ces inventaires sont conduits sous la responsabilité scientifique du Muséum national d'histoire naturelle.
+
+Lors de l'élaboration d'un plan, programme ou projet, le préfet communique à la commune ou à l'établissement public de
+coopération intercommunale compétent toutes informations contenues dans ces inventaires utiles à cette élaboration.
+
+II. - Les dispositions de la loi du 29 décembre 1892 sur les dommages causés à la propriété privée par l'exécution des
+travaux publics sont applicables à l'exécution des opérations nécessaires à la conduite de ces inventaires. Ces dispositions
+sont également applicables à la connaissance du sol, de la végétation et de tout renseignement d'ordre écologique sur les
+territoires d'inventaires.
+
+III. - Il est institué dans chaque région un conseil scientifique régional du patrimoine naturel. Ce conseil est constitué de
+spécialistes désignés intuitu personae pour leur compétence scientifique, en particulier dans les universités, les organismes
+de recherche, les sociétés savantes, les muséums régionaux. Il couvre toutes les disciplines des sciences de la vie et de la
+terre pour les milieux terrestres, fluviaux et marins.
+
+Ses membres sont nommés par arrêté du préfet de région après avis du président du conseil régional.
+
+Il élit en son sein un président.
+
+Il peut être saisi pour avis par le préfet de région ou le président du conseil régional sur toute question relative à
+l'inventaire et à la conservation du patrimoine naturel.
+
+Un décret en Conseil d'Etat définit sa composition, ses domaines d'intervention et précise les conditions dans lesquelles il
+est saisi.
 
 **Liens relatifs à cet article**
 
@@ -15791,7 +16515,7 @@ peut décider de son élaboration, dans les conditions prévues au premier alin�
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -15816,6 +16540,10 @@ peut décider de son élaboration, dans les conditions prévues au premier alin�
 	**Liens**:
 
 	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
+
+	**Cite**:
+
+	  - Loi n°1892-12-29
 
 
 ###### Article L411-6
@@ -28057,6 +28785,11 @@ II. - Les dispositions du I ne sont pas applicables aux décisions concernant le
 pour lesquelles le délai de recours est fixé à six mois à compter de l'achèvement des formalités de publicité de la
 déclaration de début d'exploitation transmise par l'exploitant au préfet.
 
+Elles ne sont pas non plus applicables aux décisions concernant les autorisations d'exploitation d'installations classées
+concourant à l'exécution de services publics locaux ou de services d'intérêt général pour lesquelles le délai de recours est
+fixé à un an à compter de l'achèvement des formalités de publicité de la déclaration de début d'exploitation transmise par
+l'exploitant au préfet.
+
 III. - Les tiers qui n'ont acquis ou pris à bail des immeubles ou n'ont élevé des constructions dans le voisinage d'une
 installation classée que postérieurement à l'affichage ou à la publication de l'arrêté autorisant l'ouverture de cette
 installation ou atténuant les prescriptions primitives ne sont pas recevables à déférer ledit arrêté à la juridiction
@@ -28088,6 +28821,10 @@ mentionner explicitement les servitudes afférentes instituées en application d
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 148 () JORF 28 février 2002
 
 	**Cite**:
 
@@ -29235,14 +29972,16 @@ Le paiement des indemnités est à la charge de l'exploitant de l'installation.
 ###### Article L515-12
 
 Afin de protéger les intérêts mentionnés à l'article L. 511-1, les servitudes prévues aux articles L. 515-8 à L. 515-11
-peuvent être instituées sur des terrains pollués par l'exploitation d'une installation ainsi que sur les sites de stockage de
-déchets ou d'anciennes carrières. Ces servitudes peuvent, en outre, comporter la limitation ou l'interdiction des
-modifications de l'état du sol ou du sous-sol et permettre la mise en oeuvre des prescriptions relatives à la surveillance du
-site.
+peuvent être instituées sur des terrains pollués par l'exploitation d'une installation, sur l'emprise des sites de stockage
+de déchets ou dans une bande de 200 mètres autour de la zone d'exploitation, ou sur l'emprise des sites d'anciennes carrières
+ou autour de ces sites sur des surfaces dont l'intégrité conditionne le respect de la sécurité et de la salubrité publiques.
+Ces servitudes peuvent, en outre, comporter la limitation ou l'interdiction des modifications de l'état du sol ou du sous-sol
+et permettre la mise en oeuvre des prescriptions relatives à la surveillance du site.
 
-Dans le cas des installations de stockage des déchets, elles prennent effet après l'arrêt de la réception des déchets ou
-après la réalisation du réaménagement du site. Elles cessent d'avoir effet si les déchets sont retirés de la zone du
-stockage.
+Dans le cas des installations de stockage des déchets, ces servitudes peuvent être instituées à tout moment. Elles cessent de
+produire effet si les déchets sont retirés de la zone de stockage.
+
+Ces servitudes sont indemnisées dans les conditions prévues à l'article L. 515-11.
 
 **Liens relatifs à cet article**
 
@@ -29274,14 +30013,18 @@ stockage.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L511-1 (M)
-	  - Code de l'environnement L511-1, L515-8 à L515-11
+	  - Loi n°2002-276 du 27 février 2002 - art. 149 () JORF 28 février 2002
 
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L511-1 (M)
+	  - Code de l'environnement L511-1, L515-8 à L515-11
 
 
 ##### Section 4 : Installations où s'effectuent des opérations soumises à agrément
@@ -33703,16 +34446,15 @@ III. - Le plan prévoit obligatoirement, parmi les priorités qu'il retient, un 
 
 IV. - Le plan tient compte des besoins et des capacités des zones voisines hors de son périmètre d'application.
 
-V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité de l'Etat. Toutefois, cette compétence est
-transférée, à sa demande, au conseil régional.
+V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité du président du conseil régional.
 
-VI. - Le projet de plan est soumis pour avis au conseil régional et à une commission composée des représentants respectifs
-des collectivités territoriales, de l'Etat et des organismes publics concernés, des organisations professionnelles concourant
-à la production et à l'élimination des déchets et des associations agréées de protection de l'environnement. Il est également
-soumis pour avis aux conseils régionaux limitrophes. Il est éventuellement modifié pour tenir compte de ces avis.
+VI. - Le projet de plan est soumis pour avis à une commission composée des représentants respectifs des collectivités
+territoriales, de l'Etat et des organismes publics concernés, des organisations professionnelles concourant à la production
+et à l'élimination des déchets et des associations agréées de protection de l'environnement. Il est également soumis pour
+avis aux conseils régionaux limitrophes. Il est éventuellement modifié pour tenir compte de ces avis.
 
-VII. - Le projet de plan est alors mis à la disposition du public pendant deux mois, puis approuvé par l'autorité compétente
-et publié.
+VII. - Le projet de plan est alors mis à la disposition du public pendant deux mois, puis approuvé par délibération du
+conseil régional et publié.
 
 **Liens relatifs à cet article**
 
@@ -33750,6 +34492,10 @@ et publié.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cite**:
 
@@ -33871,7 +34617,9 @@ Ces plans sont révisés selon une procédure identique à celle de leur adoptio
 Les modalités et procédures d'élaboration, de publication et de révision des plans sont déterminées par décret en Conseil
 d'Etat. Ce décret fixe notamment les modalités de la consultation du public, les mesures de publicité à prendre lors de
 l'élaboration des plans et après leur adoption et la procédure simplifiée de révision des plans applicable dès lors que les
-modifications projetées n'en remettent pas en cause l'économie générale.
+modifications projetées n'en remettent pas en cause l'économie générale. Ce décret détermine également les conditions dans
+lesquelles l'Etat élabore le plan prévu à l'article L. 541-13 lorsque, après avoir été invitée à y procéder, l'autorité
+compétente n'a pas adopté ce plan dans un délai de dix-huit mois.
 
 **Liens relatifs à cet article**
 
@@ -33884,6 +34632,10 @@ modifications projetées n'en remettent pas en cause l'économie générale.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 109 () JORF 28 février 2002
 
 	**Cite**:
 
@@ -35759,10 +36511,14 @@ prévisibles de la réalisation du risque, ainsi que les modalités de sa mise e
 ###### Article L561-1
 
 Sans préjudice des dispositions prévues au 5° de l'article L. 2212-2 et à l'article L. 2212-4 du code général des
-collectivités territoriales, lorsqu'un risque prévisible de mouvements de terrain, d'avalanches ou de crues torrentielles
-menace gravement des vies humaines, les biens exposés à ce risque peuvent être expropriés par l'Etat dans les conditions
-prévues par le code de l'expropriation pour cause d'utilité publique et sous réserve que les moyens de sauvegarde et de
-protection des populations s'avèrent plus coûteux que les indemnités d'expropriation.
+collectivités territoriales, lorsqu'un risque prévisible de mouvements de terrain, ou d'affaissements de terrain dus à une
+cavité souterraine ou à une marnière, d'avalanches ou de crues torrentielles menace gravement des vies humaines, les biens
+exposés à ce risque peuvent être expropriés par l'Etat dans les conditions prévues par le code de l'expropriation pour cause
+d'utilité publique et sous réserve que les moyens de sauvegarde et de protection des populations s'avèrent plus coûteux que
+les indemnités d'expropriation.
+
+Ces dispositions ne s'appliquent pas aux cavités souterraines d'origine naturelle ou humaine résultant de l'exploitation
+passée ou en cours d'une mine.
 
 La procédure prévue par les articles L. 15-6 à L. 15-8 du code de l'expropriation pour cause d'utilité publique est
 applicable lorsque l'extrême urgence rend nécessaire l'exécution immédiate de mesures de sauvegarde.
@@ -35791,6 +36547,10 @@ pas tenu compte de l'existence du risque.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 159 (Ab) JORF 28 février 2002
 
 	**Cite**:
 
@@ -35836,6 +36596,16 @@ Le fonds de prévention des risques naturels majeurs est chargé de financer, da
 allouées en vertu des dispositions de l'article L. 561-1 ainsi que les dépenses liées à la limitation de l'accès et à la
 démolition éventuelle des biens exposés afin d'en empêcher toute occupation future. En outre, il finance, dans les mêmes
 limites, les dépenses de prévention liées aux évacuations temporaires et au relogement des personnes exposées.
+
+Il peut également, selon des modalités fixées par décret en Conseil d'Etat, contribuer au financement :
+
+- des opérations de reconnaissance des cavités souterraines et des marnières dont les dangers pour les constructions ou les
+vies humaines sont avérés ;
+
+- de l'acquisition amiable d'un immeuble exposé à des risques d'effondrement du sol qui menacent gravement des vies humaines,
+ou du traitement ou du comblement des cavités souterraines et des marnières qui occasionnent ces mêmes risques, sous réserve
+de l'accord du propriétaire du bien exposé, dès lors que ce traitement est moins coûteux que l'expropriation prévue à
+l'article L. 561-1.
 
 Ce fonds est alimenté par un prélèvement sur le produit des primes ou cotisations additionnelles relatives à la garantie
 contre le risque de catastrophes naturelles, prévues à l'article L. 125-2 du code des assurances. Il est versé par les
@@ -35893,6 +36663,10 @@ pour cette gestion sont imputés sur le fonds.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 159 (Ab) JORF 28 février 2002
 
 
 ###### Article L561-4
