@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2001-06-01
+Version Consolidée au 2001-07-11
 
 # Partie législative
 
@@ -17861,6 +17861,10 @@ quatrième année sans interruption, au rôle d'une des quatre contributions dir
 titulaires d'un permis de chasser, leurs conjoints, ascendants et descendants, gendres et belles-filles du ou des conjoints
 apporteurs ;
 
+2° bis Soit personnes ayant fait apport de leurs droits de chasse attachés à une ou des parcelles préalablement au transfert
+de la propriété de celles-ci à un groupement forestier, ainsi que, s'ils sont titulaires d'un permis de chasser, leurs
+conjoints, ascendants et descendants, gendres et belles-filles du ou des conjoints apporteurs ;
+
 3° Soit preneurs d'un bien rural lorsque le propriétaire a fait apport de son droit de chasse ;
 
 4° Soit propriétaires d'un terrain soumis à l'action de l'association et devenus tels en vertu d'une succession ou d'une
@@ -17884,6 +17888,10 @@ de membre de l'association, sauf décision souveraine de l'association communale
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 64 () JORF 11 juillet 2001
+
 	**Cité par**:
 
 	  - Décret n°2002-705 du 30 avril 2002 - art. 4 (V)
@@ -17905,7 +17913,6 @@ de membre de l'association, sauf décision souveraine de l'association communale
 	**Anciens textes**:
 
 	  - Code rural - art. L222-19 (Ab)
-	  - Code rural L222-19
 
 
 ###### Article L422-22
@@ -19154,8 +19161,10 @@ conformément aux dispositions de l'article L. 425-5, des dérogations peuvent �
 Un décret en Conseil d'Etat fixe les modalités d'application de cette disposition.
 
 La pratique de la chasse à tir est interdite du mercredi 6 heures au jeudi 6 heures. Cette interdiction ne s'applique pas aux
-postes fixes pour la chasse aux colombidés du 1er octobre au 15 novembre. Elle s'applique aux espaces clos sans toutefois
-faire obstacle à l'application des dispositions de l'article L. 424-3.
+postes fixes pour la chasse aux colombidés du 1er octobre au 15 novembre ainsi qu'à la chasse au gibier d'eau dans les
+conditions fixées à l'article L. 424-5.
+
+Elle s'applique aux espaces clos sans toutefois faire obstacle à l'application des dispositions de l'article L. 424-3.
 
 **Liens relatifs à cet article**
 
@@ -19164,10 +19173,9 @@ faire obstacle à l'application des dispositions de l'article L. 424-3.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code rural L224-2
-	  - Code rural - art. L224-2 (Ab)
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 5 () JORF 11 juillet 2001
 
 	**Cité par**:
 
@@ -19177,7 +19185,12 @@ faire obstacle à l'application des dispositions de l'article L. 424-3.
 	**Cite**:
 
 	  - Code de l'environnement - art. L424-3 (M)
+	  - Code de l'environnement - art. L424-5 (M)
 	  - Code de l'environnement - art. L425-5 (M)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L224-2 (Ab)
 
 
 ###### Article L424-3
@@ -19654,6 +19667,40 @@ Les dispositions d'application de la présente section sont précisées par déc
 
 
 #### Chapitre V : Gestion
+
+##### Section 1 : Schémas départementaux de gestion cynégétique
+
+###### Article L425-3-1
+
+Le plan de chasse et son exécution, complétés le cas échéant par le recours aux dispositions des articles L. 427-4 à L.
+427-7, doivent assurer, conformément aux orientations régionales forestières et au schéma départemental de gestion
+cynégétique, un équilibre sylvo-cynégétique permettant la régénération des peuplements forestiers dans des conditions
+économiques satisfaisantes pour le propriétaire.
+
+Un décret en Conseil d'Etat, pris après avis du Conseil national de la chasse et de la faune sauvage, du Conseil supérieur de
+la forêt, des produits forestiers et de la transformation du bois, de la Fédération nationale des chasseurs et de la
+Fédération nationale des syndicats de propriétaires forestiers sylviculteurs, fixe les modalités de mise en oeuvre du présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 42 () JORF 11 juillet 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'environnement L427-4 à L427-7
+
 
 ##### Section 1 : Plan de chasse
 
@@ -20723,7 +20770,7 @@ Lorsque le contrevenant n'a pas satisfait aux condamnations précédentes, et qu
 trois mois peut être prononcée pour les contraventions concernant :
 
 1° La chasse sur le terrain d'autrui, le non-respect des cahiers des charges relatifs à l'exploitation de la chasse dans les
-forêts soumises au régime forestier et dans les propriétés des collectivités et établissement publics ;
+forêts relévant du régime forestier et dans les propriétés des collectivités et établissement publics ;
 
 2° Le défaut de permis ou de licence de chasse valable ;
 
@@ -20741,6 +20788,10 @@ temps de neige, les chiens, les oiseaux d'eau et le gibier de passage, la repris
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 47 () JORF 11 juillet 2001
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L428-8 (Ab)
@@ -20748,7 +20799,6 @@ temps de neige, les chiens, les oiseaux d'eau et le gibier de passage, la repris
 	**Anciens textes**:
 
 	  - Code rural - art. L228-12 (Ab)
-	  - Code rural L228-12
 
 
 ###### Article L428-8
@@ -21783,8 +21833,9 @@ de chacune de ces communes.
 
 ###### Article L429-7
 
-I. - La chasse sur le ban communal est louée pour une durée de neuf ans par adjudication publique. Le locataire en place
-depuis trois ans au moins bénéficie au terme du bail d'un droit de priorité de relocation.
+Sous réserve des dispositions de l'article L. 2541-12 du code général des collectivités territoriales, la chasse sur le ban
+communal est louée pour une durée de neuf ans par adjudication publique. Le locataire en place depuis trois ans au moins
+bénéficie au terme du bail d'un droit de priorité de relocation. 
 
 Toutefois, après avis de la commission consultative communale ou intercommunale de chasse, le bail peut être renouvelé pour
 une même durée au profit du locataire en place depuis trois ans au moins par une convention de gré à gré conclue au plus tard
@@ -21792,17 +21843,17 @@ trois mois avant l'expiration du bail en cours. Le loyer de location ne peut êt
 loyer moyen à l'hectare obtenu à l'occasion de l'adjudication de lots ayant des caractéristiques cynégétiques comparables et
 situés dans la commune ou s'il y a lieu dans le département. Le loyer fixé par la convention est, le cas échéant, majoré à
 due concurrence. La non-acceptation par le locataire de cette majoration vaut renonciation à la convention. Dans ce cas, le
-lot concerné est offert à la location dans les conditions fixées au premier alinéa du présent article.
+lot concerné est offert à la location dans les conditions fixées au premier alinéa du présent article. 
 
 Lorsque le locataire en place n'a pas fait connaître qu'il entendait solliciter le renouvellement du bail à son profit, la
 chasse peut aussi être louée, après avis de la commission consultative communale ou intercommunale de chasse, pour une durée
-de neuf ans par une procédure d'appel d'offres.
+de neuf ans par une procédure d'appel d'offres. 
 
-Le ban peut être divisé en plusieurs lots d'une contenance d'au moins deux cents hectares.
+Le ban peut être divisé en plusieurs lots d'une contenance d'au moins deux cents hectares. 
 
-II. - La location a lieu conformément aux conditions d'un règlement, dénommé cahier des charges type, arrêté par le préfet,
+II.-La location a lieu conformément aux conditions d'un règlement, dénommé cahier des charges type, arrêté par le préfet,
 après consultation des organisations représentatives des communes, des chasseurs, des agriculteurs et des propriétaires
-agricoles et forestiers.
+agricoles et forestiers. 
 
 Ce règlement fixe notamment les règles de gestion technique de la chasse, le rôle, la composition et les modalités de
 fonctionnement de la commission consultative communale ou intercommunale de chasse, ainsi que les modalités de révision des
@@ -21815,6 +21866,14 @@ baux à la demande du maire.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 63 () JORF 11 juillet 2001
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2541-12 (V)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L429-26 (V)
@@ -21824,7 +21883,6 @@ baux à la demande du maire.
 	**Anciens textes**:
 
 	  - Code rural - art. L229-5 (Ab)
-	  - Code rural L229-5
 
 
 ###### Article L429-8
