@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2003-04-16
+Version Consolidée au 2003-07-03
 
 # Partie législative
 
@@ -1878,7 +1878,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 ###### Article L131-2
 
-Il peut être institué, dans chaque région, un comité régional de l'environnement.
+Il est institué, dans chaque région, un comité régional de l'environnement.
 
 Présidé par le président du conseil régional ou par son représentant, ce comité est composé pour moitié de conseillers
 régionaux, pour un quart de représentants des associations de protection de l'environnement agréées au titre de l'article L.
@@ -1904,6 +1904,14 @@ santé, avec le concours des organismes agréés prévus à l'article L. 221-3.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
 
 	**Cite**:
 
@@ -2143,7 +2151,7 @@ Sans préjudice de l'indemnisation des autres dommages subis, les personnes mora
 précédent intervenues matériellement ou financièrement ont droit au remboursement, par le ou les responsables, des frais
 exposés par elles.
 
-Les chambres d'agriculture, les parcs naturels nationaux et les centres régionaux de la propriété forestière peuvent
+Les chambres d'agriculture, les parcs naturels régionaux et les centres régionaux de la propriété forestière peuvent
 également exercer les droits reconnus à la partie civile dans les conditions définies ci-dessus.
 
 **Liens relatifs à cet article**
@@ -2153,6 +2161,10 @@ Les chambres d'agriculture, les parcs naturels nationaux et les centres régiona
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R331-14 (V)
@@ -2160,7 +2172,6 @@ Les chambres d'agriculture, les parcs naturels nationaux et les centres régiona
 	**Anciens textes**:
 
 	  - Code rural - art. L253-1 (Ab)
-	  - Code rural L253-1
 
 
 ###### Article L132-2
@@ -6105,8 +6116,8 @@ conditions prévues à l'article L. 514-6.
 ###### Article L216-3
 
 I. - Sont chargés de procéder à la recherche et à la constatation des infractions aux dispositions des articles L. 211-2, L.
-211-3, L. 211-5, L. 211-7, L. 214-1 à L. 214-9, L. 214-11 et L. 214-12, ainsi que des textes et des décisions pris pour leur
-application :
+211-3, L. 211-5, L. 211-7, L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12, ainsi
+que des textes et des décisions pris pour leur application :
 
 1° Les fonctionnaires et agents, assermentés et commissionnés à cet effet dans les conditions prévues par décret en Conseil
 d'Etat, appartenant aux services de l'Etat chargés de l'environnement, de l'agriculture, de l'industrie, de l'équipement, des
@@ -6172,6 +6183,10 @@ présent article dans des conditions déterminées par décret.
 	  - Code rural et de la pêche maritime - art. L256-2 (V)
 	  - Livre des procédures fiscales - art. L135 P (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
 	**Cite**:
 
 	  - Code forestier - art. L122-7 (M)
@@ -6179,10 +6194,8 @@ présent article dans des conditions déterminées par décret.
 	  - Code de l'environnement - art. L211-3 (M)
 	  - Code de l'environnement - art. L211-5 (V)
 	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L214-11 (V)
-	  - Code de l'environnement - art. L214-12 (V)
 	  - Code de l'environnement - art. L514-5 (M)
-	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11, L214-12, L514-5
+	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11 à L214-13, L216-6 à L216-8, L216-10 à L216-12, L514-5
 
 
 ###### Article L216-4
@@ -6228,8 +6241,9 @@ peut s'opposer à ces opérations.
 
 ###### Article L216-5
 
-Les infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 214-1 à L. 214-9, L. 214-11 et L.
-214-12 et des textes pris pour leur application sont constatées par des procès-verbaux qui font foi jusqu'à preuve contraire.
+Les infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 214-1 à L. 214-9, L. 214-11 à L.
+214-13, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12 et des textes pris pour leur application sont constatées par des procès-
+verbaux qui font foi jusqu'à preuve contraire.
 
 Les procès-verbaux doivent, sous peine de nullité, être adressés dans les cinq jours qui suivent leur clôture au procureur de
 la République. Une copie en est également remise, dans le même délai, à l'intéressé.
@@ -6246,15 +6260,17 @@ la République. Une copie en est également remise, dans le même délai, à l'i
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L211-2 (V)
 	  - Code de l'environnement - art. L211-3 (M)
 	  - Code de l'environnement - art. L211-5 (V)
 	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L214-11 (V)
-	  - Code de l'environnement - art. L214-12 (V)
-	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11, L214-12
+	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11 à L214-13, L216-6 à L216-8, L216-10 à L216-12
 
 	**Cité par**:
 
@@ -7654,8 +7670,8 @@ application :
 
 7° Les fonctionnaires et agents assermentés et commissionnés des services maritimes et des ports autonomes ;
 
-8° Les ingénieurs des mines et les ingénieurs des travaux publics de l'Etat affectés au service des mines des
-circonscriptions minéralogiques intéressées ;
+8° Les ingénieurs des mines et les ingénieurs des travaux publics de l'Etat affectés à la direction régionale de l'industrie,
+de la recherche et de l'environnement intéressée ;
 
 9° Les officiers de port et officiers de port adjoints ;
 
@@ -7672,11 +7688,6 @@ aéronefs de la marine nationale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Convention internationale 1973-11-02 annexe I, annexe II, annexe III, annexe V,
-	  - Code de l'environnement - art. L218-10 (M)
-
 	**Anciens textes**:
 
 	  - Loi n°83-583 1983-07-05 art. 11 al. 1, al. 2
@@ -7686,6 +7697,15 @@ aéronefs de la marine nationale.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L218-10 (M)
+	  - Convention internationale 1973-11-02 annexe I, annexe II, annexe III, annexe V,
 
 	**Cité par**:
 
@@ -8104,8 +8124,8 @@ I. - Sont chargés de rechercher les infractions prévues à la présente sectio
 
 5° Les inspecteurs des affaires maritimes ;
 
-6° Les ingénieurs des mines ou les ingénieurs des travaux publics de l'Etat affectés au service des mines des
-circonscriptions minéralogiques compétentes ;
+6° Les ingénieurs des mines ou les ingénieurs des travaux publics de l'Etat affectés à la direction régionale de l'industrie,
+de la recherche et de l'environnement intéressée ;
 
 7° Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics de l'Etat affectés aux services maritimes
 ainsi que les agents desdits services commissionnés à cet effet ;
@@ -8140,6 +8160,10 @@ la surveillance des eaux maritimes ;
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -8678,8 +8702,8 @@ administratif des affaires maritimes, les techniciens experts du service de la s
 2° Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics de l'Etat affectés aux services maritimes
 ainsi que les agents desdits services commissionnés à cet effet ;
 
-3° Les ingénieurs des mines et les ingénieurs des travaux publics de l'Etat affectés au service des mines des arrondissements
-minéralogiques intéressés ;
+3° Les ingénieurs des mines et les ingénieurs des travaux publics de l'Etat affectés à la direction régionale de l'industrie,
+de la recherche et de l'environnement intéressée ;
 
 4° Les officiers de port et officiers de port adjoints, les agents de la police de la navigation et de la surveillance des
 pêches maritimes ;
@@ -8721,6 +8745,10 @@ surveillance des eaux maritimes ;
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Liens**:
 
@@ -9282,7 +9310,7 @@ conformément au code de justice militaire, et notamment à ses articles 165 et 
 
 Dans le cas d'avarie ou d'accident en mer survenu à tout navire, aéronef, engin ou plate-forme transportant ou ayant à son
 bord des substances nocives, dangereuses ou des hydrocarbures, et pouvant créer un danger grave d'atteinte au littoral ou aux
-intérêts connexes au sens de l'article II-4 de la convention de Bruxelles du 27 novembre 1969 sur l'intervention en haute mer
+intérêts connexes au sens de l'article II-4 de la convention de Bruxelles du 29 novembre 1969 sur l'intervention en haute mer
 en cas d'accident entraînant ou pouvant entraîner une pollution par les hydrocarbures, l'armateur ou le propriétaire du
 navire, le propriétaire ou l'exploitant de l'aéronef, engin ou plate-forme peuvent être mis en demeure de prendre toutes les
 mesures nécessaires pour mettre fin à ce danger.
@@ -9308,7 +9336,7 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 	**Cite**:
 
-	  - Convention de Bruxelles 1969-11-27 art. II-4
+	  - Convention de Bruxelles 1969-11-29 art. II-4
 	  - Ordonnance 59-63 1959-01-06
 
 	**Anciens textes**:
@@ -9319,6 +9347,10 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -10278,19 +10310,23 @@ supérieur des installations classées et de l'Agence française de sécurité s
 
 ###### Article L222-8
 
-Les prescriptions relatives aux plans de déplacements urbains sont énoncées aux articles 28 à 28-3 de la loi n° 82-1153 du 30
-décembre 1982 d'orientation des transports intérieurs.
+Les prescriptions relatives aux plans de déplacements urbains sont énoncées au chapitre II du titre II de la loi n° 82-1153
+du 30 décembre 1982 d'orientation des transports intérieurs.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°82-1153 1982-12-30 art. 28 à 28-3
+	  - Loi n°82-1153 du 30 décembre 1982 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -11130,6 +11166,97 @@ existe.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+
+#### Chapitre IX : Effet de serre
+
+###### Article L229-1
+
+La lutte contre l'intensification de l'effet de serre et la prévention des risques liés au réchauffement climatique sont
+reconnues priorités nationales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L614-1 (V)
+	  - Code de l'environnement - art. L624-1 (V)
+	  - Code de l'environnement - art. L635-1 (V)
+	  - Code de l'environnement - art. L640-1 (V)
+	  - Code de l'environnement - art. R229-39 (VD)
+
+
+###### Article L229-2
+
+Il est institué un Observatoire national sur les effets du réchauffement climatique en France métropolitaine et dans les
+départements et territoires d'outre-mer.
+
+L'Observatoire national sur les effets du réchauffement climatique est chargé de collecter et de diffuser les informations,
+études et recherches sur les risques liés au réchauffement climatique et aux phénomènes climatiques extrêmes en France
+métropolitaine et dans les départements et territoires d'outre mer, en liaison avec des établissements et instituts de
+recherche concernés et le Groupe d'experts intergouvernemental sur l'évolution du climat. Il peut mener dans son domaine de
+compétence toute action d'information auprès du public et des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Arrêté du 9 juillet 2008 - art. 4.2 (V)
+	  - Arrêté du 9 juillet 2008 - art. 4.2.1 (V)
+	  - Code de l'environnement - art. D229-1 (V)
+
+
+###### Article L229-3
+
+L'Observatoire national sur les effets du réchauffement climatique élabore chaque année, à l'intention du Premier ministre et
+du Parlement, un rapport d'information. Ce rapport peut comporter des recommandations sur les mesures de prévention et
+d'adaptation susceptibles de limiter les risques liés au réchauffement climatique. Il est rendu public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+
+###### Article L229-4
+
+Le siège, la composition, les modes de désignation des membres et les règles de fonctionnement de l'observatoire sont fixés
+par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
 ## Livre III : Espaces naturels
@@ -12173,26 +12300,22 @@ aucune indemnité pour les améliorations apportées à l'immeuble.
 ###### Article L322-10-1
 
 Les personnes physiques chargées par les gestionnaires visés à l'article L. 322-9 d'assurer la garderie du domaine administré
-par le Conservatoire de l'espace littoral et des rivages lacustres constituent les gardes du littoral.
+par le Conservatoire de l'espace littoral et des rivages lacustres constituent les gardes du littoral. 
 
 Pour exercer les pouvoirs de police définis par le présent article, les gardes du littoral doivent être commissionnés par le
 représentant de l'Etat dans le département, sur proposition du directeur du Conservatoire de l'espace littoral et des rivages
 lacustres, puis assermentés. Dans ce cas, ils sont au nombre des agents mentionnés au 3° de l'article 15 du code de procédure
-pénale.
+pénale. 
 
-Les gardes du littoral et les agents visés à l'article L. 322-20 du présent code constatent par procès-verbal les
+Les gardes du littoral et les agents visés à l'article L. 332-20 du présent code constatent par procès-verbal les
 contraventions aux arrêtés municipaux ou préfectoraux relatifs à l'accès aux terrains concernés ou à leurs usages, ainsi qu'à
 ceux pris en application des articles L. 2213-2, L. 2213-4, L. 2213-23, L. 2215-1 et L. 2215-3 du code général des
 collectivités territoriales, lorsqu'ils concernent le domaine administré par le Conservatoire de l'espace littoral et des
-rivages lacustres.
+rivages lacustres. 
 
 Les gardes du littoral peuvent également constater par procès-verbal les contraventions aux dispositions du présent titre et
 à celles du code du domaine de l'Etat sur le domaine administré par le Conservatoire de l'espace littoral et des rivages
 lacustres.
-
-**Nota:**
-
-NOTA : la référence à l'article L322-20 est erronée et doit se lire comme L332-20.
 
 **Liens relatifs à cet article**
 
@@ -12201,9 +12324,9 @@ NOTA : la référence à l'article L322-20 est erronée et doit se lire comme L3
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 162 () JORF 28 février 2002
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -12226,14 +12349,12 @@ NOTA : la référence à l'article L322-20 est erronée et doit se lire comme L3
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2213-2 (M)
-	  - Code général des collectivités territoriales - art. L2213-23 (M)
-	  - Code général des collectivités territoriales - art. L2213-4 (M)
-	  - Code général des collectivités territoriales - art. L2215-1 (M)
-	  - Code général des collectivités territoriales - art. L2215-3 (V)
-	  - CODE DE PROCEDURE PENALE - art. 15 (V)
-	  - Code de l'environnement - art. L322-9 (M)
-	  - Code de l'environnement - art. L332-20 (M)
+	  - Code général des collectivités territoriales - art. L2213-2 (V)
+	  - Code général des collectivités territoriales - art. L2213-23 (V)
+	  - Code général des collectivités territoriales - art. L2213-4 (V)
+	  - Code général des collectivités territoriales - art. L2215-1 (V)
+	  - Code de l'environnement - art. L322-9 (V)
+	  - Code de l'environnement - art. L332-20 (VT)
 
 
 ###### Article L322-10-2
@@ -14546,9 +14667,10 @@ et les mesures permettant de les mettre en oeuvre. Elle comporte un plan élabor
 indiquant les différentes zones du parc et leur vocation, accompagné d'un document déterminant les orientations et les
 principes fondamentaux de protection des structures paysagères sur le territoire du parc.
 
-La charte constitutive est élaborée par la région avec l'accord de l'ensemble des collectivités territoriales concernées et
-en concertation avec les partenaires intéressés. Elle est adoptée par décret portant classement en parc naturel régional pour
-une durée maximale de dix ans. La révision de la charte est assurée par l'organisme de gestion du parc naturel régional.
+La charte constitutive est élaborée par la région avec l'accord de l'ensemble des collectivités territoriales concernées, en
+concertation avec les partenaires intéressés, avant d'être soumise à l'enquête publique. Elle est adoptée par décret portant
+classement en parc naturel régional pour une durée maximale de dix ans. La révision de la charte est assurée par l'organisme
+de gestion du parc naturel régional.
 
 L'Etat et les collectivités territoriales adhérant à la charte appliquent les orientations et les mesures de la charte dans
 l'exercice de leurs compétences sur le territoire du parc. Ils assurent, en conséquence, la cohérence de leurs actions et des
@@ -14558,28 +14680,16 @@ orientations et les mesures de la charte.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
-**Nota:**
-
-NOTA : La loi n° 2000-1208 du 13 décembre 2000 art. 45, modifie l'article L244-1 du code rural, abrogé par l'ordonnance
-2000-914 du 18 septembre 2000 et dont le contenu a été transféré dans l'article L333-1 du code de l'environnement. La
-modification est la suivante, non insérée à ce jour dans l'article L333-1 :
-
-"La première phrase du troisième alinéa de l'article L244-1 du code rural est ainsi rédigée :
-
-La charte constitutive est élaborée par la région avec l'accord de l'ensemble des collectivités territoriales concernées, en
-concertation avec les partenaires intéressés, avant d'être soumise à l'enquête publique".
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L244-1
-	  - Code rural - art. L244-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -14605,6 +14715,10 @@ concertation avec les partenaires intéressés, avant d'être soumise à l'enqu�
 	  - Code de l'urbanisme - art. L131-1 (VD)
 	  - Code forestier (nouveau) - art. L341-6 (V)
 	  - Code rural et de la pêche maritime - art. L411-27 (V)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L244-1 (Ab)
 
 
 ###### Article L333-2
@@ -14672,29 +14786,29 @@ au sens des articles L. 5721-1 et suivants du code général des collectivités 
 
 ###### Article L333-4
 
-Ainsi qu'il est dit au quatrième alinéa de l'article 22 de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire modifiée ci-après reproduit :
-
-" Il ne peut être reconnu de pays dont le périmètre coïncide exactement avec celui d'un parc naturel régional. Si le
-territoire du pays recouvre une partie du périmètre d'un parc naturel régional ou si le territoire d'un parc naturel régional
-recouvre une partie du territoire d'un pays et qu'il ne peut être procédé à l'harmonisation de périmètres, la reconnaissance
-de la dernière entité constituée nécessite la définition préalable, par convention passée entre les parties concernées, des
-missions respectives confiées aux organismes de gestion du parc naturel régional et du pays sur les parties communes. La
-charte du pays et les actions qui en procèdent doivent être, sur les parties communes, compatibles avec les orientations de
-protection, de mise en valeur et de développement définies par la charte du parc naturel régional en application de l'article
-L. 333-1 du code de l'environnement. "
+Lorsque le périmètre d'un pays inclut des communes situées dans un parc naturel régional, la compatibilité des documents, la
+cohérence et la coordination des actions menées au titre du pays sur le territoire commun sont assurées conformément au
+troisième alinéa du IV de l'article 22 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 22 (M)
-	  - Code de l'environnement - art. L333-1 (M)
+	  - Loi n°95-115 du 4 février 1995 - art. 22
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 97 () JORF 3 juillet 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 52 (V)
 
 	**Cité par**:
 
@@ -15344,8 +15458,11 @@ précédente.
 Une commission des sites, perspectives et paysages siège dans chaque département.
 
 Cette commission, présidée par le préfet, est composée de représentants de l'Etat, de représentants élus des collectivités
-territoriales et de personnalités qualifiées en matière de protection des sites, du cadre de vie et des sciences de la
-nature.
+territoriales et des établissements publics de coopération intercommunale et de personnalités qualifiées en matière de
+protection des sites, du cadre de vie et des sciences de la nature.
+
+En Corse, les attributions dévolues à la commission des sites, perspectives et paysages sont exercées par le conseil des
+sites de Corse prévu à l'article L. 4421-4 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -15353,6 +15470,11 @@ nature.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005 en vigueur au 24 février 2006 au plus tard
 
 	**Cité par**:
 
@@ -15458,8 +15580,8 @@ application du troisième alinéa de l'article 72 de la loi n° 83-8 du 7 janvie
 entre les communes, les départements, les régions et l'Etat.
 
 III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont
-applicables aux infractions à l'alinéa 4 de l'article L. 341-1 du présent code et aux dispositions visées au précédent
-alinéa, sous la seule réserve des conditions suivantes :
+applicables aux infractions à l'alinéa 4 de l'article L. 341-1 du présent code et aux dispositions visées au II, sous la
+seule réserve des conditions suivantes :
 
 1° Les infractions sont constatées en outre par les fonctionnaires et les agents commissionnés à cet effet par le ministre
 chargé des sites et par les fonctionnaires et agents commissionnés et assermentés pour constater les infractions en matière
@@ -15484,7 +15606,6 @@ sites ; l'article L. 480-12 du même code est applicable.
 
 	**Cite**:
 
-	  - Loi n°83-8 1983-01-07 art. 72
 	  - Code de l'urbanisme - art. L460-1 (M)
 	  - Code de l'urbanisme - art. L480-1 (M)
 	  - Code de l'urbanisme - art. L480-12 (M)
@@ -15499,15 +15620,7 @@ sites ; l'article L. 480-12 du même code est applicable.
 	  - Code de l'environnement - art. L341-7 (V)
 	  - Code de l'environnement - art. L341-9 (V)
 	  - Loi n°1930-05-02 art. 19
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°83-8 1983-01-07 art. 72
 
 	**Liens**:
 
@@ -15520,6 +15633,15 @@ sites ; l'article L. 480-12 du même code est applicable.
 
 	  - Loi n°1930-05-02 art. 21
 	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
 ###### Article L341-20
@@ -15733,6 +15855,46 @@ V. - Un décret en Conseil d'Etat fixe les conditions d'application du présent 
 	  - Code de l'environnement - art. R350-9 (V)
 	  - Code de l'urbanisme - art. L131-1 (VD)
 	  - Code forestier - art. L11 (VT)
+
+
+###### Article L350-2
+
+Les dispositions relatives aux zones de protection du patrimoine architectural, urbain et paysager sont énoncées à l'article
+70 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les
+régions et l'Etat, ci-après reproduit :
+
+"Art. 70. - Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du
+patrimoine architectural, urbain et paysager peuvent être instituées autour des monuments historiques et dans les quartiers,
+sites et espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou culturel.
+
+"Des prescriptions particulières en matière d'architecture et de paysage sont instituées à l'intérieur de ces zones ou
+parties de zones pour les travaux mentionnés à l'article 71.
+
+"Après enquête publique, avis de la commission régionale du patrimoine et des sites mise en place par la loi n° 97-179 du 28
+février 1997 et accord du conseil municipal de la commune intéressée, la zone de protection est créée par arrêté du
+représentant de l'Etat dans la région.
+
+"Le ministre compétent peut évoquer tout projet de zone de protection.
+
+"Les dispositions de la zone de protection sont annexées au plan d'occupation des sols, dans les conditions prévues à
+l'article L. 126-1 du code de l'urbanisme."
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 art. 70, art. 71
+	  - Loi n°97-179 1997-02-28
+	  - Code de l'urbanisme - art. L126-1 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
 ### Titre VI : Accès à la nature
@@ -17476,9 +17638,15 @@ d'infractions commises sur le domaine public maritime ou dans les eaux territori
 
 Est puni de six mois d'emprisonnement et de 9 000 euros d'amende :
 
-1° Le fait de porter atteinte à la conservation d'espèces animales non domestiques ou végétales non cultivées en violation
-des interdictions prévues à l'article L. 411-1, à l'exception des perturbations intentionnelles, et des règlements pris en
-application de l'article L. 411-2 ;
+1° Le fait, en violation des interdictions prévues par les dispositions de l'article L. 411-1 et par les règlements pris en
+application de l'article L. 411-2 :
+
+a) De porter atteinte à la conservation d'espèces animales non domestiques, à l'exception des perturbations intentionnelles ;
+
+b) De porter atteinte à la conservation d'espèces végétales non cultivées ;
+
+c) De détruire des sites contenant des fossiles permettant d'étudier l'histoire du monde vivant ainsi que les premières
+activités humaines, de détruire ou d'enlever des fossiles présents sur ces sites ;
 
 2° Le fait d'introduire volontairement dans le milieu naturel un spécimen d'une espèce animale ou végétale en violation des
 dispositions de l'article L. 411-3 ou des règlements pris pour son application ;
@@ -17501,7 +17669,7 @@ titulaire du certificat de capacité prévu à l'article L. 413-2 ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -22662,28 +22830,37 @@ détenir de la viande.
 ###### Article L428-29
 
 Hors de leur domicile, les chasseurs et les personnes les accompagnant sont tenus d'ouvrir leurs carniers, sacs ou poches à
-gibier à toute réquisition des agents ci-après : officiers de police judiciaire, y compris les gardes des fédérations des
-chasseurs, mais à l'exclusion de tous autres gardes particuliers ; fonctionnaires de police et militaires de la gendarmerie
-non officiers de police judiciaire ; lieutenants de louveterie dans l'exercice de leurs fonctions.
+gibier à toute réquisition des agents ci-après : officiers de police judiciaire, fonctionnaires de police et militaires de la
+gendarmerie non officiers de police judiciaire, agents mentionnés aux 1° et 3° du I de l'article L. 428-20, ainsi que les
+gardes des fédérations départementales des chasseurs, mentionnés au troisième alinéa de l'article L. 428-21 dans les
+conditions prévues à cet article. 
 
 Cette vérification ne peut être faite que dans les circonscriptions où les agents visiteurs ci-dessus désignés peuvent
 dresser les procès-verbaux en matière de chasse.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code rural L228-37
-	  - Code rural - art. L228-37 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L428-20 (VT)
+	  - Code de l'environnement - art. L428-21 (V)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R428-11 (V)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L228-37 (Ab)
 
 
 ###### Article L428-30
@@ -28865,8 +29042,8 @@ ou des dangers que le fonctionnement de l'installation présente pour les intér
 de quatre ans à compter de la publication ou de l'affichage desdits actes, ce délai étant, le cas échéant, prolongé jusqu'à
 la fin d'une période de deux années suivant la mise en activité de l'installation.
 
-II. - Les dispositions du I ne sont pas applicables aux décisions concernant les autorisations d'exploitation de carrières
-pour lesquelles le délai de recours est fixé à six mois à compter de l'achèvement des formalités de publicité de la
+II. - Les dispositions du 2° du I ne sont pas applicables aux décisions concernant les autorisations d'exploitation de
+carrières pour lesquelles le délai de recours est fixé à six mois à compter de l'achèvement des formalités de publicité de la
 déclaration de début d'exploitation transmise par l'exploitant au préfet.
 
 Elles ne sont pas non plus applicables aux décisions concernant les autorisations d'exploitation d'installations classées
@@ -28908,7 +29085,7 @@ mentionner explicitement les servitudes afférentes instituées en application d
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 148 () JORF 28 février 2002
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cite**:
 
@@ -29475,6 +29652,9 @@ délimité de qualité supérieure, et dans les aires de production de vins de p
 l'agriculture, après avis de l'Institut national des appellations d'origine et de l'Office national interprofessionnel des
 vins.
 
+La durée nécessaire à la réalisation des diagnostics et des opérations de fouilles d'archéologie préventive interrompt la
+durée de l'autorisation administrative d'exploitation de carrière.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -29486,6 +29666,10 @@ vins.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cite**:
 
@@ -30124,7 +30308,7 @@ est réputé accordé.
 II. - Ainsi qu'il est dit à l'article 90 II de la loi de finances rectificative pour 1992 (n° 92-1476 du 31 décembre 1992),
 toute demande de l'agrément mentionné au I au titre de l'utilisation confinée d'organismes génétiquement modifiés est
 assortie d'une taxe représentative des frais d'instruction et perçue au profit du budget général de l'Etat. Elle est exigible
-lors du dépôt du dossier. Son montant est fixé à 1 524,49 euros par dossier. Il est réduit à 304,90 euros lorsque la demande
+lors du dépôt du dossier. Son montant est fixé à 1 525 euros par dossier. Il est réduit à 305 euros lorsque la demande
 d'agrément concerne une utilisation confinée autre que la première.
 
 Le recouvrement et le contentieux de la taxe instituée au précédent alinéa sont suivis par les comptables du Trésor public
@@ -30132,11 +30316,6 @@ selon les modalités fixées aux articles 81 à 95 du décret n° 62-1587 du 29 
 comptabilité publique dans leur rédaction en vigueur à la date du 13 juillet 1992.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 1962-12-29 art. 81 à 95
-	  - Loi n°92-1476 1992-12-31 art. 90 Finances rectificative pour 1992
 
 	**Anciens textes**:
 
@@ -30161,7 +30340,7 @@ comptabilité publique dans leur rédaction en vigueur à la date du 13 juillet 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Liens**:
 
@@ -32438,7 +32617,7 @@ Pour les produits biocides présents sur le marché au 14 mai 2000, l'article L.
 
 ###### Article L531-1
 
-Au sens du présent titre et de l'article L. 124-3, on entend par :
+Au sens du présent titre et de l'article L. 125-3, on entend par :
 
 1° Organisme : toute entité biologique non cellulaire, cellulaire ou multicellulaire, capable de se reproduire ou de
 transférer du matériel génétique ; cette définition englobe les micro-organismes, y compris les virus ;
@@ -32469,6 +32648,10 @@ au cours desquelles des organismes génétiquement modifiés sont cultivés, mis
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'environnement - art. L124-3 (T)
@@ -32477,12 +32660,12 @@ au cours desquelles des organismes génétiquement modifiés sont cultivés, mis
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L124-3 (T)
+	  - Code de l'environnement - art. L125-3 (V)
 
 
 ###### Article L531-2
 
-Ne sont pas soumis aux dispositions du présent titre et de l'article L. 124-3 les organismes génétiquement modifiés obtenus
+Ne sont pas soumis aux dispositions du présent titre et de l'article L. 125-3 les organismes génétiquement modifiés obtenus
 par des techniques qui ne sont pas considérées, de par leur caractère naturel, comme entraînant une modification génétique ou
 par celles qui ont fait l'objet d'une utilisation traditionnelle sans inconvénient avéré pour la santé publique ou
 l'environnement.
@@ -32505,6 +32688,10 @@ La liste de ces techniques est fixée par décret après avis de la commission d
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Liens**:
 
@@ -32544,10 +32731,6 @@ La liste de ces techniques est fixée par décret après avis de la commission d
 	  - SPEC_APPLI: Code de l'environnement - art. L536-6 (VT)
 	  - SPEC_APPLI: Code de l'environnement - art. L536-7 (V)
 	  - SPEC_APPLI: Code de l'environnement - art. L537-1 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L124-3 (T)
 
 
 ###### Article L531-3
@@ -33578,7 +33761,7 @@ pas sérieux. Le président du tribunal statue dans les quinze jours de sa saisi
 Outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de procédure pénale, les
 fonctionnaires des corps techniques de l'Etat, les officiers titulaires d'un brevet technique ou les agents habilités à cet
 effet et assermentés dans des conditions fixées par décret en Conseil d'Etat peuvent rechercher et constater par procès-
-verbal les infractions aux dispositions des articles L. 124-3, L. 532-3, L. 532-4, L. 532-5, L. 532-6, L. 533-2 et L. 533-3
+verbal les infractions aux dispositions des articles L. 125-3, L. 532-3, L. 532-4, L. 532-5, L. 532-6, L. 533-2 et L. 533-3
 et des textes pris pour leur application.
 
 Pour accomplir leur mission, les agents mentionnés au présent article ont accès aux installations et lieux où sont réalisées
@@ -33617,15 +33800,9 @@ l'administration compétente pour délivrer l'autorisation de dissémination vol
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L124-3 (T)
-	  - Code de l'environnement - art. L532-3 (V)
-	  - Code de l'environnement - art. L532-4 (V)
-	  - Code de l'environnement - art. L532-5 (V)
-	  - Code de l'environnement - art. L532-6 (M)
-	  - Code de l'environnement - art. L533-2 (V)
-	  - Code de l'environnement - art. L533-3 (V)
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Liens**:
 
@@ -33875,7 +34052,7 @@ Les modalités d'application des chapitres III, V et VI du présent titre sont f
 
 ###### Article L541-1
 
-I. - Les dispositions du présent chapitre et de l'article L. 124-1 ont pour objet :
+I. - Les dispositions du présent chapitre et de l'article L. 125-1 ont pour objet :
 
 1° De prévenir ou réduire la production et la nocivité des déchets, notamment en agissant sur la fabrication et sur la
 distribution des produits ;
@@ -33982,15 +34159,19 @@ valorisable ou par réduction de son caractère polluant ou dangereux.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L124-1 (T)
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'environnement - art. L124-3 (T)
 	  - TXT_ASSOCIE: Code de l'environnement - art. L125-3 (V)
 	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L125-1 (V)
 
 
 ###### Article L541-2
@@ -36586,6 +36767,95 @@ prévisibles de la réalisation du risque, ainsi que les modalités de sa mise e
 	**Cité par**:
 
 	  - Code de l'environnement - art. L515-7 (V)
+
+
+#### Chapitre III : Eoliennes
+
+###### Article L553-2
+
+I. - L'implantation d'une ou plusieurs installations produisant de l'électricité à partir de l'énergie mécanique du vent dont
+la puissance installée totale sur un même site de production, au sens du troisième alinéa (2°) de l'article 10 de la loi n°
+2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, excède 2,5
+mégawatts, est subordonnée à la réalisation préalable :
+
+a) De l'étude d'impact définie au chapitre II du titre II du livre Ier du présent code ;
+
+b) D'une enquête publique soumise aux prescriptions du chapitre III du titre II du livre Ier du présent code.
+
+II. - Les projets d'implantation qui ne sont pas subordonnés à la réalisation préalable d'une étude d'impact doivent faire
+l'objet d'une notice d'impact.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 10 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L553-1 (VT)
+
+
+###### Article L553-3
+
+L'exploitant d'une installation produisant de l'électricité à partir de l'énergie mécanique du vent est responsable de son
+démantèlement et de la remise en état du site à la fin de l'exploitation. Au cours de celle-ci, il constitue les garanties
+financières nécessaires dans les conditions définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R513-2 (VD)
+	  - Code de l'environnement - art. R553-2 (V)
+	  - Code de l'environnement - art. R553-3 (V)
+
+
+###### Article L553-4
+
+I. - Afin de promouvoir un développement harmonieux de l'énergie éolienne, les régions peuvent mettre en place un schéma
+régional éolien, après avis des départements et des établissements publics de coopération intercommunale à fiscalité propre
+concernés. Ce schéma indique les secteurs géographiques qui paraissent les mieux adaptés à l'implantation d'installations
+produisant de l'électricité en utilisant l'énergie mécanique du vent.
+
+II. - Les services de l'Etat peuvent concourir à l'élaboration de ce schéma à la demande du conseil régional.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 10-1 (VT)
+	  - Ordonnance n°2014-355 du 20 mars 2014 - art. 17 (VT)
+	  - Code de l'environnement - art. R331-14 (V)
+	  - Code de l'environnement - art. R333-15 (V)
+	  - Code de l'environnement - art. R514-3-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 juillet 2003
 
 
 ### Titre VI : Prévention des risques naturels
@@ -39369,8 +39639,8 @@ Sans préjudice de l'application des dispositions de l'article L. 581-30, le mai
 soit, exécuter d'office les travaux prescrits par l'arrêté visé à l'article L. 581-27, s'il n'a pas été procédé à leur
 exécution dans le délai fixé par cet arrêté.
 
-Les frais de l'exécution d'office sont supportés par la personne à qui a été notifié l'arrêté, sauf si cette personne est
-exemptée de l'astreinte en application des dispositions du troisième alinéa de l'article L. 581-30.
+Les frais de l'exécution d'office sont supportés par la personne à qui a été notifié l'arrêté, sauf si l'exécution des
+dispositions de cet arrêté relatives à l'astreinte a été suspendue par le juge administratif des référés.
 
 L'administration est tenue de notifier, au moins huit jours à l'avance, à la personne privée propriétaire ou occupant des
 lieux, la date de commencement des travaux.
@@ -39386,6 +39656,10 @@ lieux, la date de commencement des travaux.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -39467,7 +39741,7 @@ publicité, une enseigne ou une préenseigne :
 1° Dans des lieux, sur des emplacements ou selon des procédés interdits en application des articles L. 581-4, L. 581-7, L.
 581-8, L. 581-15, L. 581-18 et L. 581-19 ;
 
-2° Sans avoir obtenu les autorisations préalables prévues aux sections 1 et 2 du présent chapitre ou sans avoir observé les
+2° Sans avoir obtenu les autorisations préalables prévues aux sections 2 et 3 du présent chapitre ou sans avoir observé les
 conditions posées par ces autorisations ou sans avoir procédé à la déclaration préalable prévue à l'article L. 581-6 ou en
 ayant produit une fausse déclaration ;
 
@@ -39494,7 +39768,7 @@ III. - L'amende est appliquée autant de fois qu'il y a de publicités, d'enseig
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cite**:
 
@@ -39597,11 +39871,7 @@ ordonne, le cas échéant, la remise en état des lieux. Il peut déclarer sa d�
 
 L'astreinte ne peut être révisée par le tribunal que si le redevable établit qu'il n'a pu observer le délai imposé pour
 l'exécution totale de ses obligations qu'en raison de circonstances indépendantes de sa volonté. Elle est recouvrée dans les
-conditions prévues au cinquième alinéa de l'article L. 581-30.
-
-**Nota:**
-
-NOTA : L'article L581-30 ne comporte que quatre alinéas à compter du 1er janvier 2001.
+conditions prévues au troisième alinéa de l'article L. 581-30.
 
 **Liens relatifs à cet article**
 
@@ -39613,6 +39883,10 @@ NOTA : L'article L581-30 ne comporte que quatre alinéas à compter du 1er janvi
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cite**:
 
@@ -40140,6 +40414,28 @@ Les articles L. 711-1 à L. 713-9 sont applicables à la Nouvelle-Calédonie.
 	  - Code de l'environnement - art. L711-1 (V)
 
 
+#### Chapitre IV : Autres dispositions
+
+###### Article L614-1
+
+Sont applicables à la Nouvelle-Calédonie les articles L. 229-1 à L. 229-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-1 (V)
+
+
 ### Titre II : Dispositions applicables en Polynésie Française
 
 #### Chapitre Ier : Agrément et action en justice des associations de protection de l'environnement
@@ -40354,6 +40650,28 @@ Les articles L. 711-1 à L. 713-9 sont applicables à la Polynésie française.
 	**Cite**:
 
 	  - Code de l'environnement - art. L711-1 (V)
+
+
+#### Chapitre IV : Autres dispositions
+
+###### Article L624-1
+
+Sont applicables à la Polynésie française les articles L. 229-1 à L. 229-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-1 (V)
 
 
 ### Titre III : Dispositions applicables à Wallis et Futuna
@@ -40583,19 +40901,11 @@ Les articles L. 711-1 à L. 713-9 sont applicables à Wallis-et-Futuna.
 	  - Code de l'environnement - art. L711-1 (V)
 
 
-### Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises
+#### Chapitre V : Autres dispositions
 
-###### Article L640-1
+###### Article L635-1
 
-I. - Les articles L. 122-1 à L. 122-3, L. 141-1 à L. 142-3, L. 218-1 à L. 218-72, L. 332-1 à L. 332-14, L. 332-16 à L.
-332-27, L. 411-1 à L. 411-4 et L. 412-1 à L. 415-5 sont applicables aux Terres australes et antarctiques françaises.
-
-II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont exercés par l'administrateur supérieur.
-
-III. - Les dispositions relatives à la protection des monuments naturels et des sites sont énoncées par la loi n° 56-1106 du
-3 novembre 1956 ayant pour objet, dans les territoires relevant du ministère de la France d'outre-mer, la protection des
-sites et monuments de caractère historique, scientifique, artistique ou pittoresque, le classement des objets historiques,
-scientifiques ou ethnographiques et la réglementation des fouilles.
+Sont applicables à Wallis et Futuna les articles L. 229-1 à L. 229-4.
 
 **Liens relatifs à cet article**
 
@@ -40604,14 +40914,55 @@ scientifiques ou ethnographiques et la réglementation des fouilles.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Créé par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Code de l'environnement L229-1 à L229-4
+
+
+### Titre IV : Dispositions applicables dans les terres australes et antarctiques françaises
+
+###### Article L640-1
+
+I. - Les articles L. 122-1 à L. 122-3, L. 141-1 à L. 142-3, L. 218-1 à L. 218-72, L. 229-1 à L. 229-4, L. 332-1 à L. 332-14,
+L. 332-16 à L. 332-27, L. 411-1 à L. 411-4 et L. 412-1 à L. 415-5 sont applicables aux Terres australes et antarctiques
+françaises.
+
+II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont exercés par l'administrateur supérieur.
+
+III. - Les dispositions relatives à la protection des monuments naturels et des sites sont énoncées par la loi n° 56-1106 du
+3 novembre 1956 ayant pour objet, dans les territoires relevant du ministère de la France d'outre-mer, la protection des
+sites et monuments de caractère historique, scientifique, artistique ou pittoresque, le classement des objets historiques,
+scientifiques ou ethnographiques et la réglementation des fouilles.
+
+**Nota:**
+
+Nota : Loi 2003-591 2003-07-02 art. 31 IV : les modifications apportées par le présent article à des dispositions applicables
+à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française, à Saint-Pierre-et-Miquelon, aux Terres australes et
+antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces collectivités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L640-2 (V)
 
 	**Cite**:
 
-	  - Code de l'environnement L122-1 à L122-3, L141-1 à L142-3, L218-1 à L218-72, L332-1 à L332-14, L332-16 à L332-27, L411-1 à L411-4, L412-1 à L415-5
+	  - Code de l'environnement L122-1 à L122-3, L141-1 à L142-3, L218-1 à L218-72, L229-1 à L229-4, L332-1 à L332-14, L332-16 à L332-27, L411-1 à L411-4, L412-1 à L415-5
 	  - Loi n°56-1106 1956-11-03
+
+	**Modifié par**:
+
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 
 ###### Article L640-2
@@ -40748,11 +41099,17 @@ formalité est remplacée par la mise à la disposition du public du dossier.
 
 ###### Article L651-4
 
-I - Dans le livre Ier du présent code, sont applicables à Mayotte les articles L. 110-1 et L. 110-2, L. 124-1 (I, II et IV),
+I - Dans le livre Ier du présent code, sont applicables à Mayotte les articles L. 110-1 et L. 110-2, L. 125-1 (I, II et IV),
 L. 132-2, L. 141-1 à L. 142-3.
 
 II - Pour l'application de l'article L. 132-2 à Mayotte, les mots : "et les centres régionaux de la propriété forestière"
 sont supprimés.
+
+**Nota:**
+
+Nota : Loi 2003-591 2003-07-02 art. 31 IV : les modifications apportées par le présent article à des dispositions applicables
+à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française, à Saint-Pierre-et-Miquelon, aux Terres australes et
+antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces collectivités.
 
 **Liens relatifs à cet article**
 
@@ -40763,15 +41120,15 @@ sont supprimés.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L110-1 (M)
 	  - Code de l'environnement - art. L110-2 (V)
-	  - Code de l'environnement - art. L124-1 (T)
+	  - Code de l'environnement - art. L125-1 (V)
 	  - Code de l'environnement - art. L132-2 (V)
-	  - Code de l'environnement L110-1, L110-2, L124-1, L132-2, L141-1 à L142-3
+	  - Code de l'environnement L110-1, L110-2, L125-1, L132-2, L141-1 à L142-3
 
 
 ###### Article L651-5
@@ -40912,7 +41269,8 @@ demande de suspension de la décision attaquée, y fait droit dès que cette abs
 I. - Dans le livre II du présent code, sont applicables à Mayotte les articles L. 210-1, L. 211-1 à L. 211-3, L. 211-5, L.
 211-7, L. 212-1 à L. 212-7, L. 213-3, L. 213-4, L. 213-8, L. 213-9, L. 214-1 à L. 214-9, L. 214-12, L. 214-14, L. 214-15, L.
 216-1, L. 216-3 à L. 216-11, L. 217-1, L. 218-1 à L. 218-80, L. 220-1, L. 220-2, L. 221-1, la première phrase du second
-alinéa de l'article L. 221-2, les articles L. 221-3 à L. 221-6, L. 222-1 à L. 222-3, L. 223-1 et L. 223-2.
+alinéa de l'article L. 221-2, les articles L. 221-3 à L. 221-6, L. 222-1 à L. 222-3, L. 223-1 et L. 223-2, L. 229-1 à L.
+229-4.
 
 II. - Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port
 adjoints, les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I sont exercés par le représentant de l'Etat
@@ -40952,6 +41310,12 @@ comité régional de l'environ-nement," et "régional" sont supprimés ;
 - au deuxième alinéa, les mots : "aux conseils généraux" et "régional ou, en Corse, de l'assemblée de Corse" sont remplacés
 respectivement par les mots : "au conseil général" et "général".
 
+**Nota:**
+
+Nota : Loi 2003-591 2003-07-02 art. 31 IV : les modifications apportées par le présent article à des dispositions applicables
+à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française, à Saint-Pierre-et-Miquelon, aux Terres australes et
+antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces collectivités.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -40961,7 +41325,7 @@ respectivement par les mots : "au conseil général" et "général".
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -41533,8 +41897,8 @@ L'article L. 428-26 est applicable à ces agents.
 I. - Dans le livre V du présent code, sont applicables à Mayotte les articles L. 511-1 à L. 514-5, L. 514-6 sauf le IV, L.
 514-7 à L. 514-16, L. 514-18 à L. 521-16, L. 541-1, L. 541-2, L. 541-3 sauf la dernière phrase du deuxième alinéa, L. 541-4 à
 L. 541-15, L. 541-22 à L. 541-26 sauf la dernière phrase du deuxième alinéa et le dernier alinéa, L. 541-27 à L. 541-29, L.
-541-31, L. 541-37 à L. 541-42, L. 541-46 sauf le 11° du I, L. 551-1, L. 562-1 à L. 562-5, L. 562-8, L. 563-1, L. 571-1 à L.
-571-6 et L. 571-8.
+541-31, L. 541-37 à L. 541-42, L. 541-46 sauf le 11° du I, L. 551-1, L. 553-1 à L. 553-4, L. 562-1 à L. 562-5, L. 562-8, L.
+563-1, L. 571-1 à L. 571-6 et L. 571-8.
 
 II. - Pour l'application des articles L. 512-2, L. 512-7, L. 512-9, L. 512-12, L. 514-1, L. 514-4, L. 514-11, L. 515-1, L.
 515-2 et L. 515-3 à Mayotte, le mot : "départementale" est supprimé.
@@ -41565,6 +41929,12 @@ les mots :
 "départemental" sont supprimés. Pour son application à Mayotte, les mots : "conseils généraux des départements limitrophes"
 au VII du même article sont supprimés.
 
+**Nota:**
+
+Nota : Loi 2003-591 2003-07-02 art. 31 IV : les modifications apportées par le présent article à des dispositions applicables
+à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française, à Saint-Pierre-et-Miquelon, aux Terres australes et
+antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces collectivités.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -41574,7 +41944,7 @@ au VII du même article sont supprimés.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
 
 	**Cite**:
 
