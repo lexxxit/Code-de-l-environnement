@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2004-03-10
+Version Consolidée au 2004-03-28
 
 # Partie législative
 
@@ -45473,6 +45473,358 @@ la réglementation mentionnées au présent article ou par leur délégué.
 	  - Code de l'environnement - art. L411-1 (V)
 	  - Code de l'environnement - art. R*211-16 (Ab)
 	  - Code de l'environnement - art. R*211-17 (Ab)
+
+
+##### Section 6 : Conseil scientifique régional du patrimoine naturel
+
+###### Article R*211-19
+
+Le nombre de membres du conseil scientifique régional du patrimoine naturel prévu à l'article L. 411-5 est fixé par le préfet
+de région, après avis du président du conseil régional et, en Corse, du président du conseil exécutif. Il ne peut excéder 25.
+
+Le mandat de ces membres est de cinq ans. Il est renouvelable. En cas de démission ou de décès d'un membre du conseil, il est
+procédé à son remplacement pour la durée du mandat restant à courir selon les modalités prévues pour la nomination.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-177 du 12 mars 1975 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L411-5 (M)
+
+
+###### Article R*211-20
+
+Outre les cas de consultation obligatoire prévus par la réglementation en vigueur, le conseil scientifique régional du
+patrimoine naturel peut être saisi pour avis soit par le préfet de région, soit par le président du conseil régional ou, en
+Corse, par le président du conseil exécutif, sur toute question relative à la conservation du patrimoine naturel de la région
+et notamment sur :
+
+1° La valeur scientifique des inventaires du patrimoine naturel lors de leur élaboration ou de leur mise à jour ;
+
+2° Les propositions de listes régionales d'espèces protégées prévues à l'article L. 411-2 ;
+
+3° La délivrance d'autorisations portant sur des espèces protégées, en application des articles L. 411-1 et L. 411-2 ;
+
+4° Les orientations régionales de gestion de la faune sauvage et d'amélioration de la qualité de ses habitats prévues à
+l'article L. 421-7 ;
+
+5° Toute question relative au réseau Natura 2000 défini à l'article L. 414-1.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-177 du 12 mars 1975 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L411-1 (V)
+	  - Code de l'environnement - art. L411-2 (M)
+	  - Code de l'environnement - art. L414-1 (M)
+	  - Code de l'environnement - art. L421-7 (M)
+
+
+###### Article R*211-21
+
+Le conseil scientifique régional du patrimoine naturel se réunit au moins deux fois par an à l'initiative soit du préfet de
+région, soit du président du conseil régional ou, en Corse, du président du conseil exécutif. En outre, son président est
+tenu de le réunir à la demande d'au moins la moitié des membres.
+
+Sont examinées en priorité par le conseil les questions soumises par le préfet de région ou le président du conseil régional
+ou, en Corse, le président du conseil exécutif.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-177 du 12 mars 1975 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+###### Article R*211-22
+
+Le conseil scientifique régional du patrimoine naturel ne peut délibérer que si la moitié des membres assiste à la séance.
+Lorsque le quorum n'est pas atteint, il délibère valablement sans condition de quorum après une nouvelle convocation portant
+sur le même ordre du jour.
+
+Ses avis sont émis à la majorité des membres présents. En cas de partage égal des voix, celle du président est prépondérante.
+Les avis sont transmis au préfet de région, au président du conseil régional ou, en Corse, au président du conseil exécutif.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-469 du 3 juin 1994 - art. 23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+###### Article R*211-23
+
+Le secrétariat du conseil scientifique régional du patrimoine naturel est assuré par les services de la direction régionale
+de l'environnement qui, chaque année, proposent à l'approbation du conseil un compte rendu d'activités.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-469 du 3 juin 1994 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Arrêté du 26 avril 2016 (V)
+	  - Code de la sécurité sociale. - art. D311-1 (V)
+
+
+###### Article R*211-24
+
+Le conseil scientifique régional du patrimoine naturel se dote d'un règlement intérieur.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+###### Article R*211-25
+
+Le président du conseil scientifique régional du patrimoine naturel peut appeler à assister aux séances du conseil ou de
+groupes de travail organisés en son sein, à titre consultatif et pour l'examen de questions déterminées, tous représentants
+d'organismes qualifiés ou toutes personnalités susceptibles de l'éclairer.
+
+Le préfet de région, le président du conseil régional et, en Corse, le président du conseil exécutif, ou leurs représentants,
+assistent de droit aux séances du conseil.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+	**Cité par**:
+
+	  - Arrêté du 7 septembre 2009 - art. 14 (V)
+	  - Arrêté du 7 septembre 2009 - art. 8 (V)
+	  - Arrêté du 21 juillet 2015 - art. 15 (V)
+	  - Code de l'environnement - art. R162-1 (V)
+
+
+###### Article R*211-26
+
+Les membres du conseil scientifique régional du patrimoine naturel sont remboursés des frais occasionnés par leurs
+déplacements dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°97-1133 du 8 décembre 1997 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
+
+###### Article R*211-27
+
+Pour l'application de la présente section à Saint-Pierre-et-Miquelon, les termes ci-après sont remplacés comme suit :
+
+1° "Préfet de région" par "préfet de la collectivité territoriale" ;
+
+2° "Président du conseil régional" par "président du conseil général" ;
+
+3° "Région" par "collectivité territoriale" ;
+
+4° "Régional, régionale, régionales" par "territorial, territoriale, territoriales" ;
+
+5° "La direction régionale de l'environnement" par "la préfecture ou tout autre service de l'Etat ayant reçu compétence de la
+part du préfet".
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°97-1133 du 8 décembre 1997 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
+
+	**Créé par**:
+
+	  - Décret n°2004-292 du 26 mars 2004 - art. 1 () JORF 28 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 #### Chapitre II : Activités soumises à autorisation
