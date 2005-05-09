@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-04-30
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -53863,8 +53863,17 @@ et délibère sur le même ordre du jour sans condition de quorum.
 Les décisions sont prises à la majorité des voix des membres présents ; en cas de partage égal des voix, la voix du président
 est prépondérante.
 
-Le directeur général de l'office, l'agent comptable, le contrôleur financier et le commissaire du Gouvernement ont accès aux
-séances du conseil d'administration avec voix consultative.
+Le directeur général de l'office, l'agent comptable, le membre du corps du contrôle général économique et financier et le
+commissaire du Gouvernement ont accès aux séances du conseil d'administration avec voix consultative.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -53879,9 +53888,13 @@ séances du conseil d'administration avec voix consultative.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*221-15
@@ -53925,11 +53938,20 @@ réserves qu'il juge utiles.
 Toutefois, il ne peut pas déléguer les attributions mentionnées aux 1° à 8° et aux 10° à 12°. Il peut déléguer les
 attributions mentionnées aux 9° et 13° lorsque les montants financiers en cause sont inférieurs à un seuil qu'il détermine.
 
-Il peut autoriser le directeur général à arrêter, en accord avec le contrôleur financier, les modifications du budget qui ne
-comportent aucune modification du montant de ce budget ou des effectifs du personnel, et aucun virement de crédits entre la
-section relative aux opérations de fonctionnement et la section relative aux opérations en capital ou entre les chapitres de
-dépenses de personnel et les chapitres de dépenses de matériel. Il en est rendu compte à la plus prochaine séance du conseil
-d'administration.
+Il peut autoriser le directeur général à arrêter, en accord avec le membre du corps du contrôle général économique et
+financier, les modifications du budget qui ne comportent aucune modification du montant de ce budget ou des effectifs du
+personnel, et aucun virement de crédits entre la section relative aux opérations de fonctionnement et la section relative aux
+opérations en capital ou entre les chapitres de dépenses de personnel et les chapitres de dépenses de matériel. Il en est
+rendu compte à la plus prochaine séance du conseil d'administration.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -53943,9 +53965,13 @@ d'administration.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cité par**:
 
@@ -54602,8 +54628,18 @@ L'office est soumis au régime financier et comptable défini par le décret du 
 décret du 10 décembre 1953, 151 à 189 du décret du 29 décembre 1962 et l'article 60 de la loi de finances pour 1963 relatif à
 la responsabilité des comptables publics.
 
-Les attributions du contrôleur financier et les modalités d'exercice de son contrôle sont définies, en tant que de besoin,
-par arrêté du ministre de l'économie, des finances et du budget et du ministre chargé de la chasse.
+Les attributions du membre du corps du contrôle général économique et financier et les modalités d'exercice de son contrôle
+sont définies, en tant que de besoin, par arrêté du ministre de l'économie, des finances et du budget et du ministre chargé
+de la chasse.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -54621,9 +54657,13 @@ par arrêté du ministre de l'économie, des finances et du budget et du ministr
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ##### Section 3 : Conseil départemental de la chasse et de la faune sauvage
@@ -70623,9 +70663,18 @@ Le conseil d'administration désigne deux vice-présidents ; le premier parmi le
 tous ses membres. En cas d'absence ou d'empêchement le président est remplacé par le premier vice-président ou, si ce dernier
 est lui-même absent ou empêché, par le second vice-président.
 
-Le directeur général du conseil supérieur de la pêche, le contrôleur financier, l'agent comptable et le commissaire du
-Gouvernement désigné par le ministre chargé de la pêche en eau douce assistent aux séances du conseil d'administration avec
-voix consultative.
+Le directeur général du conseil supérieur de la pêche, le soumis au contrôle permanent d'un membre du corps du contrôle
+général économique et financier, l'agent comptable et le commissaire du Gouvernement désigné par le ministre chargé de la
+pêche en eau douce assistent aux séances du conseil d'administration avec voix consultative.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -70637,10 +70686,13 @@ voix consultative.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -70744,7 +70796,17 @@ délibérations sont prises à la majorité des présents. En cas de partage ég
 prépondérante.
 
 Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés au moins quinze jours à l'avance à la
-connaissance des membres du conseil d'administration ainsi que du contrôleur financier.
+connaissance des membres du conseil d'administration ainsi que du membre du corps du contrôle général économique et
+financier.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -70756,9 +70818,13 @@ connaissance des membres du conseil d'administration ainsi que du contrôleur fi
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*234-10
@@ -70833,8 +70899,18 @@ conjoint du ministre chargé de la pêche en eau douce, du ministre chargé des 
 
 Le directeur général peut prendre les décisions modificatives ne comportant pas de variations du montant du budget ou du
 niveau des effectifs ni de virements de crédits entre la section de fonctionnement et les opérations en capital ou entre les
-chapitres du personnel et les chapitres de matériel. Ces décisions sont exécutoires après accord du contrôleur financier.
-Elles sont soumises pour information au conseil d'administration lors de sa plus prochaine séance.
+chapitres du personnel et les chapitres de matériel. Ces décisions sont exécutoires après accord du membre du corps du
+contrôle général économique et financier. Elles sont soumises pour information au conseil d'administration lors de sa plus
+prochaine séance.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -70844,7 +70920,11 @@ Elles sont soumises pour information au conseil d'administration lors de sa plus
 
 	**Modifié par**:
 
-	  - Décret n°2004-599 du 18 juin 2004 - art. 2 () JORF 25 juin 2004
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -77877,8 +77957,17 @@ En cas de partage la voix du président de séance est prépondérante.
 Le président peut inviter à siéger, avec voix consultative, pour une affaire déterminée, toute personne qu'il estime utile
 d'entendre.
 
-Le commissaire du Gouvernement, le cas échéant, son adjoint, et le contrôleur financier ou le contrôleur d'Etat assistent aux
-séances avec voix consultative.
+Le commissaire du Gouvernement, le cas échéant, son adjoint, et le membre du corps du contrôle général économique et
+financier assistent aux séances avec voix consultative.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -77890,9 +77979,13 @@ séances avec voix consultative.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*241-23
@@ -81949,8 +82042,8 @@ I. - Le conseil d'administration du Conservatoire de l'espace littoral et des ri
 responsables des associations de protection de la nature et une parmi les représentants des collectivités et organismes
 gestionnaires d'espaces naturels littoraux.
 
-II. - Outre le directeur du conservatoire, le contrôleur financier et l'agent comptable, siègent au conseil d'administration
-avec voix consultative :
+II. - Outre le directeur du conservatoire, le membre du corps du contrôle général économique et financier et l'agent
+comptable, siègent au conseil d'administration avec voix consultative :
 
 1° Deux représentants du personnel élus par le personnel du conservatoire sur des listes présentées par les organisations
 syndicales habilitées à désigner des représentants au comité technique central du conservatoire ;
@@ -81964,8 +82057,12 @@ qualifiées.
 
 **Nota:**
 
-Nota : Décret 2003-839 2003-08-29 art. 6 : Ces dispositions entreront en vigueur dès que les membres du conseil
-d'administration auront été désignés, et au plus tard le 1er janvier 2004.
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -81975,7 +82072,11 @@ d'administration auront été désignés, et au plus tard le 1er janvier 2004.
 
 	**Modifié par**:
 
-	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*243-11
@@ -82296,11 +82397,20 @@ mission analogue.
 
 Il approuve les transactions et autorise le directeur à les signer.
 
-Il peut autoriser le directeur à arrêter, en accord avec le contrôleur financier, les modifications du budget qui ne
-comportent aucune modification du montant de ce budget ou des effectifs du personnel et aucun virement de crédits entre la
-section relative aux opérations de fonctionnement et la section relative aux opérations en capital ou entre les chapitres de
-dépenses de personnel et les chapitres de dépenses en matériel. Il en est rendu compte à la prochaine séance du conseil
-d'administration.
+Il peut autoriser le directeur à arrêter, en accord avec le membre du corps du contrôle général économique et financier, les
+modifications du budget qui ne comportent aucune modification du montant de ce budget ou des effectifs du personnel et aucun
+virement de crédits entre la section relative aux opérations de fonctionnement et la section relative aux opérations en
+capital ou entre les chapitres de dépenses de personnel et les chapitres de dépenses en matériel. Il en est rendu compte à la
+prochaine séance du conseil d'administration.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -82310,7 +82420,11 @@ d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2003-839 du 29 août 2003 - art. 1 () JORF 3 septembre 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
@@ -82869,7 +82983,17 @@ Le conservatoire est soumis au contrôle financier institué par le décret du 2
 sont fixées par arrêté conjoint du ministre de l'économie et des finances et du ministre chargé de la protection de la
 nature.
 
-Le contrôleur financier assiste aux délibérations du conseil d'administration avec voix consultative.
+Le membre du corps du contrôle général économique et financier assiste aux délibérations du conseil d'administration avec
+voix consultative.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -82885,9 +83009,13 @@ Le contrôleur financier assiste aux délibérations du conseil d'administration
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*243-34
