@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-05-21
+Version Consolidée au 2005-05-29
 
 # Partie législative
 
@@ -52840,7 +52840,9 @@ d) Si, bien que dispensés d'une étude ou d'une notice d'impact par application
 octobre 1977 modifié, ils relèvent d'un autre régime d'autorisation ou d'approbation et appartiennent à l'une des catégories
 figurant sur une liste arrêtée par le ou les préfets des départements concernés ou, le cas échéant, par l'autorité militaire
 compétente. Cette liste est arrêtée pour chaque site ou pour un ensemble de sites, en fonction des exigences écologiques
-spécifiques aux habitats et aux espèces pour lesquels le ou les sites ont été désignés. Elle est affichée dans chacune des
+spécifiques aux habitats et aux espèces pour lesquels le ou les sites ont été désignés. Elle distingue les projets de
+travaux, d'ouvrages ou d'aménagements des programmes de travaux, d'ouvrages ou d'aménagements. Pour ces derniers, une
+évaluation est conduite selon la procédure prévue aux articles L. 122-4 et suivants. Elle est affichée dans chacune des
 communes concernées, publiée au Recueil des actes administratifs ainsi que dans un journal diffusé dans le département.
 
 Dans tous les cas, l'évaluation porte également, le cas échéant, sur l'incidence éventuelle du projet sur d'autres sites
@@ -52856,6 +52858,16 @@ conservation.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Code rural R214-34
+	  - Décret n°93-742 du 29 mars 1993 - art. 29-2 (Ab)
+	  - Code rural - art. R*214-34 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2005-613 2005-06-27 art. 9 I JORF 29 mai 2005
+
 	**Cite**:
 
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
@@ -52863,23 +52875,14 @@ conservation.
 	  - Décret n°88-1124 du 15 décembre 1988 - art. 1 ()
 	  - Décret n°93-742 1993-03-29 art. 2
 	  - Code de l'environnement - art. L122-1 (M)
+	  - Code de l'environnement - art. L122-4 (V)
 	  - Code de l'environnement - art. L332-9 (M)
 	  - Code de l'environnement - art. L414-4 (M)
-	  - Code de l'environnement L414-4, L214-1 à L214-6, R241-36, L332-9, L122-1, R242-19
-
-	**Anciens textes**:
-
-	  - Décret n°93-742 du 29 mars 1993 - art. 29-2 (Ab)
-	  - Code rural - art. R*214-34 (Ab)
-	  - Code rural R214-34
+	  - Code de l'environnement L414-4, L214-1 à L214-6, R241-36, L332-9, L122-1, R242-19, L122-4
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 	**Cité par**:
 
@@ -52968,34 +52971,57 @@ l'environnement ;
 compenser les effets dommageables que les mesures prévues au II ne peuvent supprimer, ainsi que l'estimation des dépenses
 correspondantes.
 
+IV. - Le dossier d'évaluation d'incidences des programmes pour lesquels une évaluation est conduite selon la procédure prévue
+aux articles L. 122-4 et suivants comprend, en outre :
+
+1° Une notice sommaire de présentation des objectifs du plan ou programme, de son contenu et, s'il y a lieu, de son
+articulation avec d'autres plans et programmes visés à l'article L. 122-4 ou les documents d'urbanisme avec lesquels il doit
+être compatible ou qu'il doit prendre en considération ;
+
+2° Un résumé non technique du contenu du programme et du dossier d'évaluation ;
+
+3° Les mesures de suivi envisagées ;
+
+4° Une description de la manière dont l'évaluation a été effectuée.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code rural R214-36
 	  - Décret n°93-742 du 29 mars 1993 - art. 29-4 (Ab)
 	  - Code rural - art. R*214-36 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-1216 du 20 décembre 2001 - art. 2 (M)
+	  - Code rural R214-36
 
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
 
 	**Cité par**:
 
 	  - Décret n°2005-613 du 27 mai 2005 - art. 4 (Ab)
 	  - Code de l'environnement - art. R214-31-5 (VD)
 
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
+
 	**Cite**:
 
+	  - Code de l'environnement - art. L122-4 (V)
 	  - Code de l'environnement - art. L414-4 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2005-613 2005-06-27 art. 9 II JORF 29 mai 2005
 
 
 ###### Article R*214-37
