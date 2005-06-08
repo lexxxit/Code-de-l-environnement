@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-05-29
+Version Consolidée au 2005-06-09
 
 # Partie législative
 
@@ -2282,32 +2282,40 @@ diffusion. Ce droit s'exerce selon les modalités définies à la section 2 du c
 
 ###### Article L125-5
 
-I. - Les acquéreurs ou locataires de biens immobiliers situés dans des zones couvertes par un plan de prévention des risques
+I.-Les acquéreurs ou locataires de biens immobiliers situés dans des zones couvertes par un plan de prévention des risques
 technologiques ou par un plan de prévention des risques naturels prévisibles, prescrit ou approuvé, ou dans des zones de
 sismicité définies par décret en Conseil d'Etat, sont informés par le vendeur ou le bailleur de l'existence des risques visés
 par ce plan ou ce décret.
 
-Un état des risques fondé sur les informations mises à disposition par le préfet est annexé à toute promesse unilatérale de
-vente ou d'achat et à tout contrat réalisant ou constatant la vente.
+A cet effet, un état des risques naturels et technologiques est établi à partir des informations mises à disposition par le
+préfet. En cas de mise en vente de l'immeuble, l'état est produit dans les conditions et selon les modalités prévues aux
+articles L. 271-4 et L. 271-5 du code de la construction et de l'habitation. 
 
-II. - Pour les locataires de biens immobiliers situés dans les zones mentionnées au I, l'état des risques prévu au I est
-annexé aux contrats de location écrits constatant l'entrée dans les lieux du nouveau locataire.
+II.-En cas de mise en location de l'immeuble, l'état des risques naturels et technologiques est fourni au nouveau locataire
+dans les conditions et selon les modalités prévues à l'article 3-1 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer
+les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. 
 
-III. - Le préfet arrête la liste des communes dans lesquelles les dispositions du I et du II sont applicables ainsi que, pour
-chaque commune concernée, la liste des risques et des documents à prendre en compte.
+III.-Le préfet arrête la liste des communes dans lesquelles les dispositions du I et du II sont applicables ainsi que, pour
+chaque commune concernée, la liste des risques et des documents à prendre en compte. 
 
-IV. - Lorsqu'un immeuble bâti a subi un sinistre ayant donné lieu au versement d'une indemnité en application de l'article L.
+IV.-Lorsqu'un immeuble bâti a subi un sinistre ayant donné lieu au versement d'une indemnité en application de l'article L.
 125-2 ou de l'article L. 128-2 du code des assurances, le vendeur ou le bailleur de l'immeuble est tenu d'informer par écrit
 l'acquéreur ou le locataire de tout sinistre survenu pendant la période où il a été propriétaire de l'immeuble ou dont il a
 été lui-même informé en application des présentes dispositions. En cas de vente de l'immeuble, cette information est
 mentionnée dans l'acte authentique constatant la réalisation de la vente.
 
-V. - En cas de non-respect des dispositions du présent article, l'acquéreur ou le locataire peut poursuivre la résolution du
-contrat ou demander au juge une diminution du prix.
+V.-En cas de non-respect des dispositions du présent article, l'acquéreur ou le locataire peut poursuivre la résolution du
+contrat ou demander au juge une diminution du prix. 
 
-VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+VI.-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 (V)
+	  - Code des assurances - art. L125-2 (V)
+	  - Code des assurances - art. L128-2 (V)
 
 	**Cité par**:
 
@@ -2329,14 +2337,9 @@ VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 77 () JORF 31 juillet 2003
-
-	**Cite**:
-
-	  - Code des assurances - art. L128-2 (V)
-	  - Code de l'environnement - art. L125-2 (M)
+	  - Ordonnance n°2005-655 du 8 juin 2005 - art. 21 () JORF 9 juin 2005
 
 
 #### Chapitre VI : Déclaration de projet
