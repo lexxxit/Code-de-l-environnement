@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-06-09
+Version Consolidée au 2005-06-23
 
 # Partie législative
 
@@ -61711,26 +61711,26 @@ Par exception aux dispositions de l'article R. 224-4, le préfet ne peut fixer l
 espèces de gibier figurant au tableau ci-après qu'entre les dates et sous réserve des conditions spécifiques de chasse
 suivantes :
 
-Espèces, date d'ouverture spécifique au plus tôt le ..., date de clôture spécifique au plus tard le ....
+ESPECES / DATE D'OUVERTURE spécifique au plus tôt le / DATE DE CLOTURE spécifique au plus tard le
 
 Gibier sédentaire :
 
-- Chevreuil : 1er juin.
+- Chevreuil / 1er juin / Dernier jour de février
 
-- Cerf : 1er septembre.
+- Cerf / 1er septembre /  Dernier jour de février
 
-- Daim : 1er juin.
+- Daim / 1er juin /  Dernier jour de février
 
-- Mouflon : 1er septembre.
+- Mouflon / 1er septembre /  Dernier jour de février
 
-- Chamois : isard lorsqu'ils sont soumis au plan de chasse légal, 1er septembre.
+- Chamois, isard lorsqu'ils sont soumis au plan de chasse légal / 1er septembre /  Dernier jour de février
 
 Conditions spécifiques de chasse :
 
 Avant la date d'ouverture générale, ces espèces ne peuvent être chassées qu'à l'approche ou à l'affût par les détenteurs
 d'une autorisation préfectorale individuelle.
 
-- Sanglier : 1er juin, dernier jour de février.
+- Sanglier / 1er juin / dernier jour de février.
 
 Conditions spécifiques de chasse :
 
@@ -61740,25 +61740,41 @@ autorisation préfectorale individuelle et dans les conditions fixées par l'arr
 Du 15 août à l'ouverture générale et de la clôture générale au dernier jour de février, la chasse du sanglier ne peut être
 pratiquée qu'en battue, à l'affût ou à l'approche dans les conditions fixées par l'arrêté du préfet.
 
-- Grand tétras : troisième dimanche de septembre, 1er novembre.
+- Grand tétras / troisième dimanche de septembre / 1er novembre.
 
-- Petit tétras : troisième dimanche de septembre, 11 novembre.
+- Petit tétras / troisième dimanche de septembre / 11 novembre.
 
-- Lagopède des Alpes, Perdrix bartavelle, Gélinotte, Lièvre variable, Marmotte : ouverture générale, 11 novembre.
+- Lagopède des Alpes, Perdrix bartavelle, Gélinotte, Lièvre variable, Marmotte / ouverture générale / 11 novembre.
 
 - Chamois, isard lorsqu'ils ne sont pas soumis au plan de chasse légal :
 
-chaîne alpine, deuxième dimanche de septembre, 11 novembre.
+chaîne alpine : deuxième dimanche de septembre /  11 novembre.
 
-reste du territoire, troisième dimanche de septembre, 1er novembre.
+reste du territoire : troisième dimanche de septembre / 1er novembre.
+
+Perdrix grise de plaine /  1er dimanche de septembre / Clôture générale.
+
+Conditions spécifiques de chasse :
+
+L'ouverture anticipée du 1er dimanche de septembre à l'ouverture générale n'est possible que pour les populations naturelles,
+sur les territoires couverts pour toute la période d'ouverture par un plan de gestion cynégétique approuvé en application de
+l'article L. 425-15 du code de l'environnement ou par un plan de chasse et si, du 1er septembre à l'ouverture générale, la
+chasse est pratiquée avec un chien d'arrêt, un chien leveur ou rapporteur de gibier.
+
+Cette possibilité n'est ouverte que dans les départements de l'Aisne, des Ardennes, de l'Aube, de la Marne, du Nord, du Pas-
+de-Calais et de la Somme. 
+
+Toute personne autorisée à chasser le chevreuil ou le sanglier avant l'ouverture générale peut également chasser le renard
+dans les conditions spécifiques figurant au tableau ci-dessus pour le chevreuil et pour le sanglier.
 
 **Nota:**
 
-Nota - Par décision n° 224850, 225596, 225693 et 225769, le Conseil d'Etat a annulé les dispositions du tableau annexé à
-l'article 1er du décret n° 2000-754 du 1er août 2000 en tant qu'elles autorisent, d'une part, que la chasse aux canards,
-rallidés et foulques soit ouverte, dans les régions autres que les grandes régions de nidification, le 10 août, et, d'autre
-part, que la chasse soit fermée postérieurement au 31 janvier pour le râle d'eau et les macreuses, la bécasse des bois, les
-bécassines et certains autres limicoles, ainsi que pour les turdidés.
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -61778,7 +61794,12 @@ bécassines et certains autres limicoles, ainsi que pour les turdidés.
 
 	**Modifié par**:
 
-	  - Décret n°2004-462 du 28 mai 2004 - art. 2 () JORF 29 mai 2004
+	  - Décret n°2005-691 du 22 juin 2005 - art. 1 () JORF 23 juin 2005
+	  - Décret n°2005-690 du 22 juin 2005 - art. 1 () JORF 23 juin 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*224-6
@@ -62104,83 +62125,22 @@ Terres australes et antarctiques françaises et à Mayotte, les dispositions én
 	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
-###### Article R*224-12-1
-
-Les cantons mentionnés au premier alinéa de l'article L. 424-5, dans lesquels la chasse de nuit au gibier d'eau est
-traditionnelle, sont les cantons énumérés ci-dessous, tels que les délimitent les dispositions en vigueur à la date du 1er
-août 2000 :
-
-Départements, cantons :
-
-Côtes-d'Armor : Dinan, Lézardrieux, Matignon, Paimpol, Perros-Guirrec, Plancoët, Ploubalay, Saint-Brieuc, Tréguier.
-
-Finistère : Guipavas, Lannilis, Le Faou, Lesneven, Plouzévédé, Saint-Renan.
-
-Haute-Garonne : Auterive, Barbazan, Cadours, Carbonne, Castanet, Cazères, Fronton, Grenade, Le Fousseret, Montréjeau, Muret,
-Rieumes, Rieux, Saint-Gaudens, Salies-du-Salat, Toulouse-Nord.
-
-Ille-et-Vilaine : Cancale, Châteauneuf-d'Ille-et-Vilaine, Dol-de-Bretagne, Pleine-Fougères.
-
-Meuse : Charny-sur-Meuse, Etain, Fresnes-en-Woëvre, Pierrefitte-sur-Aire, Révigny-sur-Ornain, Saint-Mihiel, Stenay, Varennes-
-en-Argonne, Vigneulles-lès-Hattonchâtel.
-
-Hautes-Pyrénées : Aureilhan, Bordères-sur-l'Echez, Castelnau-Rivière-Basse, Castelnau-Magnoac, Galan, La Barthe-de-Neste,
-Laloubère, Lannemezan, Lourdes-Ouest, Maubourguet, Ossun, Rabastens-de-Bigorre, Saint-Laurent-de-Neste, Tournay, Trie-sur-
-Baïse, Vic-en-Bigorre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L424-5 (M)
-
-	**Anciens textes**:
-
-	  - Code rural R224-12-1
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Créé par**:
-
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-692 du 22 juin 2005 - art. 1 () JORF 23 juin 2005
-
-
 ###### Article R*224-12-2
 
-La chasse de nuit au gibier d'eau ne peut s'exercer dans les départements mentionnés à l'article L. 424-5 et les cantons
-mentionnés à l'article R. 224-12-1 qu'à partir de huttes, tonnes, gabions, hutteaux ou autres postes fixes qui existaient au
-1er janvier 2000 et qui ont fait l'objet d'une déclaration auprès du préfet du département de situation avant le 1er janvier
-2001.
+La chasse de nuit au gibier d'eau ne peut s'exercer dans les départements mentionnés à l'article L. 224-4-1 qu'à partir de
+huttes, tonnes, gabions, hutteaux ou autres postes fixes qui existaient au 1er janvier 2000 et qui ont fait l'objet d'une
+déclaration auprès du préfet du département de situation avant le 1er janvier 2001 ou, dans les cantons des départements des
+Côtes-d'Armor, du Finistère, de la Haute-Garonne, d'Ille-et-Vilaine, de la Meuse et des Hautes-Pyrénées non mentionnés à
+l'article 1er du décret n° 2000-755 du 1er août 2000, avant le 1er juillet 2006.
 
-La déclaration est souscrite par le propriétaire de l'installation.
+**Nota:**
 
-Elle est accompagnée :
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
 
-1° D'un descriptif du poste fixe, assorti de la désignation cadastrale du fonds où ce poste fixe est situé ou de sa
-localisation sur le domaine public, et indiquant, dans la mesure du possible, l'année de sa création ;
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
 
-2° Si le propriétaire de l'installation n'est pas simultanément propriétaire du fonds, de l'identité de ce dernier et du
-titre par lequel celui-ci lui a permis d'y installer un poste fixe pour la chasse au gibier d'eau ;
-
-3° D'un descriptif du plan d'eau ou du marais non asséché sur lequel s'exerce la chasse au gibier d'eau à partir du poste
-fixe, comportant la désignation cadastrale du fonds où est situé ce plan d'eau ou marais, ou sa localisation sur le domaine
-public, et faisant, le cas échéant, apparaître l'existence d'autres postes fixes de chasse au gibier d'eau sur le même plan
-d'eau ou marais non asséché ;
-
-4° D'une attestation du déclarant qu'il a pris connaissance des dispositions de l'article L. 424-5.
-
-Le préfet délivre un récépissé de la déclaration avec attribution d'un numéro de poste fixe que le déclarant est tenu
-d'apposer à l'extérieur du poste fixe et, si ce poste est situé dans un terrain clos, à l'extérieur de celui-ci.
-
-Tout changement intervenant dans les éléments fournis à l'appui de la déclaration est porté à la connaissance du préfet par
-le propriétaire du poste fixe.
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -62188,34 +62148,45 @@ le propriétaire du poste fixe.
 
 	  - Code rural R224-12-2
 
+	**Cite**:
+
+	  - Décret n°2000-755 du 1 août 2000 - art. 1 ()
+	  - Code de l'environnement L224-4-1
+
 	**Codifié par**:
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 2003-08-01 art. 1 II, III JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-692 du 22 juin 2005 - art. 2 () JORF 23 juin 2005
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'environnement - art. L424-5 (M)
-	  - Code de l'environnement L424-5, R224-12-1
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 
 ###### Article R*224-12-3
 
 Les chasseurs pratiquant la chasse de nuit au gibier d'eau à partir des postes fixes mentionnés à l'article R. 224-12-2
-tiennent à jour, pour chacune de ces installations, un carnet de prélèvements, selon un modèle fixé par arrêté du ministre
-chargé de la chasse ; ils communiquent avant le 15 mars de chaque année à la fédération départementale des chasseurs un
-récapitulatif des prélèvements.
+tiennent à jour, pour chacune de ces installations, un carnet de prélèvements et communiquent à la fédération départementale
+des chasseurs un récapitulatif annuel des prélèvements.
 
-La fédération départementale des chasseurs procède, selon des modalités fixées par arrêté du ministre chargé de la chasse, au
-bilan des prélèvements déclarés et le communique au préfet et au directeur général de l'Office national de la chasse et de la
-faune sauvage avant le 1er mai.
+La fédération départementale des chasseurs procède au bilan annuel des prélèvements déclarés et le communique à la Fédération
+nationale des chasseurs et à l'Office national de la chasse et de la faune sauvage.
 
-Le directeur général de l'Office national de la chasse et de la faune sauvage publie, avant le 1er juillet, le bilan national
-des prélèvements établi selon des modalités fixées par le même arrêté.
+L'Office national de la chasse et de la faune sauvage publie chaque année le bilan national des prélèvements.
+
+Un arrêté du ministre chargé de la chasse fixe les modalités d'application du présent article.
+
+**Nota:**
+
+NOTA : Décret 2005-935 du 2 août 2005 art 8 :
+
+Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+1° Les articles R. 211-1 à R. 223-25 et R. 223-27 à R. 261-11 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -62227,9 +62198,13 @@ des prélèvements établi selon des modalités fixées par le même arrêté.
 
 	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-768 du 1 août 2003 - art. 1 (V) JORF 7 août 2003
+	  - Décret n°2005-692 du 22 juin 2005 - art. 3 () JORF 23 juin 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 1° JORF 5 août 2005
 
 	**Cite**:
 
