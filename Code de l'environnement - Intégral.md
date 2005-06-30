@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-06-26
+Version Consolidée au 2005-07-01
 
 # Partie législative
 
@@ -32771,7 +32771,7 @@ L'autorisation administrative visée à l'alinéa précédent ne peut excéder t
 Cette autorisation ne peut excéder quinze ans pour les terrains dont le défrichement est autorisé en application des articles
 L. 311-1 ou L. 312-1 du code forestier. Toutefois, lorsque l'exploitation de ces terrains est associée à une industrie
 transformatrice nécessitant des investissements lourds, la durée de l'autorisation d'exploiter peut être portée à trente ans,
-après avis conforme de la commission départementale des carrières.
+après avis conforme de la commission départementale compétente en matière de nature, de paysages et de sites.
 
 L'autorisation est renouvelable dans les formes prévues à l'article L. 512-2.
 
@@ -32793,11 +32793,11 @@ durée de l'autorisation administrative d'exploitation de carrière.
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-4 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
 	  - Loi n°2005-157 du 23 février 2005 - art. 42 () JORF 24 février 2005
 
 	**Cite**:
@@ -32807,10 +32807,6 @@ durée de l'autorisation administrative d'exploitation de carrière.
 	  - Code de l'environnement - art. L512-1 (M)
 	  - Code de l'environnement - art. L512-11 (V)
 	  - Code de l'environnement - art. L512-2 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
 
 	**Cité par**:
 
@@ -32885,8 +32881,8 @@ voisins, la protection des paysages, des sites et des milieux naturels sensibles
 l'espace, tout en favorisant une utilisation économe des matières premières. Il fixe les objectifs à atteindre en matière de
 remise en état et de réaménagement des sites.
 
-Le schéma départemental des carrières est élaboré par la commission départementale des carrières après consultation du
-document de gestion de l'espace agricole et forestier visé à l'article L. 112-1 du code rural.
+Le schéma départemental des carrières est élaboré après consultation du document de gestion de l'espace agricole et forestier
+visé à l'article L. 112-1 du code rural.
 
 Il est approuvé, après avis du conseil général, par le préfet. Il est rendu public dans des conditions fixées par décret.
 
@@ -32894,6 +32890,10 @@ Les autorisations d'exploitation de carrières délivrées en application du pr�
 schéma.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L112-1
 
 	**Anciens textes**:
 
@@ -32903,6 +32903,11 @@ schéma.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-4 () JORF 2 juillet 2004 en vigueur le 1er juillet 2005
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
 
 	**Cité par**:
 
@@ -32922,10 +32927,6 @@ schéma.
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
-
-	**Cite**:
-
-	  - Code rural L112-1
 
 
 ###### Article L515-4
@@ -38503,7 +38504,8 @@ Loi 2004-809 du 13 août 2004, art. 48 : dispositions transitoires concernant le
 ###### Article L541-14
 
 I. - Chaque département est couvert par un plan départemental ou interdépartemental d'élimination des déchets ménagers et
-autres déchets mentionnés à l'article L. 2224-14 du code général des collectivités territoriales.
+autres déchets mentionnés à l'article L. 2224-14 du code général des collectivités territoriales. L'Ile-de-France est
+couverte par un plan régional.
 
 II. - Pour atteindre les objectifs visés aux articles L. 541-1 et L. 541-24, le plan :
 
@@ -38528,17 +38530,35 @@ propositions de coopération intercommunale.
 IV. - Il prévoit obligatoirement, parmi les priorités qu'il retient, des centres de stockage de déchets ultimes issus du
 traitement des déchets ménagers et assimilés.
 
-V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité de l'Etat. Toutefois, cette compétence est
-transférée, à sa demande, au conseil général.
+V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité du président du conseil général ou, dans la
+région d'Ile-de-France, du président du conseil régional. Les collectivités territoriales ou leurs groupements exerçant la
+compétence d'élimination ou de traitement des déchets et, dans la région d'Ile-de-France, les départements, sont associés à
+son élaboration.
 
 VI. - Il est établi en concertation avec une commission consultative composée de représentants des communes et de leurs
-groupements, du conseil général, de l'Etat, des organismes publics intéressés, des professionnels concernés et des
-associations agréées de protection de l'environnement.
+groupements, du conseil général, de l'Etat, des organismes publics intéressés, des professionnels concernés, des associations
+agréées de protection de l'environnement et des associations agréées de consommateurs ainsi que, dans la région d'Ile-de-
+France, du conseil régional et des conseils généraux et des associations agréées de protection de l'environnement.
 
-VII. - Le projet de plan est soumis pour avis au conseil général, au conseil départemental d'hygiène ainsi qu'aux conseils
-généraux des départements limitrophes. Il est éventuellement modifié pour tenir compte de ces avis.
+VII. - Le projet de plan est soumis pour avis au représentant de l'Etat dans le département, à la commission départementale
+compétente en matière d'environnement, de risques sanitaires et technologiques ainsi qu'aux conseils généraux des
+départements limitrophes. En Ile-de-France, il est soumis pour avis au représentant de l'Etat dans la région ainsi qu'aux
+conseils généraux et aux commissions départementales compétentes en matière d'environnement, de risques sanitaires et
+technologiques  des départements situés sur le territoire de la région. Il peut être modifié pour tenir compte de ces avis,
+qui sont réputés favorables s'ils n'ont pas été formulés dans un délai de trois mois à compter de la réception du projet. Si
+le plan est élaboré par l'Etat, dans les conditions prévues à l'article L. 541-15, l'avis du conseil général et, en Ile-de-
+France, du conseil régional est également sollicité.
 
-VIII. - Le projet de plan est alors soumis à enquête publique, puis approuvé par l'autorité compétente.
+VIII. - Le projet de plan est alors soumis à enquête publique, puis approuvé par délibération du conseil général ou, pour la
+région d'Ile-de-France, par délibération du conseil régional.
+
+**Nota:**
+
+L'article 34-5 de l'ordonnance n° 2004-637 du 1er juillet 2004 a été inséré par l'article 78 XXXII 4° de la loi n° 2004-1343
+du 9 décembre 2004.
+
+L'entrée en vigueur au 1er juillet 2005 est édictée par l'article 34-7 de la même ordonnance, inséré par l'article 78 XXXII
+4° de la loi n° 2004-1343.
 
 **Liens relatifs à cet article**
 
@@ -38584,15 +38604,10 @@ VIII. - Le projet de plan est alors soumis à enquête publique, puis approuvé 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L2224-14 (V)
-	  - Code de l'environnement - art. L541-1 (M)
-	  - Code de l'environnement - art. L541-24 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-5 () JORF 2 juillet 2004 en vigueur le 1er juillet 2005
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
 
 
 ###### Article L541-15
@@ -42179,114 +42194,6 @@ Les dispositions relatives à l'Autorité de contrôle des nuisances aéroportua
 	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
 
 
-##### Sous-section 3 : Commission consultative de l'environnement
-
-###### Article L571-13
-
-I. - L'autorité administrative peut créer, pour tout aérodrome visé à l'article L. 147-2 du code de l'urbanisme, une
-commission consultative de l'environnement. Cette création est de droit lorsque la demande en est faite par une commune dont
-une partie du territoire est couverte par le plan d'exposition au bruit de l'aérodrome. La création est de droit, également,
-pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts (1).
-
-II. - La commission est consultée sur toute question d'importance relative à l'aménagement ou à l'exploitation de l'aérodrome
-qui pourrait avoir une incidence sur les zones affectées par le bruit. Elle peut également, de sa propre initiative, émettre
-des recommandations sur ces questions. Lorsque l'un des aérodromes visés au I de l'article 1609 quatervicies A du code
-général des impôts est concerné, ces recommandations sont transmises à l'Autorité de contrôle des nuisances sonores
-aéroportuaires. La commission consultative de l'environnement coordonne, le cas échéant, la rédaction des documents écrits
-qui formalisent les engagements pris par les différentes parties intéressées à l'exploitation de l'aérodrome en vue d'assurer
-la maîtrise des nuisances sonores liées à cette exploitation.
-
-III. - Notamment pour les chartes de qualité de l'environnement sonore, elle assure le suivi de leur mise en oeuvre. Elle
-peut saisir l'Autorité de contrôle des nuisances sonores aéroportuaires de toute question relative au respect de ces chartes
-et de toute demande d'étude ou d'expertise.
-
-IV. - Les avis de la commission sont motivés et détaillent la position de chacun de ses membres. Ils sont rendus publics.
-
-V. - Pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts, la commission établit un
-rapport annuel rendant compte de son activité. Ce rapport est rendu public.
-
-VI. - Les moyens de fonctionnement de la commission sont mis à sa disposition par l'exploitant de l'aérodrome.
-
-VII. - La commission se réunit au moins une fois par an. Sa réunion est de droit lorsque le tiers de ses membres en fait la
-demande ou le comité permanent.
-
-VIII. - La commission peut créer en son sein un comité permanent représentatif de sa propre composition et qui exerce les
-compétences prévues au II du présent article. La création de ce comité permanent est de droit pour les commissions
-consultatives de l'environnement des aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts.
-
-IX. - La commission ou son comité permanent entend à sa demande toute personne concernée par les nuisances sonores résultant
-des trajectoires de départ, d'attente et d'approche qui ne serait pas représentée au sein de la commission consultative de
-l'environnement.
-
-X. - Le comité permanent constitue la commission consultative mentionnée à l'article L. 571-16. Toutefois, lorsque le comité
-permanent siège en cette qualité, les représentants de l'Etat et du gestionnaire d'aérodrome assistent avec voix délibérative
-à ses réunions, conformément à l'article L. 571-16. Un arrêté conjoint des ministres chargés de l'économie, de l'aviation
-civile et de l'environnement détermine les modalités d'application et la date de mise en oeuvre de cet alinéa, qui entre en
-vigueur, pour chaque commission, à la fin de son mandat en cours à la date du 13 juillet 1999.
-
-XI. - Cette commission comprend :
-
-1° Pour un tiers de ses membres, des représentants des professions aéronautiques ;
-
-2° Pour un tiers, des représentants des collectivités locales intéressées ;
-
-3° Pour un tiers, des représentants des associations de riverains de l'aérodrome et des associations de protection de
-l'environnement et du cadre de vie concernées par l'environnement aéroportuaire.
-
-XII. - Elle est présidée par le représentant de l'Etat. Les représentants des administrations intéressées assistent à ses
-réunions.
-
-XIII. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
-
-**Nota:**
-
-NOTA : (1) Une erreur matérielle s'est glissée dans la rédaction de l'article 19 III (2, a) de la loi n° 2003-1312 du 30
-décembre 2003. La référence faite à l'article 1609 quatervicies A du code général des douanes doit être lue comme "code
-général des impôts".
-
-NOTA : La date d'entrée en vigueur de l'article 31 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1999-07-13
-	  - CGI 1609 quatervicies A
-	  - Code de l'urbanisme - art. L147-2 (V)
-	  - Code de l'environnement - art. L571-16 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (M)
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°87-341 du 21 mai 1987 - art. 6 (Ab)
-	  - Arrêté du 24 août 2001 - art. 1 (Ab)
-	  - Code des transports - art. L6361-5 (V)
-	  - Code des transports - art. L6361-7 (V)
-	  - Code des transports - art. L6783-11 (V)
-	  - Code de l'aviation civile - art. L227-3 (VT)
-	  - Code de l'aviation civile - art. L227-5 (VT)
-	  - Code de l'environnement - art. L571-13 (V)
-	  - Code de l'environnement - art. R571-70 (V)
-	  - Code de l'environnement - art. R571-71 (V)
-	  - Code de l'environnement - art. R571-73 (V)
-	  - Code de l'environnement - art. R571-78 (V)
-	  - Code de l'environnement - art. R571-81 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi - art. 19 (V) JORF 31 décembre 2003
-	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
-
-
 ##### Sous-section 4 : Aide aux riverains
 
 ###### Article L571-14
@@ -43138,6 +43045,99 @@ en oeuvre des mesures qu'ils prévoient ;
 	**Créé par**:
 
 	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+
+
+### Titre VII : Prévention des nuisances acoustiques et visuelles
+
+#### Chapitre Ier : Lutte contre le bruit
+
+##### Section 4 : Bruit des transports aériens
+
+##### Sous-section 3 : Commission consultative des nuisances sonores aéroportuaires
+
+###### Article L571-13
+
+I. - L'autorité administrative peut créer, pour tout aérodrome visé à l'article L. 147-2 du code de l'urbanisme, une
+commission consultative des nuisances sonores aéroportuaires. Cette création est de droit lorsque la demande en est faite par
+une commune dont une partie du territoire est couverte par le plan d'exposition au bruit de l'aérodrome. La création est de
+droit, également, pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts (1).
+
+II. - La commission est consultée sur toute question d'importance relative à l'aménagement ou à l'exploitation de l'aérodrome
+qui pourrait avoir une incidence sur les zones affectées par le bruit. Elle peut également, de sa propre initiative, émettre
+des recommandations sur ces questions. Lorsque l'un des aérodromes visés au I de l'article 1609 quatervicies A du code
+général des impôts (1) est concerné, ces recommandations sont transmises à l'Autorité de contrôle des nuisances sonores
+aéroportuaires. La commission consultative de l'environnement coordonne, le cas échéant, la rédaction des documents écrits
+qui formalisent les engagements pris par les différentes parties intéressées à l'exploitation de l'aérodrome en vue d'assurer
+la maîtrise des nuisances sonores liées à cette exploitation.
+
+III. - Notamment pour les chartes de qualité de l'environnement sonore, elle assure le suivi de leur mise en oeuvre. Elle
+peut saisir l'Autorité de contrôle des nuisances sonores aéroportuaires de toute question relative au respect de ces chartes
+et de toute demande d'étude ou d'expertise.
+
+IV., V., -  Paragraphes abrogés.
+
+VI. - Les moyens de fonctionnement de la commission sont mis à sa disposition par l'exploitant de l'aérodrome.
+
+VII., VIII., IX., X. - Paragraphes abrogés.
+
+XI. - Cette commission comprend :
+
+1° Pour un tiers de ses membres, des représentants des professions aéronautiques ;
+
+2° Pour un tiers, des représentants des collectivités locales intéressées ;
+
+3° Pour un tiers, des représentants des associations de riverains de l'aérodrome et des associations de protection de
+l'environnement et du cadre de vie concernées par l'environnement aéroportuaire.
+
+XII. - Elle est présidée par le représentant de l'Etat.
+
+XIII. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Nota:**
+
+NOTA : (1) Une erreur matérielle s'est glissée dans la rédaction de l'article 19 III (2, a) de la loi n° 2003-1312 du 30
+décembre 2003. La référence faite à l'article 1609 quatervicies A du code général des douanes doit être lue comme "code
+général des impôts".
+
+NOTA : La date d'entrée en vigueur de l'article 31 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 quatervicies A
+	  - Code de l'urbanisme - art. L147-2 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (M)
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°87-341 du 21 mai 1987 - art. 6 (Ab)
+	  - Arrêté du 24 août 2001 - art. 1 (Ab)
+	  - Code des transports - art. L6361-5 (V)
+	  - Code des transports - art. L6361-7 (V)
+	  - Code des transports - art. L6783-11 (V)
+	  - Code de l'aviation civile - art. L227-3 (VT)
+	  - Code de l'aviation civile - art. L227-5 (VT)
+	  - Code de l'environnement - art. L571-13 (V)
+	  - Code de l'environnement - art. R571-70 (V)
+	  - Code de l'environnement - art. R571-71 (V)
+	  - Code de l'environnement - art. R571-73 (V)
+	  - Code de l'environnement - art. R571-78 (V)
+	  - Code de l'environnement - art. R571-81 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-637 2004-07-01 art. 31 I, II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 31 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 
 ### Titre VIII : Protection du cadre de vie
