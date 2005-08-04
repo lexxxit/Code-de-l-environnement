@@ -1,6 +1,8 @@
 # Article Annexe IV à l'article D432-4
 
-Bassin de la Seine
+**Bassin de la Seine
+
+**
 
 Département des Ardennes
 
@@ -27,7 +29,9 @@ Département de Seine-et-Marne
 La Voulzie, le Betz, le Drognon, le Durteint, le Grand Morin, le Loing, le Lunain, le Petit Morin, le Vannetin, l'Aubetin,
 l'Ecole, l'Orvain, l'Orvanne.
 
-Cours d'eau normands
+**Cours d'eau normands
+
+**
 
 Département de l'Eure
 
@@ -85,13 +89,17 @@ Département de la Somme
 
 La Bresle.
 
-Bassin Artois-Picardie
+**Bassin Artois-Picardie
+
+**
 
 Département du Pas-de-Calais
 
 Le Baillon, le Bras de Bronne, la Course, la Crésquoise, l'Embryenne, la Planquette.
 
-Bassin de la Loire
+**Bassin de la Loire
+
+**
 
 Département de l'Allier
 
@@ -119,7 +127,9 @@ d'Ortel.
 La Varenne et ses affluents : l'Halouze ; le ruisseau de Mousse ; l'Andainette ; le ruisseau de Bazeille ; la Pisse ;
 l'Egrenne ; le ruisseau de Choisel ; la Sonce.
 
-Cours d'eau côtiers au sud de la Loire
+**Cours d'eau côtiers au sud de la Loire
+
+**
 
 Département de la Charente
 
@@ -149,7 +159,7 @@ Le Nauzon et ses affluents.
 
 La Tardoire et ses affluents.
 
-Cours d'eau bretons
+**Cours d'eau bretons**
 
 Département du Morbihan
 
@@ -198,6 +208,6 @@ Le Naïc en aval du pont de la D 177 (commune de Lanvenegen).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6

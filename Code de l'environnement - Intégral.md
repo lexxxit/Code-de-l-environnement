@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-08-05 00:00:01 +0200
 
 # Partie législative
 
@@ -56976,89 +56976,6 @@ et l'étude de leur impact.
 
 ## Livre II : Protection de la nature
 
-### Titre Ier : Protection de la faune et de la flore
-
-#### Chapitre IV : Conservation des habitats naturels, de la faune et de flore sauvages
-
-##### Section 2 : Sites Natura 2000
-
-##### Sous-section 5 : Dispositions relatives à l'évaluation des incidences des programmes et projets soumis à autorisation ou approbation
-
-###### Article R*214-34
-
-Les programmes ou projets de travaux, d'ouvrages ou d'aménagements mentionnés à l'article L. 414-4 du code de l'environnement
-font l'objet d'une évaluation de leurs incidences éventuelles au regard des objectifs de conservation des sites Natura 2000
-qu'ils sont susceptibles d'affecter de façon notable, dans les cas et selon les modalités suivants :
-
-1. S'agissant des programmes ou projets situés à l'intérieur du périmètre d'un site Natura 2000 :
-
-a) S'ils sont soumis à autorisation au titre des articles L. 214-1 à L. 214-6 du code de l'environnement et donnent lieu à ce
-titre à l'établissement du document d'incidences prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars 1993 modifié ;
-
-b) S'ils relèvent d'un régime d'autorisation au titre des parcs nationaux, des réserves naturelles ou des sites classés,
-prévus respectivement par les articles R. 241-36, L. 332-9, R. 242-19 et L. 341-10 du code de l'environnement et l'article
-1er du décret n° 88-1124 du 15 décembre 1988 modifié ;
-
-c) S'ils relèvent d'un autre régime d'autorisation ou d'approbation administrative et doivent faire l'objet d'une étude ou
-d'une notice d'impact au titre de l'article L. 122-1 et suivants du code de l'environnement et du décret n° 77-1141 du 12
-octobre 1977 modifié ;
-
-d) Si, bien que dispensés d'une étude ou d'une notice d'impact par application des articles 3 et 4 du décret n° 77-1141 du 12
-octobre 1977 modifié, ils relèvent d'un autre régime d'autorisation ou d'approbation et appartiennent à l'une des catégories
-figurant sur une liste arrêtée par le ou les préfets des départements concernés ou, le cas échéant, par l'autorité militaire
-compétente. Cette liste est arrêtée pour chaque site ou pour un ensemble de sites, en fonction des exigences écologiques
-spécifiques aux habitats et aux espèces pour lesquels le ou les sites ont été désignés. Elle distingue les projets de
-travaux, d'ouvrages ou d'aménagements des programmes de travaux, d'ouvrages ou d'aménagements. Pour ces derniers, une
-évaluation est conduite selon la procédure prévue aux articles L. 122-4 et suivants. Elle est affichée dans chacune des
-communes concernées, publiée au Recueil des actes administratifs ainsi que dans un journal diffusé dans le département.
-
-Dans tous les cas, l'évaluation porte également, le cas échéant, sur l'incidence éventuelle du projet sur d'autres sites
-Natura 2000 susceptibles d'être affectés de façon notable par ce programme ou projet, compte tenu de la distance, de la
-topographie, de l'hydrographie, du fonctionnement des écosystèmes, de la nature et de l'importance du programme ou du projet,
-des caractéristiques du ou des sites et de leurs objectifs de conservation.
-
-2. S'agissant des programmes ou projets situés en dehors du périmètre d'un site Natura 2000 : si un programme ou projet,
-rentrant dans les cas prévus en a et au c du 1 ci-dessus, est susceptible d'affecter de façon notable un ou plusieurs sites
-Natura 2000, compte tenu de la distance, de la topographie, de l'hydrographie, du fonctionnement des écosystèmes, de la
-nature et de l'importance du programme ou du projet, des caractéristiques du ou des sites et de leurs objectifs de
-conservation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural R214-34
-	  - Décret n°93-742 du 29 mars 1993 - art. 29-2 (Ab)
-	  - Code rural - art. R*214-34 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2005-613 2005-06-27 art. 9 I JORF 29 mai 2005
-
-	**Cite**:
-
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 4 (Ab)
-	  - Décret n°88-1124 du 15 décembre 1988 - art. 1 ()
-	  - Décret n°93-742 1993-03-29 art. 2
-	  - Code de l'environnement - art. L122-1 (M)
-	  - Code de l'environnement - art. L122-4 (V)
-	  - Code de l'environnement - art. L332-9 (M)
-	  - Code de l'environnement - art. L414-4 (M)
-	  - Code de l'environnement L414-4, L214-1 à L214-6, R241-36, L332-9, L122-1, R242-19, L122-4
-
-	**Codifié par**:
-
-	  - Décret n°2003-768 2003-08-01 JORF 7 août 2003
-
-	**Cité par**:
-
-	  - Décret n°2005-613 du 27 mai 2005 - art. 4 (Ab)
-	  - Code de l'environnement - art. R*214-25 (Ab)
-	  - Code de l'environnement - art. R*214-35 (Ab)
-	  - Code de l'environnement - art. R*214-37 (Ab)
-
-
 ### Titre VI : Dispositions particulières aux départements d'outre-mer, à la collectivité territoriale de Saint-Pierre-et-Miquelon, aux Terres australes et antarctiques françaises, à la collectivité départementale de Mayotte et à la Polynésie française
 
 #### Chapitre II : Dispositions particulières aux Terres australes et antarctiques françaises
@@ -80544,17 +80461,13 @@ annexes I à VII du présent article.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L432-6 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1904-08-03 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Code de l'environnement - art. L432-6 (V)
 
 
 ##### Section 4 : Contrôle des peuplements
@@ -87049,18 +86962,517 @@ Le gave d'Arrens, en aval du barrage du Tech.
 
 ###### Article Annexe I à l'article R432-3
 
-Annexe non reproduite.
+Bassin de la Seine
+
+<table>
+  <tbody>
+    <tr>
+      <td width="132">
+
+DÉPARTEMENT
+
+</td>
+      <td width="132">
+
+COURS D'EAU
+
+</td>
+      <td width="321">
+
+PARTIES À CLASSER
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="132" valign="top">
+
+Aisne
+
+</td>
+      <td width="132" valign="top">
+
+La Marne.
+
+</td>
+      <td valign="top" width="321">
+
+Tout le parcours dans le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+L'Aisne.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+L'Oise.
+
+</td>
+      <td width="321" valign="top">
+
+Depuis Beautor jusqu'à la limite du département de l'Oise.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top" rowspan="4">
+
+Ardennes
+
+</td>
+      <td width="132" valign="top">
+
+La Suippe.
+
+</td>
+      <td valign="top" width="321">
+
+Tout le parcours dans le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+L'Aisne.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+L'Aire.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+La Retourne.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+Eure
+
+</td>
+      <td valign="top" width="132">
+
+La Seine.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="6" width="132" valign="top">
+
+Marne
+
+</td>
+      <td valign="top" width="132">
+
+La Marne.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+L'Aisne.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+La Coole.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+L'Ornain.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+La Saulx.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+La Somme-Soude.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" rowspan="2" valign="top">
+
+Oise
+
+</td>
+      <td valign="top" width="132">
+
+L'Aisne.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+L'Oise.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+Paris
+
+</td>
+      <td valign="top" width="132">
+
+La Seine.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+Hauts-de-Seine
+
+</td>
+      <td width="132" valign="top">
+
+La Seine.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top" rowspan="2">
+
+Seine-Saint-Denis
+
+</td>
+      <td valign="top" width="132">
+
+La Seine.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+La Marne.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" valign="top" width="132">
+
+Val-de-Marne
+
+</td>
+      <td width="132" valign="top">
+
+La Seine.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+La Marne.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="132" valign="top">
+
+Seine-et-Marne
+
+</td>
+      <td width="132" valign="top">
+
+La Seine.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+La Marne.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+L'Yonne.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132" rowspan="2">
+
+Yvelines
+
+</td>
+      <td width="132" valign="top">
+
+La Seine.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+L'Oise.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td width="132" valign="top">
+
+Essonne
+
+</td>
+      <td valign="top" width="132">
+
+La Seine.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="132" valign="top">
+
+Val-d'Oise
+
+</td>
+      <td valign="top" width="132">
+
+La Seine.
+
+</td>
+      <td valign="top" width="321">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+L'Oise.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+Seine-Maritime
+
+</td>
+      <td width="132" valign="top">
+
+La Seine.
+
+</td>
+      <td width="321" valign="top">
+
+Tout le parcours dans le département jusqu'à la limite de salure des eaux.
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="132" valign="top">
+
+Yonne
+
+</td>
+      <td valign="top" width="132">
+
+L'Yonne.
+
+</td>
+      <td width="321" valign="top">
+
+Tout le parcours dans le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="132">
+
+La Cure.
+
+</td>
+      <td width="321" valign="top">
+
+Idem.
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Décret n°2005-935 du 2 août 2005 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6
 
 
 ###### Article Annexe II à l'article D432-4
 
-Bassin du Rhône
+**Bassin du Rhône
+
+**
 
 Département des Alpes-de-Haute-Provence
 
@@ -87431,17 +87843,17 @@ Le Vidourle.
 
 L'Hérault en aval de la commune de Saint-Guilhem-le-Désert et ses affluents suivants :
 
--    la Vis ;
+- la Vis ;
 
--    la Buège ;
+- la Buège ;
 
--    la Lergue ;
+- la Lergue ;
 
--    les affluents de la Lergue en amont de Lodève ;
+- les affluents de la Lergue en amont de Lodève ;
 
--    le ruisseau de Roque ;
+- le ruisseau de Roque ;
 
--    la Laurounet.
+- la Laurounet.
 
 L'Orb en amont de sa confluence avec l'Arles et en aval de sa confluence avec le Ronnel et ses affluents suivants :
 
@@ -87471,7 +87883,9 @@ L'Aude et ses affluents suivants :
 
 - le ruisseau d'Authèze.
 
-Bassin de la Garonne
+**Bassin de la Garonne
+
+**
 
 Département de la Haute-Garonne
 
@@ -87483,9 +87897,9 @@ La Garonne.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6
 
 
 ###### Article Annexe II à l'article R123-1
@@ -89030,7 +89444,9 @@ Idem.
 
 ###### Article Annexe III à l'article D432-4
 
-Bassin du Rhin
+**Bassin du Rhin
+
+**
 
 Département de Meurthe-et-Moselle
 
@@ -89100,7 +89516,9 @@ La Valdange.
 
 La Plaine.
 
-Bassin de la Meuse
+**Bassin de la Meuse
+
+**
 
 Département des Ardennes
 
@@ -89144,7 +89562,7 @@ La Crusnes.
 
 La Meuse (canalisée et "sauvage").
 
-Bassin de la Loire
+**Bassin de la Loire**
 
 Département de la Haute-Loire
 
@@ -89178,9 +89596,9 @@ Le Lignon du Velay, en aval du barrage de la Chapelette.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6
 
 
 ###### Article Annexe III à l'article R123-1
@@ -89223,7 +89641,9 @@ Canche, sur le territoire des communes de Hesdin et Huby-Saint-Leu.
 
 ###### Article Annexe IV à l'article D432-4
 
-Bassin de la Seine
+**Bassin de la Seine
+
+**
 
 Département des Ardennes
 
@@ -89250,7 +89670,9 @@ Département de Seine-et-Marne
 La Voulzie, le Betz, le Drognon, le Durteint, le Grand Morin, le Loing, le Lunain, le Petit Morin, le Vannetin, l'Aubetin,
 l'Ecole, l'Orvain, l'Orvanne.
 
-Cours d'eau normands
+**Cours d'eau normands
+
+**
 
 Département de l'Eure
 
@@ -89308,13 +89730,17 @@ Département de la Somme
 
 La Bresle.
 
-Bassin Artois-Picardie
+**Bassin Artois-Picardie
+
+**
 
 Département du Pas-de-Calais
 
 Le Baillon, le Bras de Bronne, la Course, la Crésquoise, l'Embryenne, la Planquette.
 
-Bassin de la Loire
+**Bassin de la Loire
+
+**
 
 Département de l'Allier
 
@@ -89342,7 +89768,9 @@ d'Ortel.
 La Varenne et ses affluents : l'Halouze ; le ruisseau de Mousse ; l'Andainette ; le ruisseau de Bazeille ; la Pisse ;
 l'Egrenne ; le ruisseau de Choisel ; la Sonce.
 
-Cours d'eau côtiers au sud de la Loire
+**Cours d'eau côtiers au sud de la Loire
+
+**
 
 Département de la Charente
 
@@ -89372,7 +89800,7 @@ Le Nauzon et ses affluents.
 
 La Tardoire et ses affluents.
 
-Cours d'eau bretons
+**Cours d'eau bretons**
 
 Département du Morbihan
 
@@ -89421,9 +89849,9 @@ Le Naïc en aval du pont de la D 177 (commune de Lanvenegen).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6
 
 
 ###### Article Annexe IV à l'article R432-3

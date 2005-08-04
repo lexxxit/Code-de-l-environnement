@@ -1,6 +1,8 @@
 # Article Annexe III à l'article D432-4
 
-Bassin du Rhin
+**Bassin du Rhin
+
+**
 
 Département de Meurthe-et-Moselle
 
@@ -70,7 +72,9 @@ La Valdange.
 
 La Plaine.
 
-Bassin de la Meuse
+**Bassin de la Meuse
+
+**
 
 Département des Ardennes
 
@@ -114,7 +118,7 @@ La Crusnes.
 
 La Meuse (canalisée et "sauvage").
 
-Bassin de la Loire
+**Bassin de la Loire**
 
 Département de la Haute-Loire
 
@@ -148,6 +152,6 @@ Le Lignon du Velay, en aval du barrage de la Chapelette.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6

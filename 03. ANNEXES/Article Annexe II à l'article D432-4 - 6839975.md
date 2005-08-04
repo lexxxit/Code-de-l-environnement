@@ -1,6 +1,8 @@
 # Article Annexe II à l'article D432-4
 
-Bassin du Rhône
+**Bassin du Rhône
+
+**
 
 Département des Alpes-de-Haute-Provence
 
@@ -371,17 +373,17 @@ Le Vidourle.
 
 L'Hérault en aval de la commune de Saint-Guilhem-le-Désert et ses affluents suivants :
 
--    la Vis ;
+- la Vis ;
 
--    la Buège ;
+- la Buège ;
 
--    la Lergue ;
+- la Lergue ;
 
--    les affluents de la Lergue en amont de Lodève ;
+- les affluents de la Lergue en amont de Lodève ;
 
--    le ruisseau de Roque ;
+- le ruisseau de Roque ;
 
--    la Laurounet.
+- la Laurounet.
 
 L'Orb en amont de sa confluence avec l'Arles et en aval de sa confluence avec le Ronnel et ses affluents suivants :
 
@@ -411,7 +413,9 @@ L'Aude et ses affluents suivants :
 
 - le ruisseau d'Authèze.
 
-Bassin de la Garonne
+**Bassin de la Garonne
+
+**
 
 Département de la Haute-Garonne
 
@@ -423,6 +427,6 @@ La Garonne.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6
