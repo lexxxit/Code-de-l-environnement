@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-09-02
+Version Consolidée au 2005-09-09
 
 # Partie législative
 
@@ -32886,12 +32886,16 @@ après avis conforme de la commission départementale compétente en matière de
 L'autorisation est renouvelable dans les formes prévues à l'article L. 512-2.
 
 Toute autorisation d'exploitation de carrières est soumise, dans les vignobles classés appellation d'origine contrôlée, vin
-délimité de qualité supérieure, et dans les aires de production de vins de pays, à l'avis du ministre chargé de
-l'agriculture, après avis de l'Institut national des appellations d'origine et de l'Office national interprofessionnel des
-vins.
+délimité de qualité supérieure, et dans les aires de production de vins de pays, à l'avis de l'Institut national des
+appellations d'origine et de l'Office national interprofessionnel des vins.
 
 La durée nécessaire à la réalisation des diagnostics et des opérations de fouilles d'archéologie préventive interrompt la
 durée de l'autorisation administrative d'exploitation de carrière.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-1129 du 8 septembre 2005 : Les dispositions de l'article 1er de l'ordonnance 2005-1129 sont
+applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -32907,8 +32911,7 @@ durée de l'autorisation administrative d'exploitation de carrière.
 	**Modifié par**:
 
 	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-4 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 42 () JORF 24 février 2005
+	  - Ordonnance n°2005-1129 du 8 septembre 2005 - art. 1 () JORF 9 septembre 2005
 
 	**Cite**:
 
@@ -33598,7 +33601,12 @@ comptabilité publique dans leur rédaction en vigueur à la date du 13 juillet 
 ###### Article L515-14
 
 Les décisions relatives aux installations d'élimination des déchets prises en application du présent titre doivent comporter
-les mesures prévues aux articles L. 541-25 et L. 541-26.
+les mesures prévues à l'article L. 516-1.
+
+**Nota:**
+
+Ordonnance 2005-1129 du 8 septembre 2005 : Les dispositions de l'article 2 II de l'ordonnance 2005-1129 sont applicables à
+Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -33612,14 +33620,13 @@ les mesures prévues aux articles L. 541-25 et L. 541-26.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+	  - Ordonnance n°2005-1129 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L541-25 (V)
-	  - Code de l'environnement - art. L541-26 (M)
+	  - Code de l'environnement - art. L516-1 (VT)
 
 
 ##### Section 6 : Installations soumises à un plan de prévention des risques technologiques
@@ -38808,14 +38815,19 @@ souterrain de déchets ultimes ne peuvent être entrepris que :
 
 1° Soit par le propriétaire du sol ou avec son consentement, après déclaration au préfet ;
 
-2° Soit, à défaut de ce consentement, par autorisation conjointe des ministres chargés des mines et de l'environnement, après
-que le propriétaire a été invité à présenter ses observations, dans les conditions fixées par décret en Conseil d'Etat.
+2° Soit, à défaut de ce consentement, par autorisation de l'autorité administrative, après que le propriétaire a été invité à
+présenter ses observations, dans les conditions fixées par décret en Conseil d'Etat.
 
 II. - Cette autorisation de recherches confère à son titulaire, à l'intérieur d'un périmètre défini par l'arrêté, le droit
 d'effectuer des travaux de recherches à l'exclusion de toute autre personne, y compris le propriétaire du sol.
 
 III. - Cette autorisation fait l'objet d'une concertation préalable, permettant à la population, aux élus et aux associations
 de protection de l'environnement concernées de présenter leurs observations.
+
+**Nota:**
+
+Ordonnance 2005-1129 du 8 septembre 2005 : Les dispositions de l'article 3 de l'ordonnance 2005-1129 seront applicables à
+Mayotte à compter du 1er janvier 2006.
 
 **Liens relatifs à cet article**
 
@@ -38835,10 +38847,9 @@ de protection de l'environnement concernées de présenter leurs observations.
 	  - Code de l'environnement - art. L541-20 (V)
 	  - Code de l'urbanisme - art. R*425-24 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L541-16 (V)
-	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
+	  - Ordonnance n°2005-1129 du 8 septembre 2005 - art. 3 () JORF 9 septembre 2005
 
 
 ###### Article L541-18
@@ -39312,45 +39323,6 @@ matériaux ou sur l'obligation de se conformer à certains modes de fabrication.
 	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-###### Article L541-32
-
-Sous réserve des conventions internationales et des dispositions relatives à la répression des fraudes, le Gouvernement peut,
-en vue de contribuer à la sauvegarde de l'environnement ou de faire face à une situation de pénurie, fixer la proportion
-minimale de matériaux ou éléments récupérés qui doit être respectée pour la fabrication d'un produit ou d'une catégorie de
-produits.
-
-Les producteurs et importateurs intéressés peuvent se lier par une convention ayant pour objet d'assurer le respect global de
-cette proportion, appréciée au regard de la quantité totale dudit produit, ou de ladite catégorie de produits, fabriquée sur
-le territoire national ou importée.
-
-L'utilisation d'une proportion minimale de matériaux ou éléments récupérés peut être imposée par décret en Conseil d'Etat aux
-fabricants et, le cas échéant, aux importateurs des produits visés qui ne sont pas parties à cette convention.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-633 du 15 juillet 1975 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1129 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L541-46 (V)
-	  - Code de l'environnement - art. L655-1 (M)
-
-
 ###### Article L541-33
 
 En ce qui concerne les catégories de produits précisées par décret en Conseil d'Etat, est réputée non écrite toute
@@ -39431,44 +39403,6 @@ précédent un an après la publication du décret pris en application dudit ali
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
-
-
-###### Article L541-36
-
-Des plans approuvés par décret en Conseil d'Etat après enquête publique peuvent définir, dans les limites territoriales
-qu'ils précisent, les conditions dans lesquelles il doit être procédé à la récupération des matériaux, éléments et,
-éventuellement, formes d'énergie réutilisables. Dans les zones où un tel plan est applicable, les conditions visées à
-l'article L. 541-35 sont fixées compte tenu des dispositions de ce plan, et notamment des objectifs qu'il détermine en vue
-d'assurer un rendement optimal aux installations publiques et privées de récupération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-633 du 15 juillet 1975 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1129 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L541-35 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L541-46 (M)
-	  - Code de l'environnement - art. L655-1 (M)
-	  - Code de l'environnement - art. L655-6 (Ab)
 
 
 ###### Article L541-37
@@ -39877,7 +39811,7 @@ l'article L. 541-22 ;
 quantités, les conditions techniques et financières de prise en charge des déchets ou matériaux et les procédés de traitement
 mis en oeuvre fixées en application des articles L. 541-11, L. 541-22, L. 541-24, L. 541-35 et L. 541-36 ;
 
-9° Méconnaître les prescriptions des articles L. 541-31 et L. 541-32 ;
+9° Méconnaître les prescriptions de l'article L. 541-31 ;
 
 10° Mettre obstacle à l'accomplissement des contrôles ou à l'exercice des fonctions des agents prévus à l'article L. 541-44 ;
 
@@ -39932,7 +39866,7 @@ conditions prévues par l'article 131-35 du code pénal.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 3 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-1129 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
 
 	**Cite**:
 
@@ -39942,7 +39876,6 @@ conditions prévues par l'article 131-35 du code pénal.
 	  - Code de l'environnement - art. L541-22 (V)
 	  - Code de l'environnement - art. L541-24 (V)
 	  - Code de l'environnement - art. L541-31 (V)
-	  - Code de l'environnement - art. L541-32 (Ab)
 	  - Code de l'environnement - art. L541-35 (V)
 	  - Code de l'environnement - art. L541-36 (Ab)
 	  - Code de l'environnement - art. L541-40 (V)
