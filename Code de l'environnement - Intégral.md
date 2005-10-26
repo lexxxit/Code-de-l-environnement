@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-10-01
+Version Consolidée au 2005-10-27
 
 # Partie législative
 
@@ -633,7 +633,8 @@ une décision d'approbation, ainsi que les documents d'urbanisme, doivent respec
 
 Les études préalables à la réalisation d'aménagements ou d'ouvrages qui, par l'importance de leurs dimensions ou leurs
 incidences sur le milieu naturel, peuvent porter atteinte à ce dernier, doivent comporter une étude d'impact permettant d'en
-apprécier les conséquences.
+apprécier les conséquences. Cette étude d'impact est transmise pour avis à l'autorité administrative de l'Etat compétente en
+matière d'environnement par l'autorité chargée d'autoriser ou d'approuver ces aménagements ou ces ouvrages.
 
 Sans préjudice de l'application des dispositions des articles L. 11-1-1 du code de l'expropriation pour cause d'utilité
 publique et L. 126-1 du présent code relatives à la motivation des déclarations d'utilité publique et des déclarations de
@@ -802,16 +803,11 @@ les informations suivantes :
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-489 2004-06-03 art. 1 I, II JORF 5 juin 2004
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 1 () JORF 27 octobre 2005
 
 	**Cite**:
 
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-1-1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 
 ###### Article L122-2
@@ -878,11 +874,10 @@ soumis à la procédure de l'étude d'impact ;
 5° Les conditions dans lesquelles le ministre chargé de l'environnement peut se saisir ou être saisi, pour avis, de toute
 étude d'impact.
 
+III. - Il désigne l'autorité administrative saisie pour avis en application du deuxième alinéa de l'article L. 122-1 et
+détermine les conditions dans lesquelles cet avis est élaboré et mis à la disposition du public.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Anciens textes**:
 
@@ -896,8 +891,7 @@ soumis à la procédure de l'étude d'impact ;
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-489 2004-06-03 art. 1 I, II JORF 5 juin 2004
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 1 () JORF 27 octobre 2005
 
 	**Cité par**:
 
@@ -914,6 +908,10 @@ soumis à la procédure de l'étude d'impact ;
 	  - Code de l'urbanisme - art. L122-5-1 (VT)
 	  - Code de l'urbanisme - art. L122-5-2 (VT)
 	  - Code des ports maritimes - art. R*115-4 (M)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-1 (M)
 
 
 ##### Section 2 : Evaluation de certains plans et documents ayant une incidence notable sur l'environnement
@@ -1978,30 +1976,15 @@ l'enquête, sont fixées par des décrets en Conseil d'Etat.
 	  - Code de justice administrative - art. L554-12 (V)
 
 
-#### Chapitre IV : Liberté d'accès à l'information relative à l'environnement
+#### Chapitre IV : Droit d'accès à l'information relative à l'environnement
 
 ###### Article L124-1
 
-I. - L'accès à l'information relative à l'environnement détenue par les autorités publiques ayant des responsabilités en
-matière d'environnement s'exerce dans les conditions et selon les modalités définies au titre Ier de la loi n° 78-753 du 17
-juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses
-dispositions d'ordre administratif, social et fiscal, sous réserve des dispositions ci-après.
-
-II. - Ne sont pas communicables les informations relatives à l'environnement dont la consultation ou la communication
-porterait atteinte aux intérêts protégés énumérés aux sept premiers tirets du I de l'article 6 de la loi susmentionnée du 17
-juillet 1978.
-
-L'autorité peut refuser de communiquer une information relative à l'environnement dont la consultation ou la communication
-porterait atteinte :
-
-1° A l'environnement auquel elle se rapporte ;
-
-2° Aux intérêts d'un tiers qui a fourni l'information demandée sans y avoir été contraint par une disposition législative,
-réglementaire ou par un acte d'une autorité administrative, et qui ne consent pas à sa divulgation.
-
-III. - Lorsque la demande d'accès porte sur une information relative à l'environnement qui contient des données relatives aux
-intérêts protégés en application du II et qu'il est possible de retirer ces données, la partie de l'information non couverte
-par les secrets protégés est communiquée au demandeur.
+Le droit de toute personne d'accéder aux informations relatives à l'environnement détenues, reçues ou établies par les
+autorités publiques mentionnées à l'article L. 124-3 ou pour leur compte s'exerce dans les conditions définies par les
+dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
+l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, sous réserve des dispositions
+du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -2011,7 +1994,8 @@ par les secrets protégés est communiquée au demandeur.
 
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (M)
+	  - Loi n°78-753 du 17 juillet 1978 (V)
+	  - Code de l'environnement - art. L124-3 (V)
 
 	**Cité par**:
 
@@ -2045,16 +2029,336 @@ par les secrets protégés est communiquée au demandeur.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 9 () JORF 14 avril 2001
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 2 () JORF 27 octobre 2005
 
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L125-1 (V)
 
-	**Liens**:
 
-	  - TXT_SOURCE: Directive 79-409 CEE 1979-04-02
-	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
+###### Article L124-2
+
+Est considérée comme information relative à l'environnement au sens du présent chapitre toute information disponible, quel
+qu'en soit le support, qui a pour objet :
+
+1° L'état des éléments de l'environnement, notamment l'air, l'atmosphère, l'eau, le sol, les terres, les paysages, les sites
+naturels, les zones côtières ou marines et la diversité biologique, ainsi que les interactions entre ces éléments ;
+
+2° Les décisions, les activités et les facteurs, notamment les substances, l'énergie, le bruit, les rayonnements, les
+déchets, les émissions, les déversements et autres rejets, susceptibles d'avoir des incidences sur l'état des éléments visés
+au 1° ;
+
+3° L'état de la santé humaine, la sécurité et les conditions de vie des personnes, les constructions et le patrimoine
+culturel, dans la mesure où ils sont ou peuvent être altérés par des éléments de l'environnement, des décisions, des
+activités ou des facteurs mentionnés ci-dessus ;
+
+4° Les analyses des coûts et avantages ainsi que les hypothèses économiques utilisées dans le cadre des décisions et
+activités visées au 2° ;
+
+5° Les rapports établis par les autorités publiques ou pour leur compte sur l'application des dispositions législatives et
+réglementaires relatives à l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°87-565 du 22 juillet 1987 - art. 21 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°88-622 du 6 mai 1988 - art. 9 (Ab)
+	  - Code de l'environnement - art. L124-5 (V)
+	  - Code de l'environnement - art. L213-16 (V)
+	  - Code de l'environnement - art. R124-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 2 () JORF 27 octobre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L125-2 (V)
+
+
+###### Article L124-3
+
+Toute personne qui en fait la demande reçoit communication des informations relatives à l'environnement détenues par :
+
+1° L'Etat, les collectivités territoriales et leurs groupements, les établissements publics ;
+
+2° Les personnes chargées d'une mission de service public en rapport avec l'environnement, dans la mesure où ces informations
+concernent l'exercice de cette mission.
+
+Les organismes ou institutions agissant dans l'exercice de pouvoirs juridictionnels ou législatifs ne sont pas soumis aux
+dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-654 du 13 juillet 1992 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 2 () JORF 27 octobre 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L124-1 (V)
+	  - Code de l'environnement - art. L124-8 (V)
+	  - Code de l'environnement - art. L127-1 (V)
+	  - Code de l'environnement - art. L531-1 (M)
+	  - Code de l'environnement - art. L531-2 (M)
+	  - Code de l'environnement - art. L536-1 (M)
+	  - Code de l'environnement - art. R124-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L125-3 (V)
+
+
+###### Article L124-4
+
+I.-Après avoir apprécié l'intérêt d'une communication, l'autorité publique peut rejeter la demande d'une information relative
+à l'environnement dont la consultation ou la communication porte atteinte : 
+
+1° Aux intérêts mentionnés à l'article 6 de la loi n° 78-753 du 17 juillet 1978 précitée, à l'exception de ceux visés aux
+sixième et dernier alinéas du I de cet article ; 
+
+2° A la protection de l'environnement auquel elle se rapporte ; 
+
+3° Aux intérêts de la personne physique ayant fourni, sans y être contrainte par une disposition législative ou réglementaire
+ou par un acte d'une autorité administrative ou juridictionnelle, l'information demandée sans consentir à sa divulgation ; 
+
+4° A la protection des renseignements prévue par l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la
+coordination et le secret en matière de statistiques. 
+
+II.-Sous réserve des dispositions du II de l'article L. 124-6, elle peut également rejeter : 
+
+1° Une demande portant sur des documents en cours d'élaboration ; 
+
+2° Une demande portant sur des informations qu'elle ne détient pas ; 
+
+3° Une demande formulée de manière trop générale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°51-711 du 7 juin 1951 - art. 6 (V)
+
+	**Cité par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (VT)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 12 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 18 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 24 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 26 (VD)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 37 (M)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 37-1 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 43 (Ab)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 8 (V)
+	  - Arrêté du 9 octobre 2008 - art. 4 (V)
+	  - Arrêté du 9 octobre 2008 - art. 8 (V)
+	  - Décret n°2013-1304 du 27 décembre 2013 - art. 21 (Ab)
+	  - Arrêté du 27 novembre 2015 - art. 2 (VD)
+	  - Décret n°2016-846 du 28 juin 2016 - art. 3
+	  - Décret n°2016-1619 du 29 novembre 2016 (V)
+	  - Arrêté du 16 mars 2017 - art. 1
+	  - Code de l'environnement - art. L. 531-2-1 (V)
+	  - Code de l'environnement - art. L120-1 (V)
+	  - Code de l'environnement - art. L120-1-3 (VD)
+	  - Code de l'environnement - art. L120-1-4 (VD)
+	  - Code de l'environnement - art. L122-1-1 (V)
+	  - Code de l'environnement - art. L122-3-4 (V)
+	  - Code de l'environnement - art. L122-4 (V)
+	  - Code de l'environnement - art. L122-8 (V)
+	  - Code de l'environnement - art. L123-19-4 (V)
+	  - Code de l'environnement - art. L123-19-5 (V)
+	  - Code de l'environnement - art. L124-6 (V)
+	  - Code de l'environnement - art. L127-6 (V)
+	  - Code de l'environnement - art. L181-8 (V)
+	  - Code de l'environnement - art. L411-1 A (V)
+	  - Code de l'environnement - art. L515-35 (VD)
+	  - Code de l'environnement - art. L532-4-1 (V)
+	  - Code de l'environnement - art. L542-3 (V)
+	  - Code de l'environnement - art. L593-18 (V)
+	  - Code de l'environnement - art. L593-9 (V)
+	  - Code de l'environnement - art. R123-8 (VD)
+	  - Code de l'environnement - art. R181-12 (VD)
+	  - Code de l'environnement - art. R515-33 (Ab)
+	  - Code de l'environnement - art. R515-98 (VD)
+	  - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
+	  - Code rural et de la pêche maritime - art. L914-3 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 2 () JORF 27 octobre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L125-4 (V)
+
+
+###### Article L124-5
+
+I.-Lorsqu'une autorité publique est saisie d'une demande portant sur des informations relatives aux facteurs mentionnés au 2°
+de l'article L. 124-2, elle indique à son auteur, s'il le demande, l'adresse où il peut prendre connaissance des procédés et
+méthodes utilisés pour l'élaboration des données. 
+
+II.-L'autorité publique ne peut rejeter la demande d'une information relative à des émissions de substances dans
+l'environnement que dans le cas où sa consultation ou sa communication porte atteinte : 
+
+1° A la conduite de la politique extérieure de la France, à la sécurité publique ou à la défense nationale ; 
+
+2° Au déroulement des procédures juridictionnelles ou à la recherche d'infractions pouvant donner lieu à des sanctions
+pénales ; 
+
+3° A des droits de propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 2 () JORF 27 octobre 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2014-355 du 20 mars 2014 - art. 13 (VT)
+	  - Ordonnance n°2014-355 du 20 mars 2014 - art. 5 (VT)
+	  - ORDONNANCE n°2014-619 du 12 juin 2014 - art. 6 (VT)
+	  - Code de l'environnement - art. L. 531-2-1 (V)
+	  - Code de l'environnement - art. L122-1-1 (V)
+	  - Code de l'environnement - art. L122-8 (V)
+	  - Code de l'environnement - art. L127-6 (V)
+	  - Code de l'environnement - art. L127-8 (V)
+	  - Code de l'environnement - art. L181-8 (V)
+	  - Code de l'environnement - art. L532-4-1 (V)
+	  - Code de l'environnement - art. R123-8 (VD)
+	  - Code de l'environnement - art. R181-12 (VD)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L124-2 (V)
+
+
+###### Article L124-6
+
+I.-Le rejet d'une demande d'information relative à l'environnement est notifié au demandeur par une décision écrite motivée
+précisant les voies et délais de recours. L'article 5 de la loi n° 79-587 du 11 juillet 1979 relative à la motivation des
+actes administratifs et à l'amélioration des relations entre l'administration et le public ne s'applique pas. 
+
+II.-Lorsque ce rejet est fondé sur le 1° du II de l'article L. 124-4, cette décision indique le délai dans lequel le document
+sera achevé, ainsi que l'autorité publique chargée de son élaboration. 
+
+Lorsque ce rejet est fondé sur le 2° du II de l'article L. 124-4, cette décision indique, le cas échéant, l'autorité publique
+détenant cette information. 
+
+Une demande ne peut être rejetée sur le fondement du 3° du II de l'article L. 124-4 qu'après que l'autorité publique a
+préalablement invité le demandeur à la préciser et l'a aidé à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°79-587 du 11 juillet 1979 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 2 () JORF 27 octobre 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L124-4 (V)
+
+
+###### Article L124-7
+
+I. - Les autorités publiques prennent les mesures permettant au public de connaître ses droits d'accès aux informations
+relatives à l'environnement qu'elles détiennent, et veillent à ce que le public puisse accéder aux informations recherchées.
+A cet effet, elles établissent des répertoires ou des listes de catégories d'informations relatives à l'environnement en leur
+possession, accessibles gratuitement et indiquant le lieu où ces informations sont mises à la disposition du public.
+
+II. - Les autorités publiques veillent à ce que les informations relatives à l'environnement recueillies par elles ou pour
+leur compte soient précises et tenues à jour et puissent donner lieu à comparaison. Elles organisent la conservation de ces
+informations afin de permettre leur diffusion par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 2 () JORF 27 octobre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 26 mai 2014 - art. 9 (VD)
+	  - Code de l'environnement - art. L515-34 (VD)
+	  - Code de l'environnement - art. R124-1 (V)
+	  - Code de l'environnement - art. R124-4 (V)
+	  - Code de l'environnement - art. R515-89 (VD)
+
+
+###### Article L124-8
+
+Un décret en Conseil d'Etat, pris après avis de la commission d'accès aux documents administratifs, précise les modalités
+d'application du présent chapitre. Il définit les catégories d'informations relatives à l'environnement qui doivent faire
+l'objet d'une diffusion publique dans un délai qu'il fixe. Il détermine les modalités selon lesquelles l'Etat et les
+collectivités territoriales, chacun pour ce qui le concerne, mettent à la disposition du public les listes des établissements
+publics et des autres personnes mentionnés à l'article L. 124-3 qui leur sont rattachés ou sur lesquels ils exercent leur
+contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 2 () JORF 27 octobre 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L124-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R124-5 (V)
 
 
 #### Chapitre V : Autres modes d'information
@@ -12836,6 +13140,11 @@ Toutefois, lorsqu'une installation utilise, dans un processus de combustion, des
 sidérurgique, les quotas correspondants sont affectés et délivrés à l'exploitant de cette dernière installation. Celui-ci est
 seul responsable, à ce titre, des obligations prévues par la présente section.
 
+L'exploitant peut, dans la limite du pourcentage prévu par le VI de l'article L. 229-8, s'acquitter de l'obligation prévue au
+quatrième alinéa du présent article au moyen de certaines unités visées par l'article L. 229-22 inscrites à son compte dans
+le registre national mentionné à l'article L. 229-16. Un décret en Conseil d'Etat précise celles des unités qui peuvent ainsi
+être utilisées.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12843,9 +13152,9 @@ seul responsable, à ce titre, des obligations prévues par la présente section
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 6 () JORF 27 octobre 2005
 
 	**Cité par**:
 
@@ -12916,10 +13225,7 @@ seul responsable, à ce titre, des obligations prévues par la présente section
 
 	  - Code de l'environnement - art. L229-15 (V)
 	  - Code de l'environnement - art. L229-18 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - Code de l'environnement - art. L229-22 (V)
 
 
 ###### Article L229-8
@@ -12957,11 +13263,11 @@ V. - Le plan met en réserve des quotas d'émission destinés à être affectés
 cours de la durée du plan ainsi qu'à ceux dont l'autorisation viendrait à être modifiée. L'Etat peut se porter acquéreur de
 quotas en application du II de l'article L. 229-15 pour compléter cette réserve.
 
+VI. - Pour chaque période de cinq ans visée au I, le plan fixe, sous forme d'un pourcentage du total des quotas affectés à
+chaque installation, la quantité maximale de celles des unités visées par l'article L. 229-22 que les exploitants peuvent
+utiliser conformément au dernier alinéa de l'article L. 229-7.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Codifié par**:
 
@@ -12994,12 +13300,7 @@ quotas en application du II de l'article L. 229-15 pour compléter cette réserv
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 80 (V) JORF 10 décembre 2004
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L229-15 (V)
-	  - Code de l'environnement - art. L229-5 (V)
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 6 () JORF 27 octobre 2005
 
 
 ###### Article L229-9
@@ -13480,6 +13781,162 @@ Les modalités d'application de la présente section sont fixées par décret en
 	**Créé par**:
 
 	  - Ordonnance n°2004-330 du 15 avril 2004 - art. 1 () JORF 17 avril 2004
+
+
+##### Section 3 : Mise en oeuvre des activités de projet prévues par le protocole fait à Kyoto le 11 décembre 1997 à la convention-cadre des Nations unies sur les changements climatiques du 9 mai 1992
+
+###### Article L229-20
+
+I. - Au sens du présent chapitre, une activité de projet est un projet agréé conformément aux articles 6 ou 12 du protocole
+fait à Kyoto le 11 décembre 1997 à la convention-cadre des Nations unies sur les changements climatiques et aux décisions
+prises par les parties pour leur mise en oeuvre par un ou plusieurs des Etats mentionnés à l'annexe I de la convention-cadre
+des Nations unies sur les changements climatiques et ayant ratifié le protocole de Kyoto.
+
+II. - Les conditions dans lesquelles le ministre chargé de l'environnement agrée les activités de projet sont fixées par le
+décret en Conseil d'Etat prévu à l'article L. 229-24. L'agrément vaut autorisation pour les personnes qui le sollicitent à
+participer à l'activité de projet concernée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention 1992-05-09
+	  - Code de l'environnement - art. L229-24 (V)
+	  - Protocole de Kyoto 1997-12-11
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 6 () JORF 27 octobre 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-622 du 29 mai 2006 - art. 3 (Ab)
+	  - Code de l'environnement - art. R229-40 (V)
+
+
+###### Article L229-21
+
+Sous réserve que la France satisfasse aux critères d'éligibilité relatifs aux cessions et acquisitions d'unités définis par
+le protocole de Kyoto précité et par les décisions prises par les parties pour sa mise en oeuvre, toute personne peut
+acquérir, détenir et céder des unités visées à l'article L. 229-22 résultant de la mise en oeuvre d'activités de projet.
+
+Afin d'assurer le respect des engagements internationaux de maîtrise des émissions de gaz à effet de serre pris par la
+France, le ministre chargé de l'environnement peut limiter le report des unités détenues dans le registre national mentionné
+à l'article L. 229-16 à l'issue de chaque période de cinq ans prévue au I de l'article L. 229-8 dans les conditions fixées
+par le décret en Conseil d'Etat prévu par l'article L. 229-24.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 6 () JORF 27 octobre 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-622 du 29 mai 2006 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-16 (V)
+	  - Code de l'environnement - art. L229-22 (V)
+	  - Code de l'environnement - art. L229-24 (V)
+	  - Code de l'environnement - art. L229-8 (M)
+	  - Convention 1992-05-09
+	  - Protocole de Kyoto 1997-12-11
+
+
+###### Article L229-22
+
+Les unités de réduction des émissions et les unités de réduction d'émissions certifiées, respectivement délivrées en
+application des articles 6 et 12 du protocole de Kyoto précité et des décisions prises par les parties pour leur mise en
+oeuvre, sont des biens meubles exclusivement matérialisés par une inscription au compte de leur détenteur dans le registre
+national mentionné à l'article L. 229-16.
+
+Chacune de ces unités représente l'émission de l'équivalent d'une tonne de dioxyde de carbone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2004-1412 du 23 décembre 2004 - art. 2 (Ab)
+	  - Décret n°2006-622 du 29 mai 2006 - art. 1 (Ab)
+	  - Décret n°2006-622 du 29 mai 2006 - art. 2 (Ab)
+	  - Arrêté du 26 janvier 2011 - art. 4 (V)
+	  - Code de l'environnement - art. L229-12 (V)
+	  - Code de l'environnement - art. L229-21 (VT)
+	  - Code de l'environnement - art. L229-24-1 (VD)
+	  - Code de l'environnement - art. L229-7 (V)
+	  - Code de l'environnement - art. L229-8 (VD)
+	  - Code de l'environnement - art. R229-35 (V)
+	  - Code de l'environnement - art. R229-38 (VD)
+	  - Code de l'environnement - art. R229-39 (VD)
+	  - Code de l'environnement - art. R229-40 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 6 () JORF 27 octobre 2005
+
+
+###### Article L229-23
+
+Les activités de projet prévues par l'article 6 du protocole de Kyoto précité, mises en oeuvre sur le territoire national,
+réduisant ou limitant directement les émissions des installations visées à l'article L. 229-5, ne peuvent donner lieu à
+délivrance d'unités de réduction des émissions qu'après annulation d'une quantité équivalente de quotas d'émission de gaz à
+effet de serre dans le compte détenu par l'exploitant de l'installation concernée dans le registre national mentionné à
+l'article L. 229-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 6 () JORF 27 octobre 2005
+
+
+###### Article L229-24
+
+Un décret en Conseil d'Etat fixe les modalités de mise en oeuvre de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 6 () JORF 27 octobre 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L229-20 (V)
+	  - Code de l'environnement - art. L229-21 (VT)
+	  - Code de l'environnement - art. L229-24-1 (V)
+
+	**Cite**:
+
+	  - Convention 1992-05-09
+	  - Protocole de Kyoto 1997-12-11
 
 
 ## Livre III : Espaces naturels
@@ -35195,7 +35652,7 @@ publique peuvent être mises à la charge des producteurs et des importateurs.
 ###### Article L521-17
 
 Les agents procédant à un contrôle et constatant un manquement aux obligations du présent chapitre ou à celles des règlements
-(CEE) n° 2455/92, (CEE) n° 793/93 et (CE) n° 2037/2000, à l'exception des mesures d'interdiction ou des prescriptions
+(CE) n° 304/2003, (CEE) n° 793/93 et (CE) n° 2037/2000, à l'exception des mesures d'interdiction ou des prescriptions
 sanctionnées au 2° du I de l'article L. 521-21, établissent un rapport qu'ils transmettent à l'autorité administrative.
 
 Au plus tard six mois après la constatation d'un manquement, l'autorité administrative, après avoir invité la personne
@@ -35205,7 +35662,7 @@ présente loi.
 
 **Nota:**
 
-NOTA : A la fin du dernier alinéa, il y a lieu de lire "présent chapitre" au lieu de "présente loi".
+A la fin du dernier alinéa, il y a lieu de lire " présent chapitre " au lieu de " présente loi ".
 
 **Liens relatifs à cet article**
 
@@ -35214,15 +35671,9 @@ NOTA : A la fin du dernier alinéa, il y a lieu de lire "présent chapitre" au l
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 1 () JORF 14 avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L521-1 (M)
-	  - TXT_SOURCE: Règlement 2037-2000 CE 2000-06-29
-	  - TXT_SOURCE: Règlement 2455-92 CEE 1992-07-23
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 3 () JORF 27 octobre 2005
 
 	**Cité par**:
 
@@ -35233,7 +35684,7 @@ NOTA : A la fin du dernier alinéa, il y a lieu de lire "présent chapitre" au l
 	**Cite**:
 
 	  - Règlement 2037-2000 CE 2000-06-29
-	  - Règlement 2455-92 CEE 1992-07-23
+	  - Règlement 304-2003 CE 2003-01-28
 	  - Règlement 793-93 CEE 1993-03-23
 
 
@@ -35337,14 +35788,14 @@ Les décisions de l'autorité administrative peuvent faire l'objet de recours de
 
 ###### Article L521-21
 
-I. - Est puni de deux ans d'emprisonnement et de 75 000 Euro d'amende le fait de :
+I. - Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait de :
 
 1° Fournir sciemment des renseignements inexacts susceptibles d'entraîner pour la substance considérée ou les préparations la
 contenant, ou pour les produits manufacturés ou équipements les contenant, des prescriptions moins contraignantes que celles
 auxquelles ils auraient normalement dû être soumis, ou de dissimuler des renseignements connus ;
 
 2° Ne pas respecter les mesures d'interdiction ou les prescriptions édictées en application du II de l'article L. 521-6 et
-par les règlements (CEE) n° 2455/12, (CEE) n° 793/93, (CE) n° 2037/2000 ;
+par les règlements (CE) n° 304/2003, (CEE) n° 793/93, (CE) n° 2037/2000 ;
 
 3° Ne pas satisfaire dans le délai imparti aux obligations prescrites par la mise en demeure prévue à l'article L. 521-17.
 
@@ -35375,11 +35826,6 @@ laquelle ou à l'occasion de laquelle l'infraction a été commise ;
 
 3° Les peines prévues aux 3°, 4°, 5°, 6°, 8° et 9° de l'article 131-39 du même code.
 
-**Nota:**
-
-NOTA : Au 2° du I, il y a lieu de lire "par les règlements (CEE) n° 2455/92," au lieu de "par les règlements (CEE) n°
-2455/12,".
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -35387,9 +35833,9 @@ NOTA : Au 2° du I, il y a lieu de lire "par les règlements (CEE) n° 2455/92,"
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 1 () JORF 14 avril 2001
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 3 () JORF 27 octobre 2005
 
 	**Cité par**:
 
@@ -35409,14 +35855,8 @@ NOTA : Au 2° du I, il y a lieu de lire "par les règlements (CEE) n° 2455/92,"
 	  - Code pénal - art. 131-6 (M)
 	  - Code de l'environnement - art. L521-6 (M)
 	  - Règlement 2037-2000 CE 2000-06-29
-	  - Règlement 2455-92 CEE 1992-07-23
+	  - Règlement 304-2003 CE 2003-01-28
 	  - Règlement 793-93 CEE 1993-03-23
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L521-1 (M)
-	  - TXT_SOURCE: Règlement 2037-2000 CEE 2000-06-29
-	  - TXT_SOURCE: Règlement 2455-92 CEE 1992-07-23
 
 
 ###### Article L521-22
@@ -35486,7 +35926,7 @@ Des décrets en Conseil d'Etat fixent les conditions d'application du présent c
 ###### Article L521-24
 
 Lorsqu'un règlement ou une décision de la Communauté européenne contient des dispositions prises pour l'application des
-règlements (CE) n° 2455/92, (CE) n° 793/93 et (CE) n° 2037/2000 et qui entrent dans le champ d'application du présent
+règlements (CE) n° 304/2003, (CE) n° 793/93 et (CE) n° 2037/2000 et qui entrent dans le champ d'application du présent
 chapitre, il est constaté par décret en Conseil d'Etat qu'elles constituent des mesures d'exécution prévues dans le présent
 chapitre.
 
@@ -35497,20 +35937,14 @@ chapitre.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 1 () JORF 14 avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L521-1 (M)
-	  - TXT_SOURCE: Règlement 2037-2000 CE 2000-06-29
-	  - TXT_SOURCE: Règlement 2455-92 CEE 1992-07-23
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 3 () JORF 27 octobre 2005
 
 	**Cite**:
 
 	  - Règlement 2037-2000 CE 2000-06-29
-	  - Règlement 2455-92 CEE 1992-07-23
+	  - Règlement 304-2003 CE 2003-01-28
 	  - Règlement 793-93 CEE 1993-03-23
 
 
@@ -39292,6 +39726,49 @@ applicables aux opérations analogues, sont à la charge du détenteur.
 	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
+###### Article L541-30-1
+
+I. - L'exploitation d'une installation de stockage de déchets inertes est soumise à autorisation administrative délivrée dans
+des conditions prévues par décret en Conseil d'Etat.
+
+II. - Le présent article ne s'applique pas :
+
+1° Aux installations de stockage de déchets inertes relevant déjà d'un régime d'autorisation d'exploitation ;
+
+2° Aux installations où les déchets inertes sont entreposés pour une durée inférieure à trois ans afin de permettre leur
+préparation à un transport en vue d'une valorisation dans un endroit différent, ou entreposés pour une durée inférieure à un
+an avant leur transport sur un lieu de stockage définitif ;
+
+3° A l'utilisation de déchets inertes pour la réalisation de travaux d'aménagement, de remblai, de réhabilitation ou à des
+fins de construction.
+
+**Nota:**
+
+Loi n° 2005-1319 du 26 octobre 2005, article 5 II : " Les installations de stockage de déchets inertes en service à la date
+d'entrée en vigueur de la présente loi sont soumises aux dispositions du I dans des conditions fixées par décret en Conseil
+d'Etat. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 5 (V) JORF 27 octobre 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-302 du 15 mars 2006 - art. 1 (Ab)
+	  - Arrêté du 15 décembre 2009 - art. Annexe III (V)
+	  - Arrêté du 12 décembre 2014 - art. 1 (VD)
+	  - Code de l'environnement - art. L541-46 (VD)
+	  - Code de l'environnement - art. R414-19 (V)
+	  - Code de l'environnement - art. R541-65 (Ab)
+
+
 ##### Sous-section 5 : Récupération des déchets
 
 ###### Article L541-31
@@ -39811,7 +40288,7 @@ l'article L. 541-22 ;
 quantités, les conditions techniques et financières de prise en charge des déchets ou matériaux et les procédés de traitement
 mis en oeuvre fixées en application des articles L. 541-11, L. 541-22, L. 541-24, L. 541-35 et L. 541-36 ;
 
-9° Méconnaître les prescriptions de l'article L. 541-31 ;
+9° Méconnaître les prescriptions des articles L. 541-30-1 et L. 541-31 ;
 
 10° Mettre obstacle à l'accomplissement des contrôles ou à l'exercice des fonctions des agents prévus à l'article L. 541-44 ;
 
@@ -39866,7 +40343,7 @@ conditions prévues par l'article 131-35 du code pénal.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1129 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 5 (V) JORF 27 octobre 2005
 
 	**Cite**:
 
@@ -39875,6 +40352,7 @@ conditions prévues par l'article 131-35 du code pénal.
 	  - Code de l'environnement - art. L541-11 (V)
 	  - Code de l'environnement - art. L541-22 (V)
 	  - Code de l'environnement - art. L541-24 (V)
+	  - Code de l'environnement - art. L541-30-1 (V)
 	  - Code de l'environnement - art. L541-31 (V)
 	  - Code de l'environnement - art. L541-35 (V)
 	  - Code de l'environnement - art. L541-36 (Ab)
@@ -39884,11 +40362,6 @@ conditions prévues par l'article 131-35 du code pénal.
 	  - Code de l'environnement - art. L541-8 (V)
 	  - Code de l'environnement - art. L541-9 (V)
 	  - Code des ports maritimes - art. L325-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L541-47
@@ -42774,8 +43247,8 @@ du code pénal, sans toutefois que les frais de cette publicité puissent excéd
 
 ###### Article L572-1
 
-Le bruit émis dans l'environnement aux abords des principales infrastructures de transport ainsi que dans les grandes unités
-urbaines est évalué et fait l'objet d'actions tendant à le prévenir ou à le réduire, dans les conditions prévues par le
+Le bruit émis dans l'environnement aux abords des principales infrastructures de transport ainsi que dans les grandes
+agglomérations est évalué et fait l'objet d'actions tendant à le prévenir ou à le réduire, dans les conditions prévues par le
 présent chapitre.
 
 **Liens relatifs à cet article**
@@ -42791,7 +43264,7 @@ présent chapitre.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 4 (V) JORF 27 octobre 2005
 
 	**Nouveaux textes**:
 
@@ -42802,14 +43275,10 @@ présent chapitre.
 
 Une carte de bruit et un plan de prévention du bruit dans l'environnement sont établis :
 
-1° Pour chacune des infrastructures de transport suivantes :
+1° Pour chacune des infrastructures routières, autoroutières et ferroviaires dont les caractéristiques sont fixées par décret
+en Conseil d'Etat ;
 
-infrastructures routières et autoroutières dont le trafic annuel est supérieur à trois millions de véhicules, infrastructures
-ferroviaires dont le trafic annuel est supérieur à 30 000 passages de trains, aérodromes civils dont le trafic annuel est
-supérieur à 50 000 mouvements à l'exception des mouvements effectués exclusivement à des fins d'entraînement sur des avions
-légers ;
-
-2° Pour chaque unité urbaine de plus de 100 000 habitants.
+2° Pour les agglomérations de plus de 100 000 habitants dont la liste est fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -42818,9 +43287,9 @@ légers ;
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 4 (V) JORF 27 octobre 2005
 
 	**Cité par**:
 
@@ -42837,7 +43306,7 @@ Les cartes de bruit sont destinées à permettre l'évaluation globale de l'expo
 Elles comportent un ensemble de représentations graphiques et de données numériques. Elles sont établies en fonction
 d'indicateurs évaluant le niveau sonore fixés dans des conditions définies par décret en Conseil d'Etat.
 
-Les cartes relatives aux unités urbaines prennent en compte le bruit émis par le trafic routier, ferroviaire et aérien ainsi
+Les cartes relatives aux agglomérations prennent en compte le bruit émis par le trafic routier, ferroviaire et aérien ainsi
 que par les activités industrielles et, le cas échéant, d'autres sources de bruit.
 
 **Liens relatifs à cet article**
@@ -42847,9 +43316,9 @@ que par les activités industrielles et, le cas échéant, d'autres sources de b
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 4 (V) JORF 27 octobre 2005
 
 	**Cité par**:
 
@@ -42858,18 +43327,17 @@ que par les activités industrielles et, le cas échéant, d'autres sources de b
 
 ###### Article L572-4
 
-I. - Les cartes de bruit sont établies :
+I.-Les cartes de bruit sont établies : 
 
 1° Par le représentant de l'Etat lorsqu'elles sont relatives aux infrastructures de transport visées au 1° de l'article L.
-572-2 ;
+572-2 ; 
 
-2° Par les présidents des établissements publics de coopération intercommunale compétents en matière d'environnement et
-situés dans le périmètre des unités urbaines de plus de 100 000 habitants, et les maires des communes situées dans ces mêmes
-périmètres mais ne relevant pas de ces établissements publics, lorsqu'elles sont relatives à ces unités urbaines.
+2° Par les communes situées dans le périmètre des agglomérations de plus de 100 000 habitants ou, s'il en existe, par les
+établissements publics de coopération intercommunale compétents en matière de lutte contre les nuisances sonores. 
 
-II. - Les autorités ou organismes gestionnaires des infrastructures mentionnées au 1° de l'article L. 572-2 transmettent,
-s'il y a lieu, aux autorités mentionnées au I du présent article les éléments nécessaires à l'établissement des cartes de
-bruit dans des délais compatibles avec les échéances fixées par les articles L. 572-5 et L. 572-9.
+II.-Les autorités ou organismes gestionnaires des infrastructures mentionnées au 1° de l'article L. 572-2 transmettent, s'il
+y a lieu, aux autorités mentionnées au I du présent article les éléments nécessaires à l'établissement des cartes de bruit
+dans des délais compatibles avec les échéances fixées par les articles L. 572-5 et L. 572-9.
 
 **Liens relatifs à cet article**
 
@@ -42878,15 +43346,14 @@ bruit dans des délais compatibles avec les échéances fixées par les articles
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 4 (V) JORF 27 octobre 2005
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L572-2 (M)
+	  - Code de l'environnement - art. L572-2 (V)
 	  - Code de l'environnement - art. L572-5 (V)
-	  - Code de l'environnement - art. L572-9 (M)
 
 
 ###### Article L572-5
@@ -42948,21 +43415,16 @@ dépassées ou risquent de l'être.
 
 ###### Article L572-7
 
-I. - Les plans de prévention du bruit dans l'environnement relatifs aux infrastructures autoroutières, ferroviaires, ainsi
-qu'aux aérodromes visés au 1° de l'article L. 572-2, sont établis par le représentant de l'Etat.
+I. - Les plans de prévention du bruit dans l'environnement relatifs aux autoroutes et routes d'intérêt national ou européen
+faisant partie du domaine public routier national et aux infrastructures ferroviaires sont établis par le représentant de
+l'Etat.
 
-II. - Les plans relatifs aux infrastructures routières sont établis :
+II. - Les plans de prévention du bruit dans l'environnement relatifs aux infrastructures routières autres que celles
+mentionnées au I ci-dessus sont établis par les collectivités territoriales dont relèvent ces infrastructures.
 
-1° Par le représentant de l'Etat, ou le président du conseil exécutif de Corse, pour la voirie nationale ;
-
-2° Par le président du conseil général pour la voirie départementale ;
-
-3° Par le président de l'établissement public de coopération intercommunale ou de l'établissement public d'agglomération
-nouvelle ou par le maire, pour la voirie communale.
-
-III. - Les plans relatifs aux unités urbaines sont établis par les présidents des établissements publics de coopération
-intercommunale compétents en matière d'environnement et situés dans le périmètre de ces unités urbaines et par les maires des
-communes situées dans ces mêmes périmètres mais ne relevant pas de ces établissements publics.
+III. - Les plans de prévention du bruit dans l'environnement relatifs aux agglomérations de plus de 100 000 habitants sont
+établis par les communes situées dans le périmètre de ces agglomérations ou, s'il en existe, par les établissements publics
+de coopération intercommunale compétents en matière de lutte contre les nuisances sonores.
 
 IV. - L'autorité qui élabore le plan s'assure au préalable de l'accord des autorités ou organismes compétents pour décider et
 mettre en oeuvre les mesures qu'il recense.
@@ -42974,13 +43436,9 @@ mettre en oeuvre les mesures qu'il recense.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L572-2 (M)
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 4 (V) JORF 27 octobre 2005
 
 
 ###### Article L572-8
@@ -43007,11 +43465,10 @@ Ils sont réexaminés et, le cas échéant, révisés en cas d'évolution signif
 
 ###### Article L572-9
 
-I. - Les cartes de bruit relatives aux unités urbaines de plus de 250 000 habitants, aux infrastructures routières dont le
-trafic annuel est supérieur à 6 millions de véhicules, aux infrastructures ferroviaires dont le trafic annuel est supérieur à
-60 000 passages de trains, et aux aérodromes dont le trafic annuel dépasse 50 000 mouvements, à l'exception des mouvements
-effectués exclusivement à des fins d'entraînement sur des avions légers, sont publiées le 30 juin 2007 au plus tard. Les
-plans de prévention du bruit dans l'environnement correspondants sont publiés le 18 juillet 2008 au plus tard.
+I. - Les cartes de bruit relatives aux agglomérations de plus de 250 000 habitants, aux infrastructures routières dont le
+trafic annuel est supérieur à 6 millions de véhicules et aux infrastructures ferroviaires dont le trafic annuel est supérieur
+à 60 000 passages de trains sont publiées le 30 juin 2007 au plus tard. Les plans de prévention du bruit dans l'environnement
+correspondants sont publiés le 18 juillet 2008 au plus tard.
 
 II. - Les autres cartes de bruit sont publiées le 30 juin 2012 au plus tard, et les plans d'action correspondants le 18
 juillet 2013 au plus tard.
@@ -43023,9 +43480,9 @@ juillet 2013 au plus tard.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 4 (V) JORF 27 octobre 2005
 
 	**Cité par**:
 
@@ -43061,15 +43518,7 @@ mise en demeure.
 
 ###### Article L572-11
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre. Il fixe notamment :
-
-- le contenu et les modalités d'établissement, de publication, de réexamen et de révision des cartes de bruit ;
-
-- le contenu, les modalités d'élaboration, de réexamen, de révision et de publication des plans de prévention du bruit dans
-l'environnement, ainsi que les modalités de coordination et d'association des autorités et organismes compétents pour la mise
-en oeuvre des mesures qu'ils prévoient ;
-
-- les modalités d'information du public.
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -43078,9 +43527,9 @@ en oeuvre des mesures qu'ils prévoient ;
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 3°, 4° JORF 14 novembre 2004
+	  - Loi n°2005-1319 du 26 octobre 2005 - art. 4 (V) JORF 27 octobre 2005
 
 
 ### Titre VII : Prévention des nuisances acoustiques et visuelles
