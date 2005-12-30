@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-12-29
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -3347,9 +3347,12 @@ ci-après reproduit :
 "Art. 266 sexies - I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes
 physiques ou morales suivantes :
 
-1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés ou tout exploitant d'une installation
+1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés, tout exploitant d'une installation
 d'élimination de déchets industriels spéciaux par incinération, coïncinération, stockage, traitement physico-chimique ou
-biologique non exclusivement utilisées pour les déchets que l'entreprise produit ;
+biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait
+transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259/93 du Conseil du 1er
+février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la communauté
+européenne ;
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
 la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
@@ -3357,7 +3360,7 @@ d'incinération d'ordures ménagères, ou le poids des substances mentionnées a
 lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil
 d'Etat ;
 
-3. Tout exploitant d'aéronefs ou, à défaut, leur propriétaire ;
+3. (Alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. Toute personne qui effectue une première livraison après fabrication nationale ou qui livre sur le marché intérieur en
 cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifiants susceptibles de produire des huiles
@@ -3393,22 +3396,30 @@ l'environnement ;
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
-particuliers à l'environnement.
+particuliers à l'environnement ;
+
+9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code de l'environnement, qui, au titre d'une
+année civile, a mis à disposition, fait mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions
+déclarées non conformes à la Constitution) dans les conditions mentionnées audit article et qui n'a pas acquitté la
+contribution financière ou en nature qui y est prévue.
 
 II. - La taxe ne s'applique pas :
 
-1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni
-aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
+1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière
+par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
 
-2. a. Aux aéronefs de masse maximale au décollage inférieure à 2 tonnes ;
+1 bis Aux transferts de déchets industriels spéciaux vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une
+valorisation comme matière ;
 
-b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie ;
+1 ter Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
+
+2. (Alinéa abrogé)
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ;
 
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits
-adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole ou
+adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et
 aux produits assimilés mentionnés respectivement au a du 4 et aux 5, 6 et 7 du I du présent article lorsque la première
 livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté
 européenne ou en une exportation ;
@@ -3430,7 +3441,7 @@ de l'environnement ou de nuire à la santé humaine."
 
 	**Modifié par**:
 
-	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
 
 	**Cite**:
 
@@ -23016,17 +23027,10 @@ sa demande. Il peut être fait application des peines prévues contre ceux qui o
 ###### Article L423-12
 
 Le paiement de l'une des redevances cynégétiques prévues par la sous-section 3 et du droit de timbre mentionné à l'article
-964 du code général des impôts vaut validation du permis de chasser sous réserve que le titulaire de celui-ci satisfasse aux
-conditions définies par les articles L. 423-13, L. 423-15 et L. 423-16.
+1635 bis N du code général des impôts vaut validation du permis de chasser sous réserve que le titulaire de celui-ci
+satisfasse aux conditions définies par les articles L. 423-13, L. 423-15 et L. 423-16.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 964
-	  - Code de l'environnement - art. L423-13 (V)
-	  - Code de l'environnement - art. L423-15 (M)
-	  - Code de l'environnement - art. L423-16 (M)
 
 	**Codifié par**:
 
@@ -23035,7 +23039,13 @@ conditions définies par les articles L. 423-13, L. 423-15 et L. 423-16.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 166 () JORF 24 février 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 60 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis N (V)
+	  - Code de l'environnement - art. L423-13 (V)
+	  - Code de l'environnement - art. L423-15 (V)
 
 	**Cité par**:
 
@@ -38866,6 +38876,51 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - Code des douanes - art. 266 octies (M)
 	  - Code des douanes - art. 266 quaterdecies (Ab)
 	  - Code des douanes - art. 266 sexies (M)
+
+
+###### Article L541-10-2
+
+A compter du 1er janvier 2006, toute personne qui fabrique, importe ou introduit sur le marché national à titre professionnel
+des équipements électriques et électroniques ménagers relevant des catégories mentionnées à l'annexe I A et à l'annexe I B de
+la directive 2002/96/CE du Parlement européen et du Conseil, du 27 janvier 2003, relative aux déchets d'équipements
+électriques et électroniques est tenue de pourvoir ou contribuer à la collecte, à l'enlèvement et au traitement des déchets
+d'équipements électriques et électroniques ménagers indépendamment de leur date de mise sur le marché. Dans le cas où les
+équipements sont vendus sous la seule marque d'un revendeur, ce dernier est tenu de pourvoir ou contribuer à la collecte, à
+l'enlèvement et au traitement des déchets d'équipements électriques et électroniques en substitution de la personne qui
+fabrique, importe ou introduit sur le marché national ces équipements.
+
+Les coûts de collecte sélective des déchets d'équipements électriques et électroniques ménagers supportés par les
+collectivités territoriales sont compensés par un organisme coordonnateur agréé qui leur reverse la fraction équivalente de
+la contribution financière qu'il reçoit des personnes mentionnées au premier alinéa.
+
+Pendant une période transitoire courant à compter du 1er janvier 2006 et jusqu'au 13 février 2011, et au 13 février 2013 pour
+certains de ces équipements figurant sur une liste fixée par arrêté des ministres chargés de l'écologie, de l'économie, de
+l'industrie et de la consommation, les personnes mentionnées au premier alinéa ainsi que leurs acheteurs font apparaître, en
+sus du prix hors taxe, en pied de factures de vente de tout nouvel équipement électrique et électronique ménager, les coûts
+unitaires supportés pour l'élimination de ces déchets.
+
+L'élimination de ces déchets issus des collectes sélectives est accomplie par des systèmes auxquels ces personnes contribuent
+financièrement de manière proportionnée et qui sont agréés ou approuvés par arrêtés conjoints des ministres chargés de
+l'économie, de l'industrie, de l'écologie et des collectivités territoriales.
+
+Ces coûts unitaires n'excédent pas les coûts réellement supportés et ne peuvent faire l'objet de réfaction. Les acheteurs
+répercutent à l'identique ces coûts unitaires jusqu'au consommateur final et l'informent par tout moyen prévu à l'article L.
+113-3 du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 87 () JORF 31 décembre 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R543-205 (V)
 
 
 ##### Section 3 : Elimination des déchets
