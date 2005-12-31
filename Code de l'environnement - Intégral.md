@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -21124,11 +21124,11 @@ candidate au conseil d'administration quel que soit son âge.
 
 ###### Article L421-9-1
 
-Chaque fédération départementale des chasseurs désigne, dans les conditions prévues par l'article L. 612-4 du code de
-commerce, un commissaire aux comptes, qui exerce ses fonctions selon les modalités prévues par cet article.
+Chaque fédération départementale des chasseurs désigne, dans les conditions prévues par l'article L. 612-3 du code de
+commerce, un commissaire aux comptes, qui exerce ses fonctions selon les modalités prévues par cet article. 
 
-Le rapport spécial mentionné au dernier alinéa de l'article L. 612-4 du code de commerce est transmis par le commissaire aux
-comptes au préfet.
+Le rapport spécial mentionné au troisième alinéa de l'article L. 612-3 du code de commerce est transmis par le commissaire
+aux comptes au préfet.
 
 **Liens relatifs à cet article**
 
@@ -21137,13 +21137,13 @@ comptes au préfet.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 13 () JORF 31 juillet 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L612-4 (M)
+	  - Code de commerce - art. L612-3 (V)
 
 
 ###### Article L421-10
@@ -21213,12 +21213,13 @@ Les fédérations départementales ont la libre utilisation de leurs réserves c
 
 ###### Article L421-11-1
 
-En cas de mise en oeuvre des dispositions du dernier alinéa de l'article L. 612-4 du code de commerce, ou de manquement grave
-et persistant d'une fédération départementale à ses missions d'indemnisation des dégâts de grand gibier et d'organisation de
-la formation préparatoire à l'examen du permis de chasser constaté à l'issue d'une procédure contradictoire, le préfet
-transmet à la chambre régionale des comptes ses observations. Si la chambre régionale des comptes constate que la fédération
-départementale n'a pas pris de mesures suffisantes pour rétablir des conditions normales de fonctionnement, elle demande au
-préfet d'assurer son administration ou la gestion d'office de son budget jusqu'à son exécution.
+En cas de mise en oeuvre des dispositions du troisième alinéa de l'article L. 612-3 du code de commerce, ou de manquement
+grave et persistant d'une fédération départementale à ses missions d'indemnisation des dégâts de grand gibier et
+d'organisation de la formation préparatoire à l'examen du permis de chasser constaté à l'issue d'une procédure
+contradictoire, le préfet transmet à la chambre régionale des comptes ses observations. Si la chambre régionale des comptes
+constate que la fédération départementale n'a pas pris de mesures suffisantes pour rétablir des conditions normales de
+fonctionnement, elle demande au préfet d'assurer son administration ou la gestion d'office de son budget jusqu'à son
+exécution.
 
 **Liens relatifs à cet article**
 
@@ -21227,13 +21228,13 @@ préfet d'assurer son administration ou la gestion d'office de son budget jusqu'
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 16 () JORF 31 juillet 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L612-4 (M)
+	  - Code de commerce - art. L612-3 (V)
 
 
 ##### Section 5 : Fédérations interdépartementales des chasseurs
@@ -21407,13 +21408,13 @@ nombre de leurs adhérents dans les différentes catégories pour l'exercice en 
 ###### Article L421-15
 
 Les statuts de la Fédération nationale des chasseurs doivent être conformes à un modèle adopté par le ministre chargé de la
-chasse et le ministre de l'agriculture.
+chasse et le ministre de l'agriculture. 
 
-La Fédération nationale des chasseurs désigne, dans les conditions prévues par l'article L. 612-4 du code de commerce, un
-commissaire aux comptes, qui exerce ses fonctions selon les modalités prévues par cet article.
+La Fédération nationale des chasseurs désigne, dans les conditions prévues par l'article L. 612-3 du code de commerce, un
+commissaire aux comptes, qui exerce ses fonctions selon les modalités prévues par cet article. 
 
-Le rapport spécial mentionné au dernier alinéa de l'article L. 612-4 du code de commerce est transmis par le commissaire aux
-comptes au ministre chargé de la chasse.
+Le rapport spécial mentionné au troisième alinéa de l'article L. 612-3 du code de commerce est transmis par le commissaire
+aux comptes au ministre chargé de la chasse.
 
 **Liens relatifs à cet article**
 
@@ -21422,13 +21423,13 @@ comptes au ministre chargé de la chasse.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 21 () JORF 31 juillet 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L612-4 (M)
+	  - Code de commerce - art. L612-3 (V)
 
 
 ###### Article L421-16
@@ -21462,9 +21463,9 @@ dépenses nécessaires.
 
 ###### Article L421-17
 
-En cas de mise en oeuvre des dispositions du dernier alinéa de l'article L. 612-4 du code de commerce, ou de manquement grave
-et persistant de la fédération nationale à sa mission de gestion du fonds mentionné à l'article L. 421-14 du présent code
-constaté à l'issue d'une procédure contradictoire, le ministre chargé de la chasse transmet à la Cour des comptes ses
+En cas de mise en oeuvre des dispositions du troisième alinéa de l'article L. 612-3 du code de commerce, ou de manquement
+grave et persistant de la fédération nationale à sa mission de gestion du fonds mentionné à l'article L. 421-14 du présent
+code constaté à l'issue d'une procédure contradictoire, le ministre chargé de la chasse transmet à la Cour des comptes ses
 observations. Si la Cour des comptes constate que la fédération nationale n'a pas pris de mesures suffisantes pour rétablir
 des conditions normales de fonctionnement, elle demande au ministre d'assurer son administration ou la gestion d'office de
 son budget jusqu'à son exécution.
@@ -21476,14 +21477,14 @@ son budget jusqu'à son exécution.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-698 du 30 juillet 2003 - art. 21 () JORF 31 juillet 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 173 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L612-4 (M)
-	  - Code de l'environnement - art. L421-14 (M)
+	  - Code de commerce - art. L612-3 (V)
+	  - Code de l'environnement - art. L421-14 (V)
 
 
 ###### Article L421-18
@@ -33354,7 +33355,7 @@ L'autorisation est renouvelable dans les formes prévues à l'article L. 512-2.
 
 Toute autorisation d'exploitation de carrières est soumise, dans les vignobles classés appellation d'origine contrôlée, vin
 délimité de qualité supérieure, et dans les aires de production de vins de pays, à l'avis de l'Institut national des
-appellations d'origine et de l'Office national interprofessionnel des vins.
+appellations d'origine et de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 
 La durée nécessaire à la réalisation des diagnostics et des opérations de fouilles d'archéologie préventive interrompt la
 durée de l'autorisation administrative d'exploitation de carrière.
@@ -33377,8 +33378,7 @@ applicables à Mayotte.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-4 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-1129 du 8 septembre 2005 - art. 1 () JORF 9 septembre 2005
+	  - Décret n°2005-1780 du 30 décembre 2005 - art. 3 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -46365,19 +46365,35 @@ Les articles L. 711-1 à L. 713-9 sont applicables aux terres Australes et Antar
 
 ###### Article L651-1
 
-Pour l'application à Mayotte des dispositions du présent code, il y a lieu de lire :
+Le présent code est applicable à Mayotte sous réserve des adaptations prévues par le présent titre.
 
-- collectivité départementale de Mayotte pour département ;
+Pour l'application à Mayotte des dispositions du présent code :
 
-- directeur de l'agriculture pour directeur départemental de l'agriculture et de la forêt ;
+1° Les références au département, au département d'outre-mer ou à la région sont remplacées par la référence à la
+collectivité départementale de Mayotte ;
 
-- direction de l'agriculture pour direction de l'agriculture et de la forêt ;
+2° La référence aux conseils généraux ou au conseil régional est remplacée par la référence au conseil général de Mayotte ;
 
-- tribunal de première instance pour tribunal d'instance et tribunal de grande instance ;
+3° Les mots : "président du conseil régional" sont remplacés par les mots : "président du conseil général" ;
 
-- tribunal supérieur d'appel pour cour d'appel ;
+4° Les mots : "représentant de l'Etat dans le département", "préfet", "préfet de région" ou "préfet coordonnateur de bassin"
+sont remplacés par les mots : "représentant de l'Etat à Mayotte" ;
 
-- code des communes pour code général des collectivités territoriales.
+5° La référence à la direction départementale de l'agriculture et de la forêt est remplacée par la référence à la direction
+de l'agriculture et de la forêt ;
+
+6° Les mots : "administrateur des affaires maritimes" sont remplacés par les mots : "chef du service des affaires
+maritimes" ;
+
+7° Les mots : "tribunal d'instance" ou "tribunal de grande instance" sont remplacés par les mots : "tribunal de première
+instance" ;
+
+8° Les mots : "cour d'appel" sont remplacés par les mots :
+
+"tribunal supérieur d'appel".
+
+Les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux dispositions
+ayant le même objet applicable localement.
 
 **Liens relatifs à cet article**
 
@@ -46388,7 +46404,7 @@ Pour l'application à Mayotte des dispositions du présent code, il y a lieu de 
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 2 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Anciens textes**:
 
@@ -46416,7 +46432,12 @@ Mayotte sont pris conjointement par ce ministre et par le ministre chargé de l'
 ###### Article L651-3
 
 Pour l'application à Mayotte des dispositions de la partie législative du présent code prévoyant une enquête publique, cette
-formalité est remplacée par la mise à la disposition du public du dossier.
+formalité est remplacée par la mise à la disposition du public du dossier. Un arrêté du représentant de l'Etat précise
+notamment le contenu du dossier mis à disposition du public, la durée et les conditions de cette mise à disposition.
+
+Toutefois, le représentant de l'Etat à Mayotte peut décider de soumettre à enquête publique des catégories d'aménagements,
+d'ouvrages ou de travaux qui, par leur nature, leur importance ou leur localisation, sont susceptibles de porter atteinte à
+l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -46429,6 +46450,10 @@ formalité est remplacée par la mise à la disposition du public du dossier.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 3 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -46450,17 +46475,10 @@ formalité est remplacée par la mise à la disposition du public du dossier.
 
 ###### Article L651-4
 
-I - Dans le livre Ier du présent code, sont applicables à Mayotte les articles L. 110-1 et L. 110-2, L. 125-1 (I, II et IV),
-L. 132-2, L. 141-1 à L. 142-3.
+I. - Les articles L. 122-11, L. 151-1 et L. 151-2 ne sont pas applicables à Mayotte.
 
-II - Pour l'application de l'article L. 132-2 à Mayotte, les mots : "et les centres régionaux de la propriété forestière"
+II. - Pour l'application de l'article L. 132-2 à Mayotte, les mots : "et les centres régionaux de la propriété forestière"
 sont supprimés.
-
-**Nota:**
-
-Nota : Loi 2003-591 2003-07-02 art. 31 IV : les modifications apportées par le présent article à des dispositions applicables
-à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française, à Saint-Pierre-et-Miquelon, aux Terres australes et
-antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces collectivités.
 
 **Liens relatifs à cet article**
 
@@ -46471,25 +46489,29 @@ antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces col
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 4 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L110-1 (M)
-	  - Code de l'environnement - art. L110-2 (V)
-	  - Code de l'environnement - art. L125-1 (V)
+	  - Code de l'environnement - art. L122-11 (V)
 	  - Code de l'environnement - art. L132-2 (V)
-	  - Code de l'environnement L110-1, L110-2, L125-1, L132-2, L141-1 à L142-3
+	  - Code de l'environnement - art. L151-1 (M)
+	  - Code de l'environnement - art. L151-2 (V)
 
 
 ###### Article L651-5
 
-Les travaux et projets d'aménagement qui sont entrepris par une collectivité publique ou qui nécessitent une autorisation ou
-une décision d'approbation ainsi que les documents d'urbanisme doivent respecter les préoccupations d'environnement.
+I.-Par dérogation aux dispositions du I de l'article L. 122-3, les modalités d'application de la première section du chapitre
+II du titre II du livre Ier sont fixées par arrêté du représentant de l'Etat à Mayotte, dans les conditions prévues au II du
+même article. 
 
-Les études préalables à la réalisation d'aménagements ou d'ouvrages qui, par l'importance de leurs dimensions ou leurs
-incidences sur le milieu naturel, peuvent porter atteinte à ce dernier, doivent comporter une étude d'impact permettant d'en
-apprécier les conséquences.
+II.-Par dérogation aux dispositions du premier alinéa de l'article L. 122-4, la liste des plans, schémas, programmes et
+autres documents de planification qui doivent faire l'objet d'une évaluation environnementale dans les conditions prévues par
+les dispositions de la section II du chapitre II du titre II du livre Ier est établie par arrêté du représentant de l'Etat à
+Mayotte. 
+
+III.-Les conditions d'application de la section II du chapitre II du titre II du livre Ier sont précisées, en tant que de
+besoin, pour chacune des catégories de plans ou de documents, par arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -46502,6 +46524,15 @@ apprécier les conséquences.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-3 (V)
+	  - Code de l'environnement - art. L122-4 (V)
 
 	**Cité par**:
 
@@ -46518,15 +46549,9 @@ apprécier les conséquences.
 
 ###### Article L651-6
 
-Les modalités d'application de l'article L. 651-5, à l'exception de celles qui font l'objet de l'article L. 651-7, sont
-précisées par un décret en Conseil d'Etat.
-
-Celui-ci fixe notamment le contenu de l'étude d'impact qui comprend au minimum une analyse de l'état initial du site et de
-son environnement, l'étude des modifications que le projet y engendrerait et les mesures envisagées pour supprimer, réduire
-et, si possible, compenser les conséquences dommageables pour l'environnement.
-
-Il fixe également les conditions dans lesquelles le ministre chargé de l'environnement pourra se saisir ou être saisi pour
-avis de toute étude d'impact.
+Par dérogation aux dispositions du III de l'article L. 125-1, les modalités d'exercice du droit d'information prévu audit
+article, notamment les modalités selon lesquelles cette information est portée à la connaissance du public, sont fixées par
+un arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -46540,27 +46565,19 @@ avis de toute étude d'impact.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L651-5 (M)
-	  - Code de l'environnement - art. L651-7 (M)
+	  - Code de l'environnement - art. L125-1 (V)
 
 
 ###### Article L651-7
 
-Un arrêté du représentant du Gouvernement à Mayotte fixe :
-
-1° La liste des catégories d'aménagements, d'ouvrages et travaux dont la réalisation doit être précédée par une étude
-d'impact et les seuils et critères qui servent à les définir. Ces seuils ou critères pourront être modulés pour tenir compte
-de la sensibilité du milieu et des zones qui bénéficient au titre de l'environnement d'une protection d'ordre législatif ou
-réglementaire ;
-
-2° Les conditions dans lesquelles l'étude d'impact sera mise à la disposition du public.
-
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires, la référence au représentant du
-Gouvernement est remplacée par la référence au représentant de l'Etat.
+Par dérogation aux dispositions du cinquième alinéa de l'article L. 126-1, la déclaration de projet est publiée dans les
+conditions fixées par un arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -46574,54 +46591,24 @@ Gouvernement est remplacée par la référence au représentant de l'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L126-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L651-6 (M)
 
 
-###### Article L651-8
-
-Si une requête est déposée devant la juridiction administrative contre une autorisation ou une décision d'approbation d'un
-projet visé à l'alinéa 2 de l'article L. 651-5 est fondée sur l'absence d'étude d'impact, le juge des référés, saisi d'une
-demande de suspension de la décision attaquée, y fait droit dès que cette absence est constatée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance no 92-1071 du 1er octobre 1992 portant  - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 art. 12 1° JORF 21 septembre 2000 en vigueur le 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-869 2005-07-28 art. 12 : spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
-
-
 #### Chapitre II : Milieux physiques
 
 ###### Article L652-1
 
-I. - Dans le livre II du présent code, sont applicables à Mayotte les articles L. 210-1, L. 211-1 à L. 211-3, L. 211-5, L.
-211-7, L. 212-1 à L. 212-7, L. 213-3, L. 213-4, L. 213-8, L. 213-9, L. 214-1 à L. 214-9, L. 214-12, L. 214-14, L. 214-15, L.
-216-1, L. 216-3 à L. 216-11, L. 217-1, L. 218-1 à L. 218-80, L. 220-1, L. 220-2, L. 221-1, la première phrase du second
-alinéa de l'article L. 221-2, les articles L. 221-3 à L. 221-6, L. 222-1 à L. 222-3, L. 223-1 et L. 223-2, L. 229-1 à L.
-229-4.
+I. - Les articles L. 213-5 à L. 213-7 ne sont pas applicables à Mayotte.
 
 II. - Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port
 adjoints, les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I sont exercés par le représentant de l'Etat
@@ -46630,43 +46617,6 @@ ou par l'un de ses délégués.
 III. - Sont également applicables les dispositions du code de la santé publique mentionnées aux articles L. 211-11 et L.
 214-14 du présent code, dans les conditions indiquées à l'article L. 1515-1 du code de la santé publique.
 
-IV. - Pour l'application de l'article L. 212-2 à Mayotte, les mots : "des conseils régionaux, des conseils généraux et des
-chambres consulaires concernés" sont remplacés par les mots : "du conseil général et des chambres consulaires".
-
-V. - Pour l'application de l'article L. 212-6 à Mayotte, les mots : "des conseils généraux, des conseils régionaux" sont
-remplacés par les mots : "du conseil général".
-
-VI. - Pour l'application de l'article L. 213-3 à Mayotte, les mots : "Dans chaque bassin, le préfet de la région où le comité
-de bassin a son siège" et les mots : "dans les régions et départements concernés" sont remplacés respectivement par les
-mots : "Le représentant de l'Etat" et par les mots : "à Mayotte".
-
-VII. - Pour l'application de l'article L. 213-4 à Mayotte, les mots : "Dans chaque département d'outre-mer" et "le
-département" sont remplacés respectivement par les mots : "A Mayotte" et "la collectivité départementale de Mayotte" et les
-mots : ", outre les compétences qui lui sont conférées par l'article L. 213-2, " sont supprimés.
-
-VIII. - Pour l'application de l'article L. 218-75 à Mayotte, les mots : "dans la région" sont remplacés par les mots : "à
-Mayotte".
-
-IX. - Pour l'application de l'article L. 221-3 à Mayotte, les mots : "Dans chaque région et dans la collectivité territoriale
-de Corse" sont remplacés par les mots : "A Mayotte".
-
-X. - Pour l'application de l'article L. 222-1 à Mayotte, les mots : "Le préfet de région, et en Corse le préfet de Corse, "
-sont remplacés par les mots : "A Mayotte, le représentant de l'Etat" et le mot : "régional" est supprimé.
-
-XI. - Pour l'application de l'article L. 222-2 à Mayotte :
-
-- au premier alinéa, les mots : "les conseils départementaux" sont remplacés par les mots : "le conseil" et les mots : "Le
-comité régional de l'environ-nement," et "régional" sont supprimés ;
-
-- au deuxième alinéa, les mots : "aux conseils généraux" et "régional ou, en Corse, de l'assemblée de Corse" sont remplacés
-respectivement par les mots : "au conseil général" et "général".
-
-**Nota:**
-
-Nota : Loi 2003-591 2003-07-02 art. 31 IV : les modifications apportées par le présent article à des dispositions applicables
-à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française, à Saint-Pierre-et-Miquelon, aux Terres australes et
-antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces collectivités.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -46674,49 +46624,26 @@ antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces col
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Modifié par**:
-
-	  - Loi n°2004-338 du 21 avril 2004 - art. 9 (V) JORF 22 avril 2004
-
 	**Cité par**:
 
 	  - Décret n°2005-24 du 11 janvier 2005 - art. 5 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L1515-1 (M)
-	  - Code de l'environnement - art. L210-1 (M)
 	  - Code de l'environnement - art. L211-11 (V)
-	  - Code de l'environnement - art. L211-5 (V)
-	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L212-2 (M)
-	  - Code de l'environnement - art. L212-6 (M)
-	  - Code de l'environnement - art. L213-3 (T)
-	  - Code de l'environnement - art. L213-4 (M)
-	  - Code de l'environnement - art. L213-8 (M)
-	  - Code de l'environnement - art. L213-9 (M)
-	  - Code de l'environnement - art. L214-12 (V)
 	  - Code de l'environnement - art. L214-14 (M)
-	  - Code de l'environnement - art. L214-15 (M)
-	  - Code de l'environnement - art. L216-1 (M)
-	  - Code de l'environnement - art. L217-1 (V)
-	  - Code de l'environnement - art. L218-75 (V)
-	  - Code de l'environnement - art. L220-1 (V)
-	  - Code de l'environnement - art. L220-2 (V)
-	  - Code de l'environnement - art. L221-1 (M)
-	  - Code de l'environnement - art. L221-2 (V)
-	  - Code de l'environnement - art. L221-3 (V)
-	  - Code de l'environnement - art. L222-1 (M)
-	  - Code de l'environnement - art. L222-2 (M)
-	  - Code de l'environnement - art. L223-1 (V)
-	  - Code de l'environnement - art. L223-2 (V)
-	  - Code de l'environnement L210-1, L211-1 à L211-3, L211-5, L211-7, L212-1 à L212-7, L213-3, L213-4, L213-8, L213-9, L214-1 à L214-9, L214-12, L214-14, L214-15, L216-1, L216-3 à L216-11, L217-1, L218-1 à L218-80, L220-1, L220-2, L221-1, L221-2, L221-3 à
+	  - Code de l'environnement L213-5 à L213-7, L211-11, L214-14
 
 
 ###### Article L652-2
 
-Le représentant du Gouvernement assure la conservation, la gestion et la police des eaux superficielles et souterraines sur
-le territoire de Mayotte.
+Le représentant de l'Etat assure la conservation, la gestion et la police des eaux superficielles et souterraines sur le
+territoire de Mayotte.
 
 Il prescrit les dispositions propres à maintenir le libre écoulement et la répartition des eaux ainsi qu'à préserver la
 sécurité et la salubrité publique.
@@ -46726,11 +46653,6 @@ Ier à VII du titre Ier du livre II.
 
 Il peut compléter la réglementation applicable en matière de conservation, de gestion et de protection des eaux en vue de
 protéger de la pollution les eaux du lagon, le littoral et le récif corallien.
-
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires, la référence au représentant du
-Gouvernement est remplacée par la référence au représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -46744,26 +46666,21 @@ Gouvernement est remplacée par la référence au représentant de l'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article L652-3
 
-Les agents commissionnés par le représentant du Gouvernement et assermentés sont habilités à constater les infractions aux
-dispositions du livre II du présent code lorsqu'elles sont applicables à Mayotte.
-
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires, la référence au représentant du
-Gouvernement est remplacée par la référence au représentant de l'Etat.
+Pour l'application des dispositions du titre Ier du livre II, Mayotte constitue un bassin hydrographique. Le Comité de bassin
+de Mayotte exerce les compétences prévues aux articles L. 213-2 et L. 213-4. Il est créé à Mayotte un office de l'eau régi
+par les dispositions des articles L. 213-13 à L. 213-20.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 92-1068 1992-10-01 art. 4
 	  - Ordonnance no 92-1068 du 1er octobre 1992 portant  - art. 4 (Ab)
 
 	**Codifié par**:
@@ -46771,13 +46688,15 @@ Gouvernement est remplacée par la référence au représentant de l'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L213-2 (M)
+	  - Code de l'environnement - art. L213-4 (M)
+	  - Code de l'environnement L213-2, L213-4, L213-13 à L213-20
 
 	**Nouveaux textes**:
 
@@ -46788,69 +46707,139 @@ Gouvernement est remplacée par la référence au représentant de l'Etat.
 	  - Code de l'environnement - art. R652-2 (Ab)
 
 
+###### Article L652-4
+
+Pour l'application de l'article L. 213-13, la référence à l'article L. 3241-1 du code général des collectivités territoriales
+est remplacée par la référence à l'article L. 3554-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3241-1 (M)
+	  - Code général des collectivités territoriales - art. L3554-1 (V)
+	  - Code de l'environnement - art. L213-13 (M)
+
+
+###### Article L652-5
+
+Par dérogation aux dispositions du premier alinéa de l'article L. 221-2, un dispositif de surveillance de la qualité de l'air
+et de ses effets sur la santé et l'environnement doit être mis en place à Mayotte avant le 1er janvier 2010.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1479 du 12 octobre 2007 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L221-2 (V)
+
+
+###### Article L652-6
+
+Pour l'application des articles L. 222-2 et L. 222-4, la référence aux commissions départementales compétentes en matière
+d'environnement, de risques sanitaires et technologiques est remplacée par la référence au conseil d'hygiène de Mayotte.
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 222-2, le plan pour la qualité de l'air à Mayotte est
+arrêté par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L222-2 (M)
+	  - Code de l'environnement - art. L222-4 (M)
+
+
+###### Article L652-7
+
+Les articles L. 229-5 à L. 229-19 ne sont applicables à Mayotte qu'à compter du 1er janvier 2012.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de l'environnement L229-5 à L229-19
+
+
+###### Article L652-8
+
+Les agents commissionnés par le représentant du Gouvernement et assermentés sont habilités à constater les infractions aux
+dispositions du livre II du présent code lorsqu'elles sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Anciens textes**:
+
+	  - Code de l'environnement - art. L652-3 (T)
+
+
 #### Chapitre III : Espaces naturels
 
 ###### Article L653-1
 
-I. - Dans le livre III du présent code, sont applicables à Mayotte les articles L. 300-3, L. 310-1, L. 310-3, L. 321-1, L.
-321-2, L. 321-8, L. 321-9, L. 322-1 à L. 322-14, L. 331-1 à L. 331-4, L. 331-6 à L. 333-1, L. 333-3, L. 341-1 à L. 342-1, L.
-350-1, L. 361-1, L. 361-2 et L. 364-1.
+I. - Les articles L. 321-11, L. 321-12 et L. 333-4 ne sont pas applicables à Mayotte.
 
-II. - Pour l'application de l'article L. 310-1 à Mayotte, les mots : "dans chaque département" et "le département" sont
-remplacés respectivement par les mots : "à Mayotte" et "la collectivité départementale de Mayotte" ; les mots :
-"départemental" et "départementales" sont supprimés.
-
-III. - Pour l'application de l'article L. 321-2 à Mayotte, les mots : "de métropole et des départements d'outre-mer" sont
+II. - Pour l'application de l'article L. 321-2 à Mayotte, les mots : "de métropole et des départements d'outre-mer" sont
 remplacés par les mots : "de Mayotte".
 
-IV. - Pour l'application de l'article L. 331-14 à Mayotte, les mots : "les régions et" sont supprimés.
-
-V. - Pour l'application de l'article L. 333-1 à Mayotte, les mots : "la région" et "les régions" sont remplacés par les
-mots : "la collectivité départementale de Mayotte" et les mots : "Etat-régions" sont remplacés par les mots : "Etat-
-collectivité départementale de Mayotte".
-
-VI. - Pour l'application de l'article L. 341-1 à Mayotte, les mots : "chaque département" sont remplacés par les mots : "la
-collectivité départementale de Mayotte".
-
-VII. - Pour l'application de l'article L. 341-5 à Mayotte, les mots : "d'un département" sont remplacés par les mots : "de la
-collectivité départementale de Mayotte".
-
-VIII. - Pour l'application de l'article L. 341-16 à Mayotte, les mots : "chaque département" et "des collectivités
-territoriales" sont remplacés respectivement par les mots : "la collectivité départementale de Mayotte" et "de la
-collectivité départementale".
-
-IX. - Pour l'application à Mayotte de l'article L. 341-19 :
-
-- les mots : "L. 480-4 du code de l'urbanisme" sont remplacés par les mots : "L. 440-4 du code de l'urbanisme applicable à
-Mayotte" ;
-
-- les mots : "L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme" sont remplacés par les mots : "L.
-440-1, L. 440-2, L. 440-3 et L. 440-5 à L. 440-9 du code de l'urbanisme applicable à Mayotte" ;
-
-- les mots : "L. 480-5 du code de l'urbanisme" sont remplacés par les mots : "L. 440-5 du code de l'urbanisme applicable à
-Mayotte" ;
-
-- les mots : "L. 460-1 du code de l'urbanisme" sont remplacés par les mots : "L. 430-1 du code de l'urbanisme applicable à
-Mayotte" ; les mots : "L. 480-12" sont remplacés par les mots : "L. 440-10".
-
-X. - Pour l'application à Mayotte de l'article L. 341-20, après les mots : "322-2 du code pénal", sont insérés les mots :
+III. - Pour l'application à Mayotte de l'article L. 341-20, après les mots : "322-2 du code pénal", sont insérés les mots :
 "modifié par l'article 724-1 du même code pour son application à Mayotte".
 
-XI. - Pour l'application à Mayotte de l'article L. 341-22, les mots : "régulièrement classés avant le 2 mai 1930 conformément
+IV. - Pour l'application à Mayotte de l'article L. 341-22, les mots : "régulièrement classés avant le 2 mai 1930 conformément
 aux dispositions de la loi du 21 avril 1906 organisant la protection des sites et monuments naturels de caractère artistique"
 sont remplacés par les mots : "régulièrement protégés avant la promulgation de la loi n° 2001-616 du 11 juillet 2001 relative
 à Mayotte, conformément aux dispositions de la loi n° 56-1106 du 3 novembre 1956 ayant pour objet, dans les territoires
 relevant du ministère de la France d'outre-mer, la protection des monuments naturels, des sites et des monuments de caractère
 historique, scientifique, artistique ou pittoresque, le classement des objets historiques, scientifiques ou ethnographiques
 et la réglementation des fouilles".
-
-XII. - Pour l'application de l'article L. 361-1 à Mayotte, les mots : "Le département" et "du département" sont remplacés
-respectivement par les mots : "La collectivité départementale de Mayotte" et "de la collectivité départementale de Mayotte"
-et le mot : "départemental" est supprimé.
-
-XIII. - Pour l'application de l'article L. 361-2 à Mayotte, les mots : "Le département" et "des départements" sont remplacés
-respectivement par les mots : "La collectivité départementale de Mayotte" et "de la collectivité départementale de Mayotte"
-et le mot : "départemental" est supprimé.
 
 **Liens relatifs à cet article**
 
@@ -46861,30 +46850,16 @@ et le mot : "départemental" est supprimé.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 6 IV JORF 24 février 2004
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 7 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L300-3 (M)
-	  - Code de l'environnement - art. L310-1 (V)
-	  - Code de l'environnement - art. L310-3 (V)
-	  - Code de l'environnement - art. L321-1 (V)
+	  - Code de l'environnement - art. L321-11 (M)
+	  - Code de l'environnement - art. L321-12 (M)
 	  - Code de l'environnement - art. L321-2 (V)
-	  - Code de l'environnement - art. L321-8 (V)
-	  - Code de l'environnement - art. L321-9 (M)
-	  - Code de l'environnement - art. L331-14 (M)
-	  - Code de l'environnement - art. L333-3 (M)
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code de l'environnement - art. L341-16 (M)
-	  - Code de l'environnement - art. L341-19 (M)
+	  - Code de l'environnement - art. L333-4 (M)
 	  - Code de l'environnement - art. L341-20 (V)
 	  - Code de l'environnement - art. L341-22 (V)
-	  - Code de l'environnement - art. L341-5 (V)
-	  - Code de l'environnement - art. L350-1 (V)
-	  - Code de l'environnement - art. L361-1 (M)
-	  - Code de l'environnement - art. L361-2 (V)
-	  - Code de l'environnement - art. L364-1 (M)
-	  - Code de l'environnement L300-3, L310-1, L310-3, L321-1, L321-2, L321-8, L321-9, L322-1 à L322-14, L331-1 à L331-4, L331-6 à L333-1, L333-3, L341-1 à L342-1, L350-1, L361-1, L361-2, L364-1, L331-14, L341-1, L341-5, L341-16, L341-19, L341-20, L341-22,
 
 
 ###### Article L653-2
@@ -46894,13 +46869,6 @@ territoriale, outre les agents mentionnés dans ces dispositions, les agents du 
 commissionnés par le représentant du Gouvernement.
 
 Les procès-verbaux font foi jusqu'à preuve contraire. Ils sont transmis dans les délais prévus par le livre III.
-
-L'article L. 428-26 est applicable à ces agents.
-
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires, la référence au représentant du
-Gouvernement est remplacée par la référence au représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -46914,62 +46882,50 @@ Gouvernement est remplacée par la référence au représentant de l'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 8 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+
+###### Article L653-3
+
+Les dispositions des II et III de l'article L. 332-2 ne sont pas applicables à Mayotte. 
+
+Les références à une décision du président du conseil régional à l'article L. 332-6, à une autorisation spéciale du conseil
+régional à l'article L. 332-9, ou à une délibération du conseil régional à l'article L. 332-10 sont sans objet à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 8 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L428-26 (Ab)
+	  - Code de l'environnement - art. L322-2
+	  - Code de l'environnement - art. L332-10
+	  - Code de l'environnement - art. L332-6
+	  - Code de l'environnement - art. L332-9
 
 
 #### Chapitre IV : Faune et flore
 
 ###### Article L654-1
 
-I. - Dans le livre IV du présent code, sont applicables à Mayotte les articles L. 411-1 à L. 411-5, L. 412-1, L. 413-1 à L.
-413-5, L. 415-1 à L. 415-5, L. 420-1 à L. 420-3, L. 421-1 à L. 421-7, L. 421-9 à L. 421-11, L. 421-14, L. 422-1 à L. 422-28,
-L. 423-1 à L. 423-12, L. 423-15 à L. 423-27, L. 424-1 à L. 424-4, L. 424-6 à L. 424-16, L. 425-1, le premier alinéa de
-l'article L. 425-2, les articles L. 425-3, L. 425-5, L. 426-7 et L. 426-8, L. 427-6, L. 427-8 à L. 427-10, L. 428-1 à L.
-428-20, les deux premiers alinéas de l'article L. 428-21 et les articles L. 428-22 à L. 428-34, L. 430-1 à L. 435-9, L. 436-4
-à L. 437-23 et L. 438-2.
+Les articles L. 414-1 à L. 414-7 et L. 436-1 à L. 436-3 ne sont pas applicables à Mayotte.
 
-II. - Pour l'application à Mayotte du livre IV du présent code, les mots : "préfet" et "préfet de région" sont remplacés par
-les mots : "représentant de l'Etat".
+**Nota:**
 
-III. - Pour l'application à Mayotte des articles L. 421-1 et L. 421-7, le mot : "régionales" est supprimé.
-
-IV. - Pour l'application à Mayotte des articles L. 421-5, L. 421-7, L. 421-10, L. 422-2, L. 422-14, L. 423-5, L. 425-3, L.
-425-5 (dernier alinéa), L. 431-6, L. 432-1, L. 433-2, L. 435-5 et L. 437-5, les mots : "départemental", "départementale" et
-"départementales", précédés, le cas échéant, des mots : "et" ou "ou" sont supprimés.
-
-V. - Pour l'application à Mayotte des articles L. 421-5, L. 421-6, L. 421-9, L. 421-10 et L. 421-11, les mots : "les
-fédérations départementales", "des fédérations départementales" et "elles" sont remplacés par les mots : "la fédération", "de
-la fédération" et "elle" et les verbes sont mis au singulier.
-
-VI. - Pour l'application à Mayotte des articles L. 421-7, L. 422-10 et L. 434-4, les mots : "du département" et "des
-départements" sont remplacés par les mots : "de la collectivité départementale de Mayotte".
-
-VII. - Pour l'application à Mayotte des articles L. 424-8, à l'exception de son quatrième alinéa, et L. 425-3, les mots : "le
-département" sont remplacés par les mots : "la collectivité départementale de Mayotte".
-
-VIII. - Pour l'application à Mayotte des articles L. 424-12, L. 425-1 et L. 434-3, les mots : "chaque département" sont
-remplacés par les mots : "la collectivité départementale de Mayotte".
-
-IX. - Pour l'application à Mayotte de l'article L. 422-7, sont insérés, après les mots : "l'article L. 422-6", les mots : "et
-dans la collectivité départementale de Mayotte".
-
-X. - Pour l'application à Mayotte des articles L. 423-19 et L. 423-22, le mot : "départementale" est remplacé par les mots :
-"de la collectivité départementale".
-
-XI. - Pour l'application à Mayotte de l'article L. 432-6, les mots : "avis des conseils généraux rendus" sont remplacés par
-les mots : "avis du conseil général rendu".
-
-XII. - Pour l'application à Mayotte de l'article L. 434-6, les mots : "départemental et interdépartemental" sont remplacés
-par les mots : "de la collectivité départementale de Mayotte".
-
-XIII. - Pour l'application à Mayotte de l'article L. 436-4, les mots : tout membre d'une association agréée de pêche et de
-pisciculture sont remplacés par les mots : toute personne ayant acquitté la taxe mentionnée à l'article L. 654-6.
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -46980,7 +46936,7 @@ pisciculture sont remplacés par les mots : toute personne ayant acquitté la ta
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 9 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -46988,43 +46944,7 @@ pisciculture sont remplacés par les mots : toute personne ayant acquitté la ta
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L412-1 (V)
-	  - Code de l'environnement - art. L421-1 (M)
-	  - Code de l'environnement - art. L421-10 (M)
-	  - Code de l'environnement - art. L421-14 (M)
-	  - Code de l'environnement - art. L421-5 (M)
-	  - Code de l'environnement - art. L421-6 (M)
-	  - Code de l'environnement - art. L421-9 (M)
-	  - Code de l'environnement - art. L422-10 (V)
-	  - Code de l'environnement - art. L422-14 (M)
-	  - Code de l'environnement - art. L422-2 (M)
-	  - Code de l'environnement - art. L422-7 (V)
-	  - Code de l'environnement - art. L423-19 (V)
-	  - Code de l'environnement - art. L423-22 (Ab)
-	  - Code de l'environnement - art. L423-5 (M)
-	  - Code de l'environnement - art. L424-12 (V)
-	  - Code de l'environnement - art. L424-8 (M)
-	  - Code de l'environnement - art. L425-1 (M)
-	  - Code de l'environnement - art. L425-2 (Ab)
-	  - Code de l'environnement - art. L425-3 (M)
-	  - Code de l'environnement - art. L425-5 (M)
-	  - Code de l'environnement - art. L426-7 (M)
-	  - Code de l'environnement - art. L426-8 (M)
-	  - Code de l'environnement - art. L427-6 (M)
-	  - Code de l'environnement - art. L428-21 (V)
-	  - Code de l'environnement - art. L431-6 (M)
-	  - Code de l'environnement - art. L432-1 (M)
-	  - Code de l'environnement - art. L432-6 (M)
-	  - Code de l'environnement - art. L433-2 (M)
-	  - Code de l'environnement - art. L434-3 (M)
-	  - Code de l'environnement - art. L434-4 (M)
-	  - Code de l'environnement - art. L434-6 (V)
-	  - Code de l'environnement - art. L435-5 (M)
-	  - Code de l'environnement - art. L436-4 (M)
-	  - Code de l'environnement - art. L437-5 (M)
-	  - Code de l'environnement - art. L438-2 (V)
-	  - Code de l'environnement - art. L654-6 (M)
-	  - Code de l'environnement L411-1 à L411-5, L412-1, L413-1 à L413-5, L415-1 à L415-5, L420-1 à L420-3, L421-1 à L421-7, L421-9 à L421-11, L421-14, L422-1 à L422-28, L423-1 à L423-12, L423-15 à L423-27, L424-1 à L424-4, L424-6 à L424-16, L425-1, L425-2,
+	  - Code de l'environnement L414-1 à L414-7, L436-1 à L436-3
 
 
 ###### Article L654-2
@@ -47055,7 +46975,7 @@ de l'Etat peut compléter la liste prévue à l'article L. 412-1.
 
 ###### Article L654-3
 
-Le représentant de l'Etat prend les arrêtés prévus aux articles L. 421-7, L. 424-1 et L. 424-4.
+Le représentant de l'Etat prend les arrêtés prévus aux articles L. 424-1 et L. 424-4.
 
 **Liens relatifs à cet article**
 
@@ -47066,13 +46986,12 @@ Le représentant de l'Etat prend les arrêtés prévus aux articles L. 421-7, L.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 9 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L421-7 (M)
 	  - Code de l'environnement - art. L424-1 (V)
-	  - Code de l'environnement - art. L424-4 (M)
+	  - Code de l'environnement - art. L424-4 (V)
 
 	**Anciens textes**:
 
@@ -47131,8 +47050,14 @@ Les listes prévues aux articles L. 432-6 et L. 432-10 sont fixées par arrêté
 
 ###### Article L654-6
 
-Toute personne qui se livre à l'exercice de la pêche doit avoir acquitté une taxe annuelle dont le produit est versé à la
-collectivité départementale de Mayotte et affecté aux dépenses de surveillances et de mise en valeur du patrimoine piscicole.
+Toute personne qui se livre à l'exercice de la pêche doit justifier de sa qualité de membre soit d'une association agréée de
+pêche et de protection du milieu aquatique, soit d'une association agréée de pêcheurs amateurs aux engins et aux filets sur
+les eaux du domaine public, soit d'une association agréée de pêcheurs professionnels.
+
+**Nota:**
+
+Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.  La présente version de cet article est en vigueur
+jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -47143,7 +47068,12 @@ collectivité départementale de Mayotte et affecté aux dépenses de surveillan
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 9 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
 
 	**Cité par**:
 
@@ -47211,12 +47141,10 @@ Mayotte.
 ###### Article L654-9
 
 Sont habilités à constater les infractions aux dispositions du livre IV du présent code commises dans la collectivité
-départementale de Mayotte outre les agents mentionnés dans ces dispositions, les agents du service territorial des eaux et
-forêts commissionnés par le représentant de l'Etat.
+départementale de Mayotte outre les agents mentionnés dans ces dispositions, les agents de la direction de l'agriculture et
+de la forêt commissionnés par le représentant de l'Etat.
 
 Les procès-verbaux font foi jusqu'à preuve contraire. Ils sont transmis dans les délais prévus par le livre IV.
-
-L'article L. 428-26 est applicable à ces agents.
 
 **Liens relatifs à cet article**
 
@@ -47227,12 +47155,7 @@ L'article L. 428-26 est applicable à ces agents.
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 2001-07-11 art. 51 VI, VII JORF 13 juillet 2001
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L428-26 (Ab)
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 9 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Anciens textes**:
 
@@ -47243,46 +47166,7 @@ L'article L. 428-26 est applicable à ces agents.
 
 ###### Article L655-1
 
-I. - Dans le livre V du présent code, sont applicables à Mayotte les articles L. 511-1 à L. 514-5, L. 514-6 sauf le IV, L.
-514-7 à L. 514-16, L. 514-18 à L. 521-16, L. 541-1, L. 541-2, L. 541-3 sauf la dernière phrase du deuxième alinéa, L. 541-4 à
-L. 541-15, L. 541-22 à L. 541-26 sauf la dernière phrase du deuxième alinéa et le dernier alinéa, L. 541-27 à L. 541-29, L.
-541-31, L. 541-37 à L. 541-42, L. 541-46 sauf le 11° du I, L. 551-1, L. 553-1 à L. 553-4, L. 562-1 à L. 562-5, L. 562-8, L.
-563-1, L. 571-1 à L. 571-6 et L. 571-8.
-
-II. - Pour l'application des articles L. 512-2, L. 512-7, L. 512-9, L. 512-12, L. 514-1, L. 514-4, L. 514-11, L. 515-1, L.
-515-2 et L. 515-3 à Mayotte, le mot : "départementale" est supprimé.
-
-III. - Pour l'application de l'article L. 512-8 à Mayotte, les mots : "le département" sont remplacés par les mots : "la
-collectivité départementale de Mayotte".
-
-IV. - Pour l'application de l'article L. 515-3 à Mayotte, les mots : "le département" et "du département" sont respectivement
-remplacés par les mots : "la collectivité départementale de Mayotte" et "de la collectivité départementale de Mayotte" et le
-mot :
-
-"départemental" est supprimé. Pour son application à Mayotte, les mots : "et des départements voisins" sont supprimés dans la
-deuxième phrase du premier alinéa du même article.
-
-V. - Pour l'application à Mayotte de l'article L. 541-12, le mot :
-
-"région" est remplacé par les mots : "collectivité départementale de Mayotte".
-
-VI. - Pour l'application de l'article L. 541-13 à Mayotte, les mots : "Chaque région" et "conseil régional" sont
-respectivement remplacés par les mots : "La collectivité départementale de Mayotte" et "conseil général" et les mots :
-"régional ou interrégional" sont supprimés. Pour son application à Mayotte, la deuxième phrase du VI du même article est
-supprimée.
-
-VII. - Pour l'application de l'article L. 541-14 à Mayotte, les mots : "Chaque département est couvert" sont remplacés par
-les mots :
-
-"La collectivité départementale de Mayotte est couverte" et les mots : "départemental ou interdépartemental" et
-"départemental" sont supprimés. Pour son application à Mayotte, les mots : "conseils généraux des départements limitrophes"
-au VII du même article sont supprimés.
-
-**Nota:**
-
-Nota : Loi 2003-591 2003-07-02 art. 31 IV : les modifications apportées par le présent article à des dispositions applicables
-à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française, à Saint-Pierre-et-Miquelon, aux Terres australes et
-antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces collectivités.
+Les articles L. 541-32, L. 541-36, L. 565-1 et L. 562-6 ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -47293,26 +47177,14 @@ antarctiques françaises et aux îles Wallis et Futuna sont étendues à ces col
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 10 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L512-12 (V)
-	  - Code de l'environnement - art. L512-2 (M)
-	  - Code de l'environnement - art. L512-7 (M)
-	  - Code de l'environnement - art. L512-8 (V)
-	  - Code de l'environnement - art. L512-9 (V)
-	  - Code de l'environnement - art. L514-1 (V)
-	  - Code de l'environnement - art. L514-11 (M)
-	  - Code de l'environnement - art. L514-4 (V)
-	  - Code de l'environnement - art. L514-6 (M)
-	  - Code de l'environnement - art. L515-1 (M)
-	  - Code de l'environnement - art. L515-2 (Ab)
-	  - Code de l'environnement - art. L515-3 (M)
-	  - Code de l'environnement - art. L541-12 (V)
-	  - Code de l'environnement - art. L541-13 (M)
-	  - Code de l'environnement - art. L541-14 (M)
-	  - Code de l'environnement L511-1 à L514-5, L514-6, L512-2, L512-7, L512-9, L512-12, L514-1, L514-4, L514-11, L515-1, L515-2, L515-3, L512-8, L541-12, L541-13, L541-14
+	  - Code de l'environnement - art. L541-32 (Ab)
+	  - Code de l'environnement - art. L541-36 (Ab)
+	  - Code de l'environnement - art. L562-6 (V)
+	  - Code de l'environnement - art. L565-1 (Ab)
 
 
 ###### Article L655-2
@@ -47341,14 +47213,17 @@ municipaux des communes sur lesquelles s'étend le périmètre. "
 
 ###### Article L655-3
 
-Pour l'application de l'article L. 515-10, la référence à l'article L. 126-1 du code de l'urbanisme est remplacée par la
-référence à l'article L. 121-1 du code de l'urbanisme applicable dans la collectivité territoriale de Mayotte.
+Pour son application à Mayotte, le troisième alinéa de l'article L. 515-11 est ainsi rédigé : 
+
+" Le préjudice est estimé à la date de la décision de première instance. Toutefois, est seul pris en considération l'usage
+possible des immeubles et droits immobiliers un an avant la mise à la disposition du public prévue à l'article L. 515-9. " 
+
+Les articles L. 515-15 à L. 515-26 ne sont applicables à Mayotte qu'à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 92-1068 1992-10-01 art. 3-2
 	  - Ordonnance no 92-1068 du 1er octobre 1992 portant  - art. 3 (Ab)
 	  - Code de l'environnement - art. L655-4 (T)
 
@@ -47357,33 +47232,26 @@ référence à l'article L. 121-1 du code de l'urbanisme applicable dans la coll
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-869 2005-07-28 art. 12 : spécificité d'application
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 10 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-1 (M)
-	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code de l'environnement - art. L515-10 (V)
+	  - Code de l'environnement - art. L515-11 (V)
+	  - Code de l'environnement - art. L515-15 (V)
 
 
 ###### Article L655-4
 
-Pour son application à Mayotte, le troisième alinéa de l'article L. 515-11 est ainsi rédigé :
+Pour l'application de l'article L. 541-10-1 à Mayotte, les mots : 
 
-" Le préjudice est estimé à la date de la décision de première instance. Toutefois, est seul pris en considération l'usage
-possible des immeubles et droits immobiliers un an avant la mise à la disposition du public prévue à l'article L. 515-9. "
+" 1er janvier 2005 " sont remplacés par les mots : " 1er janvier 2010 ".
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 92-1068 1992-10-01 art. 3-3
 	  - Ordonnance no 92-1068 du 1er octobre 1992 portant  - art. 3 (Ab)
 
 	**Codifié par**:
@@ -47391,32 +47259,43 @@ possible des immeubles et droits immobiliers un an avant la mise à la dispositi
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 10 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 11 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L515-11 (V)
-	  - Code de l'environnement - art. L515-9 (V)
+	  - Code de l'environnement - art. L541-10-1 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de l'environnement - art. L655-3 (Ab)
 	  - Code de l'environnement - art. L655-3 (V)
 
 
 ###### Article L655-5
 
-Pour l'application de l'article L. 541-29, les références aux chapitres Ier et III du titre Ier du livre II et à l'article L.
-213-2 du code de l'urbanisme sont remplacées par les références au titre Ier du livre II et à l'article L. 210-5 du code de
-l'urbanisme applicable dans la collectivité territoriale de Mayotte.
+Pour l'application de l'article L. 541-13 à Mayotte, les paragraphes V, VI et VII sont remplacés par les paragraphes
+suivants :
+
+V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité de l'Etat. Toutefois, cette compétence est
+transférée, à sa demande, au conseil général.
+
+VI. - Le projet de plan est soumis pour avis au conseil général et à une commission composée de représentants des
+collectivités territoriales, de l'Etat et des organismes publics intéressés, des organisations professionnelles concourant à
+la production et à l'élimination des déchets et des associations agréées de protection de l'environnement.
+
+VII. - Le projet de plan, éventuellement modifié pour tenir compte des avis émis en application du VI, est mis à la
+disposition du public pendant deux mois, puis approuvé par le représentant de l'Etat et publié.
+
+**Nota:**
+
+L'article 25 de la loi n° 2010-1487 du 7 décembre 2010 qui modifiait l'article L. 655-5 à compter du 31 mars 2011 est devenu
+sans objet.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 92-1068 1992-10-01 art. 2-II
 	  - Ordonnance no 92-1068 du 1er octobre 1992 portant  - art. 2 (Ab)
 
 	**Codifié par**:
@@ -47424,24 +47303,34 @@ l'urbanisme applicable dans la collectivité territoriale de Mayotte.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Ordonnance 2005-869 2005-07-28 art. 12 : spécificité d'application
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 11 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 10 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2010-1579 du 17 décembre 2010 - art. 22
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-2 (M)
-	  - Code de l'urbanisme L213-2, L210-5
-	  - Code de l'environnement - art. L541-29 (V)
+	  - Code de l'environnement - art. L541-13 (M)
 
 
 ###### Article L655-6
 
-Pour l'application du 8° du I de l'article L. 541-46, la référence aux articles L. 541-35 et L. 541-36 est supprimée.
+Pour l'application de l'article L. 541-14 à Mayotte, les paragraphes V à VIII sont remplacés par les paragraphes suivants :
+
+V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité de l'Etat. Toutefois, cette compétence est
+transférée, à sa demande, au conseil général.
+
+VI. - Il est établi après concertation au sein d'une commission consultative composée de représentants des communes et de
+leurs groupements, de la collectivité départementale, de l'Etat, des organismes publics et des professionnels intéressés et
+des associations agréées de protection de l'environnement.
+
+VII. - Le projet de plan est soumis pour avis au conseil général et au conseil d'hygiène.
+
+VIII. - Le projet de plan, éventuellement modifié pour tenir compte des avis émis en application du VII, est mis à la
+disposition du public pendant deux mois, puis approuvé par le représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -47450,19 +47339,13 @@ Pour l'application du 8° du I de l'article L. 541-46, la référence aux articl
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Ordonnance 2005-869 2005-07-28 art. 12 : spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 10 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 11
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L541-35 (V)
-	  - Code de l'environnement - art. L541-36 (Ab)
-	  - Code de l'environnement - art. L541-46 (M)
+	  - Code de l'environnement - art. L541-14 (M)
 
 	**Cité par**:
 
@@ -47471,19 +47354,19 @@ Pour l'application du 8° du I de l'article L. 541-46, la référence aux articl
 
 ###### Article L655-7
 
-Les agents commissionnés par le représentant du Gouvernement et assermentés sont habilités à constater les infractions aux
-dispositions du livre V du présent code lorsqu'elles sont applicables à Mayotte.
+Pour l'application de l'article L. 551-2 à Mayotte, les mots : "à la date de publication de la loi n° 2003-699 du 30 juillet
+2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages" sont remplacés par les
+mots : "à la date de publication de l'ordonnance n° 2005-869 du 28 juillet 2005 relative à l'adaptation du droit de
+l'environnement à Mayotte" et les mots : "dans les trois années suivant l'entrée en vigueur de ladite loi" sont remplacés par
+les mots : "avant le 31 décembre 2008".
 
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires, la référence au représentant du
-Gouvernement est remplacée par la référence au représentant de l'Etat.
+Par dérogation aux dispositions du dernier alinéa du même article, ses modalités d'application, et notamment les catégories
+d'ouvrages concernés, sont fixées par arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 92-1068 1992-10-01 art. 4
 	  - Ordonnance no 92-1068 du 1er octobre 1992 portant  - art. 4 (Ab)
 
 	**Codifié par**:
@@ -47491,17 +47374,38 @@ Gouvernement est remplacée par la référence au représentant de l'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 11 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
-	**Transféré par**:
+	**Cite**:
 
-	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 10 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Code de l'environnement - art. L551-2 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L655-8 (V)
+
+
+###### Article L655-8
+
+Les agents commissionnés par le représentant du Gouvernement et assermentés sont habilités à constater les infractions aux
+dispositions du livre V du présent code lorsqu'elles sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 10 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Anciens textes**:
+
+	  - Code de l'environnement - art. L655-7 (T)
 
 
 #### Chapitre VI : Antarctique
