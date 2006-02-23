@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-02-24
 
 # Partie législative
 
@@ -41992,9 +41992,9 @@ connus ou de ceux qui pourraient résulter des modifications de milieu envisagé
 
 Cette prise en compte s'apprécie en fonction des informations dont peut disposer l'autorité compétente.
 
-Sans préjudice des dispositions des deux alinéas ci-dessus, le représentant de l'Etat visé à l'article L. 145-11 du code de
-l'urbanisme pour les unités touristiques nouvelles et à l'article L. 445-1 du même code pour les remontées mécaniques tient
-compte des risques naturels pour la délivrance des autorisations correspondantes.
+Sans préjudice des dispositions des deux alinéas ci-dessus, les représentants de l'Etat visés à l'article L. 145-11 du code
+de l'urbanisme pour les unités touristiques nouvelles et à l'article L. 445-1 du même code pour les remontées mécaniques
+tiennent compte des risques naturels pour la délivrance des autorisations correspondantes.
 
 **Liens relatifs à cet article**
 
@@ -42007,6 +42007,10 @@ compte des risques naturels pour la délivrance des autorisations correspondante
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005 en vigueur le 26 février 2006 au plus tard
 
 	**Cite**:
 
@@ -90727,5 +90731,26 @@ Cours d'eau normands
 	**Abrogé par**:
 
 	  - Décret n°2007-1760 du 14 décembre 2007 - art. 6
+
+
+###### Article Annexe à l'article R151-2
+
+Liste des activités soumises à la TGAP prévue au b du 8 du I de l'article 266 sexies du code des douanes 
+
+Annexe non reproduite, consulter le fac-similé.
+
+**Nota:**
+
+Consulter le fac-similé des décrets n° 2005-935 du 2 août 2005 et n° 2006-216 du 22 février 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1467 2007-10-12 art. 9 II JORF 16 octobre 2007
 
 
