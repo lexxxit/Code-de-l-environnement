@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-02-24
+Version Consolidée au 2006-04-01
 
 # Partie législative
 
@@ -49185,8 +49185,8 @@ montant à retenir est celui du programme général de travaux.
 II. - Toutefois, la procédure de l'étude d'impact est applicable quel que soit le coût de leur réalisation, aux aménagements,
 ouvrages et travaux définis ci-après :
 
-1° Opérations d'aménagement foncier visées aux 2°, 5° et 6° de l'article L. 121-1 du code rural, y compris leurs travaux
-connexes ;
+1° Opérations d'aménagements fonciers agricoles et forestiers visées au 1° de l'article L. 121-1 du code rural, y compris
+leurs travaux connexes ;
 
 2° Travaux d'installation ou de modernisation des ouvrages de transport et de distribution d'électricité de tension
 supérieure ou égale à 63 kV ;
@@ -49257,6 +49257,14 @@ une superficie d'au moins 50 hectares.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural L121-1
+	  - Code de la santé publique - art. R1416-3 (M)
+	  - Code de la santé publique R1416-3, R431-16
+	  - Code de l'urbanisme - art. L130-2 (M)
+	  - Code de l'environnement - art. L431-6 (M)
+
 	**Cité par**:
 
 	  - Décret n°59-645 du 16 mai 1959 - art. 4 (Ab)
@@ -49276,13 +49284,9 @@ une superficie d'au moins 50 hectares.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la santé publique - art. R1416-3 (M)
-	  - Code de la santé publique R1416-3, R431-16
-	  - Code de l'urbanisme - art. L130-2 (M)
-	  - Code de l'environnement - art. L431-6 (M)
-	  - Code rural L121-1
+	  - Décret n°2006-394 du 30 mars 2006 - art. 26 () JORF 1er avril 2006
 
 
 ###### Article R122-9
