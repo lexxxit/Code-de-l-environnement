@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-04-01
+Version Consolidée au 2006-04-15
 
 # Partie législative
 
@@ -15159,6 +15159,44 @@ Les contraventions peuvent donner lieu à la procédure de l'amende forfaitaire,
 	  - Code de procédure pénale - art. 529 (V)
 
 
+###### Article L322-10-4
+
+Sans préjudice des sanctions pénales encourues, toute atteinte à l'intégrité et à la conservation du domaine public relevant
+du Conservatoire de l'espace littoral et des rivages lacustres, ou de nature à compromettre son usage, constitue une
+contravention de grande voirie constatée, réprimée et poursuivie par voie administrative. 
+
+Elle est constatée par les agents visés à l'article L. 322-10-1, sans préjudice des compétences des officiers et agents de
+police judiciaire et des autres agents spécialement habilités. 
+
+Les personnes condamnées sont tenues de réparer ces atteintes et encourent les amendes prévues pour les contraventions de
+cinquième classe et les cas de récidive. Elles supportent les frais des mesures provisoires et urgentes que le Conservatoire
+de l'espace littoral et des rivages lacustres a pu être amené à prendre pour faire cesser le trouble apporté au domaine
+public par les infractions constatées. 
+
+Le directeur du Conservatoire de l'espace littoral et des rivages lacustres et, sur délégation, les délégués des rivages du
+conservatoire, ont compétence pour saisir le tribunal administratif, dans les conditions et suivant les procédures prévues
+par le code de justice administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 19 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-10-1 (VT)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R322-37-1 (V)
+
+
 ##### Section 3 : Administration
 
 ##### Sous-section 1 : Conseil d'administration
@@ -15295,11 +15333,16 @@ définies par un décret en Conseil d'Etat.
 
 ###### Article L331-1
 
-Le territoire de tout ou partie d'une ou de plusieurs communes peut être classé par décret en Conseil d'Etat en parc national
-lorsque la conservation de la faune, de la flore, du sol, du sous-sol, de l'atmosphère, des eaux et, en général, d'un milieu
-naturel présente un intérêt spécial et qu'il importe de préserver ce milieu contre tout effet de dégradation naturelle et de
-le soustraire à toute intervention artificielle susceptible d'en altérer l'aspect, la composition et l'évolution. Le décret
-de classement peut affecter le domaine public maritime et les eaux territoriales et intérieures françaises.
+Un parc national peut être créé à partir d'espaces terrestres ou maritimes, lorsque le milieu naturel, particulièrement la
+faune, la flore, le sol, le sous-sol, l'atmosphère et les eaux, les paysages et, le cas échéant, le patrimoine culturel
+qu'ils comportent présentent un intérêt spécial et qu'il importe d'en assurer la protection en les préservant des
+dégradations et des atteintes susceptibles d'en altérer la diversité, la composition, l'aspect et l'évolution.
+
+Il est composé d'un ou plusieurs coeurs, définis comme les espaces terrestres et maritimes à protéger, ainsi que d'une aire
+d'adhésion, définie comme tout ou partie du territoire des communes qui, ayant vocation à faire partie du parc national en
+raison notamment de leur continuité géographique ou de leur solidarité écologique avec le coeur, ont décidé d'adhérer à la
+charte du parc national et de concourir volontairement à cette protection. Il peut comprendre des espaces appartenant au
+domaine public maritime et aux eaux sous souveraineté de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -15307,6 +15350,10 @@ de classement peut affecter le domaine public maritime et les eaux territoriales
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 1 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -15351,8 +15398,25 @@ de classement peut affecter le domaine public maritime et les eaux territoriales
 
 ###### Article L331-2
 
-Le décret créant un parc national est pris après enquête publique et les consultations déterminées par décret en Conseil
-d'Etat.
+La création d'un parc national est décidée par décret en Conseil d'Etat, au terme d'une procédure fixée par le décret prévu à
+l'article L. 331-7 et comportant une enquête publique et des consultations.
+
+Le décret de création d'un parc national :
+
+1° Délimite le périmètre du ou des coeurs du parc national et fixe les règles générales de protection qui s'y appliquent ;
+
+2° Détermine le territoire des communes ayant vocation à adhérer à la charte du parc ;
+
+3° Approuve la charte du parc, dresse la liste des communes ayant exprimé par une délibération leur décision d'y adhérer et
+prend acte du périmètre effectif des espaces terrestres et maritimes du parc ;
+
+4° Crée l'établissement public national à caractère administratif du parc.
+
+L'adhésion d'une commune à la charte, postérieurement à la création du parc national, est soumise à l'accord de
+l'établissement public du parc. Cette adhésion ne peut intervenir qu'à une échéance triennale à compter de l'approbation de
+la charte ou que lors de sa révision. Elle est constatée par le préfet qui actualise le périmètre effectif du parc national.
+
+Le parc national ne peut comprendre tout ou partie du territoire d'une commune classée en parc naturel régional.
 
 **Liens relatifs à cet article**
 
@@ -15412,21 +15476,94 @@ d'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 2 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-7 (V)
+
 	**Anciens textes**:
 
 	  - Code rural - art. L241-3 (Ab)
-	  - Code rural L241-3 al. 1
 
 
 ###### Article L331-3
 
-Le décret mentionné à l'article L. 331-2 peut soumettre à un régime particulier et, le cas échéant, interdire à l'intérieur
-du parc la chasse et la pêche, les activités industrielles et commerciales, l'exécution des travaux publics et privés,
-l'extraction des matériaux concessibles ou non, l'utilisation des eaux, la circulation du public quel que soit le moyen
-emprunté, toute action susceptible de nuire au développement naturel de la faune et de la flore et, plus généralement,
-d'altérer le caractère du parc national.
+I. - La charte du parc national définit un projet de territoire traduisant la solidarité écologique entre le coeur du parc et
+ses espaces environnants.
 
-Il réglemente, en outre, l'exercice des activités agricoles, pastorales ou forestières.
+Elle est composée de deux parties :
+
+1° Pour les espaces du coeur, elle définit les objectifs de protection du patrimoine naturel, culturel et paysager et précise
+les modalités d'application de la réglementation prévue au 1° de l'article L. 331-2 ;
+
+2° Pour l'aire d'adhésion, elle définit les orientations de protection, de mise en valeur et de développement durable et
+indique les moyens de les mettre en oeuvre.
+
+La charte du parc national comporte des documents graphiques, indiquant les différentes zones et leur vocation. Ces documents
+sont élaborés à partir d'un inventaire du patrimoine naturel, paysager et culturel, de données socio-économiques et d'un
+bilan démographique de la population du parc national.
+
+Chaque partie de la charte comprend un volet général rappelant les principes fondamentaux applicables à l'ensemble des parcs
+nationaux, en raison de leur haute valeur patrimoniale, et un volet spécifique à chaque parc national, comportant des
+objectifs ou orientations et des mesures déterminés à partir de ses particularités territoriales, écologiques, économiques,
+sociales ou culturelles.
+
+Le projet de charte du parc national est élaboré par l'établissement public du parc national ou par le groupement d'intérêt
+public le préfigurant. Il est transmis pour avis aux collectivités territoriales intéressées et à leurs groupements
+concernés.
+
+Des conventions d'application de la charte peuvent être signées entre l'établissement public du parc national et chaque
+collectivité territoriale adhérente pour faciliter la mise en oeuvre des orientations et des mesures de protection, de mise
+en valeur et de développement durable qu'elle prévoit. L'établissement public du parc national peut également proposer à
+d'autres personnes morales de droit public intéressées de s'associer à l'application de la charte par la signature d'une
+convention. Des contrats de partenariat s'inscrivant dans le cadre d'un projet concourant à la mise en oeuvre de la charte
+peuvent par ailleurs être conclus entre l'établissement public du parc national et des personnes morales de droit privé
+concernées par le parc national.
+
+II. - L'établissement public du parc national évalue l'application de la charte et délibère sur l'opportunité de sa révision
+douze ans au plus après son approbation, sa précédente révision ou la dernière décision de ne pas la réviser.
+
+Les modifications ne portant pas atteinte à l'économie générale des objectifs ou orientations de la charte peuvent être
+décidées par l'établissement public du parc après avis des collectivités territoriales intéressées et de leurs groupements
+concernés.
+
+La révision de la charte est soumise aux mêmes règles que son élaboration.
+
+Pour la seule partie de leur territoire comprise dans l'aire d'adhésion, les communes ayant adhéré à la charte du parc
+national peuvent décider de s'en retirer dès l'approbation de la charte révisée ou, le cas échéant, au terme d'un délai de
+trois ans à compter de la délibération décidant de la mise en révision.
+
+En l'absence de délibération, elles peuvent également se retirer au terme d'un délai de quinze ans à compter de l'approbation
+de la charte, de sa précédente révision ou de la dernière décision de ne pas la réviser.
+
+Le préfet constate, en tant que de besoin, le ou les retraits et actualise le périmètre effectif du parc national.
+
+III. - L'établissement public du parc national est associé à l'élaboration et aux différentes procédures de révision des
+schémas de cohérence territoriale et des plans locaux d'urbanisme.
+
+Les schémas de cohérence territoriale, les plans locaux d'urbanisme et les cartes communales doivent être compatibles avec
+les objectifs de protection et les orientations de la charte du parc national. Lorsque l'un de ces documents est approuvé
+avant l'approbation de la charte, il doit, si nécessaire, être rendu compatible dans un délai de trois ans à compter de
+l'approbation de celle-ci.
+
+Lors de leur élaboration ou de leur révision, les documents de planification, d'aménagement et de gestion des ressources
+naturelles relatifs à l'agriculture, à la sylviculture, à l'énergie mécanique du vent, aux carrières, à l'accès à la nature
+et aux sports de nature, à la gestion de l'eau, à la gestion cynégétique, à la gestion de la faune sauvage, au tourisme et à
+l'aménagement ou à la mise en valeur de la mer figurant sur une liste fixée par le décret prévu à l'article L. 331-7 sont
+soumis pour avis à l'établissement public du parc national en tant qu'ils s'appliquent aux espaces inclus dans le parc
+national.
+
+Dans le coeur d'un parc national, ils doivent être compatibles ou rendus compatibles, dans un délai de trois ans à compter de
+l'approbation de la charte s'ils sont antérieurs à celle-ci, avec les objectifs de protection définis par cette dernière pour
+ces espaces.
+
+Les collectivités publiques intéressées s'assurent de la cohérence de leurs actions avec les orientations et mesures de la
+charte et mettent en oeuvre les moyens nécessaires. Les préfets de région s'assurent de la prise en compte des spécificités
+des espaces du coeur et de l'aire d'adhésion d'un parc national au sein des documents de planification de l'action de l'Etat
+et des programmations financières.
 
 **Liens relatifs à cet article**
 
@@ -15434,6 +15571,10 @@ Il réglemente, en outre, l'exercice des activités agricoles, pastorales ou for
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 3 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -15464,7 +15605,35 @@ Il réglemente, en outre, l'exercice des activités agricoles, pastorales ou for
 
 ###### Article L331-4
 
-La publicité est interdite dans les parcs nationaux.
+I.-Dans le coeur d'un parc national, sont applicables les règles suivantes : 
+
+1° En dehors des espaces urbanisés définis dans le décret de création de chaque parc, les travaux, à l'exception des travaux
+d'entretien normal et, pour les équipements d'intérêt général, de grosses réparations, les constructions et les installations
+sont interdits, sauf autorisation spéciale de l'établissement public du parc délivrée après avis de son conseil scientifique
+ou, sur délégation, du président de ce dernier ; 
+
+2° Dans les espaces urbanisés définis dans le décret de création de chaque parc, les travaux, à l'exception des travaux
+d'entretien normal et, pour les équipements d'intérêt général, de grosses réparations, les constructions et les installations
+sont soumis à l'autorisation spéciale de l'autorité administrative après avis de l'établissement public du parc, sous réserve
+des dispositions du II ; 
+
+3° Lorsque ces travaux, constructions et installations sont soumis à une autorisation d'urbanisme, l'avis conforme des
+autorités mentionnées aux 1° et 2° tient lieu d'autorisation spéciale ; 
+
+4° La réglementation du parc et la charte prévues à l'article L. 331-2 peuvent comporter des règles particulières applicables
+aux travaux, constructions et installations. 
+
+Les règles prévues aux 1° à 4° valent servitude d'utilité publique et sont annexées aux plans locaux d'urbanisme dans les
+conditions prévues par l'article L. 126-1 du code de l'urbanisme. 
+
+II.-Les travaux ou aménagements projetés dans le parc qui doivent être précédés d'une étude d'impact en application de
+l'article L. 122-1, ou qui sont soumis à une autorisation en application des articles L. 214-3 ou L. 512-1 et qui sont de
+nature à affecter de façon notable le coeur ou les espaces maritimes du parc national, ne peuvent être autorisés ou approuvés
+que sur avis conforme de l'établissement public du parc émis après consultation de son conseil scientifique. L'autorisation
+spéciale prévue au 1° du I tient lieu, le cas échéant, d'avis conforme. 
+
+III.-Les dispositions du présent article ne s'appliquent pas aux travaux et installations réalisés en application de
+l'article L. 331-5, ni à ceux couverts par le secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -15472,6 +15641,10 @@ La publicité est interdite dans les parcs nationaux.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 4 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -15516,17 +15689,98 @@ La publicité est interdite dans les parcs nationaux.
 	  - Code de l'urbanisme - art. R*425-6 (V)
 	  - Code forestier - art. L11 (VT)
 
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-1 (V)
+	  - Code de l'environnement - art. L214-3 (V)
+	  - Code de l'environnement - art. L331-2 (V)
+	  - Code de l'environnement - art. L331-5 (V)
+	  - Code de l'environnement - art. L512-1 (V)
+
 	**Anciens textes**:
 
 	  - Code rural - art. L241-3 (Ab)
 	  - Code rural L241-3 al. 4
 
 
+###### Article L331-4-1
+
+La réglementation du parc national et la charte prévues par l'article L. 331-2 peuvent, dans le coeur du parc :
+
+1° Fixer les conditions dans lesquelles les activités existantes peuvent être maintenues ;
+
+2° Soumettre à un régime particulier et, le cas échéant, interdire la chasse et la pêche, les activités commerciales,
+l'extraction des matériaux non concessibles, l'utilisation des eaux, la circulation du public quel que soit le moyen
+emprunté, le survol du coeur du parc à une hauteur inférieure à 1 000 mètres du sol, toute action susceptible de nuire au
+développement naturel de la faune et de la flore et, plus généralement, d'altérer le caractère du parc national.
+
+Elles réglementent en outre l'exercice des activités agricoles, pastorales ou forestières.
+
+Les activités industrielles et minières sont interdites dans le coeur d'un parc national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 4 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de l'environnement - art. L331-15-3 (V)
+	  - Code de l'environnement - art. R331-19-2 (VD)
+	  - Code rural et de la pêche maritime - art. L921-10 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-2 (V)
+
+
+###### Article L331-4-2
+
+La réglementation du parc national et la charte prévues par l'article L. 331-2 peuvent prévoir, par dérogation aux articles
+L. 331-4 et L. 331-4-1 et dans des conditions précisées par le décret prévu à l'article L. 331-7, des dispositions plus
+favorables au bénéfice des résidents permanents dans le coeur du parc, des personnes physiques ou morales exerçant une
+activité agricole, pastorale ou forestière de façon permanente ou saisonnière dans le coeur et des personnes physiques
+exerçant une activité professionnelle à la date de création du parc national dûment autorisée par l'établissement du parc
+national, afin de leur assurer, dans la mesure compatible avec les objectifs de protection du coeur du parc national, des
+conditions normales d'existence et de jouissance de leurs droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 4 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 31 (V)
+	  - Code de l'environnement - art. R331-20 (V)
+	  - Code de l'environnement - art. R331-21 (V)
+	  - Code de l'environnement - art. R331-52 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-2 (V)
+	  - Code de l'environnement - art. L331-4 (V)
+	  - Code de l'environnement - art. L331-7 (V)
+
+
 ###### Article L331-5
 
-Sur le territoire d'un parc national, il est fait obligation d'enfouissement des réseaux électriques ou téléphoniques ou,
-pour les lignes électriques d'une tension inférieure à 19 000 volts, d'utilisation de techniques de réseaux torsadés en
-façade d'habitation, lors de la création de lignes électriques nouvelles ou de réseaux téléphoniques nouveaux.
+Dans le coeur d'un parc national, il est fait obligation d'enfouissement des réseaux électriques ou téléphoniques ou, pour
+les lignes électriques d'une tension inférieure à 19 000 volts, d'utilisation de techniques de réseaux torsadés en façade
+d'habitation, lors de la création de lignes électriques nouvelles ou de réseaux téléphoniques nouveaux.
 
 Lorsque des nécessités techniques impératives ou des contraintes topographiques rendent l'enfouissement impossible, ou bien
 lorsque les impacts de cet enfouissement sont jugés supérieurs à ceux d'une pose de ligne aérienne, il peut être dérogé à
@@ -15545,6 +15799,10 @@ ministre chargé de l'environnement.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+
 	**Cité par**:
 
 	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
@@ -15554,7 +15812,14 @@ ministre chargé de l'environnement.
 
 ###### Article L331-6
 
-Le décret de classement peut délimiter autour du parc une zone périphérique définie à l'article L. 331-15.
+A compter de la décision de l'autorité administrative prenant en considération la création d'un parc national dans les
+conditions fixées par le décret prévu à l'article L. 331-7, les travaux, constructions et installations projetés dans les
+espaces ayant vocation à figurer dans le coeur du parc national qui auraient pour effet de modifier l'état des lieux ou
+l'aspect des espaces en cause sont soumis à autorisation de l'autorité administrative, ou, s'ils sont soumis à une
+autorisation d'urbanisme, à l'avis conforme de cette autorité. 
+
+Il peut être sursis à statuer sur les demandes d'autorisation dont ils font l'objet dans les conditions et délai prévus à
+l'article L. 111-8 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -15562,6 +15827,15 @@ Le décret de classement peut délimiter autour du parc une zone périphérique 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 5 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-8 (V)
+	  - Code de l'environnement - art. L331-7 (V)
 
 	**Cité par**:
 
@@ -15578,6 +15852,23 @@ Le décret de classement peut délimiter autour du parc une zone périphérique 
 
 	  - Code rural - art. L241-4 (Ab)
 	  - Code rural L241-4
+
+
+###### Article L331-6-1
+
+Le périmètre du coeur du parc peut être matérialisé par des signaux, bornes et repères dont l'implantation constitue une
+servitude d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 5 () JORF 15 avril 2006
 
 
 ###### Article L331-7
@@ -15613,16 +15904,58 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 ###### Article L331-8
 
-L'aménagement et la gestion des parcs nationaux, confiés à un organisme pouvant constituer un établissement public où sont
-représentées les collectivités locales intéressées, ont lieu dans des conditions fixées par le décret prévu à l'article L.
-331-7.
+L'établissement public national créé par le décret en Conseil d'État prévu à l'article L. 331-2 assure la gestion et
+l'aménagement du parc national. 
+
+Cet établissement est administré par un conseil d'administration composé de représentants de l'État, de représentants des
+collectivités territoriales intéressées et de leurs groupements, d'un représentant du personnel de cet établissement ainsi
+que de membres choisis pour partie pour leur compétence nationale et pour l'autre partie pour leur compétence locale dans le
+domaine d'activité de l'établissement. Les membres choisis en fonction de leur compétence comprennent notamment des
+représentants des associations de protection de l'environnement, des propriétaires, des habitants et des exploitants, des
+professionnels et des usagers. Le nombre et le mode de désignation des membres du conseil sont fixés par le décret de
+création de l'établissement. 
+
+Les présidents de conseils régionaux et généraux intéressés ou leurs représentants, les maires des communes dont la surface
+de territoire comprise dans le coeur du parc national est supérieure à 10 % de la superficie totale du coeur de ce parc ainsi
+que le président du conseil scientifique de l'établissement public du parc national sont membres de droit du conseil
+d'administration. 
+
+Les administrateurs représentant les collectivités territoriales intéressées et leurs groupements, y compris les membres de
+droit, et les membres choisis pour leur compétence locale détiennent la moitié au moins des sièges du conseil
+d'administration. 
+
+Un président est élu au sein du conseil d'administration. Il anime et préside les travaux d'élaboration, de suivi et
+d'évaluation de la charte du parc national. Il représente, avec le directeur, l'établissement dans la mise en oeuvre de la
+politique de communication, de partenariat et de relations internationales définie par le conseil d'administration. 
+
+La limite d'âge prévue à l'article 7 de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction
+publique et le secteur public ne fait pas obstacle à ce que le président soit maintenu en fonction au-delà de cette limite,
+jusqu'au terme de son mandat. 
+
+Le directeur de l'établissement public est nommé par arrêté du ministre chargé de la protection de la nature sur la base
+d'une liste de trois noms arrêtée par un comité de sélection paritaire présidé par le président du conseil d'administration
+et soumise pour avis à ce conseil. 
+
+Des agents de la fonction publique territoriale peuvent être mis à disposition de l'établissement public du parc national. 
+
+Pour préparer ses décisions, l'établissement public du parc national peut s'appuyer sur les expertises de son conseil
+scientifique et les débats organisés au sein de son conseil économique, social et culturel.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-834 du 13 septembre 1984 - art. 7 (V)
+	  - Code de l'environnement - art. L331-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 6 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -15632,10 +15965,6 @@ représentées les collectivités locales intéressées, ont lieu dans des condi
 	  - Code de l'environnement - art. L331-9 (M)
 	  - Code de l'environnement - art. R331-22 (V)
 
-	**Cite**:
-
-	  - Code de l'environnement - art. L331-7 (V)
-
 	**Anciens textes**:
 
 	  - Code rural - art. L241-5 (Ab)
@@ -15644,10 +15973,36 @@ représentées les collectivités locales intéressées, ont lieu dans des condi
 
 ###### Article L331-9
 
-Le décret de classement détermine les attributions et les pouvoirs de l'organisme mentionné à l'article L. 331-8, sous
-réserve des règles générales établies par le décret prévu à l'article L. 331-7.
+L'établissement public du parc national peut, dans le coeur du parc, prescrire l'exécution de travaux ou ordonner les mesures
+permettant de restaurer des écosystèmes dégradés ou prévenir une évolution préjudiciable des milieux naturels. Les
+propriétaires ou exploitants des terrains ou des ouvrages concernés ne peuvent s'opposer à ces travaux, qui ne sont pas mis à
+leur charge.
+
+Pour l'accomplissement de ses missions, l'établissement public peut participer à des programmes de recherche, de formation,
+d'accueil et de sensibilisation du public à l'environnement.
+
+Il peut être chargé par l'Etat de la mise en oeuvre de toute action en rapport avec ses missions statutaires, y compris en
+dehors du parc.
+
+Il peut apporter aux collectivités territoriales et à leurs groupements un appui technique en matière de préservation des
+espaces naturels et pour la réalisation d'aménagements concernant le patrimoine naturel, culturel et paysager, dans les
+conditions prévues par le code des marchés publics.
+
+Il peut attribuer des subventions destinées au financement de projets concourant à la mise en oeuvre de la charte du parc.
+
+Il peut engager avec l'organe de gestion d'un espace protégé frontalier des actions communes dans le cadre des politiques
+nationales et communautaires entrant dans leur champ respectif de compétences et, le cas échéant, créer les outils de gestion
+concourant à la mise en oeuvre de leurs missions communes.
+
+Sous réserve de l'autorisation préalable du ministre chargé de la protection de la nature, il peut en outre souscrire à des
+accords de jumelage international avec des organes étrangers de gestion d'espaces protégés.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L241-6
+	  - Code rural - art. L241-6 (Ab)
 
 	**Cité par**:
 
@@ -15662,22 +16017,81 @@ réserve des règles générales établies par le décret prévu à l'article L.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 6 () JORF 15 avril 2006
+
+
+###### Article L331-9-1
+
+Lorsque des forêts, bois et terrains mentionnés à l'article L. 111-1 du code forestier sont compris dans un parc national,
+l'établissement public du parc national est chargé d'assurer la mission de conseil scientifique auprès de l'Office national
+des forêts. Cette mission comprend l'organisation de la collecte, du traitement et de la restitution des données d'inventaire
+du patrimoine naturel, culturel et paysager, notamment celles qui seraient nécessaires à l'élaboration des aménagements
+forestiers. 
+
+Pour la mise en oeuvre de l'article L. 331-9, l'établissement public du parc national peut déléguer à l'Office national des
+forêts, dans les conditions prévues par l'article 41 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la
+corruption et à la transparence de la vie économique et des procédures publiques :
+
+- tout ou partie de la maîtrise d'ouvrage des travaux et équipements relatifs à la conservation de la diversité biologique et
+à la gestion du patrimoine naturel dans les forêts, bois et terrains du domaine privé de l'Etat ou dont l'Etat a l'usufruit,
+sans préjudice des compétences propres de l'Office national des forêts dans la mise en oeuvre du régime forestier et dans la
+prévention des risques naturels ;
+
+- tout ou partie de la mise en oeuvre des actions relatives à l'accueil, à l'information et à la sensibilisation du public
+intéressant principalement les forêts, bois et terrains visés à l'article L. 111-1 du code forestier. 
+
+Des conventions précisent les conditions de mise en oeuvre du présent article.
+
+**Liens relatifs à cet article**
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L331-7 (V)
-	  - Code de l'environnement - art. L331-8 (M)
+	  - Loi n°93-122 du 29 janvier 1993 - art. 41 (V)
+	  - Code forestier - art. L111-1 (Ab)
+	  - Code de l'environnement - art. L331-9 (V)
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code rural - art. L241-6 (Ab)
-	  - Code rural L241-6
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 27 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R331-23 (V)
 
 
 ###### Article L331-10
 
-Certaines attributions des collectivités locales, notamment en ce qui concerne la gestion du domaine privé, la voirie et la
-police, peuvent être transférées à l'organisme de gestion par décret en Conseil d'Etat, dans la mesure nécessaire à
-l'application des dispositions des articles L. 331-3, L. 331-4 et L. 331-16.
+Le directeur de l'établissement public du parc national exerce, dans le coeur du parc, les compétences attribuées au maire
+pour :
+
+1° La police de la circulation et du stationnement prévue aux articles L. 2213-1 à L. 2213-6 du code général des
+collectivités territoriales, hors agglomération ;
+
+2° La police des chemins ruraux prévue à l'article L. 161-5 du code rural ;
+
+3° La police des cours d'eau prévue à l'article L. 215-12 du présent code ;
+
+4° La police de destruction des animaux nuisibles prévue aux articles L. 427-4 et L. 427-7 ;
+
+5° La police des chiens et chats errants prévue à l'article L. 211-22 du code rural.
+
+Sauf cas d'urgence, les actes réglementaires du directeur pris en application des précédents alinéas doivent avoir été
+transmis pour avis huit jours au moins avant leur date d'entrée en vigueur aux maires des communes intéressées.
+
+Les permis de stationnement ou de dépôt temporaire et les permissions de voirie prévus respectivement aux articles L. 2213-6
+et L. 2215-5 du code général des collectivités territoriales, s'ils concernent le coeur du parc, ne peuvent être délivrés par
+le maire qu'avec l'accord de l'établissement public du parc national.
+
+Lorsque le coeur du parc est situé sur le territoire d'une commune de plus de cinq cent mille habitants, pour des raisons de
+sécurité et de gestion globale de la fréquentation, les attributions liées à la circulation, au stationnement et à la voirie
+ne sont pas transférées.
 
 **Liens relatifs à cet article**
 
@@ -15685,6 +16099,10 @@ l'application des dispositions des articles L. 331-3, L. 331-4 et L. 331-16.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 7 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -15695,9 +16113,12 @@ l'application des dispositions des articles L. 331-3, L. 331-4 et L. 331-16.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L331-16 (M)
-	  - Code de l'environnement - art. L331-3 (M)
-	  - Code de l'environnement - art. L331-4 (M)
+	  - Code général des collectivités territoriales - art. L2215-5 (V)
+	  - Code général des collectivités territoriales L2213-1 à L2213-6, L2215-5
+	  - Code de l'environnement - art. L215-12 (V)
+	  - Code de l'environnement - art. L427-4 (V)
+	  - Code de l'environnement - art. L427-7 (M)
+	  - Code rural L161-5, L211-22
 
 	**Anciens textes**:
 
@@ -15728,90 +16149,79 @@ redevances.
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-###### Article L331-12
-
-A l'intérieur du parc national, les diverses administrations publiques peuvent, en liaison avec l'organisme chargé du parc,
-procéder aux réalisations et améliorations d'ordre social, économique et culturel contribuant à la protection de la nature
-dans le parc.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L241-9
-	  - Code rural - art. L241-9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
-
-
 ###### Article L331-13
 
-Pour la mise en oeuvre du droit de préemption prévu à l'article L. 142-3 du code de l'urbanisme, l'établissement public
-chargé du parc peut bénéficier du concours technique de la société d'aménagement foncier et d'établissement rural compétente,
+Pour la mise en oeuvre du droit de préemption prévu à l'article L. 142-3 du code de l'urbanisme, l'établissement public du
+parc national peut bénéficier du concours technique de la société d'aménagement foncier et d'établissement rural compétente,
 dans les conditions prévues à l'article L. 141-5 du code rural.
 
-L'établissement public chargé du parc est substitué à l'Etat dans la gestion des immeubles qui lui sont affectés. Il passe
-toutes conventions les concernant, perçoit à son profit tous leurs produits et supporte les charges y afférentes, de quelque
-nature qu'elles soient. Ces dispositions sont applicables aux immeubles domaniaux remis à l'établissement à titre de
+L'établissement public du parc national peut être affectataire, à titre gratuit, d'immeubles dépendant des domaines public ou
+privé de l'Etat et des collectivités territoriales, ou appartenant à leurs établissements publics. ;
+
+Il est substitué à l'Etat et aux collectivités territoriales dans la gestion des immeubles que ceux-ci lui affectent. Il
+passe toutes conventions les concernant, perçoit à son profit tous leurs produits et supporte les charges y afférentes, de
+quelque nature qu'elles soient. Ces dispositions sont applicables aux immeubles domaniaux remis à l'établissement à titre de
 dotation.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L142-3 (M)
 	  - Code rural L141-5
+	  - Code de l'urbanisme - art. L142-3 (M)
 
 	**Anciens textes**:
 
-	  - Code rural - art. L241-9-1 (Ab)
 	  - Code rural L241-9-1
+	  - Code rural - art. L241-9-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 8 () JORF 15 avril 2006
+
+
+##### Section 3 : Dispositions particulières
+
+##### Sous-section 1 : Dispositions particulières aux espaces maritimes des parcs nationaux
 
 ###### Article L331-14
 
-Les organismes gérant les parcs nationaux ont en charge la protection d'espaces naturels sensibles particulièrement
-remarquables.
+I. - Dans les espaces maritimes compris dans le coeur d'un parc national, les travaux et installations sont interdits, sauf
+autorisation spéciale de l'établissement public du parc, à l'exception de la pose de câbles sous-marins et des travaux
+nécessités par les impératifs de la défense nationale.
 
-Ils coopèrent avec les régions et les collectivités territoriales pour l'accomplissement de cette mission et pour le
-développement économique, social et culturel de la zone géographique ou, pour les parcs nationaux situés dans les massifs de
-montagne, du massif concerné.
+II. - L'établissement public du parc national peut proposer aux autorités administratives compétentes de soumettre à un
+régime particulier la pêche, la circulation en mer et la gestion du domaine public maritime dans le coeur du parc national,
+dans le respect du droit communautaire et du droit international.
 
-Leur contribution se traduit notamment par leur participation à des programmes de recherche, de formation, d'accueil,
-d'animation et d'aide technique ainsi que, pour les parcs nationaux situés dans les massifs de montagne, par leur
-représentation dans les comités de massif prévus par la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
-protection de la montagne.
+Le décret en Conseil d'Etat prévu à l'article L. 331-2 peut transférer à l'établissement public du parc national, pour la
+préservation des espaces maritimes compris dans le coeur du parc et dans la mesure nécessaire à celle-ci, les compétences
+attribuées au maire pour la police des activités nautiques prévue à l'article L. 2213-23 du code général des collectivités
+territoriales.
 
-Les organismes gérant les parcs nationaux sont associés, sur leur demande, à l'élaboration des plans d'occupation des sols,
-des schémas directeurs ou de secteur concernant les communes dont tout ou partie du territoire est situé dans le parc ou sa
-zone périphérique.
+Sauf cas d'urgence, les actes réglementaires du directeur pris en application du précédent alinéa doivent avoir été transmis
+pour avis huit jours au moins avant leur date d'entrée en vigueur aux maires des communes intéressées.
 
-Ils peuvent adhérer à des syndicats mixtes compétents pour l'aménagement, le développement ou la protection d'une zone
-géographique ou d'un site particulier ou, pour les parcs nationaux situés dans les massifs de montagne, d'une ou plusieurs
-vallées ou du massif local concerné.
+III. - Lorsqu'une activité est susceptible d'altérer de façon notable l'espace maritime compris dans le coeur d'un parc
+national, l'autorisation à laquelle elle est soumise ne peut être délivrée que sur avis conforme de l'établissement public du
+parc national pris après consultation de son conseil scientifique. Cette procédure n'est pas applicable aux activités
+répondant aux besoins de la défense nationale, de l'ordre public, de la sécurité maritime et de la lutte contre la pollution.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°85-30 1985-01-09
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 9 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -15839,23 +16249,95 @@ vallées ou du massif local concerné.
 	  - Code de l'urbanisme - art. R*425-6 (V)
 	  - Code rural et de la pêche maritime - art. L921-10 (V)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2213-23 (M)
+	  - Code de l'environnement - art. L331-2 (M)
+
 	**Anciens textes**:
 
 	  - Code rural - art. L241-13 (Ab)
 	  - Code rural L241-13
 
 
-##### Section 3 : Mise en valeur des zones périphériques
+##### Sous-section 2 : Dispositions particulières aux départements d'outre-mer
 
 ###### Article L331-15
 
-Dans la zone périphérique délimitée dans les conditions fixées à l'article L. 331-6, les diverses administrations publiques
-prennent, suivant un programme défini en liaison avec l'organisme de gestion prévu à l'article L. 331-8, toutes mesures pour
-permettre un ensemble de réalisations et d'améliorations d'ordre social, économique et culturel tout en rendant plus efficace
-la protection de la nature dans le parc.
+I. - Lorsque le coeur du parc national représente plus du quart de la surface totale du département, l'autorisation spéciale
+prévue à l'article L. 331-4 peut notamment être accordée pour :
 
-Dans ces zones périphériques, la publicité est strictement limitée dans des conditions précisées par le décret en Conseil
-d'Etat prévu à l'article L. 331-7.
+1° Les constructions et installations indispensables à l'approvisionnement en eau et en énergie géothermique, ainsi que des
+installations ou constructions légères à usage touristique ;
+
+2° Des activités, travaux, constructions ou installations d'intérêt général, lorsque des contraintes techniques ou
+topographiques rendent techniquement ou financièrement inacceptable une autre localisation, dans des conditions précisées par
+le décret prévu par l'article L. 331-7.
+
+II. - La charte du parc national doit être compatible avec le schéma d'aménagement régional.
+
+Le conseil d'administration de l'établissement public du parc national procède à une analyse des résultats de l'application
+de la charte précédente et délibère sur l'opportunité de sa révision douze ans au plus après son approbation, sa précédente
+révision ou la dernière décision de ne pas la réviser, ou sur demande du conseil régional pour mise en compatibilité avec le
+schéma d'aménagement régional révisé. La révision de la charte est soumise aux mêmes règles que son élaboration.
+
+Lors de leur élaboration ou de leur révision, les documents d'aménagement forestier sont soumis pour avis conforme à
+l'établissement public du parc national en tant qu'ils s'appliquent aux espaces d'un coeur de parc composé à plus de 60 % des
+forêts, bois et terrains visés à l'article L. 111-1 du code forestier.
+
+III. - Sauf mention contraire dans la charte du parc national :
+
+1° L'obligation de compatibilité faite aux documents mentionnés au III de l'article L. 331-3 est limitée aux objectifs de
+protection définis par la charte pour le coeur du parc national ;
+
+2° L'obligation d'avis conforme de l'établissement public du parc national faite aux travaux ou aménagements mentionnés au II
+de l'article L. 331-4 est limitée au coeur du parc national. L'établissement public du parc est consulté pour avis pour ceux
+d'entre eux projetés dans l'aire d'adhésion.
+
+IV. - L'établissement public du parc national peut être également chargé de la mise en oeuvre de toute action en rapport avec
+ses missions statutaires, y compris en dehors du parc national, par les collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L241-10
+	  - Code rural - art. L241-10 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 9 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-296 du 5 mars 2007 - art. 10 (V)
+	  - Décret n°2009-614 du 3 juin 2009 - art. 17 (V)
+	  - Code de l'environnement - art. L331-26 (VT)
+	  - Code de l'environnement - art. L331-6 (M)
+	  - Code de l'environnement - art. R*241-65 (Ab)
+	  - Code de l'environnement - art. R331-67 (M)
+	  - Code du tourisme. - art. L343-2 (T)
+	  - Code forestier (nouveau) - art. L272-8 (VD)
+
+	**Cite**:
+
+	  - Code forestier - art. L111-1 (M)
+	  - Code de l'environnement - art. L331-3 (M)
+	  - Code de l'environnement - art. L331-4 (M)
+	  - Code de l'environnement - art. L331-7 (V)
+
+
+##### Sous-section 3 : Parc amazonien en Guyane
+
+###### Article L331-15-1
+
+Les dispositions générales relatives aux parcs nationaux et celles particulières aux départements d'outre-mer sont
+applicables au parc amazonien en Guyane sous réserve des dispositions dérogatoires qui suivent.
 
 **Liens relatifs à cet article**
 
@@ -15864,41 +16346,192 @@ d'Etat prévu à l'article L. 331-7.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 12 () JORF 15 avril 2006
+
+
+###### Article L331-15-2
+
+Les travaux, à l'exception des travaux d'entretien normal et, pour les équipements d'intérêt général, de grosses réparations,
+sont interdits dans le ou les coeurs du parc national, sauf autorisation spéciale de l'établissement public du parc national
+délivrée après avis de son conseil scientifique et du comité de vie locale ou, sur délégation, de leur président. 
+
+Cette autorisation spéciale peut notamment être accordée pour des installations ou constructions légères à usage touristique,
+ainsi que pour des activités, travaux, constructions ou installations d'intérêt général, lorsque des contraintes techniques
+ou topographiques rendent techniquement ou financièrement inacceptable une autre localisation, dans les conditions précisées
+par le décret prévu par l'article L. 331-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 12 () JORF 15 avril 2006
+
 	**Cité par**:
 
-	  - Décret n°2007-296 du 5 mars 2007 - art. 10 (V)
-	  - Décret n°2009-614 du 3 juin 2009 - art. 17 (V)
-	  - Code de l'environnement - art. L331-26 (VT)
-	  - Code de l'environnement - art. R*241-65 (Ab)
-	  - Code de l'environnement - art. R331-67 (M)
-	  - Code du tourisme. - art. L343-2 (T)
-	  - Code forestier (nouveau) - art. L272-8 (VD)
+	  - Décret n°2007-266 du 27 février 2007 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L331-6 (M)
 	  - Code de l'environnement - art. L331-7 (V)
-	  - Code de l'environnement - art. L331-8 (M)
 
-	**Anciens textes**:
 
-	  - Code rural - art. L241-10 (Ab)
-	  - Code rural L241-10
+###### Article L331-15-3
+
+Sans préjudice de la réalisation des objectifs de protection du coeur du parc, et compte tenu notamment des particularités de
+la Guyane, la réglementation mentionnée à l'article L. 331-4-1 et la charte peuvent prévoir des dispositions plus favorables
+au bénéfice : 
+
+1° Des communautés d'habitants qui tirent traditionnellement leurs moyens de subsistance de la forêt, pour lesquelles des
+droits d'usage collectif sont reconnus pour la pratique de la chasse, de la pêche et de toute activité nécessaire à leur
+subsistance ; 
+
+2° Des résidents permanents dans le ou les coeurs du parc ; 
+
+3° Des personnes physiques ou morales résidant dans le parc et exerçant une activité agricole, pastorale ou forestière de
+façon permanente dans le ou les coeurs du parc ou prélevant, à titre occasionnel, leurs moyens de subsistance personnels dans
+ces espaces.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 12 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-266 du 27 février 2007 - art. 19 (V)
+	  - Décret n°2007-266 du 27 février 2007 - art. 23 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-4-1 (V)
+
+
+###### Article L331-15-4
+
+Le président du conseil régional, le président du conseil général, ou leur représentant, les maires des communes et les
+présidents des groupements de communes concernés ainsi que le président du conseil scientifique de l'établissement public du
+parc sont membres de droit du conseil d'administration de l'établissement public du parc national.
+
+Les autorités coutumières sont représentées au sein de ce conseil.
+
+Pour préparer ses décisions, l'établissement public du parc national peut s'appuyer sur les expertises de son conseil
+scientifique et les débats organisés au sein de son comité de vie locale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 12 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-266 du 27 février 2007 - art. 28 (V)
+
+
+###### Article L331-15-5
+
+L'établissement public du parc national a pour mission de préserver, gérer, mettre en valeur et assurer un rayonnement
+national et international de la diversité biologique de la Guyane, de contribuer au développement des communautés d'habitants
+qui tirent traditionnellement leurs moyens de subsistance de la forêt, en prenant en compte leur mode de vie traditionnel et
+de participer à un ensemble de réalisations et d'améliorations d'ordre social, économique et culturel dans le cadre du projet
+de développement durable défini par la charte du parc national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 12 () JORF 15 avril 2006
+
+
+###### Article L331-15-6
+
+L'accès aux ressources génétiques des espèces prélevées dans le parc national ainsi que leur utilisation sont soumis à
+autorisation.
+
+Sur proposition du congrès des élus départementaux et régionaux prévu à l'article L. 5915-1 du code général des collectivités
+territoriales, la charte du parc national définit les orientations relatives aux conditions d'accès et d'utilisation de ces
+ressources, notamment en ce qui concerne les modalités du partage des bénéfices pouvant en résulter, dans le respect des
+principes de la convention sur la diversité biologique du 5 juin 1992, en particulier du j de son article 8 et de son article
+15.
+
+Les autorisations sont délivrées par le président du conseil régional, après avis conforme du président du conseil général et
+consultation de l'établissement public du parc national, sans préjudice de l'application des dispositions du code de la
+propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 12 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5915-1 (V)
+
+
+###### Article L331-15-7
+
+Le territoire d'une commune peut être classé pour partie dans l'un des espaces mentionnés à l'article L. 331-2 et pour une
+autre partie en parc naturel régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 12 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R333-5-1 (V)
 
 
 ##### Section 4 : Réserves intégrales
 
 ###### Article L331-16
 
-Des zones dites " réserves intégrales " peuvent être instituées dans un parc national afin d'assurer, dans un but
+Des zones dites " réserves intégrales " peuvent être instituées dans le coeur d'un parc national afin d'assurer, dans un but
 scientifique, une protection plus grande de certains éléments de la faune et de la flore.
 
 Des sujétions particulières peuvent être édictées par le décret qui les institue.
 
 Les réserves intégrales sont établies en tenant compte de l'occupation humaine et de ses caractères.
-
-Les dispositions relatives aux réserves intégrales s'appliquent sans préjudice, s'il y a lieu, de celles du chapitre II du
-présent titre.
 
 **Liens relatifs à cet article**
 
@@ -15926,30 +16559,42 @@ présent titre.
 	  - Code rural - art. L241-11 (Ab)
 	  - Code rural L241-11
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+
 
 ##### Section 5 : Indemnités
 
 ###### Article L331-17
 
-Les contestations relatives aux indemnités éventuellement dues aux intéressés et incombant soit à l'organisme chargé du parc
-national, soit à l'Etat dans les conditions fixées par décret en Conseil d'Etat, sont réglées comme en matière
+Les contestations relatives aux indemnités éventuellement dues aux intéressés et incombant soit l'établissement public du
+parc national, soit à l'Etat dans les conditions fixées par décret en Conseil d'Etat, sont réglées comme en matière
 d'expropriation pour cause d'utilité publique.
 
+**Nota:**
+
+Il y a lieu de lire " soit à l'établissement public du parc national, soit à l'Etat ".
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L241-12
-	  - Code rural - art. L241-12 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1045 bis (V)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L241-12 (Ab)
+	  - Code rural L241-12
 
 
 ##### Section 7 : Dispositions pénales
@@ -15958,20 +16603,34 @@ d'expropriation pour cause d'utilité publique.
 
 ###### Article L331-18
 
-Sont constatées par des agents commissionnés par l'autorité administrative et assermentés auprès du tribunal de grande
-instance auquel est rattaché leur domicile :
+I.-Sont recherchées et constatées par les agents de l'établissement public du parc national, commissionnés à cet effet par
+l'autorité administrative et assermentés : 
 
-1° Les infractions spécialement définies pour la protection des parcs nationaux ;
+1° Les infractions aux dispositions prévues pour la protection du coeur et des réserves intégrales des parcs nationaux ; 
 
-2° Les infractions commises dans ces parcs en matière de forêts, de chasse et de pêche ;
+2° Les infractions commises, dans les parcs nationaux et sur le territoire des communes ayant vocation à en faire partie,
+délimité par le décret de création du parc national, en matière de protection de la faune et de la flore, de réserves
+naturelles, de sites, de forêts, de chasse, de pêche en eau douce, de bruit, d'air, de déchets, d'eau, de publicité, de
+circulation des véhicules dans les espaces naturels et d'accès et de respect des espaces gérés par le Conservatoire de
+l'espace littoral et des rivages lacustres, prévues par le présent code, le code forestier et le code pénal ; 
 
-3° Les infractions commises dans la zone périphérique du parc auquel ils appartiennent en matière de chasse et de pêche
-fluviale.
+3° Les infractions commises dans le coeur des parcs nationaux en matière de fouilles et sondages et de protection des
+immeubles, prévues aux articles L. 544-1 à L. 544-4 et L. 624-1 à L. 624-6 du code du patrimoine. 
+
+II.-Ces agents suivent les choses enlevées dans les lieux où elles ont été transportées et les mettent sous séquestre. 
+
+Ils ne peuvent cependant pénétrer dans les maisons, ateliers, bâtiments, cours adjacentes et enclos qu'en présence d'un
+officier de police judiciaire qui ne peut refuser de les accompagner et qui signe le procès-verbal de l'opération à laquelle
+il a assisté.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
+	  - Décret du 28 juin 1930 - art. 9 (V)
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 44 (V)
+	  - Décret n°2009-614 du 3 juin 2009 - art. 2 (V)
+	  - Décret n°2009-614 du 3 juin 2009 - art. 7 (V)
 	  - Code de l'environnement - art. L331-21 (VT)
 	  - Code de l'environnement - art. L331-22 (VT)
 	  - Code de l'environnement - art. L331-24 (VT)
@@ -15979,20 +16638,25 @@ fluviale.
 	  - Code de l'environnement - art. R*241-27 (Ab)
 	  - Code de l'environnement - art. R*331-28 (Ab)
 	  - Code de l'environnement - art. R173-1 (V)
-	  - Décret du 28 juin 1930 - art. 9 (V)
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 44 (V)
-	  - Décret n°2009-614 du 3 juin 2009 - art. 2 (V)
-	  - Décret n°2009-614 du 3 juin 2009 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
 
 	**Anciens textes**:
 
 	  - Code rural - art. L241-14 (Ab)
 	  - Code rural L241-14
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Code du patrimoine. - art. L544-1 (V)
+	  - Code du patrimoine. - art. L624-1 (V)
 
 
 ###### Article L331-19
@@ -16052,6 +16716,44 @@ février 2004 relative à la partie législative du code du patrimoine, sous ré
 	  - Code rural - art. L241-15 (Ab)
 
 
+###### Article L331-19-1
+
+Sans préjudice des sanctions pénales encourues, toute atteinte à l'intégrité et à la conservation du domaine public inclus
+dans le périmètre d'un parc national, ou de nature à compromettre son usage, constitue une contravention de grande voirie
+constatée, réprimée et poursuivie par voie administrative. 
+
+Elle est constatée par les agents visés à l'article L. 331-19, sans préjudice des compétences des officiers et agents de
+police judiciaire et des autres agents spécialement habilités. 
+
+Les personnes condamnées sont tenues de réparer ces atteintes et encourent les amendes prévues pour les contraventions de
+cinquième classe et les cas de récidive. Elles supportent les frais des mesures provisoires et urgentes que l'établissement
+public du parc national a pu être amené à prendre pour faire cesser le trouble apporté au domaine public par les infractions
+constatées. 
+
+Le directeur de l'établissement public a compétence pour saisir le tribunal administratif, dans les conditions et suivant les
+procédures prévues par le code de justice administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 19 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-19 (VT)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R*331-13 (V)
+	  - Code de l'environnement - art. R331-35 (V)
+
+
 ###### Article L331-20
 
 Les agents habilités à constater les infractions en matière forestière, de chasse et de pêche ont qualité pour constater les
@@ -16106,21 +16808,30 @@ adressés directement au procureur de la République.
 
 ###### Article L331-22
 
-Les procès-verbaux dressés par les agents mentionnés aux articles L. 331-18 et L. 331-20 pour les infractions mentionnées aux
-1° et 2° de l'article L. 331-18 sont envoyés, à peine de nullité, au procureur de la République dans les cinq jours au plus
-tard, y compris celui où le fait, objet du procès-verbal, a été constaté.
+Les procès-verbaux dressés pour les infractions mentionnées aux articles L. 331-18 et L. 331-19 sont, sous peine de nullité,
+adressés dans les cinq jours qui suivent leur clôture au procureur de la République. 
+
+Une copie en est transmise dans le même délai à l'autorité administrative.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 7
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L331-18 (M)
-	  - Code de l'environnement - art. L331-20 (V)
+	  - Code de l'environnement - art. L331-18
+	  - Code de l'environnement - art. L331-19
 
 	**Anciens textes**:
 
@@ -16152,8 +16863,17 @@ service de l'administration chargée de la police de la pêche, soit au chef du 
 
 ###### Article L331-24
 
-Les agents mentionnés aux articles L. 331-18 à L. 331-20 peuvent procéder à la saisie de l'objet de l'infraction à la
-réglementation du parc national ainsi que des instruments et véhicules ayant servi à commettre l'infraction.
+I.-Les personnes qui se trouvent à l'intérieur du coeur ou d'une réserve intégrale d'un parc national ou qui en sortent sont
+tenues d'ouvrir leurs sacs, carniers ou poches à gibier à toute réquisition des agents mentionnés aux articles L. 331-18 et
+L. 331-20. 
+
+II.-Les agents mentionnés aux articles L. 331-18 et L. 331-20 peuvent procéder, hors des locaux à usage d'habitation, à la
+saisie de l'objet de l'infraction relevant de leur compétence et des instruments et véhicules ayant servi à commettre
+l'infraction ou y étant destinés. 
+
+Les frais de transport, d'entretien et de garde des objets saisis sont supportés par l'auteur de l'infraction. Le jugement de
+condamnation peut prononcer la confiscation de l'objet de l'infraction ainsi que des instruments et véhicules ayant servi à
+la commettre.
 
 **Liens relatifs à cet article**
 
@@ -16171,15 +16891,28 @@ réglementation du parc national ainsi que des instruments et véhicules ayant s
 
 	  - Loi n°2006-11 du 5 janvier 2006 - art. 44 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+
 	**Cite**:
 
-	  - Code de l'environnement L331-18 à L331-20
+	  - Code de l'environnement - art. L331-18 (VT)
+	  - Code de l'environnement - art. L331-20 (V)
 
 
 ###### Article L331-25
 
-Les contraventions à la réglementation des parcs nationaux mentionnées à l'article 529 du code de procédure pénale peuvent
-donner lieu à la procédure de l'amende forfaitaire.
+Le directeur de l'établissement public du parc national peut transiger sur la poursuite des délits et contraventions
+constitués par les infractions visées aux articles L. 331-18 et L. 331-19, après avoir recueilli l'accord du procureur de la
+République et, pour les infractions commises en matière de forêt, de pêche en eau douce et de pêche maritime, celui de
+l'autorité administrative chargée de la forêt ou de la pêche, et à l'exception des infractions prévues au chapitre VIII du
+titre Ier du livre II.
+
+Cette faculté n'est pas applicable aux contraventions des quatre premières classes pour lesquelles l'action publique est
+éteinte par le paiement d'une amende forfaitaire en application de l'article 529 du code de procédure pénale.
+
+Les modalités d'application du présent article sont, en tant que de besoin, fixées par décret en Conseil d'État.
 
 **Liens relatifs à cet article**
 
@@ -16193,9 +16926,194 @@ donner lieu à la procédure de l'amende forfaitaire.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 529 (M)
+	  - Code de l'environnement - art. L331-18 (M)
+	  - Code de l'environnement - art. L331-19 (M)
+
+
+##### Sous-section 2 : Sanctions pénales
+
+###### Article L331-26
+
+Est puni de deux ans d'emprisonnement et de 30 000 d'amende le fait de contrevenir aux dispositions des articles L. 331-4, L.
+331-4-1, L. 331-6 et L. 331-15 en effectuant, dans le coeur d'un parc national ou dans les espaces ayant vocation à le
+devenir, des travaux, constructions ou installations interdits ou sans autorisation ou en méconnaissance des prescriptions
+dont l'autorisation est assortie ou en se livrant, dans le coeur d'un parc, à des activités interdites ou en méconnaissance
+de la réglementation dont elles sont l'objet. 
+
+La tentative de l'infraction est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-15 (V)
+	  - Code de l'environnement - art. L331-4 (V)
+	  - Code de l'environnement - art. L331-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L331-27 (V)
+
+
+###### Article L331-27
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal de l'infraction prévue à l'article L. 331-26.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6°, 8° et 9° de l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de l'environnement - art. L331-26 (V)
+
+
+###### Article L331-28
+
+En cas d'infraction, commise par une personne physique ou une personne morale, aux dispositions des articles L. 331-4, L.
+331-4-1, L. 331-5, L. 331-6 et L. 331-16, les dispositions des articles L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de
+l'urbanisme sont applicables, sans préjudice de l'application de l'article L. 341-20 du présent code, sous réserve des
+dispositions suivantes : 
+
+1° Dans le cas prévu au premier alinéa de l'article L. 480-2 du code de l'urbanisme, le ministère public ne peut agir qu'à la
+requête du maire, du fonctionnaire compétent ou de l'établissement public du parc national ; 
+
+2° Lorsque le tribunal fait application des dispositions de l'article L. 480-5 du même code, il statue soit sur la mise en
+conformité des lieux avec les prescriptions formulées par l'établissement public du parc national dans ses observations, soit
+sur le rétablissement des lieux dans leur état antérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L480-2 (V)
+	  - Code de l'urbanisme - art. L480-5 (V)
+	  - Code de l'environnement - art. L331-16 (V)
+	  - Code de l'environnement - art. L331-4 (V)
+	  - Code de l'environnement - art. L331-5 (V)
+	  - Code de l'environnement - art. L341-20 (VT)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R331-75 (V)
+
+
+##### Section 8 : Parcs nationaux de France
+
+###### Article L331-29
+
+Il est créé un établissement public national à caractère administratif dénommé "Parcs nationaux de France", placé sous la
+tutelle du ministre chargé de la protection de la nature.
+
+Cet établissement public a pour mission de :
+
+1° Prêter son concours technique et administratif aux établissements publics des parcs nationaux, notamment par la création
+de services communs afin de faciliter leur fonctionnement, leur apporter son appui technique et administratif, et favoriser
+la coordination de leurs actions aux plans national et international ;
+
+2° Apporter son concours à l'application des statuts communs à ses personnels ou à ceux des parcs nationaux en veillant
+notamment à permettre la mobilité de ces personnels entre les parcs nationaux, et entre ceux-ci et lui-même ;
+
+3° Organiser et contribuer à mettre en oeuvre une politique commune de communication nationale et internationale ;
+
+4° Représenter, le cas échéant, les établissements publics des parcs nationaux dans les enceintes nationales et
+internationales traitant de sujets d'intérêt commun à tout ou partie de ces établissements ;
+
+5° Déposer et administrer, dans les conditions prévues aux articles L. 715-1 à L. 715-3 du code de la propriété
+intellectuelle, sa marque collective spécifique, que certifie un organisme de contrôle scientifique indépendant, lequel
+atteste que les produits et les services, issus d'activités exercées dans les parcs nationaux, s'inscrivent dans un processus
+écologique en vue notamment de la préservation ou de la restauration de la faune et de la flore ;
+
+6° Contribuer au rassemblement des données concernant les parcs nationaux et l'activité des établissements publics des parcs
+nationaux ;
+
+7° Donner au ministre chargé de la protection de la nature un avis sur les questions concernant la mise en oeuvre de la
+politique des parcs nationaux et lui présenter toute étude ou projet dans ce domaine ;
+
+8° Donner son avis au ministre chargé de la protection de la nature sur le montant et la répartition qu'il arrête des
+ressources financières globalement affectées aux parcs nationaux.
+
+L'établissement est administré par un conseil d'administration composé du président du conseil d'administration et du
+directeur de chaque établissement public de parc national ou de leur représentant, de deux représentants désignés
+respectivement par l'Association des régions de France et l'Assemblée des départements de France, d'un député et d'un
+sénateur désignés par leur assemblée respective, de deux personnalités qualifiées désignées par le ministre chargé de la
+protection de la nature et d'un représentant des organisations syndicales du personnel représentatives au plan national.
+
+Les ressources de l'établissement sont constituées notamment par des participations de l'Etat et, éventuellement, des
+établissements publics des parcs nationaux et des collectivités territoriales, par toute subvention publique ou privée et,
+s'il y a lieu, par des redevances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 11 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-266 du 27 février 2007 - art. 33 (V)
+	  - Décret n°2007-296 du 5 mars 2007 - art. 31 (V)
+	  - Décret n°2009-447 du 21 avril 2009 - art. 26 (V)
+	  - Décret n°2009-448 du 21 avril 2009 - art. 26 (V)
+	  - Décret n°2009-449 du 22 avril 2009 - art. 27 (V)
+	  - Décret n°2009-486 du 29 avril 2009 - art. 25 (V)
+	  - Décret n°2009-614 du 3 juin 2009 - art. 25 (V)
+	  - Décret n°2009-1677 du 29 décembre 2009 - art. 25 (V)
+	  - Code de l'environnement - art. R331-83 (Ab)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle L715-1 à L715-3
 
 
 #### Chapitre II : Réserves naturelles
@@ -17232,6 +18150,46 @@ février 2004 relative à la partie législative du code du patrimoine, sous ré
 	  - Code rural - art. L242-26 (Ab)
 
 
+###### Article L332-22-1
+
+Sans préjudice des sanctions pénales encourues, toute atteinte à l'intégrité et à la conservation du domaine public inclus
+dans le périmètre d'une réserve naturelle, ou de nature à compromettre son usage, constitue une contravention de grande
+voirie constatée, réprimée et poursuivie par voie administrative. 
+
+Elle est constatée par les agents visés à l'article L. 332-20, sans préjudice des compétences des officiers et agents de
+police judiciaire et des autres agents spécialement habilités. 
+
+Les personnes condamnées sont tenues de réparer ces atteintes et encourent les amendes prévues pour les contraventions de
+cinquième classe et les cas de récidive. Elles supportent les frais des mesures provisoires et urgentes que le gestionnaire
+de la réserve naturelle a pu être amené à prendre pour faire cesser le trouble apporté au domaine public par les infractions
+constatées. 
+
+Le préfet, pour une réserve naturelle nationale, le président du conseil régional, pour une réserve naturelle régionale, et
+le président du conseil exécutif de Corse, pour une réserve naturelle de la collectivité territoriale de Corse, ont
+respectivement compétence pour saisir le tribunal administratif, dans les conditions et suivant les procédures prévues par le
+code de justice administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 19 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L332-20 (VT)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R332-42-1 (V)
+	  - Code de l'environnement - art. R332-59-1 (V)
+
+
 ###### Article L332-23
 
 Les fonctionnaires et agents désignés à l'article L. 332-20 sont habilités, dans l'exercice de leurs fonctions, à visiter les
@@ -17331,6 +18289,39 @@ L. 332-7, L. 332-9, L. 332-12, L. 332-17 et L. 332-18.
 	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
+###### Article L332-25-1
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal de l'infraction prévue à l'article L. 332-25.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6°, 8° et 9° de l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de l'environnement - art. L332-25 (M)
+
+
 ###### Article L332-26
 
 Les agents chargés de constater les infractions mentionnées aux articles L. 332-3 et L. 332-25 peuvent procéder à la saisie
@@ -17420,15 +18411,15 @@ Les parcs naturels régionaux concourent à la politique de protection de l'envi
 développement économique et social et d'éducation et de formation du public. Ils constituent un cadre privilégié des actions
 menées par les collectivités publiques en faveur de la préservation des paysages et du patrimoine naturel et culturel.
 
-La charte du parc détermine pour le territoire du parc les orientations de protection, de mise en valeur et de développement
-et les mesures permettant de les mettre en oeuvre. Elle comporte un plan élaboré à partir d'un inventaire du patrimoine
-indiquant les différentes zones du parc et leur vocation, accompagné d'un document déterminant les orientations et les
-principes fondamentaux de protection des structures paysagères sur le territoire du parc.
+La charte du parc détermine pour le territoire du parc naturel régional les orientations de protection, de mise en valeur et
+de développement et les mesures permettant de les mettre en oeuvre. Elle comporte un plan élaboré à partir d'un inventaire du
+patrimoine indiquant les différentes zones du parc et leur vocation. La charte détermine les orientations et les principes
+fondamentaux de protection des structures paysagères sur le territoire du parc.
 
 Le projet de charte constitutive est élaboré par la région avec l'ensemble des collectivités territoriales concernées, en
 concertation avec les partenaires intéressés. Il est soumis à enquête publique, puis approuvé par les collectivités
-territoriales concernées et adopté par décret portant classement du territoire en parc naturel régional pour une durée de dix
-ans au plus.
+territoriales concernées et adopté par décret portant classement du territoire en parc naturel régional pour une durée de
+douze ans au plus.
 
 La révision de la charte du parc naturel régional est assurée par l'organisme de gestion du parc. Lorsque des changements
 dans les circonstances de droit ou de fait ne permettent pas à la région de conduire la révision à son terme avant
@@ -17442,7 +18433,14 @@ moyens qu'ils y consacrent. L'Etat et les régions adhérant à la charte peuven
 un contrat en application du contrat de plan Etat-régions. Les documents d'urbanisme doivent être compatibles avec les
 orientations et les mesures de la charte.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Lors de leur élaboration ou de leur révision, les documents de planification, d'aménagement et de gestion des ressources
+naturelles relatifs à l'énergie mécanique du vent, aux carrières, à l'accès à la nature et aux sports de nature, à la gestion
+de l'eau, à la gestion cynégétique, à la gestion de la faune sauvage, au tourisme et à l'aménagement ou à la mise en valeur
+de la mer sont soumis pour avis à l'organisme de gestion du parc naturel régional en tant qu'ils s'appliquent à son
+territoire.
+
+Un décret en Conseil d'État fixe les modalités d'application du présent article. Il comprend notamment la liste des documents
+concernés par l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -17453,7 +18451,9 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 231 (V) JORF 24 février 2005
+	  - Loi n°2006-436 du 14 avril 2006 - art. 13 () JORF 15 avril 2006
+	  - Loi n°2006-436 du 14 avril 2006 - art. 14 () JORF 15 avril 2006
+	  - Loi n°2006-436 du 14 avril 2006 - art. 15 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -17522,30 +18522,45 @@ caractéristiques du patrimoine naturel et culturel montagnard.
 
 ###### Article L333-3
 
-L'aménagement et la gestion des parcs naturels régionaux, créés à compter du 3 février 1995, sont confiés à un syndicat mixte
-au sens des articles L. 5721-1 et suivants du code général des collectivités territoriales.
+I.-L'aménagement et la gestion des parcs naturels régionaux sont confiés à un syndicat mixte au sens du titre II du livre VII
+de la cinquième partie du code général des collectivités territoriales. 
+
+II.-Les articles L. 5211-12, à l'exception de son premier alinéa, L. 5211-13 et L. 5211-14 du même code sont applicables aux
+membres, représentant les collectivités territoriales ou leurs groupements, du comité du syndicat mixte. 
+
+III.-Les indemnités maximales votées par le comité du syndicat mixte pour l'exercice effectif des fonctions de président et
+de vice-président sont déterminées par un décret par référence à la superficie du territoire classé et au montant du
+traitement correspondant à l'indice brut terminal de l'échelle indiciaire de la fonction publique. 
+
+Ces indemnités ne sont applicables qu'aux présidents et vice-présidents, ayant la qualité d'élus locaux, désignés parmi les
+membres visés au II.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L244-2
+	  - Code rural - art. L244-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 16 () JORF 15 avril 2006
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5721-1 (V)
+	  - Code général des collectivités territoriales - art. L5211-12 (V)
+	  - Code général des collectivités territoriales - art. L5211-13 (V)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. D333-15-1 (V)
 	  - Code de l'environnement - art. L653-1 (M)
 	  - Code de l'environnement - art. R333-2 (V)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L244-2 (Ab)
-	  - Code rural L244-2
 
 
 ###### Article L333-4
@@ -17578,6 +18593,335 @@ développement du territoire.
 
 	  - Code de l'environnement - art. L653-1 (V)
 	  - Code du tourisme. - art. L363-1 (M)
+
+
+#### Chapitre IV : Agence des aires marines protégées et parcs naturels marins
+
+##### Section 1 : Agence des aires marines protégées
+
+###### Article L334-1
+
+I.-Il est créé un établissement public national à caractère administratif dénommé " Agence des aires marines protégées ". 
+
+II.-L'agence anime le réseau des aires marines protégées françaises et contribue à la participation de la France à la
+constitution et à la gestion des aires marines protégées décidées au niveau international. 
+
+A cette fin, elle peut se voir confier la gestion directe d'aires marines protégées. Elle apporte son appui technique,
+administratif et scientifique aux autres gestionnaires d'aires marines protégées et suscite des projets d'aires marines
+protégées afin de constituer un réseau cohérent. Elle contribue ainsi à la mise en oeuvre des engagements internationaux de
+la France en faveur de la diversité biologique marine et côtière. 
+
+Elle peut en outre être chargée par l'Etat de toute action en rapport avec ses missions statutaires. 
+
+III.-Les aires marines protégées visées au présent article comprennent : 
+
+1° Les parcs nationaux ayant une partie maritime, prévus à l'article L. 331-1 ; 
+
+2° Les réserves naturelles ayant une partie maritime, prévues à l'article L. 332-1 ; 
+
+3° Les arrêtés de biotopes ayant une partie maritime, prévus à l'article L. 411-1 ; 
+
+4° Les parcs naturels marins, prévus à l'article L. 334-3 ; 
+
+5° Les sites Natura 2000 ayant une partie maritime, prévus à l'article L. 414-1 ; 
+
+6° Les parties maritimes du domaine relevant du Conservatoire de l'espace littoral et des rivages lacustres. 
+
+Le décret en Conseil d'Etat mentionné à l'article L. 334-8 définit la procédure au terme de laquelle sont identifiées
+d'autres catégories d'aires marines protégées concernées par l'agence.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°83-228 du 22 mars 1983 - art. 13 (VT)
+	  - Décret n°83-228 du 22 mars 1983 - art. 2 (V)
+	  - Décret n°83-228 du 22 mars 1983 - art. 29 (VT)
+	  - Décret n°2009-1349 du 29 octobre 2009 (V)
+	  - Arrêté du 6 juillet 2010 - art. 1 (V)
+	  - Décret n°2011-492 du 5 mai 2011 - art. 3 (V)
+	  - Décret n°2017-32 du 12 janvier 2017 - art. 2 (V)
+	  - Code de l'environnement - art. L219-9 (VT)
+	  - Code de l'environnement - art. L334-2-1 (M)
+	  - Code de l'environnement - art. L334-4 (M)
+	  - Code de l'environnement - art. L640-1 (V)
+	  - Code de l'environnement - art. R219-9 (V)
+	  - Code de l'environnement - art. R322-26 (VD)
+	  - Code de l'environnement - art. R334-2 (V)
+	  - Code rural et de la pêche maritime - art. D914-5 (V)
+	  - Code rural et de la pêche maritime - art. R923-11 (V)
+	  - Code rural et de la pêche maritime - art. R923-40 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 18 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-1 (V)
+	  - Code de l'environnement - art. L332-1 (V)
+	  - Code de l'environnement - art. L334-3 (V)
+	  - Code de l'environnement - art. L334-8 (V)
+	  - Code de l'environnement - art. L411-1 (V)
+	  - Code de l'environnement - art. L414-1 (V)
+
+
+###### Article L334-2
+
+I. - L'agence est administrée par un conseil d'administration composé de représentants de l'Etat pour deux cinquièmes au
+moins, d'un député et d'un sénateur désignés par leur assemblée respective, de représentants des gestionnaires des
+différentes catégories d'aires marines protégées ou de leurs conseils ou comités de gestion, de collectivités territoriales
+intéressées et de leurs groupements compétents, d'un représentant du ou des parcs naturels régionaux intéressés, de
+représentants des organisations représentatives des professionnels, d'organisations d'usagers, d'associations de protection
+de l'environnement, des établissements publics de l'Etat compétents pour la recherche en mer, d'un représentant des
+organisations syndicales du personnel représentatives au plan national, ainsi que de personnalités qualifiées.
+
+Des agents de la fonction publique territoriale peuvent être mis à disposition de l'agence.
+
+II. - Les ressources de l'agence sont notamment constituées par des contributions de l'Etat et, le cas échéant, des
+gestionnaires d'aires marines protégées et des collectivités territoriales, par toute subvention publique ou privée et, s'il
+y a lieu, par des redevances pour service rendu et le produit de taxes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 18 () JORF 15 avril 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 30
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R334-20 (Ab)
+
+
+##### Section 2 : Parcs naturels marins
+
+###### Article L334-3
+
+Des parcs naturels marins peuvent être créés dans les eaux placées sous la souveraineté de l'Etat et, le cas échéant, en
+continuité avec celles-ci, dans les eaux placées sous sa juridiction, ainsi que sur les espaces appartenant au domaine public
+maritime, pour contribuer à la connaissance du patrimoine marin ainsi qu'à la protection et au développement durable du
+milieu marin. La création de parcs naturels marins situés en partie dans les eaux sous juridiction de l'Etat tient compte des
+dispositions de la convention des Nations unies sur le droit de la mer du 10 décembre 1982, notamment de sa partie XII.
+
+Le décret créant un parc naturel marin est pris après enquête publique. Il fixe les limites du parc et la composition du
+conseil de gestion et arrête les orientations de gestion du parc naturel marin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 18 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Arrêté du 26 décembre 2007 (V)
+	  - Décret n°2017-784 du 5 mai 2017 (V)
+	  - Code de l'environnement - art. Annexe I à l'article R123-1 (V)
+	  - Code de l'environnement - art. Annexe à l'article R583-4 (V)
+	  - Code de l'environnement - art. L334-1 (M)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+
+
+###### Article L334-4
+
+I.-La gestion de cette catégorie d'aires marines protégées est assurée par l'Agence des aires marines protégées prévue à
+l'article L. 334-1. 
+
+II.-Un conseil de gestion est constitué pour chaque parc naturel marin. Il est composé de représentants locaux de l'Etat de
+façon minoritaire, de représentants des collectivités territoriales intéressées et de leurs groupements compétents, du
+représentant du ou des parcs naturels régionaux intéressés, du représentant de l'organisme de gestion d'une aire marine
+protégée contiguë, de représentants d'organisations représentatives des professionnels, d'organisations d'usagers,
+d'associations de protection de l'environnement et de personnalités qualifiées. 
+
+Le conseil de gestion se prononce sur les questions intéressant le parc. Il élabore le plan de gestion du parc. Il définit
+les conditions d'un appui technique aux projets des collectivités territoriales qui veulent s'y associer. Il peut recevoir
+délégation du conseil d'administration de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 18 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L131-12 (V)
+	  - Code de l'environnement - art. L414-2 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L334-1 (V)
+
+
+###### Article L334-5
+
+Le plan de gestion détermine les mesures de protection, de connaissance, de mise en valeur et de développement durable à
+mettre en oeuvre dans le parc naturel marin. Il comporte un document graphique indiquant les différentes zones du parc et
+leur vocation. Il est mis en révision tous les quinze ans au moins.
+
+L'Agence des aires marines protégées peut attribuer des subventions destinées au financement de projets concourant à la mise
+en oeuvre du plan de gestion.
+
+L'Etat, les collectivités territoriales et les organismes qui s'associent à la gestion du parc naturel marin veillent à la
+cohérence de leurs actions et des moyens qu'ils y consacrent avec les orientations et les mesures du plan de gestion.
+
+Lorsqu'une activité est susceptible d'altérer de façon notable le milieu marin d'un parc naturel marin, l'autorisation à
+laquelle elle est soumise ne peut être délivrée que sur avis conforme de l'Agence des aires marines protégées ou, sur
+délégation, du conseil de gestion. Cette procédure n'est pas applicable aux activités répondant aux besoins de la défense
+nationale, de l'ordre public, de la sécurité maritime et de la lutte contre la pollution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 18 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-798 du 6 juillet 2006 - art. 12 (V)
+	  - Décret n°2013-611 du 10 juillet 2013 - art. 7 (VD)
+	  - Décret n°2014-751 du 1er juillet 2014 - art. 8 (VT)
+	  - Code de l'environnement - art. R181-27 (VD)
+	  - Code de l'environnement - art. R334-33 (VD)
+	  - Code de l'environnement - art. R334-36 (VD)
+	  - Code rural et de la pêche maritime - art. L921-10 (V)
+
+
+###### Article L334-6
+
+I. - Sans préjudice des compétences des officiers et agents de police judiciaire et des autres agents spécialement habilités,
+peuvent être recherchées et constatées dans le parc naturel marin par les agents de l'établissement public chargé des parcs
+naturels marins, commissionnés à cet effet par l'autorité administrative et assermentés :
+
+1° Les infractions à la police des eaux et rades définies à l'article 63 du code disciplinaire et pénal de la marine
+marchande ;
+
+2° Les infractions à la police des rejets définies aux articles L. 218-10 à L. 218-19, L. 218-22 et L. 218-73 du présent
+code ;
+
+3° Les infractions à la police de la signalisation maritime définies aux articles L. 341-1 et L. 341-2 du code des ports
+maritimes et aux dispositions prises pour leur application ;
+
+4° Les infractions à la police des biens culturels maritimes définies aux articles L. 544-5 à L. 544-7 du code du
+patrimoine ;
+
+5° Les infractions aux dispositions du décret-loi du 9 janvier 1852 sur l'exercice de la pêche maritime et de ses textes
+d'application. En tant qu'agents chargés de la police des pêches, les agents mentionnés au premier alinéa disposent pour
+effectuer les contrôles des prérogatives prévues à l'article 14 du décret-loi du 9 janvier 1852 précité ;
+
+6° Les infractions mentionnées à l'article L. 322-10-1 du présent code relatif à l'accès aux espaces gérés par le
+Conservatoire de l'espace littoral et des rivages lacustres ;
+
+7° Les infractions mentionnées aux articles L. 332-20 et L. 332-22 relatifs aux réserves naturelles ;
+
+8° Les infractions mentionnées à l'article L. 362-5 relatif à la circulation des véhicules terrestres à moteur dans les
+espaces naturels ;
+
+9° Les infractions mentionnées à l'article L. 415-1 relatif à la protection de la faune et de la flore.
+
+II. - Les procès-verbaux dressés par ces agents font foi jusqu'à preuve contraire. Ils sont adressés aux autorités
+administratives ou judiciaires selon les procédures prévues pour les infractions constatées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 18 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L334-7 (VD)
+
+
+###### Article L334-7
+
+Sans préjudice des sanctions pénales encourues, toute atteinte à l'intégrité et à la conservation du domaine public inclus
+dans le périmètre d'un parc naturel marin, ou de nature à compromettre son usage, constitue une contravention de grande
+voirie constatée, réprimée et poursuivie par voie administrative.
+
+Elle est constatée par les agents visés à l'article L. 334-6, sans préjudice des compétences des officiers et agents de
+police judiciaire et des autres agents spécialement habilités.
+
+Les personnes condamnées sont tenues de réparer ces atteintes et encourent les amendes prévues pour les contraventions de
+cinquième classe et les cas de récidive. Elles supportent les frais des mesures provisoires et urgentes que le conseil de
+gestion a pu être amené à prendre pour faire cesser le trouble apporté au domaine public par les infractions constatées.
+
+Le directeur de l'Agence des aires marines protégées et, sur délégation, ses représentants auprès des conseils de gestion ont
+compétence pour saisir le tribunal administratif, dans les conditions et suivant les procédures prévues par le code de
+justice administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 18 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L334-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R334-37 (V)
+
+
+###### Article L334-8
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 18 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L334-1 (M)
 
 
 ### Titre IV : Sites
@@ -18696,9 +20040,6 @@ et des droits des riverains.
 Les maires, en vertu de leur pouvoir de police, peuvent, le cas échéant, réglementer les conditions d'utilisation de ces
 itinéraires.
 
-La responsabilité civile des propriétaires ruraux et forestiers ne saurait être engagée au titre des dommages causés ou subis
-à l'occasion de la circulation des piétons ou de la pratique d'activités de loisirs qu'en raison de leurs actes fautifs.
-
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
@@ -18727,7 +20068,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 197 () JORF 24 février 2005
+	  - Loi n°2006-436 du 14 avril 2006 - art. 28 () JORF 15 avril 2006
 
 	**Cite**:
 
@@ -18784,8 +20125,9 @@ En vue d'assurer la protection des espaces naturels, la circulation des véhicul
 classées dans le domaine public routier de l'Etat, des départements et des communes, des chemins ruraux et des voies privées
 ouvertes à la circulation publique des véhicules à moteur.
 
-La charte de chaque parc naturel régional comporte un article établissant les règles de circulation des véhicules à moteur
-sur les voies et chemins de chaque commune adhérente du parc.
+La charte de chaque parc naturel régional ou la charte de chaque parc national comporte un article établissant les règles de
+circulation des véhicules à moteur sur les voies et chemins de chaque commune adhérente du parc naturel régional ou du parc
+national et des communes comprises en tout ou partie dans le coeur du parc national.
 
 **Liens relatifs à cet article**
 
@@ -18798,6 +20140,10 @@ sur les voies et chemins de chaque commune adhérente du parc.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -19103,6 +20449,34 @@ collectifs des espaces naturels et ruraux, d'une part, et du sport, d'autre part
 	**Cité par**:
 
 	  - Code de l'environnement - art. L653-1 (M)
+
+
+#### Chapitre V : Responsabilité en cas d'accident
+
+###### Article L365-1
+
+La responsabilité civile ou administrative des propriétaires de terrains, de la commune, de l'État ou de l'organe de gestion
+de l'espace naturel, à l'occasion d'accidents survenus dans le coeur d'un parc national, dans une réserve naturelle, sur un
+domaine relevant du Conservatoire de l'espace littoral et des rivages lacustres ou sur les voies et chemins visés à l'article
+L. 361-1, à l'occasion de la circulation des piétons ou de la pratique d'activités de loisirs, est appréciée au regard des
+risques inhérents à la circulation dans des espaces naturels ayant fait l'objet d'aménagements limités dans le but de
+conservation des milieux, et compte tenu des mesures d'information prises, dans le cadre de la police de la circulation, par
+les autorités chargées d'assurer la sécurité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 28 () JORF 15 avril 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L361-1 (V)
 
 
 ## Livre IV : Faune et flore
@@ -20090,7 +21464,9 @@ administrative peut prendre en charge son élaboration.
 
 V. - Lorsque le site est entièrement inclus dans un terrain relevant du ministère de la défense, l'autorité administrative
 préside le comité de pilotage Natura 2000 et établit le document d'objectifs en association avec le comité de pilotage Natura
-2000.
+2000. Lorsque le site est majoritairement situé dans le périmètre du coeur d'un parc national ou dans un parc naturel marin,
+le projet de document d'objectifs est établi par l'établissement public chargé de la gestion du parc. Il est approuvé par
+l'autorité administrative.
 
 VI. - Une convention est conclue entre l'Etat et la collectivité territoriale ou le groupement désigné dans les conditions
 prévues au III afin de définir les modalités et les moyens d'accompagnement nécessaires à l'élaboration du document
@@ -20103,10 +21479,6 @@ d'objectifs et au suivi de sa mise en oeuvre.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Modifié par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 144 () JORF 24 février 2005
-
 	**Cité par**:
 
 	  - Loi n°2005-157 du 23 février 2005 - art. 145 (V)
@@ -20114,6 +21486,10 @@ d'objectifs et au suivi de sa mise en oeuvre.
 	  - Code de l'environnement - art. L213-12-1 (V)
 	  - Code de l'environnement - art. R213-49-20 (V)
 	  - Code de l'environnement - art. R414-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 	**Cite**:
 
@@ -20563,31 +21939,35 @@ d'infractions commises sur le domaine public maritime ou dans les eaux territori
 
 ###### Article L415-3
 
-Est puni de six mois d'emprisonnement et de 9 000 euros d'amende :
+Est puni de six mois d'emprisonnement et de 9 000 euros d'amende : 
 
-1° Le fait, en violation des interdictions prévues par les dispositions de l'article L. 411-1 et par les règlements pris en
-application de l'article L. 411-2 :
+1° Le fait, en violation des interdictions prévues par les dispositions de l'article L. 411-1et par les règlements pris en
+application de l'article L. 411-2: 
 
-a) De porter atteinte à la conservation d'espèces animales non domestiques, à l'exception des perturbations intentionnelles ;
+a) De porter atteinte à la conservation d'espèces animales non domestiques, à l'exception des perturbations
+intentionnelles ; 
 
-b) De porter atteinte à la conservation d'espèces végétales non cultivées ;
+b) De porter atteinte à la conservation d'espèces végétales non cultivées ; 
 
 c) De détruire des sites contenant des fossiles permettant d'étudier l'histoire du monde vivant ainsi que les premières
-activités humaines, de détruire ou d'enlever des fossiles présents sur ces sites ;
+activités humaines, de détruire ou d'enlever des fossiles présents sur ces sites ; 
 
 2° Le fait d'introduire volontairement dans le milieu naturel, de transporter, colporter, utiliser, mettre en vente, vendre
-ou acheter un spécimen d'une espèce animale ou végétale en violation des dispositions de l'article L. 411-3 ou des règlements
-pris pour son application ;
+ou acheter un spécimen d'une espèce animale ou végétale en violation des dispositions de l'article L. 411-3ou des règlements
+pris pour son application ; 
 
 3° Le fait de produire, détenir, céder, utiliser, transporter, introduire, importer, exporter ou réexporter tout ou partie
-d'animaux ou de végétaux en violation des dispositions de l'article L. 412-1 ou des règlements pris pour son application ;
+d'animaux ou de végétaux en violation des dispositions de l'article L. 412-1 ou des règlements pris pour son application ; 
 
 4° Le fait d'être responsable soit d'un établissement d'élevage, de vente, de location ou de transit d'animaux d'espèces non
 domestiques, soit d'un établissement destiné à la présentation au public de spécimens vivants de la faune, sans être
-titulaire du certificat de capacité prévu à l'article L. 413-2 ;
+titulaire du certificat de capacité prévu à l'article L. 413-2; 
 
-5° Le fait d'ouvrir ou d'exploiter un tel établissement en violation des dispositions de l'article L. 413-3 ou des règlements
+5° Le fait d'ouvrir ou d'exploiter un tel établissement en violation des dispositions de l'article L. 413-3ou des règlements
 pris pour son application.
+
+L'amende est doublée lorsque les infractions visées aux 1° et 2° sont commises dans le coeur d'un parc national ou dans une
+réserve naturelle.
 
 **Liens relatifs à cet article**
 
@@ -20598,8 +21978,7 @@ pris pour son application.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 130 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 158 () JORF 24 février 2005
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -20619,8 +21998,8 @@ pris pour son application.
 	**Cite**:
 
 	  - Code de l'environnement - art. L411-1 (V)
-	  - Code de l'environnement - art. L411-2 (M)
-	  - Code de l'environnement - art. L411-3 (M)
+	  - Code de l'environnement - art. L411-2 (V)
+	  - Code de l'environnement - art. L411-3 (V)
 	  - Code de l'environnement - art. L412-1 (V)
 	  - Code de l'environnement - art. L413-2 (V)
 	  - Code de l'environnement - art. L413-3 (V)
@@ -25425,24 +26804,25 @@ L428-3 et sera supprimé le caractère I. Le décret n° 2005-935 du 2 août 200
 
 ###### Article L428-4
 
-I. - Est puni d'une peine de deux ans d'emprisonnement et de 30 000 Euros d'amende le fait de chasser lorsque sont réunies
-les circonstances suivantes :
+I.-Est puni d'une peine de deux ans d'emprisonnement et de 30 000 Euros d'amende le fait de chasser lorsque sont réunies les
+circonstances suivantes : 
 
-1° Pendant la nuit ou en temps prohibé ;
+1° Pendant la nuit ou en temps prohibé ; 
 
 2° Sur le terrain d'autrui ou dans une réserve de chasse approuvée par l'Etat ou établie en application de l'article L.
-422-27 ;
+422-27 ou dans le coeur ou les réserves intégrales d'un parc national ou dans une réserve naturelle en infraction à la
+réglementation qui y est applicable ; 
 
 3° A l'aide d'engins et d'instruments prohibés ou d'autres moyens que ceux autorisés par les articles L. 424-4 et L. 427-8 ou
-en employant des drogues et appâts de nature à enivrer le gibier ou à le détruire ;
+en employant des drogues et appâts de nature à enivrer le gibier ou à le détruire ; 
 
-4° Lorsque l'un des chasseurs est muni d'une arme apparente ou cachée.
+4° Lorsque l'un des chasseurs est muni d'une arme apparente ou cachée. 
 
-II. - Est puni des mêmes peines le fait de mettre en vente, vendre, acheter, transporter ou colporter du gibier en dehors des
+II.-Est puni des mêmes peines le fait de mettre en vente, vendre, acheter, transporter ou colporter du gibier en dehors des
 périodes autorisées en application de l'article L. 424-8, lorsque le gibier provient d'actes de chasse commis dans l'une des
-circonstances prévues aux 1°, 2° et 3° du I du présent article.
+circonstances prévues aux 1°, 2° et 3° du I du présent article. 
 
-III. - Est puni des mêmes peines le fait, en toute saison, de vendre, mettre en vente, transporter, colporter ou acheter
+III.-Est puni des mêmes peines le fait, en toute saison, de vendre, mettre en vente, transporter, colporter ou acheter
 sciemment du gibier tué à l'aide d'engins ou d'instruments prohibés, lorsque ce gibier provient d'actes de chasse commis dans
 l'une des circonstances prévues au 1° ou 2° du I.
 
@@ -25455,13 +26835,13 @@ l'une des circonstances prévues au 1° ou 2° du I.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 173 () JORF 24 février 2005
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L422-27 (M)
-	  - Code de l'environnement - art. L424-4 (M)
-	  - Code de l'environnement - art. L424-8 (M)
+	  - Code de l'environnement - art. L422-27 (V)
+	  - Code de l'environnement - art. L424-4 (V)
+	  - Code de l'environnement - art. L424-8 (V)
 	  - Code de l'environnement - art. L427-8 (V)
 
 	**Cité par**:
@@ -25487,7 +26867,8 @@ I. - Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de co
 d'habitation, et s'il est entouré d'une clôture continue faisant obstacle à toute communication avec les héritages voisins ;
 
 2° Chasser dans les réserves de chasse approuvées par l'Etat ou établies en application des dispositions de l'article L.
-422-27 ;
+422-27 ou chasser dans le coeur ou les réserves intégrales d'un parc national ou dans une réserve naturelle en infraction à
+la réglementation qui y est applicable ;
 
 3° Chasser en temps prohibé ou pendant la nuit ;
 
@@ -25530,7 +26911,7 @@ l'article L. 428-6, l'une des infractions prévues aux I et II.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 173 () JORF 24 février 2005
+	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -25895,22 +27276,22 @@ peuvent priver l'auteur de l'infraction du droit d'obtenir un permis de chasser 
 ###### Article L428-15
 
 Le permis de chasser ou l'autorisation de chasser mentionnée à l'article L. 423-2 peut être suspendu par l'autorité
-judiciaire :
+judiciaire : 
 
 1° En cas d'homicide involontaire ou de coups et blessures involontaires survenus à l'occasion d'une action de chasse ou de
-destruction d'animaux nuisibles ;
+destruction d'animaux nuisibles ; 
 
-2° Lorsque a été constatée l'une des infractions suivantes :
+2° Lorsque a été constatée l'une des infractions suivantes : 
 
-a) La chasse de nuit sur le terrain d'autrui avec un véhicule à moteur ;
+a) La chasse de nuit sur le terrain d'autrui avec un véhicule à moteur ; 
 
-b) La chasse dans les réserves approuvées et dans les territoires des parcs nationaux où la chasse est interdite ;
+b) La chasse dans les réserves approuvées et dans les coeurs des parcs nationaux où la chasse est interdite ; 
 
-c) La chasse dans les enclos, attenant ou non à des habitations, sans le consentement du propriétaire ;
+c) La chasse dans les enclos, attenant ou non à des habitations, sans le consentement du propriétaire ; 
 
-d) La destruction d'animaux des espèces protégées ;
+d) La destruction d'animaux des espèces protégées ; 
 
-e) Les infractions au plan de chasse du grand gibier ;
+e) Les infractions au plan de chasse du grand gibier ; 
 
 f) Les menaces ou violences contre des personnes commises à l'occasion de la constatation d'une infraction de chasse.
 
@@ -25923,7 +27304,7 @@ f) Les menaces ou violences contre des personnes commises à l'occasion de la co
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 174 () JORF 24 février 2005
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -25937,7 +27318,7 @@ f) Les menaces ou violences contre des personnes commises à l'occasion de la co
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L423-2 (M)
+	  - Code de l'environnement - art. L423-2 (V)
 
 	**Anciens textes**:
 
@@ -43819,7 +45200,7 @@ I. - Toute publicité est interdite :
 
 2° Sur les monuments naturels et dans les sites classés ;
 
-3° Dans les parcs nationaux et les réserves naturelles ;
+3° Dans les coeurs des parcs nationaux et les réserves naturelles ;
 
 4° Sur les arbres.
 
@@ -43872,7 +45253,7 @@ préfet.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 
 ###### Article L581-5
@@ -43992,7 +45373,9 @@ I. - A l'intérieur des agglomérations, la publicité est interdite :
 
 2° Dans les secteurs sauvegardés ;
 
-3° Dans les parcs naturels régionaux.
+3° Dans les parcs naturels régionaux ;
+
+4° Dans l'aire d'adhésion des parcs nationaux.
 
 Il ne peut être dérogé à cette interdiction que par l'institution de zones de publicité restreinte.
 
@@ -44036,7 +45419,7 @@ de liquidation des biens ou lorsqu'une ou plusieurs zones de réglementations sp
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-1199 2004-11-12 art. 1 1° JORF 14 novembre 2004
+	  - Loi n°2006-436 du 14 avril 2006 - art. 29 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -46316,8 +47699,8 @@ Sont applicables à Wallis et Futuna les articles L. 229-1 à L. 229-4.
 ###### Article L640-1
 
 I. - Les articles L. 122-1 à L. 122-3, L. 141-1 à L. 142-3, L. 218-1 à L. 218-72, L. 229-1 à L. 229-4, L. 332-1 à L. 332-14,
-L. 332-16 à L. 332-27, L. 411-1 à L. 411-4 et L. 412-1 à L. 415-5 sont applicables aux Terres australes et antarctiques
-françaises.
+L. 332-16 à L. 332-27, L. 334-1 à L. 334-8, L. 411-1 à L. 411-4 et L. 412-1 à L. 415-5 sont applicables aux Terres australes
+et antarctiques françaises.
 
 II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont exercés par le représentant de l'Etat.
 
@@ -46328,11 +47711,6 @@ scientifiques ou ethnographiques et la réglementation des fouilles.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°56-1106 1956-11-03
-	  - Code de l'environnement L122-1 à L122-3, L141-1 à L142-3, L218-1 à L218-72, L229-1 à L229-4, L332-1 à L332-14, L332-16 à L332-27, L411-1 à L411-4, L412-1 à L415-5
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
@@ -46340,11 +47718,16 @@ scientifiques ou ethnographiques et la réglementation des fouilles.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 21 (V) JORF 19 juillet 2005
+	  - Loi n°2006-436 du 14 avril 2006 - art. 30 (V) JORF 15 avril 2006
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L640-2 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement L122-1 à L122-3, L141-1 à L142-3, L218-1 à L218-72, L229-1 à L229-4, L332-1 à L332-14, L332-16 à L332-27, L334-1 à L334-8, L411-1 à L411-4, L412-1 à L415-5
+	  - Loi n°56-1106 1956-11-03
 
 
 ###### Article L640-2
