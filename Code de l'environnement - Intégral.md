@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-04-15
+Version Consolidée au 2006-05-23
 
 # Partie législative
 
@@ -50300,8 +50300,9 @@ précèdent.
 
 ###### Article R122-4
 
-Ne sont pas soumis à la procédure de l'étude d'impact les travaux d'entretien et de grosses réparations, quels que soient les
-ouvrages ou aménagements auxquels ils se rapportent.
+Ne sont pas soumis à la procédure d'étude d'impact les travaux d'entretien et de grosses réparations, quels que soient les
+ouvrages ou aménagements auxquels ils se rapportent. Les travaux de modernisation et de renforcement mentionnés à l'article
+R. 122-5 ne font l'objet d'une étude d'impact que lorsqu'ils dépassent les seuils fixés à l'article R. 122-8.
 
 **Liens relatifs à cet article**
 
@@ -50313,12 +50314,21 @@ ouvrages ou aménagements auxquels ils se rapportent.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 1 () JORF 23 mai 2006
+
 	**Cité par**:
 
 	  - Décret n°2014-751 du 1er juillet 2014 - art. 3 (VT)
 	  - Code de l'environnement - art. R122-17 (V)
 	  - Code de l'environnement - art. R181-4 (VD)
 	  - Code de l'environnement - art. R181-9 (VD)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R122-5 (V)
+	  - Code de l'environnement - art. R122-8 (M)
 
 
 ###### Article R122-6
@@ -50804,15 +50814,18 @@ Lorsque la décision d'autorisation ou d'approbation du projet ne relève pas de
 exemplaire du résumé non technique de l'étude d'impact est adressé par l'autorité compétente à la préfecture du département
 du lieu d'implantation du projet, accompagné des informations mentionnées à l'alinéa précédent.
 
-III. - Lorsque l'autorité compétente estime qu'un projet est susceptible d'avoir des incidences notables sur l'environnement
-d'un autre Etat, membre de l'Union européenne ou partie à la convention du 25 février 1991 sur l'évaluation de l'impact sur
-l'environnement dans un contexte transfrontière, signée à Espoo, ou lorsque les autorités de cet autre Etat en font la
-demande, cette autorité, sitôt après avoir pris l'arrêté ouvrant l'enquête publique, transmet un exemplaire du dossier aux
-autorités de cet Etat, en leur indiquant les délais de la procédure. Elle en informe au préalable le ministre des affaires
-étrangères.
+III. - Lorsqu'elle constate qu'un projet est susceptible d'avoir des incidences notables sur l'environnement d'un autre Etat,
+membre de l'Union européenne ou partie à la convention du 25 février 1991 sur l'évaluation de l'impact sur l'environnement
+dans un contexte transfrontière signée à Espoo, ou lorsqu'elle est saisie par l'Etat affecté par le projet, l'autorité
+compétente lui notifie sans délai l'arrêté d'ouverture de l'enquête publique et lui transmet un exemplaire du dossier
+d'enquête. Le résumé non technique de l'étude d'impact mentionné au III de l'article R. 122-3 et l'indication de la façon
+dont l'enquête publique s'insère dans la procédure administrative sont traduits, si nécessaire, dans la langue de l'Etat
+intéressé, les frais de traduction étant à la charge du pétitionnaire ou du maître d'ouvrage. La notification de l'arrêté
+d'ouverture d'enquête fixe également le délai dont disposent les autorités de cet Etat pour manifester leur intention de
+participer à l'enquête publique. L'enquête publique ne peut commencer avant l'expiration de ce délai.
 
-Lorsque l'autorité compétente est une collectivité territoriale, elle fait transmettre le dossier par le préfet du
-département.
+Le ministre des affaires étrangères est informé au préalable par l'autorité compétente. Si celle-ci est une collectivité
+territoriale, elle fait transmettre le dossier par le préfet.
 
 L'autorité compétente pour prendre la décision d'autorisation ou d'approbation du projet adresse aux autorités de l'Etat
 concerné le contenu de la décision accompagné des informations prévues par l'article L. 122-1 et par l'article R. 122-16.
@@ -50845,35 +50858,47 @@ tenir compte du délai de consultation des autorités étrangères.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 1 () JORF 23 mai 2006
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L122-1 (M)
 	  - Code de l'environnement - art. R122-16 (V)
+	  - Code de l'environnement - art. R122-3 (V)
 
 
 ###### Article R122-12
 
-Lorsqu'une enquête publique n'est pas prévue, l'étude d'impact est rendue publique dans les conditions suivantes :
+I. - En l'absence d'enquête publique ou d'une procédure équivalente de consultation du public prévue par un texte particulier
+et avant toute décision d'autorisation, d'approbation ou d'exécution d'aménagements ou d'ouvrages nécessitant une étude
+d'impact ou une notice d'impact dont l'Etat ou un de ses établissements publics est le maître d'ouvrage, celui-ci doit mettre
+à la disposition du public un dossier comprenant l'étude d'impact ou la notice d'impact et, le cas échéant, la demande
+d'autorisation, l'indication des autorités compétentes pour prendre la décision et celles des personnes auprès desquelles
+peuvent être obtenus des renseignements sur le projet. D'une durée d'un mois pour une étude d'impact et de quinze jours pour
+une notice d'impact, la mise à disposition du public s'opère dans les conditions suivantes :
 
-Toute personne physique ou morale peut prendre connaissance de l'étude d'impact dès qu'a été prise par l'autorité
-administrative la décision de prise en considération ou, si une telle décision n'est pas prévue, la décision d'autorisation
-ou d'approbation des aménagements ou ouvrages. Si la procédure ne comporte aucune de ces décisions, la date à laquelle il
-peut être pris connaissance de l'étude d'impact est celle à laquelle la décision d'exécution a été prise par la collectivité
-publique maître de l'ouvrage.
+1° Le maître de l'ouvrage publie un avis qui fixe :
 
-A cet effet, la décision de prise en considération, d'autorisation, d'approbation, ou d'exécution, doit faire l'objet, avant
-toute réalisation, d'une publication mentionnant l'existence d'une étude d'impact. La publication est faite selon les
-modalités prescrites par les dispositions réglementaires prévues pour l'aménagement ou ouvrage projeté. A défaut d'une telle
-disposition, elle est faite par une mention insérée dans deux journaux locaux ; pour les opérations d'importance nationale,
-elle est faite en outre dans deux journaux à diffusion nationale.
+a) La date à compter de laquelle le dossier mentionné à l'alinéa 1er est tenu à la disposition du public et la durée pendant
+laquelle il peut être consulté ;
 
-Les demandes de consultation de l'étude d'impact sont adressées à l'autorité qui est compétente pour prendre la décision
-d'autorisation, d'approbation ou d'exécution. Celle-ci indique sans délai au demandeur les lieux et modalités de consultation
-de l'étude.
+b) Les lieux, jours et heures où le public peut prendre connaissance du dossier et formuler ses observations sur un registre
+ouvert à cet effet.
 
-Lorsque les ouvrages sont entrepris pour le compte des services de la défense nationale, la demande est adressée au ministre
-chargé de la défense qui assure la publicité compatible avec les secrets de la défense nationale qu'il lui appartient de
-préserver.
+2° L'avis mentionné au 1° est publié par voie d'affiches dans les communes intéressées. Lorsque le projet comporte une étude
+d'impact, l'avis est également publié dans deux journaux diffusés dans le département, huit jours au moins avant la date à
+compter de laquelle l'étude d'impact est mise à la disposition du public. Lorsque l'étude d'impact porte sur une opération
+d'importance nationale, l'avis est publié dans deux journaux à diffusion nationale.
+
+3° Le maître d'ouvrage dresse le bilan de la mise à disposition du public et le tient à la disposition du public selon des
+procédés qu'il détermine. Lorsque le projet est soumis à autorisation ou approbation ce bilan est adressé préalablement à
+l'autorité compétente.
+
+II. - Lorsque les ouvrages sont entrepris pour le compte des services de la défense nationale, le ministre chargé de la
+défense organise l'information et la consultation du public selon des modalités compatibles avec le secret de la défense
+nationale qu'il lui appartient de préserver.
 
 **Liens relatifs à cet article**
 
@@ -50885,6 +50910,10 @@ préserver.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 1 () JORF 23 mai 2006
 
 	**Cité par**:
 
@@ -51701,13 +51730,16 @@ parmi les partis envisagés par le maître de l'ouvrage, le projet soumis à enq
 acquisitions immobilières ;
 
 7° La mention des textes qui régissent l'enquête publique en cause et l'indication de la façon dont cette enquête s'insère
-dans la procédure administrative relative à l'opération considérée.
+dans la procédure administrative relative à l'opération considérée ;
+
+8° Lorsqu'ils sont rendus obligatoires par un texte législatif ou réglementaire, les avis émis par une autorité
+administrative sur le projet d'opération.
 
 II. - Lorsque l'opération est soumise à décision d'autorisation ou d'approbation :
 
 1° Le dossier prévu par la réglementation relative à l'opération projetée ;
 
-2° Les pièces visées aux 2° et 7° du I ci-dessus.
+2° Les pièces visées aux 2°, 7° et 8° du I ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -51734,6 +51766,10 @@ II. - Lorsque l'opération est soumise à décision d'autorisation ou d'approbat
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 2 () JORF 23 mai 2006
 
 
 ##### Sous-section 2 : Autorité chargée d'organiser l'enquête
@@ -52047,7 +52083,16 @@ l'enquête, où toute correspondance relative à l'enquête peut être adressée
 du public pour recevoir ses observations ;
 
 5° Les lieux où, à l'issue de l'enquête, le public pourra consulter le rapport et les conclusions du commissaire enquêteur ou
-de la commission d'enquête.
+de la commission d'enquête ;
+
+6° Si le projet a fait l'objet d'une étude d'impact ou d'une notice d'impact dans les conditions prévues par les articles R.
+122-1 à R. 122-16, la mention de la présence de ce document dans le dossier d'enquête ;
+
+7° L'information selon laquelle, le cas échéant, le dossier d'enquête publique est transmis à un autre Etat ;
+
+8° L'identité de l'autorité compétente pour prendre la décision d'autorisation ou d'approbation et la nature de celle-ci ;
+
+9° L'identité de la personne responsable du projet ou l'autorité auprès de laquelle des informations peuvent être demandées.
 
 **Liens relatifs à cet article**
 
@@ -52058,6 +52103,10 @@ de la commission d'enquête.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 2 () JORF 23 mai 2006 rectificatif JORF 2 septembre 2006
 
 	**Cité par**:
 
@@ -52076,6 +52125,10 @@ de la commission d'enquête.
 	  - Code de l'urbanisme - art. R*123-23-1 (T)
 	  - Code de l'urbanisme - art. R*123-23-2 (T)
 	  - Code général des collectivités territoriales - art. R4424-7 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement R122-1 à R122-16
 
 
 ##### Sous-section 7 : Publicité de l'enquête
@@ -52448,9 +52501,9 @@ administratif, social et fiscal.
 
 ###### Article R123-24
 
-L'enquête publique est effectuée conformément aux articles R. 123-9, R. 123-10, R. 123-11, R. 123-12, R. 123-13, R. 123-16,
-R. 123-17, R. 123-20, R. 123-21 et R. 123-22, ainsi que selon les modalités suivantes mentionnées aux articles de la présente
-section.
+L'enquête publique est effectuée conformément aux articles R. 123-9, R. 123-13, R. 123-16, R. 123-17, R. 123-20, R. 123-21 et
+R. 123-22, ainsi que selon les dispositions de la présente section. Les articles R. 123-10, R. 123-11 et R. 123-12 relatifs à
+la rémunération du commissaire enquêteur s'appliquent sous réserve de l'article R. 123-28.
 
 **Liens relatifs à cet article**
 
@@ -52461,6 +52514,14 @@ section.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 2 () JORF 23 mai 2006 rectificatif JORF 27 mai 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-2018 du 29 décembre 2011 - art. 1
 
 	**Cite**:
 
@@ -52473,7 +52534,12 @@ section.
 	  - Code de l'environnement - art. R123-20 (V)
 	  - Code de l'environnement - art. R123-21 (V)
 	  - Code de l'environnement - art. R123-22 (V)
+	  - Code de l'environnement - art. R123-28 (M)
 	  - Code de l'environnement - art. R123-9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. R123-27-1 (VD)
 
 	**Cité par**:
 
@@ -52601,10 +52667,10 @@ titulaires en cas d'empêchement de ces derniers et exercent alors leurs fonctio
 
 ###### Article R123-28
 
-Les frais de l'enquête, notamment l'indemnisation des commissaires enquêteurs et des membres de la commission d'enquête,
-d'éventuels frais de traduction ainsi que les frais qui sont entraînés par la mise à la disposition du commissaire enquêteur
-ou de la commission d'enquête des moyens matériels nécessaires à l'organisation et au déroulement de la procédure d'enquête,
-sont pris en charge par l'Etat.
+A défaut d'accords bilatéraux en disposant autrement, les frais de l'enquête, notamment l'indemnisation des commissaires
+enquêteurs et des membres de la commission d'enquête, d'éventuels frais de traduction ainsi que les frais qui sont entraînés
+par la mise à disposition du commissaire enquêteur ou de la commission d'enquête des moyens matériels nécessaires à
+l'organisation et au déroulement de la procédure d'enquête sont pris en charge par l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -52615,6 +52681,10 @@ sont pris en charge par l'Etat.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 2 () JORF 23 mai 2006
 
 	**Cité par**:
 
@@ -53095,23 +53165,168 @@ s'ils sont titulaires d'une autorisation délivrée dans les conditions prévues
 	  - Code de l'environnement - art. L123-1 (V)
 
 
-#### Chapitre IV : Liberté d'accès à l'information relative à l'environnement
+#### Chapitre IV : Droit d'accès à l'information relative à l'environnement
 
 ###### Article R124-1
 
-L'accès à l'information relative à l'environnement, institué par l'article L. 124-1, est régi par le décret n° 88-465 du 28
-avril 1988 relatif à la procédure d'accès aux documents administratifs.
+I.-L'autorité publique saisie d'une demande d'information relative à l'environnement est tenue de statuer de manière expresse
+dans un délai d'un mois à compter de la réception de la demande. 
+
+Ce délai est porté à deux mois lorsque le volume ou la complexité des informations demandées le justifie. Dans un délai d'un
+mois à compter de la réception de la demande, l'autorité publique informe alors son auteur de la prolongation du délai et lui
+en indique les motifs. 
+
+II.-Lorsque la demande est formulée de manière trop générale, l'autorité publique ne peut la rejeter qu'après avoir invité
+son auteur à la préciser dans un délai qu'elle détermine. Elle informe le demandeur de l'existence des répertoires ou listes
+de catégories d'informations mentionnés au I de l'article L. 124-7 et des moyens d'y accéder. 
+
+III.-Lorsque la demande porte sur des informations qu'elle ne détient pas, l'autorité publique saisie la transmet à
+l'autorité publique susceptible de détenir l'information et en avise l'intéressé dans un délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 3 () JORF 23 mai 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L124-7 (V)
+
+
+###### Article R124-2
+
+La personne responsable de l'accès aux documents administratifs désignée en application de l'article 24 de la loi n° 78-753
+du 17 juillet 1978 est responsable de l'accès à l'information relative à l'environnement. Celles des autorités publiques
+mentionnées à l'article L. 124-3 auxquelles ne s'applique pas l'article 42 du décret n° 2005-1755 du 30 décembre 2005 relatif
+à la liberté d'accès aux documents administratifs et à la réutilisation des informations publiques désignent une personne
+responsable de l'accès à l'information relative à l'environnement qu'elles détiennent ou qui est détenue pour leur compte.
+Elles en informent le public par tout moyen approprié.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°88-465 1988-04-28
-	  - Code de l'environnement - art. L124-1 (T)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 24 (V)
+	  - Décret n°2005-1755 du 30 décembre 2005 - art. 42 (V)
+	  - Code de l'environnement - art. L124-3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 3 () JORF 23 mai 2006
+
+
+###### Article R124-3
+
+I. - La personne responsable de l'accès à l'information relative à l'environnement est chargée, en cette qualité :
+
+1° De recevoir les demandes d'accès à l'information relative à l'environnement, ainsi que les éventuelles réclamations, et de
+veiller à leur instruction ;
+
+2° D'assurer la liaison entre l'autorité publique qui l'a désignée et la commission d'accès aux documents administratifs.
+
+II. - Elle peut également être chargée d'établir un bilan annuel des demandes d'accès à l'information relative à
+l'environnement qu'elle présente à l'autorité publique qui l'a désignée et dont elle adresse copie à la commission d'accès
+aux documents administratifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 3 () JORF 23 mai 2006
+
+
+###### Article R124-4
+
+I.-Pour la mise en oeuvre des obligations qui leur incombent en application de l'article L. 124-7, les autorités publiques
+doivent, notamment, mettre à la disposition du public la liste des services, organismes, établissements publics ou personnes
+qui exercent sous leur autorité, pour leur compte ou sous leur contrôle des missions de service public en rapport avec
+l'environnement. Cette liste comprend notamment les indications suivantes : 
+
+a) La dénomination ou raison sociale, suivie, le cas échéant, du sigle et de l'adresse des services, organismes,
+établissements publics ou personnes concernées ; 
+
+b) La nature et l'objectif de la mission exercée ; 
+
+c) Les catégories d'informations relatives à l'environnement détenues. 
+
+II.-Les autorités publiques informent le ministre chargé de l'environnement (Institut français de l'environnement) et la
+commission d'accès aux documents administratifs de la constitution de ces listes et des répertoires mentionnés à l'article L.
+124-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 3 () JORF 23 mai 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L124-7 (V)
+
+
+###### Article R124-5
+
+I.-Doivent faire l'objet d'une diffusion publique au sens de l'article L. 124-8 les catégories d'informations relatives à
+l'environnement suivantes : 
+
+1° Les traités, conventions et accords internationaux, ainsi que la législation communautaire, nationale, régionale et locale
+concernant l'environnement ou s'y rapportant ; 
+
+2° Les plans et programmes et les documents définissant les politiques publiques qui ont trait à l'environnement ; 
+
+3° Les rapports établis par les autorités publiques ou pour leur compte relatifs à l'état d'avancement de la mise en oeuvre
+des textes et actions mentionnés aux 1° et 2° quand ces rapports sont élaborés ou conservés sous forme électronique par les
+autorités publiques ; 
+
+4° Les rapports établis par les autorités publiques sur l'état de l'environnement ; 
+
+5° Les données ou résumés des données recueillies par les autorités publiques dans le cadre du suivi des activités ayant ou
+susceptibles d'avoir des incidences sur l'environnement ; 
+
+6° Les autorisations qui ont un impact significatif sur l'environnement ainsi que les accords environnementaux ; 
+
+7° Les études d'impact environnemental et les évaluations de risques concernant les éléments de l'environnement mentionnés à
+l'article L. 124-2. 
+
+II.-Les informations mentionnées au I qui n'ont pas été publiées au Journal officiel de la République française ou de l'Union
+européenne ou dans les conditions prévues par les articles 29 à 33 du décret n° 2005-1755 du 30 décembre 2005 relatif à la
+liberté d'accès aux documents administratifs et à la réutilisation des informations publiques sont publiées sous forme
+électronique au plus tard pour le 31 décembre 2008. 
+
+La diffusion des informations mentionnées aux 6° et 7° du I peut consister en l'indication des lieux où le public peut en
+prendre connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Cite**:
+
+	  - Décret n°2005-1755 du 30 décembre 2005 - art. 29 (V)
+	  - Code de l'environnement - art. L124-8 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-578 du 22 mai 2006 - art. 3 () JORF 23 mai 2006
 
 
 #### Chapitre V : Autres modes d'information
