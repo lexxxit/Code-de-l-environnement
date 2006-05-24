@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-05-23
+Version Consolidée au 2006-05-25
 
 # Partie législative
 
@@ -20427,24 +20427,32 @@ aérodromes dont la liste est fixée par l'autorité administrative.
 
 ###### Article L364-1
 
-Ainsi qu'il est dit à l'article 19 II de la loi n° 84-610 du 16 juillet 1984 modifiée relative à l'organisation et la
-promotion des activités physiques et sportives ci-après partiellement reproduit :
+Ainsi qu'il est dit à l'article L. 311-10 du code du sport ci-après reproduit : 
 
-"Le Comité national olympique et sportif français ... conclut avec les organismes gestionnaires d'espaces naturels, sous
-réserve du respect de la réglementation propre à chaque espace, des conventions ayant pour objet de fixer les conditions et
-modalités d'accès à ces sites pour les pratiques sportives en pleine nature, compatibles avec les schémas de services
-collectifs des espaces naturels et ruraux, d'une part, et du sport, d'autre part."
+" Le Comité national olympique et sportif français conclut avec les organismes gestionnaires d'espaces naturels, sous réserve
+du respect de la réglementation propre à chaque espace, des conventions ayant pour objet de fixer les conditions et modalités
+d'accès à ces sites pour les pratiques sportives en pleine nature, compatibles avec les schémas de services collectifs des
+espaces naturels et ruraux, d'une part, et du sport, d'autre part. "
+
+**Nota:**
+
+Une anomalie s'est glissée dans la rédaction de l'article 3 II 2° de l'ordonnance n° 2006-596 du 23 mai 2006. La référence à
+l'article L. 311-10 du code du sport doit être lue comme une référence à l'article L. 311-5 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 19 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du sport. - art. L311-5 (V)
 
 	**Cité par**:
 
