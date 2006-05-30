@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-05-31
 
 # Partie législative
 
@@ -50633,7 +50633,7 @@ hectares ;
 14° Ouvrages destinés à l'épuration des eaux des collectivités locales permettant de traiter un flux de matières polluantes
 au moins équivalent à celui produit par 10 000 habitants, au sens de l'article R. 1416-3 du code de la santé publique ;
 
-15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la puissance maximum est supérieure à 2,5 MW ;
+15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât dépasse 50 mètres ;
 
 16° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 431-6 du présent code et définies au premier
 alinéa de l'article R. 431-16 de ce code ;
@@ -50687,7 +50687,7 @@ une superficie d'au moins 50 hectares.
 
 	**Modifié par**:
 
-	  - Décret n°2006-394 du 30 mars 2006 - art. 26 () JORF 1er avril 2006
+	  - Décret n°2006-629 du 30 mai 2006 - art. 2 () JORF 31 mai 2006
 
 
 ###### Article R122-9
@@ -50732,8 +50732,8 @@ l'article R. 431-16 ;
 
 12° Travaux et ouvrages de défense contre la mer d'une emprise totale inférieure à 2 000 mètres carrés ;
 
-13° Travaux d'installation des ouvrages de production d'énergie éolienne dont la puissance maximum est inférieure ou égale à
-2,5 MW.
+13° Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât est inférieure ou égale à 50
+mètres.
 
 **Liens relatifs à cet article**
 
@@ -50753,6 +50753,10 @@ l'article R. 431-16 ;
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-629 du 30 mai 2006 - art. 2 () JORF 31 mai 2006
 
 	**Cité par**:
 
@@ -54602,6 +54606,111 @@ un impact sur l'aménagement de l'espace autour desdites installations.
 	**Cité par**:
 
 	  - Code de l'environnement - art. D125-31 (VD)
+
+
+#### Chapitre VI : Déclaration de projet
+
+###### Article R126-1
+
+La déclaration de projet prévue à l'article L. 126-1 du code de l'environnement est publiée dans les conditions définies au
+présent chapitre.
+
+Toutefois, lorsque la déclaration de projet nécessite la mise en compatibilité d'un schéma de cohérence territoriale ou d'un
+plan local d'urbanisme, elle est publiée dans les conditions prévues, selon le cas, à l'article R. 122-13 ou à l'article R.
+123-25 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-629 du 30 mai 2006 - art. 1 () JORF 31 mai 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-25
+	  - Code de l'environnement - art. L126-1 (V)
+	  - Code de l'environnement - art. R122-13 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R651-1 (V)
+
+
+###### Article R126-2
+
+La déclaration de projet concernant un projet public de travaux, d'aménagements ou d'ouvrages d'une collectivité territoriale
+ou d'un établissement public de coopération intercommunale est publiée dans les conditions prévues pour les actes de leurs
+organes délibérants par le code général des collectivités territoriales.
+
+Elle est en outre affichée dans chacune des communes concernées par le projet.
+
+Chacune des formalités de publicité mentionne le ou les lieux où le public peut consulter le document comportant le texte de
+la déclaration de projet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-629 du 30 mai 2006 - art. 1 () JORF 31 mai 2006
+
+
+###### Article R126-3
+
+La déclaration de projet concernant un projet public de travaux, d'aménagements ou d'ouvrages de l'Etat ou de l'un de ses
+établissements publics est prise par la personne publique maître d'ouvrage.
+
+Cette déclaration est publiée au Recueil des actes administratifs de l'Etat dans le ou les départements intéressés.
+
+Elle est en outre affichée dans chacune des communes concernées par le projet.
+
+Chacune de ces formalités de publicité mentionne le ou les lieux où le public peut consulter le document comportant le texte
+de la déclaration de projet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-629 du 30 mai 2006 - art. 1 () JORF 31 mai 2006
+
+
+###### Article R126-4
+
+Lorsque la déclaration d'utilité publique prononcée par arrêté ministériel ou par arrêté préfectoral tient lieu de
+déclaration de projet en application de l'article L. 11-1-1 du code de l'expropriation pour cause d'utilité publique, elle
+est affichée dans chacune des communes concernées par le projet. Chacune de ces formalités de publicité mentionne le ou les
+lieux où le public peut consulter le document exposant les motifs de la déclaration d'utilité publique. 
+
+Toutefois, lorsque la déclaration d'utilité publique emporte mise en compatibilité d'un schéma de cohérence territoriale ou
+d'un plan local d'urbanisme, elle est publiée dans les conditions prévues, selon le cas, à l'article R. 122-13 ou à l'article
+R. 123-25 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-629 du 30 mai 2006 - art. 1 () JORF 31 mai 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*122-13 (V)
+	  - Code de l'urbanisme - art. R*123-25 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1-1 (V)
 
 
 ### Titre III : Institutions
