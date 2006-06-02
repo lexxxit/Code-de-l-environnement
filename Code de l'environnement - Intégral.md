@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-05-31
+Version Consolidée au 2006-06-03
 
 # Partie législative
 
@@ -50596,7 +50596,8 @@ supérieure ou égale à 63 kV ;
 supérieure à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de l'énergie ou
 des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
 
-4° Ouverture de travaux d'exploitation de mines ;
+4° Ouverture de travaux miniers et de travaux de stockage souterrain soumis à autorisation en vertu du décret n° 2006-649 du
+2 juin 2006.
 
 5° Aménagements de stockages souterrains de gaz, d'hydrocarbures ou de produits chimiques ;
 
@@ -50661,6 +50662,7 @@ une superficie d'au moins 50 hectares.
 	**Cite**:
 
 	  - Code rural L121-1
+	  - Décret n°2006-649 2006-06-02
 	  - Code de la santé publique - art. R1416-3 (M)
 	  - Code de la santé publique R1416-3, R431-16
 	  - Code de l'urbanisme - art. L130-2 (M)
@@ -50687,7 +50689,7 @@ une superficie d'au moins 50 hectares.
 
 	**Modifié par**:
 
-	  - Décret n°2006-629 du 30 mai 2006 - art. 2 () JORF 31 mai 2006
+	  - Décret n°2006-649 du 2 juin 2006 - art. 55 () JORF 3 juin 2006
 
 
 ###### Article R122-9
@@ -50710,9 +50712,9 @@ l'exclusion des travaux souterrains ;
 inférieure ou égale à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de
 l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
 
-5° Travaux de recherches de mines soumis à déclaration en vertu du décret n° 95-696 du 9 mai 1995 relatif à l'ouverture des
-travaux miniers et à la police des mines et travaux de recherches de carrières soumis à autorisation dans les zones définies
-aux articles 109 et 109-1 du code minier et en application du décret n° 97-181 du 28 février 1997 ;
+5° Ouverture de travaux miniers et de travaux de stockage souterrain soumis à déclaration en vertu du décret n° 2006-649 du 2
+juin 2006 et travaux de recherches de carrières soumis à autorisation dans les zones définies aux articles 109 et 109-1 du
+code minier et en application du décret n° 97-181 du 28 février 1997 ;
 
 6° Travaux de défrichement et de premiers boisements soumis à autorisation et portant sur une superficie inférieure à 25
 hectares ;
@@ -50743,8 +50745,8 @@ mètres.
 
 	**Cite**:
 
-	  - Décret n°95-696 1995-05-09
 	  - Décret n°97-181 1997-02-28
+	  - Décret n°2006-649 2006-06-02
 	  - Code du domaine de l'Etat - art. L64 (Ab)
 	  - Code minier 109, 109-1
 	  - Code de l'environnement - art. L431-6 (M)
@@ -50756,7 +50758,7 @@ mètres.
 
 	**Modifié par**:
 
-	  - Décret n°2006-629 du 30 mai 2006 - art. 2 () JORF 31 mai 2006
+	  - Décret n°2006-649 du 2 juin 2006 - art. 56 () JORF 3 juin 2006
 
 	**Cité par**:
 
