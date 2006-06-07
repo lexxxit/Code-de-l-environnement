@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-06-03
+Version Consolidée au 2006-06-08
 
 # Partie législative
 
@@ -53489,7 +53489,7 @@ provoquent un ou plusieurs des effets nocifs mentionnés à l'article L. 541-2 a
 assurer la poursuite de cette résorption.
 
 II. - Ce document peut être librement consulté à la préfecture du département ; il fait l'objet, au moins une fois par an,
-d'une présentation par le préfet devant le conseil départemental d'hygiène.
+d'une présentation par le préfet devant le conseil départemental de l'environnement et des risques sanitaires.
 
 **Liens relatifs à cet article**
 
@@ -60986,19 +60986,19 @@ des communes et groupements de communes est déterminée dans les mêmes conditi
 
 ###### Article R321-8
 
-I. - La convention, d'une durée de cinq ans renouvelable, prévue au cinquième alinéa de l'article L. 321-11, comprend :
+I.-La convention, d'une durée de cinq ans renouvelable, prévue au cinquième alinéa de l'article L. 321-11, comprend : 
 
 1° Un programme technique de protection et de gestion des espaces naturels de l'île soumis préalablement pour avis à la
-commission départementale des sites, perspectives et paysages siégeant en formation dite de " protection de la nature " ;
+commission départementale de la nature, des paysages et des sites ; 
 
-2° L'évaluation des charges liées à la perception du droit de passage ;
+2° L'évaluation des charges liées à la perception du droit de passage ; 
 
-3° Le programme des opérations retenues, en mentionnant leur financement et leur maître d'ouvrage ;
+3° Le programme des opérations retenues, en mentionnant leur financement et leur maître d'ouvrage ; 
 
 4° Les modalités de versement du produit du droit départemental de passage aux communes et aux groupements de communes
-signataires de la convention.
+signataires de la convention. 
 
-II. - Un exemplaire de la convention peut être consulté dans chacune des communes et au siège des groupements concernés.
+II.-Un exemplaire de la convention peut être consulté dans chacune des communes et au siège des groupements concernés.
 
 **Liens relatifs à cet article**
 
@@ -61006,9 +61006,13 @@ II. - Un exemplaire de la convention peut être consulté dans chacune des commu
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L321-11 (M)
+	  - Code de l'environnement - art. L321-11 (V)
 
 	**Cité par**:
 
@@ -65495,16 +65499,19 @@ spéciale pour toute destruction ou modification de l'état ou de l'aspect des l
 
 ###### Article R332-6
 
-Le préfet consulte, sur la base du rapport d'enquête et des avis recueillis, la commission départementale des sites,
-perspectives et paysages siégeant en formation de protection de la nature, et, lorsque le projet de classement a une
-incidence sur les sports de nature, la commission départementale des espaces, sites et itinéraires relatifs aux sports de
-nature.
+Le préfet consulte, sur la base du rapport d'enquête et des avis recueillis, la commission départementale de la nature, des
+paysages et des sites, et, lorsque le projet de classement a une incidence sur les sports de nature, la commission
+départementale des espaces, sites et itinéraires relatifs aux sports de nature.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -65963,19 +65970,19 @@ de la protection de la nature et, le cas échéant, recueille l'accord de l'auto
 
 ###### Article R*332-25
 
-Lorsque la commission départementale des sites, perspectives et paysages ou le conseil scientifique régional du patrimoine
-naturel a émis un avis défavorable, la décision est prise par le ministre chargé de la protection de la nature après avis du
-Conseil national de la protection de la nature.
+Lorsque la commission départementale de la nature, des paysages et des sites ou le conseil scientifique régional du
+patrimoine naturel a émis un avis défavorable, la décision est prise par le ministre chargé de la protection de la nature
+après avis du Conseil national de la protection de la nature.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2005-934 2005-08-02 Annexe I JORF 5 août 2005
 
 	**Codifié par**:
 
 	  - Décret n°2005-934 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -66039,8 +66046,8 @@ environnement. L'étude d'impact imposée au titre d'une autre réglementation p
 ###### Article R332-24
 
 Le préfet se prononce sur la demande dans un délai de cinq mois, après avoir recueilli l'avis du ou des conseils municipaux
-intéressés, du conseil scientifique régional du patrimoine naturel et de la commission départementale des sites, perspectives
-et paysages siégeant en formation de protection de la nature.
+intéressés, du conseil scientifique régional du patrimoine naturel et de la commission départementale de la nature, des
+paysages et des sites.
 
 Les avis qui n'ont pas été formulés dans un délai de trois mois à compter de la date de la saisine de l'organisme consulté
 sont réputés favorables.
@@ -66050,6 +66057,10 @@ sont réputés favorables.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -67913,10 +67924,11 @@ publicité est certifié par le maire.
 
 Pendant un délai s'écoulant du premier jour de l'enquête au vingtième jour suivant sa clôture, toute personne intéressée peut
 adresser, par lettre recommandée avec demande d'avis de réception, des observations au préfet, qui en informe la commission
-départementale des sites, perspectives et paysages.
+départementale de la nature, des paysages et des sites.
 
 Pendant le même délai et selon les mêmes modalités, les propriétaires concernés font connaître au préfet, qui en informe la
-commission départementale des sites, perspectives et paysages, leur opposition ou leur consentement au projet de classement.
+commission départementale de la nature, des paysages et des sites, leur opposition ou leur consentement au projet de
+classement.
 
 A l'expiration de ce délai, le silence du propriétaire équivaut à un défaut de consentement. Toutefois, lorsque l'arrêté de
 mise à l'enquête a été personnellement notifié au propriétaire, son silence à l'expiration du délai équivaut à un accord
@@ -67931,6 +67943,10 @@ tacite.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 
 ###### Article R341-6
@@ -68089,7 +68105,7 @@ demandée pour les modifications à l'état des lieux ou à leur aspect résulta
 ###### Article R341-11
 
 Le préfet décide après avis de l'architecte des Bâtiments de France et, chaque fois qu'il le juge utile, de la commission
-départementale des sites, perspectives et paysages.
+départementale de la nature, des paysages et des sites.
 
 Le préfet informe ladite commission des décisions qu'il a prises.
 
@@ -68104,6 +68120,10 @@ Le préfet informe ladite commission des décisions qu'il a prises.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
 	**Cité par**:
 
 	  - Décret n°2015-1408 du 5 novembre 2015 - art. Annexe 1 (V)
@@ -68111,9 +68131,10 @@ Le préfet informe ladite commission des décisions qu'il a prises.
 
 ###### Article R341-13
 
-Lorsqu'il statue pour l'application de l'article L. 341-10, le ministre décide après avis de la commission départementale des
-sites, perspectives et paysages et, chaque fois qu'il le juge utile, de la Commission supérieure des sites, perspectives et
-paysages. Toutefois, l'avis de la commission départementale n'est pas requis lorsque le ministre évoque le dossier.
+Lorsqu'il statue pour l'application de l'article L. 341-10, le ministre décide après avis de la commission départementale de
+la nature, des paysages et des sites, et, chaque fois qu'il le juge utile, de la Commission supérieure des sites,
+perspectives et paysages. Toutefois, l'avis de la commission départementale n'est pas requis lorsque le ministre évoque le
+dossier.
 
 **Liens relatifs à cet article**
 
@@ -68125,6 +68146,10 @@ paysages. Toutefois, l'avis de la commission départementale n'est pas requis lo
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -68182,55 +68207,41 @@ subvention les concernant sont prises par le préfet du département intéressé
 
 ##### Section 2 : Organismes
 
-##### Sous-section 1 : Commission départementale des sites, perspectives et paysages
+##### Sous-section 1 : Commission départementale de la nature, des paysages et des sites
 
 ###### Article R341-16
 
-I. - La commission départementale des sites, perspectives et paysages instituée dans chaque département est composée de
-quatre formations : la formation dite " des sites et paysages ", la formation dite " de la protection de la nature ", la
-formation dite " de la faune sauvage captive " et la formation dite " de la publicité ".
+La commission départementale de la nature, des paysages et des sites concourt à la protection de la nature, à la préservation
+des paysages, des sites et du cadre de vie et contribue à une gestion équilibrée des ressources naturelles et de l'espace
+dans un souci de développement durable. Elle est régie par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7
+juin 2006.
 
-II. - Elle est chargée :
+I.-Au titre de la protection de la nature, la commission est notamment chargée d'émettre un avis, dans les cas et selon les
+modalités prévus par les dispositions législatives ou réglementaires, sur les projets d'actes réglementaires et individuels
+portant sur les réserves naturelles, les biotopes, la faune et la flore, le patrimoine géologique et les établissements
+hébergeant des animaux d'espèces non domestiques autres que les espèces de gibier dont la chasse est autorisée. 
 
-1° Dans sa formation dite " des sites et paysages " :
+Elle constitue une instance de concertation qui peut être consultée sur la constitution, la gestion et l'évaluation du réseau
+Natura 2000 dans le département. 
 
-a) De veiller sur les sites de caractère artistique, historique, scientifique, légendaire ou pittoresque du département et
-d'intervenir à cet effet toutes les fois que ceux-ci sont menacés ;
+II.-Au titre de la préservation des sites et des paysages, du cadre de vie et de la gestion équilibrée de l'espace, la
+commission exerce notamment, dans les cas et selon les modalités prévus par les dispositions législatives ou réglementaires,
+les attributions suivantes : 
 
-b) De prendre l'initiative des inscriptions et des classements de sites qu'elle juge utiles ;
+1° Elle prend l'initiative des inscriptions et des classements de site, émet un avis sur les projets relatifs à ces
+classements et inscriptions ainsi qu'aux travaux en site classé ; 
 
-c) D'émettre un avis sur les propositions d'inscription ou de classement qui lui sont soumises ;
+2° Elle veille à l'évolution des paysages et peut être consultée sur les projets de travaux les affectant ; 
 
-d) D'émettre un avis sur les questions dont elle est saisie en vertu de dispositions législatives ou réglementaires,
-notamment en application du code de l'urbanisme ;
+3° Elle émet les avis prévus par le code de l'urbanisme ; 
 
-e) D'émettre un avis sur les questions relatives aux sites et paysages dont elle est saisie par le ministre chargé des sites
-ou par le préfet. Le préfet peut notamment la consulter sur les projets de travaux en site inscrit ainsi que sur tout projet
-dont l'importance des effets sur le paysage justifie sa consultation.
+4° Elle se prononce sur les questions posées par la publicité, les enseignes et les pré-enseignes ; 
 
-2° Dans sa formation dite " de la protection de la nature " :
+5° Elle émet un avis sur les projets d'unités touristiques nouvelles. 
 
-a) De proposer la création de réserves naturelles et les mesures spécifiques de protection intéressant la faune et la flore
-ou les biotopes du département ;
-
-b) D'émettre un avis sur les questions relatives à la conservation de la faune et de la flore, des eaux, des sols, des
-gisements de minéraux et de fossiles et, en général, des milieux naturels qu'il convient de préserver ;
-
-c) D'une façon générale, d'émettre un avis sur toutes les questions relatives à la protection de la nature dont elle est
-saisie par le préfet.
-
-3° Dans sa formation dite " de la faune sauvage captive " :
-
-a) D'émettre un avis sur les demandes de certificats de capacité pour l'entretien des animaux, présentées par les
-responsables des établissements hébergeant des animaux d'espèces non domestiques autres que les espèces de gibier dont la
-chasse est autorisée, dont elle est saisie par le préfet ;
-
-b) D'émettre un avis sur les demandes d'autorisations d'ouverture d'établissements relevant de la première catégorie définie
-à l'article R. 413-14 du présent code.
-
-4° Dans sa formation dite " de la publicité " :
-
-D'émettre un avis sur les questions dont elle est saisie en application des articles L. 581-1 et suivants.
+III.-Au titre de la gestion équilibrée des ressources naturelles, la commission, dans les cas et selon les modalités prévus
+par les dispositions législatives ou réglementaires, élabore le schéma départemental des carrières et se prononce sur les
+projets de décisions relatifs aux carrières.
 
 **Liens relatifs à cet article**
 
@@ -68260,17 +68271,38 @@ D'émettre un avis sur les questions dont elle est saisie en application des art
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-1 (M)
-	  - Code de l'environnement - art. R413-14 (V)
+	  - Décret n°2006-665 du 7 juin 2006 - art. 8 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. R581-80 (V)
 
 
 ###### Article R341-17
 
-En Corse, les compétences dévolues par l'article L. 341-1 à la commission départementale des sites, perspectives et paysages
-sont exercées par le conseil des sites prévu par les articles R. 4421-1 à R. 4421-15 du code général des collectivités
-territoriales.
+La commission départementale de la nature, des paysages et des sites est présidée par le préfet, et à Paris par le préfet de
+police, et composée de membres répartis en quatre collèges :
+
+1° Un collège de représentants des services de l'Etat, membres de droit ; il comprend notamment le directeur régional de
+l'environnement ;
+
+2° Un collège de représentants élus des collectivités territoriales et, le cas échéant, de représentants d'établissements
+publics de coopération intercommunale ;
+
+3° Un collège de personnalités qualifiées en matière de sciences de la nature, de protection des sites ou du cadre de vie, de
+représentants d'associations agréées de protection de l'environnement et, le cas échéant, de représentants des organisations
+agricoles ou sylvicoles ;
+
+4° Un collège de personnes compétentes dans les domaines d'intervention de chaque formation spécialisée.
+
+Le préfet peut nommer des suppléants aux membres désignés au titre des 3° et 4° dans les mêmes conditions que les membres
+titulaires.
 
 **Liens relatifs à cet article**
 
@@ -68278,51 +68310,20 @@ territoriales.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
 	**Cité par**:
 
 	  - Décret n°2014-450 du 2 mai 2014 - art. 18 (VT)
 	  - Code de l'environnement - art. R661-3 (V)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales R4421-1 à R4421-15
-	  - Code de l'environnement - art. L341-1 (M)
-
 
 ###### Article R341-18
 
-La commission départementale des sites, perspectives et paysages est présidée par le préfet. Outre ce dernier, elle
-comprend :
-
-1° Six représentants des services de l'Etat, membres de droit :
-
-a) Le directeur régional de l'environnement ;
-
-b) Le directeur régional des affaires culturelles ;
-
-c) Le directeur départemental de l'équipement ;
-
-d) Le directeur départemental de l'agriculture et de la forêt ;
-
-e) Le délégué régional au tourisme ;
-
-f) Le chef du service départemental de l'architecture et du patrimoine.
-
-2° Six représentants des collectivités territoriales :
-
-a) Trois conseillers généraux désignés par le conseil général ;
-
-b) Trois maires désignés par l'association départementale des maires ou, à défaut ou s'il en existe plusieurs, élus, à la
-représentation proportionnelle à la plus forte moyenne, par le collège des maires du département convoqué à cet effet par le
-préfet ; le vote peut avoir lieu par correspondance.
-
-3° Six personnalités qualifiées en matière de protection des sites, du cadre de vie et des sciences de la nature désignées
-par le préfet, dont :
-
-a) Deux représentants d'associations de protection de l'environnement agréées au titre de l'article L. 141-1 ;
-
-b) Deux personnalités qualifiées représentant respectivement les organisations professionnelles agricoles et les
-organisations professionnelles sylvicoles.
+La commission se réunit en six formations spécialisées, présidées par le préfet ou son représentant et composées à parts
+égales de membres de chacun des quatre collèges.
 
 **Liens relatifs à cet article**
 
@@ -68334,29 +68335,26 @@ organisations professionnelles sylvicoles.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
 	**Cité par**:
 
 	  - Décret n°2014-450 du 2 mai 2014 - art. 18 (VT)
 
-	**Cite**:
-
-	  - Code de l'environnement - art. L141-1 (M)
-
 
 ###### Article R341-19
 
-Lorsque la commission siège en formation dite " des sites et paysages ", elle comprend en outre cinq personnalités qualifiées
-en matière de protection des sites et des paysages désignées par le préfet :
+La formation spécialisée dite " de la nature " exerce les compétences dévolues à la commission au titre du I de l'article R.
+341-16. 
 
-1° Un architecte ;
+Les membres du quatrième collège sont des personnes ayant compétence en matière de protection de la flore et de la faune
+sauvage ainsi que des milieux naturels. 
 
-2° Un paysagiste ;
-
-3° Un géographe ;
-
-4° Un ingénieur agronome ;
-
-5° Un représentant d'une association de protection de l'environnement agréée au titre de l'article L. 141-1.
+Lorsque la formation spécialisée se réunit en instance de concertation pour la gestion du réseau Natura 2000, le préfet peut
+inviter des représentants d'organismes consulaires et des activités présentes sur les sites Natura 2000, notamment agricoles,
+forestières, extractives, touristiques ou sportives, à y participer, sans voix délibérative.
 
 **Liens relatifs à cet article**
 
@@ -68368,9 +68366,9 @@ en matière de protection des sites et des paysages désignées par le préfet :
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L141-1 (M)
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -68380,12 +68378,21 @@ en matière de protection des sites et des paysages désignées par le préfet :
 	  - Code du tourisme. - art. D351-1 (V)
 	  - Code général des collectivités territoriales - art. R4421-1 (V)
 
+	**Cite**:
+
+	  - Code de l'environnement - art. R341-16 (V)
+
 
 ###### Article R341-20
 
-Lorsque la commission siège en formation dite " de la protection de la nature ", elle comprend en outre cinq personnalités
-qualifiées en matière de protection de la faune et de la flore sauvages ainsi que des milieux naturels désignées par le
-préfet, dont deux représentants d'associations de protection de l'environnement agréées au titre de l'article L. 141-1.
+La formation spécialisée dite " des sites et paysages " exerce les compétences dévolues à la commission au titre des 1°, 2°
+et 3° du II de l'article R. 341-16. 
+
+Les membres du deuxième collège comprennent au moins un représentant d'établissement public de coopération intercommunale
+intervenant en matière d'urbanisme et d'aménagement du territoire. 
+
+Les membres du quatrième collège sont des personnes ayant compétence en matière d'aménagement et d'urbanisme, de paysage,
+d'architecture et d'environnement.
 
 **Liens relatifs à cet article**
 
@@ -68397,9 +68404,13 @@ préfet, dont deux représentants d'associations de protection de l'environnemen
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L141-1 (M)
+	  - Code de l'environnement - art. R341-16 (V)
 
 	**Cité par**:
 
@@ -68409,14 +68420,14 @@ préfet, dont deux représentants d'associations de protection de l'environnemen
 
 ###### Article R341-21
 
-Lorsque la commission siège en formation dite "de la faune sauvage captive", elle comprend en outre cinq personnalités
-compétentes dans les sciences biologiques et pour l'entretien en captivité d'animaux de la faune sauvage désignées par le
-préfet, dont :
+La formation spécialisée dite " de la publicité " exerce les compétences dévolues à la commission au titre du 4° du II de
+l'article R. 341-16.
 
-1° Deux scientifiques compétents en matière de faune sauvage captive ;
+Les membres du quatrième collège sont des professionnels représentant les entreprises de publicité et les fabricants
+d'enseignes. 
 
-2° Trois responsables d'établissements pratiquant respectivement l'élevage ou la location, la vente ou le transit ou la
-présentation au public d'animaux d'espèces non domestiques.
+Le maire de la commune intéressée par le projet ou le président du groupe de travail intercommunal prévu au II de l'article
+L. 581-14 est invité à siéger à la séance au cours de laquelle le projet est examiné et a, sur celui-ci, voix délibérative.
 
 **Liens relatifs à cet article**
 
@@ -68428,6 +68439,14 @@ présentation au public d'animaux d'espèces non domestiques.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R341-16 (V)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R341-25 (M)
@@ -68436,14 +68455,12 @@ présentation au public d'animaux d'espèces non domestiques.
 
 ###### Article R341-22
 
-Lorsque la commission siège en formation dite " de la publicité ", elle comprend en outre :
+La formation spécialisée dite " des unités touristiques nouvelles " exerce les compétences dévolues à la commission au titre
+du 5° du II de l'article R. 341-16. 
 
-1° Le maire de la commune concernée par le projet inscrit à l'ordre du jour ou le président du groupe de travail
-intercommunal prévu au II de l'article L. 581-14. Le maire ou le président du groupe de travail siège avec voix
-délibérative ;
-
-2° Trois représentants des entreprises de publicité et un représentant des fabricants d'enseignes désignés par le préfet. Ces
-quatre représentants siègent avec voix consultative.
+Les membres du deuxième collège représentent des collectivités territoriales et des groupements intercommunaux appartenant au
+massif concerné et les membres du quatrième collège sont des représentants des chambres consulaires et d'organisations
+socioprofessionnelles intéressées par les unités touristiques nouvelles.
 
 **Liens relatifs à cet article**
 
@@ -68455,9 +68472,13 @@ quatre représentants siègent avec voix consultative.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-14 (M)
+	  - Code de l'environnement - art. R341-16 (V)
 
 	**Cité par**:
 
@@ -68468,12 +68489,20 @@ quatre représentants siègent avec voix consultative.
 
 ###### Article R341-23
 
-Les membres de la commission départementale des sites, perspectives et paysages autres que les membres de droit sont nommés
-par arrêté préfectoral pour une durée de trois ans. Leur mandat est renouvelable.
+La formation spécialisée dite " des carrières " exerce les compétences dévolues à la commission sur les sujets dont elle est
+saisie au titre du III de l'article R. 341-16. 
 
-Le préfet, président de la commission, peut se faire représenter par un autre membre du corps préfectoral en fonction dans le
-département. Les membres de droit peuvent se faire représenter. Les membres élus ou désignés peuvent se faire représenter par
-un suppléant élu ou désigné dans les mêmes conditions qu'eux.
+Les membres du deuxième collège comprennent notamment le président du conseil général ou son représentant ainsi qu'un maire
+et les membres du quatrième collège sont des représentants des exploitants de carrières et des utilisateurs de matériaux de
+carrières. 
+
+Le maire de la commune sur le territoire de laquelle une exploitation de carrière est projetée est invité à siéger à la
+séance au cours de laquelle la demande d'autorisation de cette exploitation est examinée et a, sur celle-ci, voix
+délibérative.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -68485,6 +68514,14 @@ un suppléant élu ou désigné dans les mêmes conditions qu'eux.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R341-16 (V)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R661-7 (V)
@@ -68494,10 +68531,14 @@ un suppléant élu ou désigné dans les mêmes conditions qu'eux.
 
 ###### Article R341-24
 
-La perte de la qualité en raison de laquelle un membre a été élu ou désigné entraîne la vacance du siège correspondant.
+La formation spécialisée dite " de la faune sauvage captive " exerce les compétences dévolues à la commission au titre du I
+de l'article R. 341-16 qui concernent la faune sauvage captive. 
 
-Il est pourvu aux vacances survenues plus de six mois avant la date du plus proche renouvellement. Les nouveaux membres
-siègent à la commission jusqu'à la date à laquelle aurait normalement cessé le mandat de ceux qu'ils remplacent.
+Les membres du troisième collège sont des représentants d'associations agréées dans le domaine de la protection de la nature
+et des scientifiques compétents en matière de faune sauvage captive. 
+
+Les membres du quatrième collège sont des responsables d'établissements pratiquant l'élevage, la location, la vente ou la
+présentation au public d'animaux d'espèces non domestiques.
 
 **Liens relatifs à cet article**
 
@@ -68509,6 +68550,14 @@ siègent à la commission jusqu'à la date à laquelle aurait normalement cessé
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R341-16 (V)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R341-18 (V)
@@ -68519,18 +68568,17 @@ siègent à la commission jusqu'à la date à laquelle aurait normalement cessé
 
 ###### Article R341-25
 
-La commission départementale des sites, perspectives et paysages se réunit chaque fois que nécessaire et au moins une fois
-par an, sur convocation de son président.
+Lorsque la commission ou l'une de ses formations spécialisées est appelée à émettre un avis sur une affaire individuelle, la
+personne intéressée est invitée à formuler ses observations. La commission délibère en son absence.
 
-Elle établit son règlement intérieur qui porte notamment sur l'organisation des travaux et des délibérations.
+Le vote secret est de droit lorsque trois des membres de la commission ou de la formation spécialisée présents ou représentés
+le demandent.
 
-La commission ne peut valablement délibérer, dans chacune de ses formations, que si douze de ses membres sont présents ou
-représentés, dont trois au moins des personnalités compétentes désignées en application des articles R. 341-19, R. 341-20 ou
-R. 341-21.
+Les rapports sont présentés par les chefs de service intéressés ou leurs représentants.
 
-La voix du président est prépondérante en cas de partage égal des voix.
-
-Le scrutin secret est de droit lorsque trois des membres présents ou représentés le demandent.
+Les services de l'Etat, les maires des communes et les présidents des établissements publics de coopération intercommunale
+intéressés par une décision soumise pour avis à la commission ou à l'une de ses formations spécialisées et qui n'y sont ni
+présents ni représentés sont entendus à leur demande.
 
 **Liens relatifs à cet article**
 
@@ -68542,64 +68590,13 @@ Le scrutin secret est de droit lorsque trois des membres présents ou représent
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. R341-19 (M)
-	  - Code de l'environnement - art. R341-20 (M)
-	  - Code de l'environnement - art. R341-21 (M)
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R661-8 (V)
-
-
-###### Article R341-26
-
-Les services de l'Etat, les collectivités territoriales et les services publics qui ne sont pas représentés à la commission
-sont entendus, sur leur demande, sur les affaires qui les concernent.
-
-La commission peut en outre entendre toute personne dont elle estime l'audition utile, notamment des membres du Conseil
-scientifique régional du patrimoine naturel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-865 du 23 septembre 1998 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R341-30 (Ab)
-
-
-###### Article R341-27
-
-Les rapports sont présentés par les chefs de service concernés ou leurs représentants.
-
-Toutefois, le président peut désigner un autre rapporteur parmi les membres de la commission si la nature de l'affaire le
-justifie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-865 du 23 septembre 1998 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 
 ##### Sous-section 2 : Commission supérieure des sites, perspectives et paysages
@@ -68935,8 +68932,8 @@ Compte tenu des observations recueillies au cours de la concertation, le préfet
 pour avis à chaque collectivité territoriale ou groupement de collectivités territoriales concerné. A défaut de réponse dans
 un délai de trois mois à compter de la transmission du projet, cet avis est réputé favorable.
 
-Le préfet recueille ensuite l'avis de la ou des commissions départementales des sites, perspectives et paysages et de la ou
-des commissions départementales d'aménagement foncier.
+Le préfet recueille ensuite l'avis de la ou des commissions départementales de la nature, des paysages et des sites, et de la
+ou des commissions départementales d'aménagement foncier.
 
 Le préfet consulte, en outre, le comité de massif ou le conseil de rivage territorialement concerné, lorsque le projet de
 directive affecte soit une zone de montagne, soit des communes littorales.
@@ -68950,6 +68947,10 @@ directive affecte soit une zone de montagne, soit des communes littorales.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -69367,19 +69368,19 @@ Pour chaque espèce, les arrêtés interministériels prévus à l'article R. 41
 
 ###### Article R411-4
 
-I. - Lorsqu'en vertu de l'article R. 411-3, les arrêtés interministériels prévoient que les interdictions peuvent être
-édictées sur certaines parties du territoire pour une durée déterminée ou pendant certaines périodes de l'année, la date
-d'entrée en vigueur et de cessation de ces interdictions est fixée par arrêté préfectoral, sauf pour le domaine public
-maritime où ces mesures relèvent du ministre chargé des pêches maritimes.
+I.-Lorsqu'en vertu de l'article R. 411-3, les arrêtés interministériels prévoient que les interdictions peuvent être édictées
+sur certaines parties du territoire pour une durée déterminée ou pendant certaines périodes de l'année, la date d'entrée en
+vigueur et de cessation de ces interdictions est fixée par arrêté préfectoral, sauf pour le domaine public maritime où ces
+mesures relèvent du ministre chargé des pêches maritimes. 
 
-II. - En ce cas, l'arrêté préfectoral est pris après avis de la chambre départementale d'agriculture et de la commission
-départementale des sites, perspectives et paysages siégeant en formation de protection de la nature.
+II.-En ce cas, l'arrêté préfectoral est pris après avis de la chambre départementale d'agriculture et de la commission
+départementale de la nature, des paysages et des sites. 
 
-III. - L'arrêté préfectoral est, à la diligence du préfet :
+III.-L'arrêté préfectoral est, à la diligence du préfet : 
 
-1° Affiché dans chacune des communes concernées ;
+1° Affiché dans chacune des communes concernées ; 
 
-2° Publié au Recueil des actes administratifs ;
+2° Publié au Recueil des actes administratifs ; 
 
 3° Publié dans deux journaux régionaux ou locaux diffusés dans tout le département.
 
@@ -69389,9 +69390,13 @@ III. - L'arrêté préfectoral est, à la diligence du préfet :
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. R411-3 (M)
+	  - Code de l'environnement - art. R411-3 (V)
 
 
 ###### Article R411-5
@@ -69671,16 +69676,15 @@ survie de ces espèces.
 
 ###### Article R411-16
 
-I. - Les arrêtés préfectoraux mentionnés à l'article R. 411-15 sont pris après avis de la commission départementale des
-sites, perspectives et paysages siégeant en formation de protection de la nature ainsi que de la chambre départementale
-d'agriculture. Lorsque de tels biotopes sont situés sur des terrains relevant du régime forestier, l'avis du directeur
-régional de l'Office national des forêts est requis.
+I.-Les arrêtés préfectoraux mentionnés à l'article R. 411-15 sont pris après avis de la commission départementale de la
+nature, des paysages et des sites, ainsi que de la chambre départementale d'agriculture. Lorsque de tels biotopes sont situés
+sur des terrains relevant du régime forestier, l'avis du directeur régional de l'Office national des forêts est requis. 
 
-II. - Ces arrêtés sont, à la diligence du préfet :
+II.-Ces arrêtés sont, à la diligence du préfet : 
 
-1° Affichés dans chacune des communes concernées ;
+1° Affichés dans chacune des communes concernées ; 
 
-2° Publiés au Recueil des actes administratifs ;
+2° Publiés au Recueil des actes administratifs ; 
 
 3° Publiés dans deux journaux régionaux ou locaux diffusés dans tout le département.
 
@@ -69689,6 +69693,10 @@ II. - Ces arrêtés sont, à la diligence du préfet :
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -70413,16 +70421,16 @@ Le ministre chargé de la protection de la nature fixe par arrêté, pris après
 
 Lorsque l'objet principal des établissements fixes ou mobiles est la présentation au public d'animaux appartenant à des
 espèces non domestiques autres que celles figurant sur une liste arrêtée par le ministre chargé de la protection de la
-nature, le préfet saisit la commission nationale instituée par l'article R. 413-2.
+nature, le préfet saisit la commission nationale instituée par l'article R. 413-2. 
 
 Lorsque l'objet de l'établissement est différent de celui mentionné à l'alinéa précédent ou que la présentation au public
 porte sur des animaux figurant sur la liste prévue au même alinéa, le certificat de capacité est délivré après avis de la
-commission départementale des sites, perspectives et paysages siégeant dans la formation de faune sauvage captive.
+commission départementale de la nature, des paysages et des sites. 
 
 Un arrêté du ministre chargé de la protection de la nature, pris après avis de la commission instituée par l'article R.
 413-2, fixe, en fonction des diplômes et des conditions d'expérience, ainsi, éventuellement, que des espèces animales
-concernées, les cas où le certificat de capacité peut être délivré sans consultation de la commission départementale des
-sites, perspectives et paysages.
+concernées, les cas où le certificat de capacité peut être délivré sans consultation de la commission départementale de la
+nature, des paysages et des sites.
 
 **Liens relatifs à cet article**
 
@@ -70436,6 +70444,10 @@ sites, perspectives et paysages.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 
 ###### Article R413-7
@@ -70673,9 +70685,8 @@ de l'environnement.
 
 ###### Article R413-17
 
-Dans tous les cas, le préfet recueille également l'avis de la commission départementale des sites, perspectives et paysages
-siégeant en formation dite de la faune sauvage captive, à laquelle il soumet ses propositions concernant soit le refus de la
-demande, soit les prescriptions envisagées.
+Dans tous les cas, le préfet recueille également l'avis de la commission départementale de la nature, des paysages et des
+sites, à laquelle il soumet ses propositions concernant soit le refus de la demande, soit les prescriptions envisagées.
 
 Le demandeur a la faculté de se faire entendre par la commission. Il doit être informé par le préfet au moins huit jours à
 l'avance de la date et du lieu de la réunion de la commission et reçoit simultanément un exemplaire des propositions du
@@ -70686,6 +70697,10 @@ préfet.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 
 ###### Article R413-18
@@ -71422,8 +71437,8 @@ cette injonction, le préfet peut :
 réaliser, laquelle sera restituée à l'exploitant au fur et mesure de l'exécution des travaux ; il est, le cas échéant,
 procédé au recouvrement de cette somme comme en matière de créances étrangères à l'impôt et aux domaines ;
 
-3° Soit, après avis de la commission départementale des sites, perspectives et paysages, réunie en sa formation de la faune
-sauvage captive sauf cas d'urgence, suspendre par arrêté le fonctionnement de l'établissement jusqu'à exécution des
+3° Soit, après avis de la commission départementale de la nature, des paysages et des sites, réunie en sa formation de la
+faune sauvage captive sauf cas d'urgence, suspendre par arrêté le fonctionnement de l'établissement jusqu'à exécution des
 conditions imposées ou ordonner, après avis de la même commission, la fermeture de l'établissement.
 
 **Nota:**
@@ -71435,6 +71450,10 @@ NOTA : Au premier alinéa, il faut lire "R. 413-48" au lieu de "R. 413-49".
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -73276,23 +73295,42 @@ NOTA : (1) Le décret du 25 octobre 1935 a été abrogé au 1er janvier 2006 par
 	  - Décret n°2005-1238 du 30 septembre 2005 - art. 2 () JORF 1er octobre 2005
 
 
-##### Section 3 : Conseil départemental de la chasse et de la faune sauvage
+##### Section 3 : Commission départementale de la chasse et de la faune sauvage
 
 ###### Article R421-29
 
-Dans chaque département, un organisme consultatif dénommé " conseil départemental de la chasse et de la faune sauvage ",
-placé auprès du préfet, est chargé de lui donner son avis sur les moyens propres à :
+I.-La commission départementale de la chasse et de la faune sauvage concourt à l'élaboration, à la mise en oeuvre et au
+suivi, dans le département, de la politique du gouvernement dans le domaine de la chasse et de la protection de la faune
+sauvage. Elle est régie par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006. 
 
-1° Préserver la faune sauvage et ses habitats ;
+Elle est notamment chargée d'émettre, dans le respect des équilibres biologiques et des intérêts agricoles et forestiers, un
+avis sur la gestion des espèces chassées et la préservation de leurs habitats, ainsi que sur la détermination des espèces
+visées à l'article L. 427-8. 
 
-2° Favoriser la gestion du capital cynégétique et de la faune sauvage dans le respect des équilibres biologiques et des
-intérêts agricoles et forestiers.
+II.-Dans les cas et selon les modalités prévus par les dispositions législatives ou réglementaires, la commission : 
+
+1° Se prononce sur les périodes, les modalités et pratiques de chasse, ainsi que sur celles de destruction des animaux
+classés nuisibles ; 
+
+2° Est consultée sur l'attribution des plans de chasse et sur la gestion des lots de chasse sur les domaines publics fluvial
+et maritime ; 
+
+3° Intervient en matière d'indemnisation des dégâts aux récoltes, aux cultures et aux forêts causés par le grand gibier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
+	**Cite**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 8 (V)
+	  - Code de l'environnement - art. L427-8 (V)
 
 	**Cité par**:
 
@@ -73301,42 +73339,39 @@ intérêts agricoles et forestiers.
 
 ###### Article R421-30
 
-I. - Le conseil départemental de la chasse et de la faune sauvage, présidé par le préfet, ou son représentant, comprend :
+La commission départementale de la chasse et de la faune sauvage est présidée par le préfet. Elle comprend :
 
-1° Le directeur régional de l'environnement, ou son représentant ;
+1° Des représentants de l'Etat et de ses établissements publics, dont le directeur départemental de l'agriculture et de la
+forêt, le directeur régional de l'environnement, le délégué régional de l'Office national de la chasse et de la faune sauvage
+ou, à défaut, un représentant désigné par le directeur général, ainsi qu'un représentant des lieutenants de louveterie ;
 
-2° Le directeur départemental de l'agriculture et de la forêt, ou son représentant ;
+2° Le président de la fédération départementale des chasseurs et des représentants des différents modes de chasse proposés
+par lui ;
 
-3° Le délégué régional de l'Office national de la chasse et de la faune sauvage, ou son représentant ;
+3° Des représentants des piégeurs ;
 
-4° Le directeur régional de l'Office national des forêts, ou son représentant ;
+4° Des représentants de la propriété forestière privée, de la propriété forestière non domaniale relevant du régime forestier
+et de l'Office national des forêts ;
 
-5° Le président du centre régional de la propriété forestière, ou son représentant ;
+5° Le président de la chambre d'agriculture du département et d'autres représentants des intérêts agricoles dans le
+département proposés par lui ;
 
-6° Le président de la chambre d'agriculture, ou son représentant ;
+6° Des représentants d'associations agréées au titre de l'article L. 141-1 du code de l'environnement actives dans le domaine
+de la conservation de la faune et de la protection de la nature ;
 
-7° Un représentant de l'organisation syndicale des exploitants agricoles la plus représentative dans le département ;
+7° Des personnalités qualifiées en matière scientifique et technique dans le domaine de la chasse ou de la faune sauvage.
 
-8° Le président de la fédération départementale des chasseurs, ou son représentant ;
-
-9° Six personnalités qualifiées, en matière cynégétique, nommées sur proposition du président de la fédération départementale
-des chasseurs ;
-
-10° Un représentant des lieutenants de louveterie nommé, sur proposition de l'association des lieutenants de louveterie la
-plus représentative dans le département lorsqu'elle existe ;
-
-11° Deux représentants d'organismes scientifiques ou personnes qualifiées dans les sciences de la nature ;
-
-12° Deux représentants d'associations agréées au titre de l'article L. 141-1, choisies parmi les associations les plus
-représentatives dans le domaine de la conservation de la faune et de la protection de la nature.
-
-II. - Le secrétariat du conseil est assuré par la direction départementale de l'agriculture et de la forêt.
+La commission est composée pour un tiers de représentants des chasseurs.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -73350,16 +73385,12 @@ II. - Le secrétariat du conseil est assuré par la direction départementale de
 
 ###### Article R421-31
 
-Les membres mentionnés aux  7°, 9°, 10°, 11° et 12° du I de l'article R. 421-30 sont nommés par le préfet pour une période de
-trois ans. Ils sont remplacés en cas d'absence ou d'empêchement par des membres suppléants nommés en même temps et dans les
-mêmes conditions qu'eux.
+La commission départementale de la chasse et de la faune sauvage constitue en son sein une formation spécialisée pour exercer
+les attributions qui lui sont dévolues en matière d'indemnisation des dégâts de gibier.
 
-Nul ne peut être nommé membre de plus d'un conseil départemental. Toutefois, les membres des conseils départementaux de la
-région Ile-de-France peuvent être nommés dans plusieurs conseils de cette région.
-
-En cas de démission, de décès ou de perte de la qualité au titre de laquelle ils ont été nommés, les membres nommés sont
-remplacés dans les trois mois dans les mêmes conditions que celles prévues pour leur nomination. Le mandat des nouveaux
-membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
+Cette formation spécialisée se réunit sous la présidence du préfet et comporte pour moitié des représentants des chasseurs
+et, selon que les affaires concernent l'indemnisation des dégâts aux cultures et aux récoltes agricoles ou l'indemnisation
+des dégâts aux forêts, pour moitié des représentants des intérêts agricoles ou des intérêts forestiers.
 
 **Liens relatifs à cet article**
 
@@ -73367,9 +73398,9 @@ membres expire à la date à laquelle aurait normalement pris fin celui de leur 
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. R421-30 (M)
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -73378,13 +73409,17 @@ membres expire à la date à laquelle aurait normalement pris fin celui de leur 
 
 ###### Article R421-32
 
-Les fonctions des membres du conseil sont exercées à titre gratuit.
+Le vote secret est de droit lorsque trois des membres présents ou représentés le demandent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 
 ##### Section 4 : Fédérations départementales des chasseurs
@@ -77672,8 +77707,8 @@ chasse.
 
 La clôture de la vénerie sous terre intervient le 15 janvier.
 
-Le préfet peut, sur proposition du directeur départemental de l'agriculture et de la forêt et après avis du conseil
-départemental de la chasse et de la faune sauvage et de la fédération des chasseurs, autoriser l'exercice de la vénerie du
+Le préfet peut, sur proposition du directeur départemental de l'agriculture et de la forêt et après avis de la commission
+départementale de la chasse et de la faune sauvage et de la fédération des chasseurs, autoriser l'exercice de la vénerie du
 blaireau pour une période complémentaire à partir du 15 mai.
 
 **Liens relatifs à cet article**
@@ -77681,6 +77716,10 @@ blaireau pour une période complémentaire à partir du 15 mai.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 
 ##### Sous-section 2 : Chasse à tir
@@ -77690,14 +77729,18 @@ blaireau pour une période complémentaire à partir du 15 mai.
 ###### Article R424-6
 
 La chasse à tir est ouverte pendant les périodes fixées chaque année par arrêté du préfet, pris sur proposition du directeur
-départemental de l'agriculture et de la forêt après avis du conseil départemental de la chasse et de la faune sauvage et de
-la fédération des chasseurs, et publié au moins vingt jours avant la date de sa prise d'effet.
+départemental de l'agriculture et de la forêt après avis de la commission départementale de la chasse et de la faune sauvage
+et de la fédération des chasseurs, et publié au moins vingt jours avant la date de sa prise d'effet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -78525,10 +78568,10 @@ interdépartemental des affaires maritimes intéressé.
 Le plan de chasse aux cerfs, daims, mouflons, chamois, isards et chevreuils est de droit.
 
 Lorsqu'il concerne une autre espèce de gibier, à l'exception du gibier d'eau, et qu'il porte sur un département, le plan de
-chasse est institué par le préfet sur proposition du directeur départemental de l'agriculture et de la forêt après avis du
-conseil départemental de la chasse et de la faune sauvage et du président de la fédération départementale des chasseurs. Le
-préfet peut instituer un plan de chasse dans les mêmes conditions pour une partie seulement du département à la condition que
-celle-ci constitue une unité de gestion de l'espèce.
+chasse est institué par le préfet sur proposition du directeur départemental de l'agriculture et de la forêt après avis de la
+commission départementale de la chasse et de la faune sauvage et du président de la fédération départementale des chasseurs.
+Le préfet peut instituer un plan de chasse dans les mêmes conditions pour une partie seulement du département à la condition
+que celle-ci constitue une unité de gestion de l'espèce.
 
 Lorsqu'il concerne le gibier d'eau ou qu'il porte sur plusieurs départements, le plan de chasse est institué par le ministre
 chargé de la chasse après avis du Conseil national de la chasse et de la faune sauvage.
@@ -78538,6 +78581,14 @@ chargé de la chasse après avis du Conseil national de la chasse et de la faune
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
+	**Transféré par**:
+
+	  - Décret n°2007-673 du 2 mai 2007 - art. 14 () JORF 4 mai 2007
 
 	**Nouveaux textes**:
 
@@ -78558,10 +78609,10 @@ chargé de la chasse après avis du Conseil national de la chasse et de la faune
 ###### Article R425-2
 
 Dans chaque département et pour chacune des espèces de grand gibier soumis à un plan de chasse, à l'exception du sanglier, le
-préfet fixe, sur proposition du directeur départemental de l'agriculture et de la forêt, après avis du conseil départemental
-de la chasse et de la faune sauvage et du président de la fédération départementale des chasseurs, le nombre minimum et le
-nombre maximum d'animaux à prélever annuellement répartis, le cas échéant, par sexe ou catégorie d'âge. Toutefois, la
-répartition par catégorie d'âge ne s'applique pas à la chasse à courre, à cor et à cri.
+préfet fixe, sur proposition du directeur départemental de l'agriculture et de la forêt, après avis de la commission
+départementale de la chasse et de la faune sauvage et du président de la fédération départementale des chasseurs, le nombre
+minimum et le nombre maximum d'animaux à prélever annuellement répartis, le cas échéant, par sexe ou catégorie d'âge.
+Toutefois, la répartition par catégorie d'âge ne s'applique pas à la chasse à courre, à cor et à cri.
 
 L'arrêté du préfet doit intervenir avant le 1er mai précédant la campagne cynégétique à compter de laquelle elle prend effet.
 
@@ -78570,6 +78621,10 @@ L'arrêté du préfet doit intervenir avant le 1er mai précédant la campagne c
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -78649,9 +78704,7 @@ approprié.
 ###### Article R425-6
 
 Toutes les demandes de plans de chasse individuels sont examinées dans les délais fixés par arrêté du ministre chargé de la
-chasse par une commission.
-
-La commission peut recueillir l'avis de toute personne qu'elle juge utile de consulter.
+chasse par la commission départementale de la chasse et de la faune sauvage.
 
 La commission propose au préfet le nombre maximum et le nombre minimum de têtes de gibier susceptibles d'être prélevées selon
 les territoires considérés, réparties, le cas échéant, par sexe ou catégories d'âge, afin d'assurer l'équilibre agro-sylvo-
@@ -78666,62 +78719,15 @@ chasse départemental.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R425-15 (M)
 	  - Code de l'environnement - art. R425-16 (V)
 	  - Code de l'environnement - art. R654-10 (M)
-
-
-###### Article R425-7
-
-La commission compétente est :
-
-1° Pour le grand gibier, la commission mentionnée à l'article R. 426-6.
-
-2° Pour le petit gibier, une commission comprenant :
-
-a) Membres de droit :
-
-- le préfet, ou son représentant, président ;
-
-- le directeur départemental de l'agriculture et de la forêt, ou son représentant ;
-
-- le président de la fédération départementale des chasseurs ou son représentant ;
-
-- le directeur régional de l'Office national des forêts ou son représentant si des terrains relevant du régime forestier sont
-concernés.
-
-b) Membres nommés par le préfet :
-
-- quatre représentants des intérêts cynégétiques nommés sur proposition du président de la fédération départementale des
-chasseurs ;
-
-- deux représentants des intérêts agricoles ;
-
-- un représentant des intérêts sylvicoles si des terrains forestiers sont concernés ;
-
-- deux représentants d'associations de protection de la nature agréées au titre de l'article L. 141-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L141-1 (M)
-	  - Code de l'environnement - art. R426-6 (M)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R425-16 (M)
-	  - Code de l'environnement - art. R429-6 (V)
 
 
 ###### Article R425-8
@@ -78763,7 +78769,7 @@ est muni d'un dispositif de marquage.
 Dans les départements ou parties de département où les caractéristiques du territoire et d'organisation de la chasse le
 justifient, pour les espèces qu'il détermine, de manière permanente ou pour une durée déterminée, le ministre chargé de la
 chasse peut, sur proposition du préfet de département formulée après avis du président de la fédération départementale des
-chasseurs et du conseil départemental de la chasse et de la faune sauvage, instaurer, par arrêté, un dispositif de
+chasseurs et de la commission départementale de la chasse et de la faune sauvage, instaurer, par arrêté, un dispositif de
 prémarquage précédant le marquage définitif. Les modèles et les conditions d'utilisation des dispositifs de prémarquage et de
 marquage sont fixés par arrêté du ministre chargé de la chasse.
 
@@ -78778,6 +78784,10 @@ Dans le cas prévu au deuxième alinéa, des dispositifs de prémarquage peuvent
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -78894,70 +78904,14 @@ R. 425-10 et R. 425-13.
 
 ###### Article R425-16
 
-I. - Dans les départements de la Haute-Corse et de la Corse-du-Sud, la commission compétente pour examiner, en application de
-l'article R. 425-7, les demandes de plans de chasse individuels est composée comme suit :
+Dans les départements de la Haute-Corse et de la Corse-du-Sud, la commission départementale de la chasse et de la faune
+sauvage, lorsqu'elle procède à l'examen des demandes de plans de chasse individuels en application de l'article R. 425-6, est
+présidée par le président du conseil exécutif et comprend, outre les membres de la commission, deux conseillers à l'Assemblée
+de Corse, proposés par celle-ci. 
 
-1° Pour le grand gibier :
-
-a) Membres de droit :
-
-- le président du conseil exécutif ou son représentant, président ;
-
-- deux conseillers à l'Assemblée de Corse désignés par celle-ci ;
-
-- le directeur départemental de l'agriculture et de la forêt ou son représentant ;
-
-- le délégué régional de l'Office national de la chasse et de la faune sauvage ou, à défaut, un représentant de
-l'établissement désigné par le directeur général ou son représentant ;
-
-- le directeur régional de l'Office national des forêts ou son représentant ;
-
-- le président du centre régional de la propriété forestière ou son représentant ;
-
-- le président de la chambre départementale d'agriculture ou son représentant ;
-
-- le président de la fédération départementale des chasseurs ou son représentant.
-
-b) Membres nommés pour cinq ans par l'Assemblée de Corse, sur proposition du président du conseil exécutif :
-
-- trois représentants des organisations professionnelles d'exploitants agricoles les plus représentatives dans le
-département ;
-
-- trois personnalités qualifiées en matière cynégétique, nommées sur proposition du président de la fédération départementale
-des chasseurs ;
-
-- un représentant des lieutenants de louveterie nommé sur proposition des associations départementales de lieutenants de
-louveterie lorsqu'elles existent.
-
-2° Pour le petit gibier :
-
-a) Membres de droit :
-
-- le président du conseil exécutif ou son représentant, président ;
-
-- deux conseillers à l'Assemblée de Corse désignés par celle-ci ;
-
-- le directeur départemental de l'agriculture et de la forêt ou son représentant ;
-
-- le président de la fédération départementale des chasseurs ou son représentant ;
-
-- le directeur régional de l'Office national des forêts ou son représentant, si des terrains relevant du régime forestier
-sont concernés.
-
-b) Membres nommés pour cinq ans par l'Assemblée de Corse, sur proposition du président du conseil exécutif :
-
-- quatre représentants des intérêts cynégétiques, nommés sur proposition du président de la fédération départementale des
-chasseurs ;
-
-- deux représentants des intérêts agricoles ;
-
-- un représentant des intérêts sylvicoles si des terrains forestiers sont concernés ;
-
-- deux représentants d'associations de protection de la nature agréées au titre de l'article L. 141-1.
-
-II. - Les membres nommés par l'Assemblée de Corse au titre des b) des 1° et 2° du I sont remplacés, en cas d'absence ou
-d'empêchement, par des membres suppléants nommés dans les mêmes conditions. Au cas où l'un d'eux vient à cesser ses fonctions
-pour quelque cause que ce soit, son remplaçant est nommé pour la durée du mandat restant à courir.
+Les représentants des piégeurs, de la propriété forestière privée et de la propriété forestière non domaniale relevant du
+régime forestier, des intérêts agricoles dans le département, des associations agrées et les personnalités qualifiées sont
+nommés pour cinq ans par l'Assemblée de Corse sur proposition du président du conseil exécutif.
 
 **Liens relatifs à cet article**
 
@@ -78965,10 +78919,13 @@ pour quelque cause que ce soit, son remplaçant est nommé pour la durée du man
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L141-1 (M)
-	  - Code de l'environnement - art. R425-7 (Ab)
+	  - Code de l'environnement - art. R425-6 (V)
 
 
 ###### Article R425-17
@@ -79002,15 +78959,19 @@ Toutefois, ces dispositions ne sont pas applicables aux espèces pour lesquelles
 de l'article R. 425-1.
 
 Le nombre maximal d'animaux qu'un chasseur est autorisé à capturer sur un territoire donné en application de l'arrêté
-ministériel mentionné au premier alinéa peut être réduit par arrêté préfectoral, après avis du conseil départemental de la
-chasse et de la faune sauvage, de la fédération départementale des chasseurs et de l'Office national de la chasse et de la
-faune sauvage.
+ministériel mentionné au premier alinéa peut être réduit par arrêté préfectoral, après avis de la commission départementale
+de la chasse et de la faune sauvage, de la fédération départementale des chasseurs et de l'Office national de la chasse et de
+la faune sauvage.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -79024,10 +78985,10 @@ faune sauvage.
 
 ###### Article R425-19
 
-Après avis du conseil départemental de la chasse et de la faune sauvage, de la fédération départementale des chasseurs et de
-l'Office national de la chasse et de la faune sauvage, le préfet peut fixer par arrêté le nombre maximal d'animaux d'une ou
-plusieurs espèces pour lesquelles un prélèvement maximal autorisé n'a pas été fixé par arrêté ministériel, qu'un chasseur est
-autorisé à prélever pendant une période déterminée, sur un territoire donné.
+Après avis de la commission départementale de la chasse et de la faune sauvage, de la fédération départementale des chasseurs
+et de l'Office national de la chasse et de la faune sauvage, le préfet peut fixer par arrêté le nombre maximal d'animaux
+d'une ou plusieurs espèces pour lesquelles un prélèvement maximal autorisé n'a pas été fixé par arrêté ministériel, qu'un
+chasseur est autorisé à prélever pendant une période déterminée, sur un territoire donné.
 
 Les dispositions du précédent alinéa ne sont pas applicables aux espèces pour lesquelles un plan de chasse est de droit en
 application de l'article R. 425-1.
@@ -79041,6 +79002,10 @@ par l'arrêté ministériel.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -79208,9 +79173,9 @@ g) Les frais de contentieux.
 	  - Code de l'environnement - art. R429-15 (Ab)
 
 
-##### Sous-section 2 : Commissions nationale et départementale d'indemnisation
+##### Sous-section 2 : Instances consultatives pour l'indemnisation des dégâts de gibier
 
-##### Paragraphe 1 : Commission nationale
+##### Paragraphe 1 : Commission nationale d'indemnisation des dégâts de gibier
 
 ###### Article R426-3
 
@@ -79254,6 +79219,10 @@ intérêt personnel.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
 
 ###### Article R426-4
 
@@ -79267,6 +79236,10 @@ partage égal des voix.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 
 ###### Article R426-5
@@ -79288,53 +79261,31 @@ modalités de leur intervention.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R426-13 (VD)
 
 
-##### Paragraphe 2 : Commission départementale d'indemnisation
+##### Paragraphe 2 : Commission départementale de la chasse et de la faune sauvage
 
 ###### Article R426-6
 
-I. - La commission départementale d'indemnisation des dégâts de gibier mentionnée à l'article L. 426-5 est présidée par le
-préfet ou son représentant. Elle comprend :
-
-1° Le directeur départemental de l'agriculture et de la forêt ou son représentant, vice-président ;
-
-2° Le délégué régional de l'Office national de la chasse et de la faune sauvage ou, à défaut, un représentant de
-l'établissement désigné par le directeur général, ou son représentant ;
-
-3° Le directeur régional de l'Office national des forêts, ou son représentant ;
-
-4° Le président du centre régional de la propriété forestière, ou son représentant ;
-
-5° Le président de la chambre départementale d'agriculture, ou son représentant ;
-
-6° Trois représentants des organisations professionnelles d'exploitants agricoles les plus représentatives dans le
-département ;
-
-7° Le président de la fédération départementale des chasseurs, ou son représentant ;
-
-8° Trois personnalités qualifiées en matière cynégétique, nommées sur proposition du président de la fédération
-départementale des chasseurs ;
-
-9° Un représentant des lieutenants de louveterie nommé sur proposition des associations départementales de lieutenants de
-louveterie lorsqu'elles existent.
-
-II. - Les membres mentionnés aux 6°, 8° et 9° du I sont nommés par arrêté du préfet pour cinq ans. Au cas où l'un d'eux vient
-à cesser ses fonctions pour quelque cause que ce soit, son remplaçant est nommé pour la durée du mandat restant à courir.
-
-Ils sont remplacés, en cas d'absence ou d'empêchement, par des membres suppléants nommés dans les mêmes conditions.
-
-III. - Le préfet peut inviter à assister à une réunion de la commission, à titre consultatif, toute personne dont il estime
-opportun de recueillir l'avis.
+La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée "indemnisation des dégâts de
+gibier aux cultures et aux récoltes agricoles" constitue la commission départementale prévue par l'article L. 426-5.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -79347,37 +79298,52 @@ opportun de recueillir l'avis.
 
 ###### Article R426-7
 
-La commission se réunit au moins quatre fois par an, sur convocation de son président. Ses décisions sont prises à la
-majorité des voix, celle du président étant prépondérante en cas de partage égal des voix.
+La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
+dégâts de gibier aux cultures et aux récoltes agricoles se réunit au moins quatre fois par an, sur convocation de son
+président.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 
 ###### Article R426-8
 
-La commission dresse et met à jour la liste des estimateurs chargés des missions prévues à l'article R. 426-13, qu'elle
-choisit parmi ceux qui ont satisfait à la formation dispensée par la fédération nationale des chasseurs.
+La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
+dégâts de gibier aux cultures et aux récoltes agricoles dresse et met à jour la liste des estimateurs chargés des missions
+prévues à l'article R. 426-13, qu'elle choisit parmi ceux qui ont satisfait à la formation dispensée par la fédération
+nationale des chasseurs.
 
 Dès qu'elle a connaissance des indications fournies par la commission nationale d'indemnisation pour une denrée ou pour des
-frais de remise en état, la commission départementale d'indemnisation procède à la fixation du barème départemental annuel
-d'indemnisation correspondant. Ce barème est établi en fonction des prix unitaires des denrées endommagées ainsi que des
-frais de remise en état, évalués par la commission départementale au vu des indications données par la commission nationale.
+frais de remise en état, la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles procède à la fixation du barème départemental
+annuel d'indemnisation correspondant. Ce barème est établi en fonction des prix unitaires des denrées endommagées ainsi que
+des frais de remise en état, évalués par la commission départementale de la chasse et de la faune sauvage dans sa formation
+spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles au vu des indications données
+par la commission nationale.
 
 Elle définit les dates extrêmes habituelles d'enlèvement des différentes récoltes, mentionnées au quatrième alinéa de
 l'article R. 426-13.
 
-Les décisions prises par la commission départementale en application du présent article sont publiées au Recueil des actes
-administratifs du département.
+Les décisions prises par la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles en application du présent article sont publiées
+au Recueil des actes administratifs du département.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -79389,15 +79355,20 @@ administratifs du département.
 
 ###### Article R426-9
 
-Les membres de la commission départementale d'indemnisation peuvent saisir la commission nationale des décisions mentionnées
-à l'article R. 426-8, par lettre recommandée avec accusé de réception, dans un délai de quinze jours à compter de la
-délibération correspondante.
+Les membres de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peuvent saisir la commission nationale des
+décisions mentionnées à l'article R. 426-8, par lettre recommandée avec accusé de réception, dans un délai de quinze jours à
+compter de la délibération correspondante.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -79431,6 +79402,10 @@ du plan de chasse attribué.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L425-6 (V)
@@ -79449,15 +79424,15 @@ L'abattement proportionnel prévu au deuxième alinéa du même article est fix�
 
 Cet abattement peut atteindre 80 % du montant des dommages retenus dans les cas prévus au troisième alinéa du même article.
 
-**Nota:**
-
-NOTA : Au premier alinéa, lire 76 euros.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -79496,6 +79471,10 @@ départementale des chasseurs dix jours au moins avant la date de l'enlèvement 
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L426-1 (M)
@@ -79524,7 +79503,8 @@ nature et si possible, la provenance du gibier. Il recherche éventuellement si 
 favorisé l'arrivée du gibier sur leur fonds, en particulier en procédant, de façon répétée et sans respecter les assolements
 pratiqués dans la région, à des cultures de nature à l'attirer et si les titulaires de droits de chasse ont exécuté leur plan
 de chasse. Il donne son appréciation, le cas échéant, sur les raisons pour lesquelles les dates extrêmes habituelles
-d'enlèvement des récoltes fixées par la commission départementale d'indemnisation ont été dépassées.
+d'enlèvement des récoltes fixées par la commission départementale de la chasse et de la faune sauvage dans sa formation
+spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles ont été dépassées.
 
 L'estimateur transmet son rapport au président de la fédération départementale dans un délai de quinze jours suivant
 l'expertise.
@@ -79545,6 +79525,10 @@ estimation est réputée conforme à celle du demandeur.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cite**:
 
@@ -79579,6 +79563,10 @@ chasseurs transmet le dossier à la commission départementale d'indemnisation.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
 	**Cite**:
 
 	  - Code de l'environnement - art. R426-8 (M)
@@ -79590,14 +79578,17 @@ chasseurs transmet le dossier à la commission départementale d'indemnisation.
 
 ###### Article R426-15
 
-La commission départementale d'indemnisation fixe, dans un délai de deux mois, le montant de l'indemnité, au vu du dossier
-d'expertise et, le cas échéant, des observations produites par le réclamant et la fédération départementale.
+La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
+dégâts de gibier aux cultures et aux récoltes agricoles fixe, dans un délai de deux mois, le montant de l'indemnité, au vu du
+dossier d'expertise et, le cas échéant, des observations produites par le réclamant et la fédération départementale.
 
-Le président de la commission départementale peut convoquer l'estimateur et le réclamant ; la commission délibère hors de
-leur présence.
+Le président de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peut convoquer l'estimateur et le réclamant ; la
+commission délibère hors de leur présence.
 
-Un membre de la commission départementale d'indemnisation ne prend pas part au délibéré et au vote lorsque la commission
-examine une demande d'indemnisation à laquelle il a, directement ou indirectement, un intérêt personnel.
+Un membre de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles ne prend pas part au délibéré et au vote lorsque
+la commission examine une demande d'indemnisation à laquelle il a, directement ou indirectement, un intérêt personnel.
 
 La décision de la commission départementale est notifiée au réclamant et au président de la fédération départementale des
 chasseurs par lettre recommandée avec accusé de réception mentionnant le délai de recours ouvert contre cette décision devant
@@ -79609,12 +79600,17 @@ la commission nationale d'indemnisation.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+
 
 ###### Article R426-16
 
-La décision de la commission départementale peut être contestée par le réclamant ou le président de la fédération
-départementale devant la commission nationale d'indemnisation, par lettre recommandée avec accusé de réception, dans un délai
-de quinze jours à compter de la notification de cette décision.
+La décision de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peut être contestée par le réclamant ou le
+président de la fédération départementale devant la commission nationale d'indemnisation, par lettre recommandée avec accusé
+de réception, dans un délai de quinze jours à compter de la notification de cette décision.
 
 Le secrétariat de la commission nationale instruit les demandes selon une procédure écrite et contradictoire. Le réclamant et
 le président de la fédération départementale des chasseurs sont informés qu'ils seront entendus par la commission nationale
@@ -79628,6 +79624,10 @@ peut aussi convoquer les personnes de son choix.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 
 ###### Article R426-17
@@ -79977,8 +79977,8 @@ l'article R. 427-6, en fonction de la situation locale, et pour l'un des motifs 
 
 3° Pour assurer la protection de la flore et de la faune.
 
-II. - L'arrêté du préfet est pris après avis du conseil départemental de la chasse et de la faune sauvage et de la fédération
-des chasseurs.
+II. - L'arrêté du préfet est pris après avis de la commission départementale de la chasse et de la faune sauvage et de la
+fédération des chasseurs.
 
 III. - L'arrêté est pris chaque année. Il est publié avant le 1er décembre et entre en vigueur le 1er janvier suivant.
 
@@ -79987,6 +79987,10 @@ III. - L'arrêté est pris chaque année. Il est publié avant le 1er décembre 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -80138,17 +80142,15 @@ Ces pièges doivent être sélectifs par leur principe ou leurs conditions d'emp
 Les modèles de piège de nature à provoquer des traumatismes physiques ne sont autorisés qu'après homologation d'un prototype
 présenté par le fabricant.
 
-L'homologation est prononcée après avis d'une commission où sont représentés notamment les intérêts agricoles et
-cynégétiques, les associations de protection de la nature ou de protection animale, les professions intéressées, et qui
-comprend des personnalités scientifiques spécialisées.
-
-Un arrêté du ministre chargé de la chasse fixe la composition et les conditions de fonctionnement de cette commission.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 2 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -80216,8 +80218,8 @@ Le permis de chasser validé est obligatoire.
 
 ###### Article R427-19
 
-Le préfet fixe, après avis du conseil départemental de la chasse et de la faune sauvage et de la fédération des chasseurs, le
-temps, les formalités et les lieux de destruction à tir.
+Le préfet fixe, après avis due la commission départementale de la chasse et de la faune sauvage et de la fédération des
+chasseurs, le temps, les formalités et les lieux de destruction à tir.
 
 L'arrêté est pris chaque année. Il est publié avant le 1er décembre et entre en vigueur le 1er janvier suivant.
 
@@ -80226,6 +80228,10 @@ L'arrêté est pris chaque année. Il est publié avant le 1er décembre et entr
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -81890,9 +81896,8 @@ enquête dans les conditions prévues par l'article R. 123-4.
 ###### Article R431-19
 
 L'enquête terminée, ou la notice d'impact produite, le préfet consulte immédiatement la fédération départementale des
-associations agréées de pêche et de pisciculture et la commission départementale des sites, perspectives et paysages réunie
-en formation dite " de protection de la nature ". Si ces organismes n'ont pas fait connaître leur avis dans le délai de deux
-mois, ils sont réputés avoir émis un avis favorable.
+associations agréées de pêche et de pisciculture et la commission départementale de la nature, des paysages et des sites. Si
+ces organismes n'ont pas fait connaître leur avis dans le délai de deux mois, ils sont réputés avoir émis un avis favorable.
 
 Il statue sur la demande et, dans le délai de quatre mois suivant la fin de l'enquête ou la production de la notice d'impact,
 notifie sa décision au demandeur et aux maires des communes concernées qui procèdent, dans les quarante-huit heures suivant
@@ -81903,6 +81908,14 @@ la notification de cette décision, à son affichage pendant une durée d'un moi
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R431-20
@@ -82152,9 +82165,9 @@ l'enquête dans les formes et conditions prévues aux articles R. 431-17 et R. 4
 ###### Article R431-30
 
 L'enquête terminée, ou la notice d'impact produite, le préfet consulte immédiatement les services intéressés ainsi que la
-commission départementale des sites, perspectives et paysages, siégeant en formation dite " de protection de la nature ", et
-la fédération départementale des associations agréées de pêche et de pisciculture. Si ces services et organismes n'ont pas
-fait connaître leur avis dans le délai de deux mois, ils sont réputés avoir émis un avis favorable.
+commission départementale de la nature, des paysages et des sites, et la fédération départementale des associations agréées
+de pêche et de pisciculture. Si ces services et organismes n'ont pas fait connaître leur avis dans le délai de deux mois, ils
+sont réputés avoir émis un avis favorable.
 
 Il adresse une copie du dossier de la demande de concession et le projet d'acte de concession au directeur des services
 fiscaux en vue de la fixation des redevances dues pour la concession du droit de pêche et, s'il y a lieu, pour l'occupation
@@ -82169,6 +82182,14 @@ la notification de cette décision, à son affichage pendant une durée d'un moi
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R431-31
