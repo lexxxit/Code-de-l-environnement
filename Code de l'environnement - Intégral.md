@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-06-10
 
 # Partie législative
 
@@ -56347,18 +56347,22 @@ du 5 juin 1984 modifié.
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
 
-##### Sous-section 4 : Agence française de sécurité sanitaire environnementale
+##### Sous-section 4 : Agence française de sécurité sanitaire et environnementale
 
 ###### Article R131-52
 
-Les dispositions relatives à l'Agence française de sécurité sanitaire environnementale sont énoncées au chapitre 5-1 du titre
-III du livre III de la première partie du code de la santé publique (Partie réglementaire).
+Les dispositions relatives à l'Agence française de sécurité sanitaire de l'environnement et du travail sont énoncées au
+chapitre VI du titre III du livre III de la première partie du code de la santé publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-676 du 8 juin 2006 - art. 7 () JORF 10 juin 2006
 
 
 ##### Sous-section 5 : Institut de radioprotection et sûreté nucléaire
