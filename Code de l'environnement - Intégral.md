@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-06-10
+Version Consolidée au 2006-06-14
 
 # Partie législative
 
@@ -3250,7 +3250,8 @@ Les associations agréées mentionnées à l'article L. 141-2 peuvent exercer le
 concerne les faits portant un préjudice direct ou indirect aux intérêts collectifs qu'elles ont pour objet de défendre et
 constituant une infraction aux dispositions législatives relatives à la protection de la nature et de l'environnement, à
 l'amélioration du cadre de vie, à la protection de l'eau, de l'air, des sols, des sites et paysages, à l'urbanisme, ou ayant
-pour objet la lutte contre les pollutions et les nuisances, ainsi qu'aux textes pris pour leur application.
+pour objet la lutte contre les pollutions et les nuisances, la sûreté nucléaire et la radioprotection, ainsi qu'aux textes
+pris pour leur application. 
 
 Ce droit est également reconnu, sous les mêmes conditions, aux associations régulièrement déclarées depuis au moins cinq ans
 à la date des faits et qui se proposent, par leurs statuts, la sauvegarde de tout ou partie des intérêts visés à l'article L.
@@ -3274,6 +3275,10 @@ classées.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-686 du 13 juin 2006 - art. 53 () JORF 14 juin 2006
+
 	**Cité par**:
 
 	  - Arrêté du 17 juillet 2008 - art. (Ab)
@@ -3286,8 +3291,8 @@ classées.
 	**Cite**:
 
 	  - Code de l'environnement - art. L141-2 (V)
-	  - Code de l'environnement - art. L211-1 (M)
-	  - Code de l'environnement - art. L511-1 (M)
+	  - Code de l'environnement - art. L211-1 (V)
+	  - Code de l'environnement - art. L511-1 (V)
 
 
 ###### Article L142-3
@@ -12840,21 +12845,23 @@ l'exécution des travaux ou opérations de mise en conformité prescrits par le 
 
 Ne sont pas soumises aux dispositions du présent titre les pollutions de tous ordres causées par des substances radioactives
 ainsi que les conditions de création, de fonctionnement et de surveillance des installations nucléaires de base. Les
-prescriptions qui leur sont applicables sont énoncées dans la loi n° 61-842 du 2 août 1961 relative à la lutte contre les
-pollutions atmosphériques et les odeurs, telle que modifiée et complétée par les I et II de l'article 44 de la loi n° 96-1236
-du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie.
+prescriptions qui leur sont applicables sont énoncées dans la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à
+la sécurité en matière nucléaire.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°61-842 1961-08-02
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 44 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2006-686 2006-06-13
+
+	**Modifié par**:
+
+	  - Loi n°2006-686 du 13 juin 2006 - art. 58 () JORF 14 juin 2006
 
 	**Cité par**:
 
