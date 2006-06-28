@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-06-14
+Version Consolidée au 2006-06-29
 
 # Partie législative
 
@@ -35044,19 +35044,19 @@ prescriptions imposées au terme de ces procédures sont régies par les disposi
 Le stockage souterrain en couches géologiques profondes de produits dangereux, de quelque nature qu'ils soient, est soumis à
 autorisation administrative. Cette autorisation ne peut être accordée ou prolongée que pour une durée limitée et peut en
 conséquence prévoir les conditions de réversibilité du stockage. Les produits doivent être retirés à l'expiration de
-l'autorisation.
+l'autorisation. 
 
 A l'issue d'une période de fonctionnement autorisé de vingt-cinq ans au moins, ou si l'apport de déchets a cessé depuis au
 moins un an, l'autorisation peut être prolongée pour une durée illimitée, sur la base d'un bilan écologique comprenant une
 étude d'impact et l'exposé des solutions alternatives au maintien du stockage et de leurs conséquences. Le renouvellement
-s'accompagne d'une nouvelle évaluation des garanties financières prévues à l'article L. 541-26 ou à l'article L. 552-1.
+s'accompagne d'une nouvelle évaluation des garanties financières prévues à l'article L. 541-26 ou à l'article L. 552-1. 
 
 Pour les stockages souterrains de déchets ultimes, l'Agence de l'environnement et de la maîtrise de l'énergie peut conclure
 avec l'exploitant, avant l'octroi de l'autorisation visée au premier alinéa, une convention qui détermine les conditions
 techniques et financières de l'engagement et de la poursuite de l'exploitation, compte tenu de l'éventualité du refus de sa
-prolongation. Cette convention est soumise pour avis au représentant de l'Etat.
+prolongation. Cette convention est soumise pour avis au représentant de l'Etat. 
 
-Les dispositions des deux alinéas précédents ne s'appliquent pas au stockage souterrain de déchets radioactifs.
+Les dispositions du présent article ne s'appliquent pas au stockage des déchets radioactifs.
 
 **Liens relatifs à cet article**
 
@@ -35070,10 +35070,6 @@ Les dispositions des deux alinéas précédents ne s'appliquent pas au stockage 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Modifié par**:
-
-	  - Loi n°2004-105 du 3 février 2004 - art. 20 () JORF 4 février 2004
-
 	**Cité par**:
 
 	  - Décret n°2006-283 du 10 mars 2006 - art. 1 (Ab)
@@ -35081,9 +35077,13 @@ Les dispositions des deux alinéas précédents ne s'appliquent pas au stockage 
 	  - Code de l'environnement - art. R515-9 (V)
 	  - Code de l'urbanisme - art. R*425-24 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 19 () JORF 29 juin 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L541-26 (M)
+	  - Code de l'environnement - art. L541-26 (V)
 	  - Code de l'environnement - art. L552-1 (V)
 
 
@@ -41965,12 +41965,19 @@ Les conditions d'application du présent chapitre sont fixées par décret en Co
 	  - SPEC_APPLI: Code de l'environnement - art. L541-4 (V)
 
 
-#### Chapitre II : Dispositions particulières aux déchets radioactifs
+#### Chapitre II : Dispositions particulières à la gestion durable des matières et des déchets radioactifs
 
 ###### Article L542-1
 
-La gestion des déchets radioactifs à haute activité et à vie longue doit être assurée dans le respect de la protection de la
-nature, de l'environnement et de la santé, en prenant en considération les droits des générations futures.
+La gestion durable des matières et des déchets radioactifs de toute nature, résultant notamment de l'exploitation ou du
+démantèlement d'installations utilisant des sources ou des matières radioactives, est assurée dans le respect de la
+protection de la santé des personnes, de la sécurité et de l'environnement.
+
+La recherche et la mise en oeuvre des moyens nécessaires à la mise en sécurité définitive des déchets radioactifs sont
+entreprises afin de prévenir ou de limiter les charges qui seront supportées par les générations futures.
+
+Les producteurs de combustibles usés et de déchets radioactifs sont responsables de ces substances, sans préjudice de la
+responsabilité de leurs détenteurs en tant que responsables d'activités nucléaires.
 
 **Liens relatifs à cet article**
 
@@ -41983,6 +41990,11 @@ nature, de l'environnement et de la santé, en prenant en considération les dro
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Loi n°2006-739 du 28 juin 2006 - art. 2 () JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -42001,10 +42013,156 @@ nature, de l'environnement et de la santé, en prenant en considération les dro
 	  - Code de l'environnement - art. L542-1-1-1 (V)
 
 
+###### Article L542-1-1
+
+Le présent chapitre s'applique aux substances radioactives issues d'une activité nucléaire visée à l'article L. 1333-1 du
+code de la santé publique ou d'une activité comparable exercée à l'étranger ainsi que d'une entreprise mentionnée à l'article
+L. 1333-10 du même code ou d'une entreprise comparable située à l'étranger. 
+
+Une substance radioactive est une substance qui contient des radionucléides, naturels ou artificiels, dont l'activité ou la
+concentration justifie un contrôle de radioprotection. 
+
+Une matière radioactive est une substance radioactive pour laquelle une utilisation ultérieure est prévue ou envisagée, le
+cas échéant après traitement. 
+
+Un combustible nucléaire est regardé comme un combustible usé lorsque, après avoir été irradié dans le coeur d'un réacteur,
+il en est définitivement retiré. 
+
+Les déchets radioactifs sont des substances radioactives pour lesquelles aucune utilisation ultérieure n'est prévue ou
+envisagée. 
+
+Les déchets radioactifs ultimes sont des déchets radioactifs qui ne peuvent plus être traités dans les conditions techniques
+et économiques du moment, notamment par extraction de leur part valorisable ou par réduction de leur caractère polluant ou
+dangereux. 
+
+L'entreposage de matières ou de déchets radioactifs est l'opération consistant à placer ces substances à titre temporaire
+dans une installation spécialement aménagée en surface ou en faible profondeur à cet effet, dans l'attente de les récupérer. 
+
+Le stockage de déchets radioactifs est l'opération consistant à placer ces substances dans une installation spécialement
+aménagée pour les conserver de façon potentiellement définitive dans le respect des principes énoncés à l'article L. 542-1. 
+
+Le stockage en couche géologique profonde de déchets radioactifs est le stockage de ces substances dans une installation
+souterraine spécialement aménagée à cet effet, dans le respect du principe de réversibilité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 29 décembre 1980 - art. 6 (V)
+	  - Décret n°2007-830 du 11 mai 2007 - art. (V)
+	  - Arrêté du 31 juillet 2007 - art. ANNEXE (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 42 (M)
+	  - Décret n°2008-357 du 16 avril 2008 - art. 1 (Ab)
+	  - Arrêté du 9 octobre 2008 - art. 3 (V)
+	  - Arrêté du 7 février 2012 - art. 1.3 (VD)
+	  - Décret n°2012-542 du 23 avril 2012 - art. 1 (Ab)
+	  - Décret n°2012-1248 du 9 novembre 2012 - art. 2 (V)
+	  - Décret n°2013-1304 du 27 décembre 2013 - art. 1 (Ab)
+	  - Décret n°2015-1210 du 30 septembre 2015 - art. 2 (V)
+	  - Décret n°2016-793 du 14 juin 2016 - art. 2 (V)
+	  - Décret n°2016-846 du 28 juin 2016 - art. 7
+	  - Décret n°2016-846 du 28 juin 2016 - art. 8
+	  - Arrêté du 16 mars 2017 - art. 1
+	  - Code de l'environnement - art. L229-6 (V)
+	  - Code de l'environnement - art. L593-31 (V)
+	  - Code de la santé publique - art. R1333-45 (V)
+	  - Code de la santé publique - art. R1333-93 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 5 () JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1333-1 (VT)
+	  - Code de la santé publique - art. L1333-10 (V)
+	  - Code de l'environnement - art. L542-1 (V)
+
+
+###### Article L542-1-2
+
+I.-Un plan national de gestion des matières et des déchets radioactifs dresse le bilan des modes de gestion existants des
+matières et des déchets radioactifs, recense les besoins prévisibles d'installations d'entreposage ou de stockage, précise
+les capacités nécessaires pour ces installations et les durées d'entreposage et, pour les déchets radioactifs qui ne font pas
+encore l'objet d'un mode de gestion définitif, détermine les objectifs à atteindre. 
+
+Conformément aux orientations définies aux articles 3 et 4 de la loi n° 2006-739 du 28 juin 2006 de programme relative à la
+gestion durable des matières et des déchets radioactifs, le plan national organise la mise en oeuvre des recherches et études
+sur la gestion des matières et des déchets radioactifs en fixant des échéances pour la mise en oeuvre de nouveaux modes de
+gestion, la création d'installations ou la modification des installations existantes de nature à répondre aux besoins et aux
+objectifs définis au premier alinéa. 
+
+Il comporte, en annexe, une synthèse des réalisations et des recherches conduites dans les pays étrangers. 
+
+II.-Le plan national et le décret qui en établit les prescriptions respectent les orientations suivantes : 
+
+1° La réduction de la quantité et de la nocivité des déchets radioactifs est recherchée notamment par le traitement des
+combustibles usés et le traitement et le conditionnement des déchets radioactifs ; 
+
+2° Les matières radioactives en attente de traitement et les déchets radioactifs ultimes en attente d'un stockage sont
+entreposés dans des installations spécialement aménagées à cet usage ; 
+
+3° Après entreposage, les déchets radioactifs ultimes ne pouvant pour des raisons de sûreté nucléaire ou de radioprotection
+être stockés en surface ou en faible profondeur font l'objet d'un stockage en couche géologique profonde. 
+
+III.-Le plan national est établi et mis à jour tous les trois ans par le Gouvernement. Il est transmis au Parlement, qui en
+saisit pour évaluation l'Office parlementaire d'évaluation des choix scientifiques et technologiques, et rendu public. 
+
+IV.-Les décisions prises par les autorités administratives, notamment les autorisations mentionnées à l'article L. 1333-4 du
+code de la santé publique, doivent être compatibles avec les prescriptions du décret prévu au II du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 6 (V) JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 3 (V)
+	  - Loi n°2006-739 du 28 juin 2006 - art. 6 (V)
+	  - Arrêté du 21 mars 2007 - art. 5 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 18 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 9 (VD)
+	  - Décret n°2008-357 du 16 avril 2008 - art. 3 (Ab)
+	  - Arrêté du 9 octobre 2008 - art. 2 (V)
+	  - Décret n°2012-542 du 23 avril 2012 - art. 3 (Ab)
+	  - Décret n°2013-1304 du 27 décembre 2013 (Ab)
+	  - Décret n°2013-1304 du 27 décembre 2013 - art. 1 (Ab)
+	  - Décret n°2013-1304 du 27 décembre 2013 - art. 3 (Ab)
+	  - Arrêté du 4 avril 2014 (V)
+	  - Décret n°2016-333 du 21 mars 2016 (V)
+	  - Décret n°2016-1501 du 7 novembre 2016 (V)
+	  - Décret n°2017-231 du 23 février 2017 - art. 2
+	  - Arrêté du 16 mars 2017 - art. 1
+	  - Décret n°2017-626 du 25 avril 2017 - art. 2
+	  - Code de l'environnement - art. D542-74 (V)
+	  - Code de l'environnement - art. D542-78 (V)
+	  - Code de l'environnement - art. D542-82 (V)
+	  - Code de l'environnement - art. L542-12 (V)
+	  - Code de l'environnement - art. L542-3 (V)
+	  - Code de l'environnement - art. R121-1-1 (V)
+	  - Code de l'environnement - art. R122-17 (VD)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1333-4 (VT)
+
+
 ###### Article L542-2
 
-Le stockage en France de déchets radioactifs importés, même si leur retraitement a été effectué sur le territoire national,
-est interdit au-delà des délais techniques imposés par le retraitement.
+Est interdit le stockage en France de déchets radioactifs en provenance de l'étranger ainsi que celui des déchets radioactifs
+issus du traitement de combustibles usés et de déchets radioactifs provenant de l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -42018,6 +42176,11 @@ est interdit au-delà des délais techniques imposés par le retraitement.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Loi n°2006-739 du 28 juin 2006 - art. 8 () JORF 29 juin 2006
+
 	**Cité par**:
 
 	  - Décret n°2008-209 du 3 mars 2008 - art. 2 (V)
@@ -42027,38 +42190,132 @@ est interdit au-delà des délais techniques imposés par le retraitement.
 	  - Code de l'environnement - art. L542-2-2 (T)
 
 
+###### Article L542-2-1
+
+I. - Des combustibles usés ou des déchets radioactifs ne peuvent être introduits sur le territoire national qu'à des fins de
+traitement, de recherche ou de transfert entre Etats étrangers.
+
+L'introduction à des fins de traitement ne peut être autorisée que dans le cadre d'accords intergouvernementaux et qu'à la
+condition que les déchets radioactifs issus après traitement de ces substances ne soient pas entreposés en France au-delà
+d'une date fixée par ces accords. L'accord indique les périodes prévisionnelles de réception et de traitement de ces
+substances et, s'il y a lieu, les perspectives d'utilisation ultérieure des matières radioactives séparées lors du
+traitement.
+
+Le texte de ces accords intergouvernementaux est publié au Journal officiel.
+
+II. - Les exploitants d'installations de traitement et de recherche établissent, tiennent à jour et mettent à la disposition
+des autorités de contrôle les informations relatives aux opérations portant sur des combustibles usés ou des déchets
+radioactifs en provenance de l'étranger. Ils remettent chaque année au ministre chargé de l'énergie un rapport comportant
+l'inventaire des combustibles usés et des déchets radioactifs en provenance de l'étranger ainsi que des matières et des
+déchets radioactifs qui en sont issus après traitement qu'ils détiennent, et leurs prévisions relatives aux opérations de
+cette nature. Ce rapport est rendu public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 8 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-209 du 3 mars 2008 - art. 1 (V)
+	  - Décret n°2008-209 du 3 mars 2008 - art. 2 (V)
+	  - Décret n°2008-209 du 3 mars 2008 - art. 8 (V)
+	  - Arrêté du 9 juillet 2008 - art. 4.1.4 (V)
+	  - Arrêté du 2 octobre 2008 - art. (V)
+	  - Arrêté du 9 octobre 2008 - art. 2 (V)
+	  - Arrêté du 9 octobre 2008 - art. 4 (V)
+	  - Arrêté du 16 mars 2017 - art. 1
+	  - Code de l'environnement - art. L542-12 (V)
+	  - Code de l'environnement - art. L542-2-2 (VT)
+
+
+###### Article L542-2-2
+
+I.-La méconnaissance des prescriptions des articles L. 542-2 et L. 542-2-1 est constatée, dans les conditions prévues à
+l'article L. 541-45, par les fonctionnaires et agents mentionnés aux 1°, 3°, 6° et 8° de l'article L. 541-44 ainsi que par
+les inspecteurs de la sûreté nucléaire et par des fonctionnaires et agents habilités à cet effet par le ministre chargé de
+l'énergie et assermentés. 
+
+II.-La méconnaissance des prescriptions de l'article L. 542-2 et du I de l'article L. 542-2-1 est punie des peines prévues à
+l'article L. 541-46. En outre, sans préjudice de l'application des sanctions prévues au 8° de cet article, l'autorité
+administrative peut prononcer une sanction pécuniaire au plus égale, dans la limite de dix millions d'euros, au cinquième du
+revenu tiré des opérations réalisées irrégulièrement. La décision prononçant la sanction est publiée au Journal officiel. 
+
+En cas de manquement aux obligations définies au II de l'article L. 542-2-1, l'autorité administrative peut prononcer une
+sanction pécuniaire au plus égale à 150 000 Euros. 
+
+Les sommes sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine. 
+
+Ces sanctions peuvent faire l'objet d'un recours de pleine juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 8 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Arrêté du 9 juillet 2008 - art. 4.1.4 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L541-44 (VT)
+	  - Code de l'environnement - art. L541-45 (VT)
+	  - Code de l'environnement - art. L541-46 (VT)
+	  - Code de l'environnement - art. L542-2 (V)
+	  - Code de l'environnement - art. L542-2-1 (V)
+
+
 ###### Article L542-3
 
-I. - Le Gouvernement adresse chaque année au Parlement un rapport faisant état de l'avancement des recherches sur la gestion
-des déchets radioactifs à haute activité et à vie longue et des travaux qui sont menés simultanément pour :
+I. à V.-Paragraphes abrogés 
 
-1° La recherche de solutions permettant la séparation et la transmutation des éléments radioactifs à vie longue présents dans
-ces déchets ;
+VI.-Une commission nationale est chargée d'évaluer annuellement l'état d'avancement des recherches et études relatives à la
+gestion des matières et des déchets radioactifs par référence aux orientations fixées par le plan national prévu à l'article
+L. 542-1-2. Cette évaluation donne lieu à un rapport annuel qui fait également état des recherches effectuées à l'étranger.
+Il est transmis au Parlement, qui en saisit l'Office parlementaire d'évaluation des choix scientifiques et technologiques, et
+il est rendu public. 
 
-2° L'étude des possibilités de stockage réversible ou irréversible dans les formations géologiques profondes, notamment grâce
-à la réalisation de laboratoires souterrains ;
-
-3° L'étude de procédés de conditionnement et d'entreposage de longue durée en surface de ces déchets.
-
-II. - Ce rapport fait également état des recherches et des réalisations effectuées à l'étranger.
-
-III. - Avant le 30 décembre 2006, le Gouvernement adressera au Parlement un rapport global d'évaluation de ces recherches
-accompagné d'un projet de loi autorisant, le cas échéant, la création d'un centre de stockage des déchets radioactifs à haute
-activité et à vie longue et fixant le régime des servitudes et des sujétions afférentes à ce centre.
-
-IV. - Le Parlement saisit de ces rapports l'Office parlementaire d'évaluation des choix scientifiques et technologiques.
-
-V. - Ces rapports sont rendus publics.
-
-VI. - Ils sont établis par une commission nationale d'évaluation, composée de :
+La commission est composée des membres suivants, nommés pour six ans : 
 
 1° Six personnalités qualifiées, dont au moins deux experts internationaux, désignées à parité par l'Assemblée nationale et
-par le Sénat, sur proposition de l'Office parlementaire d'évaluation des choix scientifiques et technologiques ;
+par le Sénat, sur proposition de l'Office parlementaire d'évaluation des choix scientifiques et technologiques ; 
 
-2° Deux personnalités qualifiées désignées par le Gouvernement sur proposition du Conseil supérieur de la sûreté et de
-l'information nucléaires ;
+2° Deux personnalités qualifiées désignées par le Gouvernement sur proposition de l'Académie des sciences morales et
+politiques ; 
 
-3° Quatre experts scientifiques, désignés par le Gouvernement sur proposition de l'Académie des sciences.
+3° Quatre experts scientifiques, dont au moins un expert international, désignés par le Gouvernement sur proposition de
+l'Académie des sciences. 
+
+Le mandat des membres de la commission est renouvelable une fois. 
+
+La commission est renouvelée par moitié tous les trois ans. Pour la constitution initiale de la commission, le mandat de six
+de ses membres, désignés par tirage au sort, est fixé à trois ans. 
+
+Le président de la commission est élu par les membres de celle-ci lors de chaque renouvellement triennal. 
+
+Les membres de la commission exercent leurs fonctions en toute impartialité. Ils ne peuvent, directement ou indirectement,
+exercer de fonctions ni recevoir d'honoraires au sein ou en provenance des organismes évalués et des entreprises ou
+établissements producteurs ou détenteurs de déchets. 
+
+Les organismes de recherche fournissent à la commission tout document nécessaire à sa mission.
+
+**Nota:**
+
+Loi n° 2006-739, art. 9 II : La commission nationale mentionnée à l'article L. 542-3 du code de l'environnement établit son
+premier rapport avant le 30 juin 2007.
 
 **Liens relatifs à cet article**
 
@@ -42081,6 +42338,15 @@ l'information nucléaires ;
 	  - Code de l'environnement - art. L542-10-1 (V)
 	  - Code de l'environnement - art. L542-13 (V)
 	  - Code de l'environnement - art. R542-14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Loi n°2006-739 du 28 juin 2006 - art. 9 (V) JORF 29 juin 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L542-1-2 (V)
 
 
 ###### Article L542-4
@@ -42105,9 +42371,13 @@ longue sont déterminées par les articles L. 542-5 à L. 542-11.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+
 	**Cite**:
 
-	  - Code de l'environnement L542-5 à L542-11
+	  - Code de l'environnement - art. L542-5 (V)
 
 
 ###### Article L542-5
@@ -42128,6 +42398,10 @@ décret.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L542-4 (V)
@@ -42135,10 +42409,15 @@ décret.
 
 ###### Article L542-6
 
-Les travaux de recherche préalables à l'installation des laboratoires sont exécutés dans les conditions prévues par la loi du
-29 décembre 1892 sur les dommages causés à la propriété privée par l'exécution des travaux publics.
+Les travaux de recherche préalables à l'installation d'un laboratoire souterrain ou d'un centre de stockage en couche
+géologique profonde sont exécutés dans les conditions prévues par la loi du 29 décembre 1892 sur les dommages causés à la
+propriété privée par l'exécution des travaux publics.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°1892-12-29
 
 	**Anciens textes**:
 
@@ -42158,9 +42437,10 @@ Les travaux de recherche préalables à l'installation des laboratoires sont ex�
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°1892-12-29
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Loi n°2006-739 du 28 juin 2006 - art. 11 () JORF 29 juin 2006
 
 
 ###### Article L542-7
@@ -42186,6 +42466,10 @@ telles opérations.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -42221,6 +42505,10 @@ partie de ces terrains.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+
 	**Cité par**:
 
 	  - Décret n°2011-1910 du 20 décembre 2011 - art. 3 (VD)
@@ -42244,6 +42532,10 @@ nature à compromettre, sur le plan technique, l'installation ou le fonctionneme
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -42271,25 +42563,126 @@ Dans ces laboratoires, l'entreposage ou le stockage des déchets radioactifs est
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
 
-###### Article L542-11
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
 
-Un groupement d'intérêt public peut être constitué, dans les conditions prévues par l'article 21 de la loi n° 82-610 du 15
-juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France, en vue de
-mener des actions d'accompagnement et de gérer des équipements de nature à favoriser et à faciliter l'installation et
-l'exploitation de chaque laboratoire.
 
-Outre l'Etat et le titulaire de l'autorisation prévue à l'article L. 542-7, la région et le département où est situé le puits
-principal d'accès au laboratoire, les communes dont une partie du territoire est à moins de dix kilomètres de ce puits, ainsi
-que tout organisme de coopération intercommunale dont l'objectif est de favoriser le développement économique de la zone
-concernée, peuvent adhérer de plein droit à ce groupement.
+###### Article L542-10-1
+
+Un centre de stockage en couche géologique profonde de déchets radioactifs est une installation nucléaire de base.
+
+Par dérogation aux règles applicables aux autres installations nucléaires de base :
+
+- la demande d'autorisation de création doit concerner une couche géologique ayant fait l'objet d'études au moyen d'un
+laboratoire souterrain ;
+
+- le dépôt de la demande d'autorisation de création du centre est précédé d'un débat public au sens de l'article L. 121-1 sur
+la base d'un dossier réalisé par l'Agence nationale pour la gestion des déchets radioactifs créée à l'article L. 542-12 ;
+
+- la demande d'autorisation de création du centre donne lieu à un rapport de la commission nationale mentionnée à l'article
+L. 542-3, à un avis de l'Autorité de sûreté nucléaire et au recueil de l'avis des collectivités territoriales situées en tout
+ou partie dans une zone de consultation définie par décret ;
+
+- la demande est transmise, accompagnée du compte rendu du débat public, du rapport de la commission nationale mentionnée à
+l'article L. 542-3 et de l'avis de l'Autorité de sûreté nucléaire, à l'Office parlementaire d'évaluation des choix
+scientifiques et technologiques, qui l'évalue et rend compte de ses travaux aux commissions compétentes de l'Assemblée
+nationale et du Sénat ;
+
+- le Gouvernement présente ensuite un projet de loi fixant les conditions de réversibilité. Après promulgation de cette loi,
+l'autorisation de création du centre peut être délivrée par décret en Conseil d'Etat, pris après enquête publique ;
+
+- l'autorisation de création d'un centre de stockage en couche géologique profonde de déchets radioactifs ne garantissant pas
+la réversibilité de ce centre dans les conditions prévues par cette loi ne peut être délivrée.
+
+Lors de l'examen de la demande d'autorisation de création, la sûreté du centre est appréciée au regard des différentes étapes
+de sa gestion, y compris sa fermeture définitive. Seule une loi peut autoriser celle-ci. L'autorisation fixe la durée
+minimale pendant laquelle, à titre de précaution, la réversibilité du stockage doit être assurée. Cette durée ne peut être
+inférieure à cent ans.
+
+Les dispositions des articles L. 542-8 et L. 542-9 sont applicables à l'autorisation.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Décret n°99-686 du 3 août 1999 - art. 1 (Ab)
+	  - Loi n°99-1172 du 30 décembre 1999 - art. 43 (V)
+	  - Loi n°2006-739 du 28 juin 2006 - art. 3 (V)
+	  - Décret n°2007-830 du 11 mai 2007 - art. 2 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 42 (V)
+	  - Décret n°2008-357 du 16 avril 2008 - art. 11 (Ab)
+	  - Arrêté du 23 avril 2012 - art. 13 (V)
+	  - Décret n°2012-542 du 23 avril 2012 - art. 17 (Ab)
+	  - Décret n°2013-1304 du 27 décembre 2013 - art. 17 (Ab)
+	  - Décret n°2016-846 du 28 juin 2016 - art. 3
+	  - Code de l'environnement - art. D542-88 (V)
+	  - Code de l'environnement - art. D542-89 (V)
+	  - Code de l'environnement - art. D542-90 (V)
+	  - Code de l'environnement - art. D542-93 (V)
+	  - Code de l'environnement - art. L542-11 (V)
+	  - Code de l'environnement - art. L542-13 (V)
+	  - Code de l'environnement - art. L593-2 (V)
+	  - Code de l'environnement - art. R542-25 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 12 () JORF 29 juin 2006
+
 	**Cite**:
 
-	  - Loi n°82-610 1982-07-15 art. 21
-	  - Code de l'environnement - art. L542-7 (M)
+	  - Code de l'environnement - art. L121-1 (M)
+	  - Code de l'environnement - art. L542-12 (M)
+	  - Code de l'environnement - art. L542-3 (M)
+	  - Code de l'environnement - art. L542-8 (M)
+	  - Code de l'environnement - art. L542-9 (M)
+
+
+###### Article L542-11
+
+Dans tout département sur le territoire duquel est situé tout ou partie du périmètre d'un laboratoire souterrain ou d'un
+centre de stockage en couche géologique profonde défini à l'article L. 542-9, un groupement d'intérêt public est constitué en
+vue :
+
+1° De gérer des équipements de nature à favoriser et à faciliter l'installation et l'exploitation du laboratoire ou du centre
+de stockage ;
+
+2° De mener, dans les limites de son département, des actions d'aménagement du territoire et de développement économique,
+particulièrement dans la zone de proximité du laboratoire souterrain ou du centre de stockage dont le périmètre est défini
+par décret pris après consultation des conseils généraux concernés ;
+
+3° De soutenir des actions de formation ainsi que des actions en faveur du développement, de la valorisation et de la
+diffusion de connaissances scientifiques et technologiques, notamment dans les domaines étudiés au sein du laboratoire
+souterrain et dans ceux des nouvelles technologies de l'énergie.
+
+Outre l'Etat et le titulaire des autorisations prévues aux articles L. 542-7 ou L. 542-10-1, peuvent adhérer de plein droit
+au groupement d'intérêt public la région, le département, les communes ou leurs groupements en tout ou partie situés dans la
+zone de proximité mentionnée au 2°.
+
+Les membres de droit du groupement d'intérêt public peuvent décider l'adhésion en son sein de communes ou de leurs
+groupements situés dans le même département et hors de la zone de proximité définie au 2°, dans la mesure où lesdits communes
+ou groupements justifient d'être effectivement concernés par la vie quotidienne du laboratoire ou du centre de stockage.
+
+Les dispositions des articles L. 341-2 à L. 341-4 du code de la recherche sont applicables au groupement.
+
+Pour financer les actions visées aux 1° et 2° du présent article, le groupement bénéficie d'une partie du produit de la taxe
+additionnelle dite "d'accompagnement" à la taxe sur les installations nucléaires de base prévue au V de l'article 43 de la
+loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999), à laquelle il peut, pour les exercices budgétaires des années
+2007 à 2016, ajouter une fraction, dans la limite de 80 %, de la partie du produit de la taxe additionnelle dite de
+"diffusion technologique" à ladite taxe sur les installations nucléaires de base dont il bénéficie. Pour financer les actions
+visées au 3° du présent article, le groupement bénéficie d'une partie du produit de la taxe additionnelle dite de "diffusion
+technologique", à laquelle il peut, pour les exercices budgétaires des années 2007 à 2016, ajouter une fraction, dans la
+limite de 80 %, de la partie du produit de la taxe additionnelle dite "d'accompagnement".
+
+Les personnes redevables de ces taxes additionnelles publient un rapport annuel sur les activités économiques qu'elles
+conduisent dans les départements visés au premier alinéa.
+
+**Liens relatifs à cet article**
 
 	**Anciens textes**:
 
@@ -42305,31 +42698,68 @@ concernée, peuvent adhérer de plein droit à ce groupement.
 	  - Code de l'environnement - art. D542-31 (Ab)
 	  - Code de l'environnement - art. L542-13 (M)
 
+	**Cite**:
+
+	  - Loi n°99-1172 1999-12-30 art. 43 Finances pour 2000
+	  - Code de l'environnement - art. L542-10-1 (V)
+	  - Code de l'environnement - art. L542-7 (M)
+	  - Code de l'environnement - art. L542-9 (M)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Loi n°2006-739 du 28 juin 2006 - art. 13 () JORF 29 juin 2006
+
 
 ###### Article L542-12
 
 L'Agence nationale pour la gestion des déchets radioactifs, établissement public industriel et commercial, est chargée des
-opérations de gestion à long terme des déchets radioactifs, et notamment :
+opérations de gestion à long terme des déchets radioactifs, et notamment : 
 
-1° En coopération notamment avec le Commissariat à l'énergie atomique, de participer à la définition et de contribuer aux
-programmes de recherche et de développement concernant la gestion à long terme des déchets radioactifs ;
+1° D'établir, de mettre à jour tous les trois ans et de publier l'inventaire des matières et déchets radioactifs présents en
+France ainsi que leur localisation sur le territoire national, les déchets visés à l'article L. 542-2-1 étant listés par
+pays ; 
 
-2° D'assurer la gestion des centres de stockage à long terme, soit directement, soit par l'intermédiaire de tiers agissant
-pour son compte ;
+2° De réaliser ou faire réaliser, conformément au plan national prévu à l'article L. 542-1-2, des recherches et études sur
+l'entreposage et le stockage en couche géologique profonde et d'assurer leur coordination ; 
 
-3° De concevoir, d'implanter et de réaliser les nouveaux centres de stockage compte tenu des perspectives à long terme de
-production et de gestion des déchets et d'effectuer toutes études nécessaires à cette fin, notamment la réalisation et
-l'exploitation de laboratoires souterrains destinés à l'étude des formations géologiques profondes ;
+3° De contribuer, dans les conditions définies à l'avant-dernier alinéa du présent article, à l'évaluation des coûts
+afférents à la mise en oeuvre des solutions de gestion à long terme des déchets radioactifs de haute et de moyenne activité à
+vie longue, selon leur nature ; 
 
-4° De définir, en conformité avec les règles de sûreté, des spécifications de conditionnement et de stockage des déchets
-radioactifs ;
+4° De prévoir, dans le respect des règles de sûreté nucléaire, les spécifications pour le stockage des déchets radioactifs et
+de donner aux autorités administratives compétentes un avis sur les spécifications pour le conditionnement des déchets ; 
 
-5° De répertorier l'état et la localisation de tous les déchets radioactifs se trouvant sur le territoire national.
+5° De concevoir, d'implanter, de réaliser et d'assurer la gestion de centres d'entreposage ou des centres de stockage de
+déchets radioactifs compte tenu des perspectives à long terme de production et de gestion de ces déchets ainsi que
+d'effectuer à ces fins toutes les études nécessaires ; 
+
+6° D'assurer la collecte, le transport et la prise en charge de déchets radioactifs et la remise en état de sites de
+pollution radioactive sur demande et aux frais de leurs responsables ou sur réquisition publique lorsque les responsables de
+ces déchets ou de ces sites sont défaillants ; 
+
+7° De mettre à la disposition du public des informations relatives à la gestion des déchets radioactifs et de participer à la
+diffusion de la culture scientifique et technologique dans ce domaine ; 
+
+8° De diffuser à l'étranger son savoir-faire. 
+
+L'agence peut obtenir le remboursement des frais exposés pour la gestion des déchets radioactifs pris en charge sur
+réquisition publique des responsables de ces déchets qui viendraient à être identifiés ou qui reviendraient à meilleure
+fortune. 
+
+L'agence propose au ministre chargé de l'énergie une évaluation des coûts afférents à la mise en oeuvre des solutions de
+gestion à long terme des déchets radioactifs de haute et de moyenne activité à vie longue selon leur nature. Après avoir
+recueilli les observations des redevables des taxes additionnelles mentionnées au V de l'article 43 de la loi de finances
+pour 2000 (n° 99-1172 du 30 décembre 1999) et l'avis de l'Autorité de sûreté nucléaire, le ministre chargé de l'énergie
+arrête l'évaluation de ces coûts et la rend publique. 
+
+L'agence peut conduire, avec toute personne intéressée, des actions communes d'information du public et de diffusion de la
+culture scientifique et technologique.
 
 **Liens relatifs à cet article**
 
@@ -42337,10 +42767,21 @@ radioactifs ;
 
 	  - Loi n°91-1381 1991-12-30 art. 13
 
+	**Cite**:
+
+	  - Loi - art. 43 (V)
+	  - Code de l'environnement - art. L542-1-2 (V)
+	  - Code de l'environnement - art. L542-2-1 (V)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Loi n°2006-739 du 28 juin 2006 - art. 14 () JORF 29 juin 2006
 
 	**Cité par**:
 
@@ -42374,26 +42815,109 @@ radioactifs ;
 	  - PILOTE_SUIVEUR: Code de la recherche - art. L334-1 (Ab)
 
 
+###### Article L542-12-1
+
+Il est institué, au sein de l'Agence nationale pour la gestion des déchets radioactifs, un fonds destiné au financement des
+recherches et études sur l'entreposage et le stockage en couche géologique profonde des déchets radioactifs. Les opérations
+de ce fonds font l'objet d'une comptabilisation distincte permettant d'individualiser les ressources et les emplois du fonds
+au sein du budget de l'agence. Le fonds a pour ressources le produit de la taxe dite de " recherche " additionnelle à la taxe
+sur les installations nucléaires de base prévue au V de l'article 43 de la loi de finances pour 2000 (n° 99-1172 du 30
+décembre 1999). 
+
+L'agence dispose d'une subvention de l'Etat qui contribue au financement des missions d'intérêt général qui lui sont confiées
+en application des dispositions des 1° et 6° de l'article L. 542-12.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi - art. 43 (V)
+	  - Code de l'environnement - art. L542-12 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 15 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 20 (V)
+	  - Code de l'environnement - art. L594-11 (V)
+	  - Code de l'environnement - art. R542-15 (V)
+
+
+###### Article L542-12-2
+
+Il est institué, au sein de l'Agence nationale pour la gestion des déchets radioactifs, un fonds destiné au financement de la
+construction, de l'exploitation, de l'arrêt définitif, de l'entretien et de la surveillance des installations d'entreposage
+ou de stockage des déchets de haute ou de moyenne activité à vie longue construites ou exploitées par l'agence. Les
+opérations de ce fonds font l'objet d'une comptabilisation distincte permettant d'individualiser les ressources et les
+emplois du fonds au sein du budget de l'agence. Le fonds a pour ressources les contributions des exploitants d'installations
+nucléaires de base définies par des conventions.
+
+Si l'autorité administrative constate que l'application des dispositions de l'article 20 de la loi n° 2006-739 du 28 juin
+2006 de programme relative à la gestion durable des matières et des déchets radioactifs est susceptible d'être entravée, elle
+peut imposer, le cas échéant sous astreinte, à l'exploitant d'une installation nucléaire de base de verser au fonds les
+sommes nécessaires à la couverture des charges mentionnées au I du même article 20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2006-739 2006-06-28 art. 20
+
+	**Créé par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 16 () JORF 29 juin 2006
+
+	**Cité par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 20 (V)
+
+
 ###### Article L542-13
 
-Il est créé, sur le site de chaque laboratoire souterrain, un comité local d'information et de suivi.
+Il est créé, auprès de tout laboratoire souterrain, un comité local d'information et de suivi chargé d'une mission générale
+de suivi, d'information et de concertation en matière de recherche sur la gestion des déchets radioactifs et, en particulier,
+sur le stockage de ces déchets en couche géologique profonde.
 
-Ce comité comprend notamment des représentants de l'Etat, deux députés et deux sénateurs désignés par leur assemblée
-respective, des élus des collectivités territoriales consultées à l'occasion de l'enquête publique, des membres des
-associations de protection de l'environnement, des syndicats agricoles, des représentants des organisations professionnelles
-et des représentants des personnels liés au site ainsi que le titulaire de l'autorisation.
+Ce comité comprend des représentants de l'Etat, deux députés et deux sénateurs désignés par leur assemblée respective, des
+élus des collectivités territoriales consultées à l'occasion de l'enquête publique ou concernées par les travaux de recherche
+préliminaires prévus à l'article L. 542-6, des représentants d'associations de protection de l'environnement, de syndicats
+agricoles, d'organisations professionnelles, d'organisations syndicales de salariés représentatives et de professions
+médicales, des personnalités qualifiées ainsi que le titulaire de l'autorisation prévue à l'article L. 542-10-1.
 
-Ce comité est composé pour moitié au moins d'élus des collectivités territoriales consultées à l'occasion de l'enquête
-publique. Il est présidé par le préfet du département où est implanté le laboratoire.
+Il peut être doté de la personnalité juridique avec un statut d'association. Il est présidé par un de ses membres, élu
+national ou local, nommé par décision conjointe des présidents des conseils généraux des départements sur lesquels s'étend le
+périmètre du laboratoire.
 
 Le comité se réunit au moins deux fois par an. Il est informé des objectifs du programme, de la nature des travaux et des
-résultats obtenus. Il peut saisir la commission nationale d'évaluation visée à l'article L. 542-3.
+résultats obtenus. Il peut saisir la commission nationale visée à l'article L. 542-3 et le Haut Comité pour la transparence
+et l'information sur la sécurité nucléaire créé par l'article 23 de la loi n° 2006-686 du 13 juin 2006 relative à la
+transparence et à la sécurité en matière nucléaire. La commission nationale présente chaque année, devant le comité local
+d'information et de suivi, son rapport d'évaluation sur l'état d'avancement des recherches dans les trois axes de recherche
+définis par l'article 3 de la loi n° 2006-739 du 28 juin 2006  de programme relative à la gestion durable des matières et des
+déchets radioactifs.
+
+La commission locale d'information et de suivi et le Haut Comité pour la transparence et l'information sur la sécurité
+nucléaire créé par l'article 23 de la loi n° 2006-686 du 13 juin 2006 précitée se communiquent tous les renseignements utiles
+à l'exercice de leurs missions et concourent à des actions communes d'information.
 
 Le comité est consulté sur toutes questions relatives au fonctionnement du laboratoire ayant des incidences sur
 l'environnement et le voisinage. Il peut faire procéder à des auditions ou des contre-expertises par des laboratoires agréés.
 
-Les frais d'établissement et le fonctionnement du comité local d'information et de suivi sont pris en charge par le
-groupement prévu à l'article L. 542-11.
+Les frais d'établissement et le fonctionnement du comité local d'information et de suivi sont financés à parité d'une part
+par des subventions de l'Etat, d'autre part par des subventions des entreprises concernées par l'activité de stockage des
+déchets radioactifs en couche géologique profonde.
 
 **Liens relatifs à cet article**
 
@@ -42419,8 +42943,16 @@ groupement prévu à l'article L. 542-11.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L542-11 (M)
+	  - Loi n°2006-686 2006-06-13 art. 23
+	  - Loi n°2006-739 2006-06-28 art. 3
+	  - Code de l'environnement - art. L542-10-1 (V)
 	  - Code de l'environnement - art. L542-3 (M)
+	  - Code de l'environnement - art. L542-6 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
+	  - Loi n°2006-739 du 28 juin 2006 - art. 18 () JORF 29 juin 2006
 
 
 ###### Article L542-14
@@ -42438,6 +42970,10 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'appli
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-739 du 28 juin 2006 - art. 1 () JORF 29 juin 2006
 
 
 ### Titre V : Dispositions particulières à certains ouvrages ou installations
