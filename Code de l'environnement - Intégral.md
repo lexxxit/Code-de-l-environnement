@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-06-29
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -11802,8 +11802,9 @@ sont associés à son élaboration.
 
 ###### Article L222-2
 
-Les conseils départementaux d'hygiène et les représentants des organismes agréés prévus à l'article L. 221-3 sont associés à
-l'élaboration du plan régional pour la qualité de l'air.
+Les commissions départementales compétentes en matière d'environnement, de risques sanitaires et technologiques et les
+représentants des organismes agréés prévus à l'article L. 221-3 sont associés à l'élaboration du plan régional pour la
+qualité de l'air.
 
 Le projet de plan est mis à la disposition du public pour consultation. Il est transmis pour avis aux communes, aux
 établissements publics de coopération intercommunale et aux syndicats mixtes compétents pour l'élaboration d'un schéma de
@@ -11821,11 +11822,12 @@ scientifiques et sanitaires.
 
 En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et à la révision du plan.
 
+**Nota:**
+
+Ordonnance 2004-637 2004-07-01 art. 41 : les modifications induites par l'article 23 V entrent en vigueur au plus tard, le
+1er juillet 2006.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 	**Anciens textes**:
 
@@ -11838,7 +11840,7 @@ En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 27 () JORF 2 juillet 2004
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 23 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -11847,10 +11849,6 @@ En région d'Ile-de-France, le maire de Paris est associé à l'élaboration et 
 	  - Code de l'environnement - art. L652-6 (Ab)
 	  - Code de l'environnement - art. R222-7 (V)
 	  - Code de l'environnement - art. R229-56 (M)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L221-3 (V)
 
 
 ###### Article L222-3
@@ -14300,14 +14298,8 @@ de construction.
 
 ###### Article L321-5
 
-Les décisions d'utilisation du domaine public maritime tiennent compte de la vocation des zones concernées et de celles des
-espaces terrestres avoisinants, ainsi que des impératifs de préservation des sites et paysages du littoral et des ressources
-biologiques ; elles sont à ce titre coordonnées notamment avec celles concernant les terrains avoisinants ayant vocation
-publique.
-
-Sous réserve des textes particuliers concernant la défense nationale et des besoins de la sécurité maritime, tout changement
-substantiel d'utilisation de zones du domaine public maritime est préalablement soumis à enquête publique suivant les
-modalités prévues au chapitre III du titre II du livre Ier du présent code.
+Les décisions relatives à l'utilisation du domaine public maritime sont prises dans les conditions fixées à la section 1 du
+chapitre IV du titre II du livre Ier de la deuxième partie du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
@@ -14321,25 +14313,27 @@ modalités prévues au chapitre III du titre II du livre Ier du présent code.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L653-1 (V)
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... -  Section 1 : Utilisation du domaine public marit... (V)
 
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L2124-1 (V)
 
+	**Cité par**:
+
+	  - Code de l'environnement - art. L653-1 (V)
+
 
 ###### Article L321-6
 
-En dehors des zones portuaires et industrialo-portuaires, et sous réserve de l'exécution des opérations de défense contre la
-mer et de la réalisation des ouvrages et installations nécessaires à la sécurité maritime, à la défense nationale, à la pêche
-maritime, à la saliculture et aux cultures marines, il ne peut être porté atteinte à l'état naturel du rivage de la mer,
-notamment par endiguement, assèchement, enrochement ou remblaiement, sauf pour des ouvrages ou installations liés à
-l'exercice d'un service public ou l'exécution d'un travail public dont la localisation au bord de mer s'impose pour des
-raisons topographiques ou techniques impératives et qui ont donné lieu à une déclaration d'utilité publique.
-
-Toutefois, les exondements antérieurs au 3 janvier 1986 demeurent régis par la législation antérieure.
+La préservation de l'état naturel du rivage est régie par les dispositions de l'article L. 2124-2 du code général de la
+propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
@@ -14352,6 +14346,18 @@ Toutefois, les exondements antérieurs au 3 janvier 1986 demeurent régis par la
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2124-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2124-2 (V)
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. L653-1 (V)
@@ -14359,10 +14365,6 @@ Toutefois, les exondements antérieurs au 3 janvier 1986 demeurent régis par la
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du domaine de l'Etat - art. L64 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publiqu - art. L2124-2 (V)
 
 
 ###### Article L321-7
@@ -14414,28 +14416,19 @@ qui ont pour objet la conservation ou la protection d'espaces naturels remarquab
 ###### Article L321-9
 
 L'accès des piétons aux plages est libre sauf si des motifs justifiés par des raisons de sécurité, de défense nationale ou de
-protection de l'environnement nécessitent des dispositions particulières.
+protection de l'environnement nécessitent des dispositions particulières. 
 
 L'usage libre et gratuit par le public constitue la destination fondamentale des plages au même titre que leur affectation
-aux activités de pêche et de cultures marines.
-
-Les concessions de plage sont accordées ou renouvelées après enquête publique ; elles préservent la libre circulation sur la
-plage et le libre usage par le public d'un espace d'une largeur significative tout le long de la mer.
-
-Tout contrat de concession doit déterminer la largeur de cet espace en tenant compte des caractéristiques des lieux.
-
-Les concessions de plage et les sous-traités d'exploitation sont portés à la connaissance du public par le concessionnaire.
+aux activités de pêche et de cultures marines. 
 
 Sauf autorisation donnée par le préfet, après avis du maire, la circulation et le stationnement des véhicules terrestres à
 moteur autres que les véhicules de secours, de police et d'exploitation sont interdits, en dehors des chemins aménagés, sur
 le rivage de la mer et sur les dunes et plages appartenant au domaine public ou privé des personnes publiques lorsque ces
-lieux sont ouverts au public.
+lieux sont ouverts au public. 
 
-Les concessions de plage sont accordées par priorité aux communes ou groupements de communes ou, après leur avis si elles
-renoncent à leur priorité, à des personnes publiques ou privées après publicité et mise en concurrence préalable. Les
-éventuels sous-traités d'exploitation sont également accordés après publicité et mise en concurrence préalable.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+Les concessions de plage sont accordées dans les conditions fixées à l'article L. 2124-4 du code général de la propriété des
+personnes publiques. Elles préservent la libre circulation sur la plage et le libre usage par le public d'un espace d'une
+largeur significative tout le long de la mer.
 
 **Liens relatifs à cet article**
 
@@ -14451,7 +14444,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 115 () JORF 28 février 2002
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -14879,6 +14872,82 @@ prévues pour les aliénations du domaine propre.
 	**Anciens textes**:
 
 	  - Code rural - art. L243-6 (Ab)
+
+
+###### Article L322-6-1
+
+Pour la réalisation des objectifs fixés à l'article L. 322-1, le Conservatoire de l'espace littoral et des rivages lacustres
+peut se voir attribuer par convention des immeubles relevant du domaine public de l'Etat pour une durée n'excédant pas trente
+ans. Le renouvellement de la convention se fait dans les mêmes formes que la passation. 
+
+Cette convention d'attribution peut habiliter le conservatoire, ou le gestionnaire tel que défini à l'article L. 322-9, à
+accorder des autorisations d'occupation temporaire non constitutives de droits réels et à percevoir les produits à son
+profit, à condition qu'il supporte les charges correspondantes. 
+
+La gestion est réalisée dans les mêmes conditions que celles fixées à l'article L. 322-9. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, en particulier pour ce qui concerne les
+règles applicables au recouvrement des produits et redevances du domaine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 2005)
+
+	**Cité par**:
+
+	  - Décret n°83-228 du 22 mars 1983 - art. 38 (VT)
+	  - Arrêté du 21 février 2013 - art. (V)
+	  - Arrêté du 24 février 2014 - art. (V)
+	  - Code de l'environnement - art. R322-8-1 (V)
+	  - Code de l'environnement - art. R322-8-2 (V)
+	  - Code rural et de la pêche maritime - art. R923-49 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-1 (V)
+	  - Code de l'environnement - art. L322-9 (V)
+
+
+###### Article L322-6-2
+
+Les dispositions relatives à la remise en gestion au Conservatoire de l'espace littoral et des rivages lacustres d'espaces
+naturels situés dans la zone des cinquante pas géométriques sont énoncées aux articles L. 5112-9 et L. 5113-1 du code général
+de la propriété des personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: 2005)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-9 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5113-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L653-1 (V)
 
 
 ###### Article L322-7
@@ -18942,10 +19011,6 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent chapi
 Il est établi dans chaque département une liste des monuments naturels et des sites dont la conservation ou la préservation
 présente, au point de vue artistique, historique, scientifique, légendaire ou pittoresque, un intérêt général.
 
-La commission départementale des sites, perspectives et paysages prend l'initiative des inscriptions qu'elle juge utiles et
-donne son avis sur les propositions d'inscription qui lui sont soumises, après en avoir informé le conseil municipal de la
-commune intéressée et avoir obtenu son avis.
-
 L'inscription sur la liste est prononcée par arrêté du ministre chargé des sites et, en Corse, par délibération de
 l'Assemblée de Corse après avis du représentant de l'Etat. Un décret en Conseil d'Etat fixe la procédure selon laquelle cette
 inscription est notifiée aux propriétaires ou fait l'objet d'une publicité. La publicité ne peut être substituée à la
@@ -18956,6 +19021,10 @@ L'inscription entraîne, sur les terrains compris dans les limites fixées par l
 pas procéder à des travaux autres que ceux d'exploitation courante en ce qui concerne les fonds ruraux et d'entretien normal
 en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'administration de leur intention.
 
+**Nota:**
+
+La date d'entrée en vigueur de l'article 28 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -18965,7 +19034,7 @@ en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 24 () JORF 23 janvier 2002
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -19041,9 +19110,6 @@ en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'
 Les monuments naturels et les sites inscrits ou non sur la liste dressée par la commission départementale peuvent être
 classés dans les conditions et selon les distinctions établies par la présente section.
 
-La commission départementale des sites, perspectives et paysages prend l'initiative des classements qu'elle juge utiles et
-donne son avis sur les propositions de classement qui lui sont soumises.
-
 Lorsque la commission supérieure des sites, perspectives et paysages est saisie directement d'une demande de classement,
 celle-ci est renvoyée à la commission départementale aux fins d'instruction et, le cas échéant, de proposition de classement.
 En cas d'urgence, le ministre chargé des sites fixe à la commission départementale un délai pour émettre son avis. Faute par
@@ -19061,6 +19127,7 @@ Dans les zones de montagne, la décision de classement est prise après consulta
 
 	**Modifié par**:
 
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 	  - Loi n°2005-157 du 23 février 2005 - art. 180 () JORF 24 février 2005
 
 	**Cité par**:
@@ -19215,27 +19282,31 @@ paysages, par décret en Conseil d'Etat.
 ###### Article L341-6
 
 Le monument naturel ou le site appartenant à toute autre personne que celles énumérées aux articles L. 341-4 et L. 341-5 est
-classé par arrêté du ministre chargé des sites, après avis de la commission départementale des sites, perspectives et
-paysages, s'il y a consentement du propriétaire. L'arrêté détermine les conditions du classement.
+classé par arrêté du ministre chargé des sites s'il y a consentement du propriétaire. L'arrêté détermine les conditions du
+classement. 
 
 A défaut du consentement du propriétaire, le classement est prononcé, après avis de la commission supérieure, par décret en
 Conseil d'Etat. Le classement peut donner droit à indemnité au profit du propriétaire s'il entraîne une modification à l'état
-ou à l'utilisation des lieux déterminant un préjudice direct, matériel et certain.
+ou à l'utilisation des lieux déterminant un préjudice direct, matériel et certain. 
 
 La demande d'indemnité doit être produite dans le délai de six mois à dater de la mise en demeure faite au propriétaire de
 modifier l'état ou l'utilisation des lieux en application des prescriptions particulières de la décision de classement. A
-défaut d'accord amiable, l'indemnité est fixée par le juge de l'expropriation.
+défaut d'accord amiable, l'indemnité est fixée par le juge de l'expropriation. 
 
 Si le Gouvernement entend ne pas donner suite au classement d'office dans les conditions ainsi fixées, il peut, à tout moment
 de la procédure et au plus tard dans le délai de trois mois à compter de la notification de la décision judiciaire, abroger
-le décret de classement.
+le décret de classement. 
 
 Le classement d'un lac ou d'un cours d'eau pouvant produire une énergie électrique permanente d'au moins 50 kilowatts ne peut
 être prononcé qu'après avis des ministres intéressés. Cet avis doit être formulé dans le délai de trois mois, à l'expiration
-duquel il peut être passé outre.
+duquel il peut être passé outre. 
 
 En cas d'accord avec les ministres intéressés, le classement peut être prononcé par arrêté du ministre chargé des sites. Dans
 le cas contraire, il est prononcé par décret en Conseil d'Etat.
+
+**Nota:**
+
+La date d'entrée en vigueur de l'article 28 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
 
 **Liens relatifs à cet article**
 
@@ -19243,6 +19314,10 @@ le cas contraire, il est prononcé par décret en Conseil d'Etat.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -19258,7 +19333,6 @@ le cas contraire, il est prononcé par décret en Conseil d'Etat.
 	**Cite**:
 
 	  - Code de l'environnement - art. L341-4 (V)
-	  - Code de l'environnement - art. L341-5 (V)
 
 	**Anciens textes**:
 
@@ -19480,24 +19554,33 @@ ministre chargé des sites.
 
 ###### Article L341-13
 
-Le déclassement total ou partiel d'un monument ou d'un site classé est prononcé, après avis des commissions départementale ou
-supérieure, par décret en Conseil d'Etat. Le déclassement est notifié aux intéressés et publié au bureau des hypothèques de
-la situation des biens, dans les mêmes conditions que le classement.
+Le déclassement total ou partiel d'un monument ou d'un site classé est prononcé, après avis de la commission supérieure des
+sites, par décret en Conseil d'Etat. Le déclassement est notifié aux intéressés et publié au bureau des hypothèques de la
+situation des biens, dans les mêmes conditions que le classement. 
 
 Le décret de déclassement détermine, sur avis conforme du Conseil d'Etat, s'il y a lieu ou non à la restitution de
 l'indemnité prévue à l'article L. 341-6.
 
+**Nota:**
+
+La date d'entrée en vigueur de l'article 28 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
+
+Dans sa décision n° 2012-283 QPC du 23 novembre 2012 (NOR : CSCX1240290S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article L. 341-13 du code de l'environnement dans sa rédaction issue de l'ordonnance n° 2004-637 du 1er
+juillet 2004 relative à la simplification de la composition et du fonctionnement des commissions administratives et à la
+réduction de leur nombre. La déclaration d'inconstitutionnalité de l'article 1er prend effet au 1er septembre 2013 dans les
+conditions fixées au considérant 31.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1930-05-02 art. 14
-	  - Loi n°1930-05-02 du 2 mai 1930 - art. 14 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Liens**:
 
@@ -19506,11 +19589,16 @@ l'indemnité prévue à l'article L. 341-6.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L341-6 (M)
+	  - Code de l'environnement - art. L341-6 (V)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R341-28 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1930-05-02 art. 14
+	  - Loi n°1930-05-02 du 2 mai 1930 - art. 14 (Ab)
 
 
 ###### Article L341-14
@@ -19576,14 +19664,26 @@ précédente.
 
 ###### Article L341-16
 
-Une commission des sites, perspectives et paysages siège dans chaque département.
+Une commission départementale compétente en matière de nature, de paysages et de sites siège dans chaque département. 
 
-Cette commission, présidée par le préfet, est composée de représentants de l'Etat, de représentants élus des collectivités
-territoriales et des établissements publics de coopération intercommunale et de personnalités qualifiées en matière de
-protection des sites, du cadre de vie et des sciences de la nature.
+Cette commission est présidée par le représentant de l'Etat dans le département. Lorsqu'elle intervient dans les cas prévus
+aux articles L. 111-1-4, L. 122-2, L. 145-3, 
+L. 145-5, 
+L. 145-11, L. 146-4, L. 146-6, L. 146-6-1, L. 146-7 et L. 156-2 du code de l'urbanisme, elle siège dans une formation
+comprenant des représentants de l'Etat, des représentants élus des collectivités territoriales et des établissements publics
+de coopération intercommunale et des personnalités qualifiées en matière de sciences de la nature ou de protection des sites
+ou du cadre de vie. 
 
 En Corse, les attributions dévolues à la commission des sites, perspectives et paysages sont exercées par le conseil des
 sites de Corse prévu à l'article L. 4421-4 du code général des collectivités territoriales.
+
+**Nota:**
+
+La date d'entrée en vigueur de l'article 28 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727 et repoussée
+d'une année.
+
+Loi 2005-157 2005-02-23 art. 194 : La modification résultant de l'article 190 V de la loi n° 2005-157 entrera en vigueur à
+une date fixée par décret en Conseil d'Etat et au plus tard, un an aprés la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -19594,8 +19694,20 @@ sites de Corse prévu à l'article L. 4421-4 du code général des collectivité
 
 	**Modifié par**:
 
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 31 (V) JORF 3 juillet 2003
-	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005 en vigueur au 24 février 2006 au plus tard
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005 en vigueur le 24 février 2006 au plus tard
+	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005 en vigueur le 24 février 2006 au plus tard
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-4 (V)
+	  - Code de l'urbanisme - art. L122-2 (VD)
+	  - Code de l'urbanisme - art. L145-11 (V)
+	  - Code de l'urbanisme - art. L145-3 (VT)
+	  - Code de l'urbanisme - art. L145-5 (V)
+	  - Code de l'urbanisme - art. L146-4 (V)
+	  - Code de l'urbanisme - art. L146-6 (V)
+	  - Code de l'urbanisme - art. L156-2 (VT)
 
 	**Cité par**:
 
@@ -25849,9 +25961,14 @@ Les propriétaires mentionnés au précédent alinéa peuvent recourir aux dispo
 ###### Article L425-8
 
 Le plan de chasse, qui prend en compte les orientations du schéma départemental de gestion cynégétique, est mis en oeuvre
-après avis du conseil départemental de la chasse et de la faune sauvage par le représentant de l'Etat dans le département. En
-cas de circonstances exceptionnelles, il peut être fixé un nouveau plan de chasse se substituant au plan de chasse en cours.
-En Corse, ce plan est établi et mis en oeuvre par la collectivité territoriale de Corse.
+après avis de la commission départementale compétente en matière de chasse et de la faune sauvage par le représentant de
+l'Etat dans le département. En cas de circonstances exceptionnelles, il peut être fixé un nouveau plan de chasse se
+substituant au plan de chasse en cours. En Corse, ce plan est établi et mis en oeuvre par la collectivité territoriale de
+Corse.
+
+**Nota:**
+
+La date d'entrée en vigueur de l'article 29 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
 
 **Liens relatifs à cet article**
 
@@ -25860,9 +25977,9 @@ En Corse, ce plan est établi et mis en oeuvre par la collectivité territoriale
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-157 2005-02-23 art. 168 I, XIV JORF 24 février 2005
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 29 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 	  - Loi n°2005-157 du 23 février 2005 - art. 168 () JORF 24 février 2005
 
 	**Anciens textes**:
@@ -26206,27 +26323,31 @@ pour les principales denrées, les valeurs minimale et maximale des prix à pren
 départementaux. Elle fixe également, chaque année, aux mêmes fins, les valeurs minimale et maximale des frais de remise en
 état. Lorsque le barème adopté par une commission départementale ne respecte pas les valeurs ainsi fixées, la Commission
 nationale d'indemnisation en est saisie et statue en dernier ressort. Elle peut être saisie en appel des décisions des
-commissions départementales.
+commissions départementales. 
 
 La composition de la Commission nationale d'indemnisation des dégâts de gibier et des commissions départementales compétentes
 en matière de chasse et de faune sauvage, assure la représentation de l'Etat, et notamment de l'Office national de la chasse
 et de la faune sauvage, des chasseurs et des intérêts agricoles et forestiers dans des conditions déterminées par un décret
-en Conseil d'Etat.
+en Conseil d'Etat. 
 
 Dans le cadre du plan de chasse mentionné à l'article L. 425-6, il est institué, à la charge des chasseurs de cerfs, daims,
 mouflons, chevreuils et sangliers, mâles et femelles, jeunes et adultes, une contribution par animal à tirer destinée à
 assurer une indemnisation aux exploitants agricoles dont les cultures ou les récoltes ont subi des dégâts importants du fait
 de ces animaux. Le montant de ces contributions est fixé par l'assemblée générale de la fédération départementale ou
-interdépartementale des chasseurs sur proposition du conseil d'administration.
+interdépartementale des chasseurs sur proposition du conseil d'administration. 
 
 Lorsque le produit des contributions visées à l'alinéa précédent ne suffit pas couvrir le montant des dégâts à indemniser, la
 fédération départementale ou interdépartementale des chasseurs prend à sa charge le surplus de l'indemnisation. Elle en
 répartit le montant entre ses adhérents ou certaines catégories d'adhérents. Elle peut notamment exiger une participation
 personnelle des chasseurs de grand gibier et de sanglier ou une participation pour chaque dispositif de marquage ou une
 combinaison de ces deux types de participation. Ces participations peuvent être modulées en fonction des espèces de gibier,
-du sexe, des catégories d'âge, des territoires de chasse ou unités de gestion.
+du sexe, des catégories d'âge, des territoires de chasse ou unités de gestion. 
 
 Un décret en Conseil d'Etat précise les conditions d'application des articles L. 426-1 à L. 426-4 et du présent article.
+
+**Nota:**
+
+La date d'entrée en vigueur de l'article 30 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
 
 **Liens relatifs à cet article**
 
@@ -26257,16 +26378,17 @@ Un décret en Conseil d'Etat précise les conditions d'application des articles 
 
 	**Modifié par**:
 
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 30 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 	  - Loi n°2005-157 du 23 février 2005 - art. 172 () JORF 24 février 2005
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L425-6 (V)
+	  - Code de l'environnement - art. L426-1 (V)
 
 	**Anciens textes**:
 
 	  - Code rural - art. L226-5 (MMN)
-	  - Code rural L226-5
 
 
 ###### Article L426-6
@@ -30727,9 +30849,6 @@ Lorsque l'exercice de la pêche et les nécessités d'entretien et de surveillan
 permettent, les ministres chargés de la pêche en eau douce et de la gestion du domaine public fluvial ou, par délégation, le
 préfet peuvent réduire la largeur de 3,25 mètres précitée jusqu'à 1,50 mètre.
 
-Le long des cours d'eau rayés de la nomenclature des voies navigables ou flottables mais maintenus dans le domaine public, la
-largeur de l'espace libre laissé à l'usage des pêcheurs est fixée à 1,50 mètre.
-
 Le long des canaux de navigation, les pêcheurs peuvent user du chemin de halage et de la portion de berge faisant partie du
 domaine public, dans la mesure où le permet l'exploitation de la voie navigable.
 
@@ -30742,6 +30861,11 @@ l'administration, remettre les lieux en état dans le délai fixé par celle-ci.
 remise en état est effectuée d'office par l'administration ou son concessionnaire, aux frais du riverain.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L235-9
+	  - Code rural - art. L235-9 (Ab)
 
 	**Codifié par**:
 
@@ -30756,14 +30880,13 @@ remise en état est effectuée d'office par l'administration ou son concessionna
 	  - Code de l'environnement - art. R435-40 (M)
 	  - Code général de la propriété des personnes publiqu - art. L2131-3 (M)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L235-9 (Ab)
-	  - Code rural L235-9
+	  - Ordonnance 2006-460 2006-07-01 art. 7 II JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 #### Chapitre VI : Conditions d'exercice du droit de pêche
@@ -34817,63 +34940,6 @@ applicables à Mayotte.
 	  - Code minier (nouveau) - art. L333-9 (V)
 	  - Code rural - art. L641-13 (MMN)
 	  - Code rural et de la pêche maritime - art. L643-6 (VT)
-
-
-###### Article L515-2
-
-I. - La commission départementale des carrières est présidée par le préfet. Elle est composée à parts égales :
-
-1° De représentants des administrations publiques concernées ;
-
-2° De représentants élus des collectivités territoriales ;
-
-3° De représentants des professions d'exploitant de carrières et d'utilisateurs de matériaux de carrières ;
-
-4° De représentants des associations de protection de l'environnement et des professions agricoles.
-
-II. - Le président du conseil général est membre de droit de la commission.
-
-III. - La commission départementale des carrières examine les demandes d'autorisation d'exploitation de carrières prévues aux
-articles L. 512-1 et L. 512-2 et émet un avis motivé sur celles-ci.
-
-IV. - Les maires des communes sur le territoire desquelles une exploitation de carrière est projetée sont, en outre, membres
-de droit de la commission lorsque celle-ci examine la demande d'autorisation de cette exploitation.
-
-**Nota:**
-
-NOTA : L'article 34-4 de l'ordonnance n° 2004-637 du 1er juillet 2004 a été inséré par l'article 78 XXXII 4° de la loi n°
-2004-1343 du 9 décembre 2004.
-
-La date d'entrée en vigueur de l'article 34-4 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°76-663 du 19 juillet 1976 - art. 16-2 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-4 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L512-1 (M)
-	  - Code de l'environnement - art. L512-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L655-1 (M)
 
 
 ###### Article L515-3
@@ -44152,86 +44218,6 @@ II. - Un décret en Conseil d'Etat précise les modalités de mise en oeuvre du 
 
 #### Chapitre V : Commissions départementales et schémas de prévention des risques naturels majeurs
 
-###### Article L565-1
-
-Il est institué dans chaque département une commission départementale des risques naturels majeurs.
-
-Cette commission présidée par le préfet comprend en nombre égal :
-
-1° Des représentants élus des collectivités territoriales, des établissements publics de coopération intercommunale et des
-établissements publics territoriaux de bassin situés en tout ou partie dans le département ;
-
-2° Des représentants d'organisations professionnelles dont un représentant des organisations d'exploitants agricoles, un
-représentant des organismes consulaires, un représentant des assurances, un représentant des notaires, des représentants
-d'associations, dont un représentant d'associations de sinistrés lorsque de telles associations existent, des représentants
-de la propriété foncière et forestière et des personnalités qualifiées, dont un représentant de la presse écrite ou
-audiovisuelle locale ;
-
-3° Des représentants des administrations, notamment l'inspection d'académie et les services de secours, ainsi que des
-établissements publics de l'Etat concernés.
-
-Cette commission donne notamment un avis sur :
-
-a) Les actions à mener pour développer la connaissance des risques, et notamment les programmes de sensibilisation des maires
-à la prévention des risques naturels ;
-
-b) Les documents d'information sur les risques élaborés en application de l'article L. 125-2 ;
-
-c) La délimitation des zones d'érosion et les programmes d'action correspondants ainsi que leur application, définis dans les
-conditions prévues par l'article L. 114-1 du code rural ;
-
-d) La délimitation des zones de rétention temporaire des eaux de crue ou de ruissellement ou des zones de mobilité d'un cours
-d'eau visées à l'article L. 211-12, ainsi que les obligations des propriétaires et des exploitants en résultant ;
-
-e) La programmation, la conception, la mise en oeuvre et l'actualisation des plans de prévention des risques naturels
-prévisibles ;
-
-f) La nature et le montant prévisionnel des aides aux travaux permettant de réduire le risque ;
-
-g) Les expropriations pour cause de risque naturel majeur ;
-
-h) Un rapport, établi par le préfet, sur les autres utilisations du fonds de prévention des risques naturels majeurs ;
-
-i) Les retours d'expériences suite à catastrophes.
-
-Elle est informée annuellement des demandes de reconnaissance de l'état de catastrophe naturelle.
-
-Elle est habilitée à donner un avis sur tout rapport, programme ou projet ayant trait à la prévention ou à la gestion des
-risques naturels qui lui est soumis par le préfet.
-
-Elle peut également être saisie par le préfet de toute réflexion sur l'impact des servitudes instituées en application de
-l'article L. 211-12 sur le développement durable de l'espace rural concerné.
-
-**Nota:**
-
-NOTA : L'ordonnance 2005-727 du 30 juin 2005 a modifié la date d'entrée en vigueur de l'article 32 de l'ordonnance 2004-637.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L114-1
-	  - Code de l'environnement - art. L125-2 (M)
-	  - Code de l'environnement - art. L211-12 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 44 () JORF 31 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 32 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L655-1 (M)
-
-
 ###### Article L565-2
 
 I. - Le préfet peut élaborer des schémas de prévention des risques naturels, tenant compte des documents interdépartementaux
@@ -44719,6 +44705,102 @@ Les dispositions relatives à l'Autorité de contrôle des nuisances aéroportua
 	**Modifié par**:
 
 	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+
+
+##### Sous-section 3 : Commission consultative de l'environnement
+
+###### Article L571-13
+
+I. - L'autorité administrative peut créer, pour tout aérodrome visé à l'article L. 147-2 du code de l'urbanisme, une
+commission consultative de l'environnement. Cette création est de droit lorsque la demande en est faite par une commune dont
+une partie du territoire est couverte par le plan d'exposition au bruit de l'aérodrome. La création est de droit, également,
+pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts.
+
+II. - La commission est consultée sur toute question d'importance relative à l'aménagement ou à l'exploitation de l'aérodrome
+qui pourrait avoir une incidence sur l'environnement. Elle peut également, de sa propre initiative, émettre des
+recommandations sur ces questions. Lorsque l'un des aérodromes visés au I de l'article 1609 quatervicies A du code général
+des impôts (1) est concerné, les recommandations relatives au bruit sont transmises à l'Autorité de contrôle des nuisances
+sonores aéroportuaires. La commission consultative de l'environnement coordonne, le cas échéant, la rédaction des documents
+écrits qui formalisent les engagements pris par les différentes parties intéressées à l'exploitation de l'aérodrome en vue
+d'assurer la maîtrise des nuisances liées à cette exploitation.
+
+III. - Notamment pour les chartes de qualité de l'environnement, elle assure le suivi de leur mise en oeuvre. En matière de
+bruit dû au transport aérien, elle peut saisir l'Autorité de contrôle des nuisances sonores aéroportuaires de toute question
+relative au respect de ces chartes et de toute demande d'étude ou d'expertise.
+
+IV., V., -  Paragraphes abrogés.
+
+VI. - Les moyens de fonctionnement de la commission sont mis à sa disposition par l'exploitant de l'aérodrome.
+
+VII., VIII., IX., X. - Paragraphes abrogés.
+
+XI. - Cette commission comprend :
+
+1° Pour un tiers de ses membres, des représentants des professions aéronautiques ;
+
+2° Pour un tiers, des représentants des collectivités locales intéressées ;
+
+3° Pour un tiers, des représentants des associations de riverains de l'aérodrome et des associations de protection de
+l'environnement et du cadre de vie concernées par l'environnement aéroportuaire.
+
+XII. - Elle est présidée par le représentant de l'Etat.
+
+XIII. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Nota:**
+
+L'article 31 de l'ordonnance n° 2004-637 du 1er juillet 2004 a été modifié par l'article 78 XXXII 3° de la loi n° 2004-1343
+du 9 décembre 2004. 
+
+(1) Une anomalie s'est glissée dans la rédaction de l'article 19 III (2, a) de la loi n° 2003-1312 du 30 décembre 2003. La
+référence faite à l'article 1609 quatervicies A du code général des douanes doit être lue comme " code général des impôts ". 
+
+La date d'entrée en vigueur de l'article 31 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (M)
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°87-341 du 21 mai 1987 - art. 6 (Ab)
+	  - Arrêté du 24 août 2001 - art. 1 (Ab)
+	  - Code des transports - art. L6361-5 (V)
+	  - Code des transports - art. L6361-7 (V)
+	  - Code des transports - art. L6783-11 (V)
+	  - Code de l'aviation civile - art. L227-3 (VT)
+	  - Code de l'aviation civile - art. L227-5 (VT)
+	  - Code de l'environnement - art. L571-13 (V)
+	  - Code de l'environnement - art. R571-70 (V)
+	  - Code de l'environnement - art. R571-71 (V)
+	  - Code de l'environnement - art. R571-73 (V)
+	  - Code de l'environnement - art. R571-78 (V)
+	  - Code de l'environnement - art. R571-81 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - CGI 1609 quatervicies A
+	  - Loi n°2003-1312 2003-12-30 art. 19
+	  - Ordonnance 2004-637 2004-07-01 art. 31
+	  - Loi n°2004-1343 2004-12-09
+	  - Ordonnance 2005-727 2005-06-30
+	  - Code de l'urbanisme - art. L147-2 (V)
+	  - Code de l'environnement 78, L571-13
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-637 2004-07-01 art. 31 I, II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 31 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2004-1199 du 12 novembre 2004 - art. 1 () JORF 14 novembre 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2006
 
 
 ##### Sous-section 4 : Aide aux riverains
@@ -45548,99 +45630,6 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent c
 	**Modifié par**:
 
 	  - Loi n°2005-1319 du 26 octobre 2005 - art. 4 (V) JORF 27 octobre 2005
-
-
-### Titre VII : Prévention des nuisances acoustiques et visuelles
-
-#### Chapitre Ier : Lutte contre le bruit
-
-##### Section 4 : Bruit des transports aériens
-
-##### Sous-section 3 : Commission consultative des nuisances sonores aéroportuaires
-
-###### Article L571-13
-
-I. - L'autorité administrative peut créer, pour tout aérodrome visé à l'article L. 147-2 du code de l'urbanisme, une
-commission consultative des nuisances sonores aéroportuaires. Cette création est de droit lorsque la demande en est faite par
-une commune dont une partie du territoire est couverte par le plan d'exposition au bruit de l'aérodrome. La création est de
-droit, également, pour les aérodromes visés au I de l'article 1609 quatervicies A du code général des impôts (1).
-
-II. - La commission est consultée sur toute question d'importance relative à l'aménagement ou à l'exploitation de l'aérodrome
-qui pourrait avoir une incidence sur les zones affectées par le bruit. Elle peut également, de sa propre initiative, émettre
-des recommandations sur ces questions. Lorsque l'un des aérodromes visés au I de l'article 1609 quatervicies A du code
-général des impôts (1) est concerné, ces recommandations sont transmises à l'Autorité de contrôle des nuisances sonores
-aéroportuaires. La commission consultative de l'environnement coordonne, le cas échéant, la rédaction des documents écrits
-qui formalisent les engagements pris par les différentes parties intéressées à l'exploitation de l'aérodrome en vue d'assurer
-la maîtrise des nuisances sonores liées à cette exploitation.
-
-III. - Notamment pour les chartes de qualité de l'environnement sonore, elle assure le suivi de leur mise en oeuvre. Elle
-peut saisir l'Autorité de contrôle des nuisances sonores aéroportuaires de toute question relative au respect de ces chartes
-et de toute demande d'étude ou d'expertise.
-
-IV., V., -  Paragraphes abrogés.
-
-VI. - Les moyens de fonctionnement de la commission sont mis à sa disposition par l'exploitant de l'aérodrome.
-
-VII., VIII., IX., X. - Paragraphes abrogés.
-
-XI. - Cette commission comprend :
-
-1° Pour un tiers de ses membres, des représentants des professions aéronautiques ;
-
-2° Pour un tiers, des représentants des collectivités locales intéressées ;
-
-3° Pour un tiers, des représentants des associations de riverains de l'aérodrome et des associations de protection de
-l'environnement et du cadre de vie concernées par l'environnement aéroportuaire.
-
-XII. - Elle est présidée par le représentant de l'Etat.
-
-XIII. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
-
-**Nota:**
-
-NOTA : (1) Une erreur matérielle s'est glissée dans la rédaction de l'article 19 III (2, a) de la loi n° 2003-1312 du 30
-décembre 2003. La référence faite à l'article 1609 quatervicies A du code général des douanes doit être lue comme "code
-général des impôts".
-
-NOTA : La date d'entrée en vigueur de l'article 31 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 quatervicies A
-	  - Code de l'urbanisme - art. L147-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (M)
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°87-341 du 21 mai 1987 - art. 6 (Ab)
-	  - Arrêté du 24 août 2001 - art. 1 (Ab)
-	  - Code des transports - art. L6361-5 (V)
-	  - Code des transports - art. L6361-7 (V)
-	  - Code des transports - art. L6783-11 (V)
-	  - Code de l'aviation civile - art. L227-3 (VT)
-	  - Code de l'aviation civile - art. L227-5 (VT)
-	  - Code de l'environnement - art. L571-13 (V)
-	  - Code de l'environnement - art. R571-70 (V)
-	  - Code de l'environnement - art. R571-71 (V)
-	  - Code de l'environnement - art. R571-73 (V)
-	  - Code de l'environnement - art. R571-78 (V)
-	  - Code de l'environnement - art. R571-81 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-637 2004-07-01 art. 31 I, II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 31 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 
 ### Titre VIII : Protection du cadre de vie
@@ -48790,21 +48779,31 @@ dispositions du livre II du présent code lorsqu'elles sont applicables à Mayot
 
 ###### Article L653-1
 
-I. - Les articles L. 321-11, L. 321-12 et L. 333-4 ne sont pas applicables à Mayotte.
+I.-Les articles L. 321-11, L. 321-12 et L. 333-4 ne sont pas applicables à Mayotte. 
 
-II. - Pour l'application de l'article L. 321-2 à Mayotte, les mots : "de métropole et des départements d'outre-mer" sont
-remplacés par les mots : "de Mayotte".
+II.-Pour l'application de l'article L. 321-2 à Mayotte, les mots : " de métropole et des départements d'outre-mer " sont
+remplacés par les mots : " de Mayotte ". 
 
-III. - Pour l'application à Mayotte de l'article L. 341-20, après les mots : "322-2 du code pénal", sont insérés les mots :
-"modifié par l'article 724-1 du même code pour son application à Mayotte".
+III.-Pour l'application de l'article L. 321-5 à Mayotte, les mots : " à la section 1 du chapitre IV du titre II du livre Ier
+de la deuxième partie " sont remplacés par les mots : " aux articles L. 2124-1 tel qu'il est adapté par l'article L. 5331-12,
+L. 2124-4 et L. 5331-13 ". 
 
-IV. - Pour l'application à Mayotte de l'article L. 341-22, les mots : "régulièrement classés avant le 2 mai 1930 conformément
-aux dispositions de la loi du 21 avril 1906 organisant la protection des sites et monuments naturels de caractère artistique"
-sont remplacés par les mots : "régulièrement protégés avant la promulgation de la loi n° 2001-616 du 11 juillet 2001 relative
-à Mayotte, conformément aux dispositions de la loi n° 56-1106 du 3 novembre 1956 ayant pour objet, dans les territoires
-relevant du ministère de la France d'outre-mer, la protection des monuments naturels, des sites et des monuments de caractère
-historique, scientifique, artistique ou pittoresque, le classement des objets historiques, scientifiques ou ethnographiques
-et la réglementation des fouilles".
+IV.-Pour l'application de l'article L. 321-6 à Mayotte, la référence à l'article L. 2124-2 du code général de la propriété
+des personnes publiques est remplacée par la référence à l'article L. 5331-13 du même code. 
+
+V.-Pour l'application de l'article L. 322-6-2 à Mayotte, les mots : " aux articles L. 5112-9 et L. 5113-1 " sont remplacés
+par les mots : " à l'article L. 5331-7 ". 
+
+VI.-Pour l'application à Mayotte de l'article L. 341-20, après les mots : " 322-2 du code pénal ", sont insérés les mots : "
+modifié par l'article 724-1 du même code pour son application à Mayotte ". 
+
+VII.-Pour l'application à Mayotte de l'article L. 341-22, les mots : " régulièrement classés avant le 2 mai 1930 conformément
+aux dispositions de la loi du 21 avril 1906 organisant la protection des sites et monuments naturels de caractère artistique
+" sont remplacés par les mots : " régulièrement protégés avant la promulgation de la loi n° 2001-616 du 11 juillet 2001
+relative à Mayotte, conformément aux dispositions de la loi n° 56-1106 du 3 novembre 1956 ayant pour objet, dans les
+territoires relevant du ministère de la France d'outre-mer, la protection des monuments naturels, des sites et des monuments
+de caractère historique, scientifique, artistique ou pittoresque, le classement des objets historiques, scientifiques ou
+ethnographiques et la réglementation des fouilles ".
 
 **Liens relatifs à cet article**
 
@@ -48815,15 +48814,17 @@ et la réglementation des fouilles".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 7 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L321-11 (M)
-	  - Code de l'environnement - art. L321-12 (M)
+	  - Code de l'environnement - art. L321-11 (V)
 	  - Code de l'environnement - art. L321-2 (V)
-	  - Code de l'environnement - art. L333-4 (M)
-	  - Code de l'environnement - art. L341-20 (V)
+	  - Code de l'environnement - art. L321-5 (V)
+	  - Code de l'environnement - art. L321-6 (V)
+	  - Code de l'environnement - art. L322-6-2 (V)
+	  - Code de l'environnement - art. L333-4 (Ab)
+	  - Code de l'environnement - art. L341-20 (VT)
 	  - Code de l'environnement - art. L341-22 (V)
 
 
@@ -78978,37 +78979,45 @@ se substitue.
 
 ###### Article R424-20
 
-Il est interdit de mettre en vente, de vendre, de transporter, de colporter ou d'acheter sciemment du gibier mort soumis au
-plan de chasse non muni du bracelet de marquage ou non accompagné d'une attestation justifiant l'origine.
+Sont interdits le transport, la détention pour la vente, la mise en vente, la vente et l'achat :
+
+1° Des animaux tués au titre d'un plan de chasse qui ne sont pas munis du dispositif de prémarquage ou de marquage prévu à
+l'article R. 425-10 ;
+
+2° Des morceaux d'animaux tués au titre d'un plan de chasse qui ne sont pas accompagnés de l'attestation justifiant leur
+origine, prévue au 3e alinéa de l'article R. 425-11.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-767 du 29 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R425-10 (M)
+	  - Code de l'environnement - art. R425-11 (V)
 
 
 ###### Article R424-21
 
-I. - Les permis de transport prévus à l'article L. 424-8 ainsi que des autorisations exceptionnelles de capture temporaire ou
-de transport à des fins scientifiques ou de repeuplement sont délivrées :
+I.-Sont interdits le transport, la détention pour la vente, la mise en vente, la vente ou l'achat : 
 
-1° Par le directeur de la nature et des paysages ou son délégué ;
+1° Du grand gibier licitement tué à l'intérieur des enclos définis au I de l'article L. 424-3 qui n'est pas muni d'un
+dispositif de marquage du modèle prévu à l'article R. 425-10 ; 
 
-2° Par le directeur départemental de l'agriculture et de la forêt du lieu d'origine du gibier ou son délégué ;
+2° Des morceaux de grand gibier licitement tué à l'intérieur des enclos définis au I de l'article L. 424-3 qui ne sont pas
+accompagnés d'une attestation justifiant leur origine, établie par le responsable de l'enclos. 
 
-3° Par les administrateurs des affaires maritimes en ce qui concerne le gibier provenant de la partie de la zone de chasse
-maritime située dans leur circonscription.
+II.-Les modèles, les conditions d'utilisation du dispositif de marquage et de l'attestation sont fixés par arrêté du ministre
+chargé de la chasse. 
 
-II. - Pour le transport des appelants vivants destinés notamment aux utilisateurs de huttes ou de gabions, les autorisations
-peuvent être annuelles. Elles sont, le cas échéant, délivrées par les administrateurs des affaires maritimes pour les gibiers
-transportés à destination de la zone de chasse maritime de leur circonscription.
-
-III. - Les autorisations exceptionnelles de capture définitive à des fins scientifiques sont délivrées par le directeur de la
-nature et des paysages ou son délégué.
-
-IV. - Le préfet peut délivrer aux établissements autorisés en application de l'article R. 413-26 une autorisation permanente
-de transport des animaux qui en proviennent, identifiés par la marque prévue par l'article R. 413-28.
+III.-Les dispositifs de marquage sont délivrés par la fédération départementale ou interdépartementale des chasseurs aux
+responsables des enclos définis au I de l'article L. 424-3 au prix coûtant majoré des frais de gestion.
 
 **Liens relatifs à cet article**
 
@@ -79016,11 +79025,14 @@ de transport des animaux qui en proviennent, identifiés par la marque prévue p
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-767 du 29 juin 2006 - art. 1 () JORF 1er juillet 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L424-8 (M)
-	  - Code de l'environnement - art. R413-26 (V)
-	  - Code de l'environnement - art. R413-28 (V)
+	  - Code de l'environnement - art. L424-3 (V)
+	  - Code de l'environnement - art. R425-10 (V)
 
 	**Cité par**:
 
@@ -79029,45 +79041,24 @@ de transport des animaux qui en proviennent, identifiés par la marque prévue p
 
 ###### Article R424-22
 
-Tous marchands de gibier mort et tous marchands de gibier vivant, qu'ils soient grossistes, demi-grossistes ou détaillants,
-tous hôteliers, restaurateurs, gérants de cantine et tous éleveurs producteurs de gibier même non commerçants sont tenus
-d'avoir un registre coté et paraphé par le maire ou le commissaire de police, sur lequel ils inscrivent, jour par jour et
-sans blanc ni rature, les nom, qualité et adresse de leurs contractants ainsi que le nombre et l'espèce des gibiers achetés
-ou vendus. Le registre doit être présenté à toute réquisition des agents désignés à l'article R. 424-23.
-
-Les marchands détaillants de gibier mort, les hôteliers, les restaurateurs et les gérants de cantine sont dispensés de
-mentionner sur le registre les noms et adresses de leurs acheteurs.
+Toute personne qui commercialise du gibier mort, y compris sous la forme de préparations alimentaires, doit disposer de
+registres, documents ou autres moyens permettant de connaître l'origine des animaux ou morceaux d'animaux qu'elle détient ou
+qu'elle a utilisés et indiquant, notamment, la date d'acquisition, l'identité du vendeur, l'espèce de l'animal ou la nature
+des morceaux.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-767 du 29 juin 2006 - art. 1 () JORF 1er juillet 2006
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R424-23 (Ab)
-
-
-###### Article R424-23
-
-Les agents des services vétérinaires, des eaux et forêts, et tous agents de la force publique ainsi que les gardes de
-l'Office national de la chasse et de la faune sauvage assermentés au titre des eaux et forêts peuvent se faire présenter le
-registre mentionné à l'article R. 424-22 et relever toute infraction aux dispositions de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-767 du 29 juin 2006 - art. 2 () JORF 1er juillet 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R424-22 (M)
 
 
 ##### Section 5 : Dispositions spéciales à la chasse maritime
@@ -81121,23 +81112,13 @@ appartiennent à une espèce dont la capture ou la destruction est interdite en 
 
 ###### Article R427-28
 
-Pendant le temps où la destruction est permise, le transport des animaux morts des espèces nuisibles et régulièrement
-détruits est autorisé sous réserve des dispositions du titre Ier du présent livre.
+Sous réserve des dispositions du titre Ier du présent livre et de l'article L. 424-12, le transport, la détention pour la
+vente, la mise en vente, la vente et l'achat des animaux licitement détruits des espèces nuisibles sont : 
 
-Toutefois, le sanglier, le lapin et le pigeon ramier ne peuvent être transportés qu'au domicile de l'auteur de la destruction
-ou de ses auxiliaires.
+1° Libres toute l'année pour les mammifères ; 
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-
-###### Article R427-29
-
-La mise en vente, la vente, l'achat, le colportage des animaux nuisibles sont soumis aux dispositions des articles L. 424-8
-et L. 424-12, sous réserve des dispositions du titre Ier du présent livre.
+2° Interdits pour les oiseaux et leurs oeufs, sauf pour les espèces dont la liste est fixée par arrêté du ministre chargé de
+la chasse.
 
 **Liens relatifs à cet article**
 
@@ -81145,14 +81126,13 @@ et L. 424-12, sous réserve des dispositions du titre Ier du présent livre.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-767 du 29 juin 2006 - art. 4 () JORF 1er juillet 2006
+	  - Décret n°2006-767 du 29 juin 2006 - art. 3 () JORF 1er juillet 2006
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L424-12 (V)
-	  - Code de l'environnement - art. L424-8 (M)
 
 
 #### Chapitre VIII : Dispositions pénales
