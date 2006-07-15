@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-07-06
+Version Consolidée au 2006-07-16
 
 # Partie législative
 
@@ -3221,9 +3221,19 @@ juridictions administratives pour tout grief se rapportant à celle-ci.
 
 Toute association de protection de l'environnement agréée au titre de l'article L. 141-1 justifie d'un intérêt pour agir
 contre toute décision administrative ayant un rapport direct avec son objet et ses activités statutaires et produisant des
-effets dommageables pour l'environnement sur tout ou partie du territoire pour lequel elle bénéficie de l'agrément.
+effets dommageables pour l'environnement sur tout ou partie du territoire pour lequel elle bénéficie de l'agrément dès lors
+que cette décision est intervenue après la date de son agrément.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 13 () JORF 16 juillet 2006
 
 	**Cite**:
 
@@ -3237,11 +3247,6 @@ effets dommageables pour l'environnement sur tout ou partie du territoire pour l
 
 	  - Code rural - art. L252-4 (Ab)
 	  - Code rural L252-4
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L142-2
