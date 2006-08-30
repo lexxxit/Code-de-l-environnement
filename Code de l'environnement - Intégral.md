@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-07-29
+Version Consolidée au 2006-08-31
 
 # Partie législative
 
@@ -75836,18 +75836,23 @@ fonction des espèces, du sexe, des catégories d'âge du gibier et du territoir
 ###### Article R421-35
 
 Les comptes de la fédération départementale sont établis suivant le plan comptable applicable aux associations de droit privé
-régies par la loi du 1er juillet 1901 relative au contrat d'association.
+régies par la loi du 1er juillet 1901 relative au contrat d'association. 
 
-L'exercice comptable commence le 1er juillet et se termine le 30 juin.
+L'exercice comptable commence le 1er juillet et se termine le 30 juin. 
 
 L'ensemble des opérations directement rattachées à la prévention et à l'indemnisation des dégâts causés aux récoltes par le
-grand gibier fait l'objet d'une comptabilité distincte, dans les conditions prévues à l'article R. 426-1.
+grand gibier fait l'objet d'une comptabilité distincte qui retrace les flux financiers dans un compte bancaire autonome, dans
+les conditions prévues à l'article R. 426-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 16 () JORF 31 août 2006
 
 	**Cité par**:
 
@@ -75857,8 +75862,7 @@ grand gibier fait l'objet d'une comptabilité distincte, dans les conditions pr�
 
 	**Cite**:
 
-	  - Code de l'environnement - art. R426-1 (M)
-	  - Loi n°1901-07-01
+	  - Code de l'environnement - art. R426-1 (V)
 
 
 ###### Article R421-36
@@ -81507,60 +81511,64 @@ national de la chasse et de la faune sauvage, qui en publie un bilan avant le 1e
 
 #### Chapitre VI : Indemnisation des dégâts de gibiers
 
-##### Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers
+##### Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles
 
 ##### Sous-section 1 : Comptabilisation des opérations de prévention et d'indemnisation des dégâts de gibier
 
 ###### Article R426-1
 
-Les opérations relatives à la prévention et à l'indemnisation des dégâts causés aux récoltes par les sangliers ou les grands
-gibiers, menées par les fédérations départementales des chasseurs, font l'objet, dans leurs comptes, d'une comptabilité
-distincte, qui retrace notamment :
+Les opérations relatives à la prévention et à l'indemnisation des dégâts causés aux cultures et aux récoltes agricoles par le
+grand gibier, menées par les fédérations départementales ou interdépartementales des chasseurs, font l'objet d'une
+comptabilité distincte qui retrace notamment : 
 
-1° En produits :
+1° En produits : 
 
-a) Le produit des contributions mentionnées à l'article L. 426-5 ;
+a) Le produit des contributions mentionnées à l'article L. 426-5 ; 
 
-b) Le produit des participations mentionnées à l'article L. 426-5 ;
+b) Le produit des participations mentionnées à l'article L. 426-5 ; 
 
 c) Le montant des aides accordées par la Fédération nationale des chasseurs pour la prévention et l'indemnisation des dégâts
-de grand gibier ;
+de grand gibier ; 
 
-d) Les produits des placements financiers des ressources mentionnées aux b et c.
+d) Le montant des sommes que la fédération a obtenues en application des articles L. 426-4 et L. 425-11 ; 
 
-2° En charges :
+e) Les produits des placements financiers des ressources mentionnées aux a, b, c et d. 
 
-a) Le montant des indemnités versées aux victimes des dégâts mentionnés à l'article L. 426-1 ;
+2° En charges : 
+
+a) Le montant des indemnités versées aux victimes des dégâts mentionnés à l'article L. 426-1 ; 
 
 b) Le coût des actions techniques d'intérêt général afférentes à la prévention des dégâts de gibier, définies par les
 fédérations départementales des chasseurs en concertation avec les organisations professionnelles représentatives des
-exploitants agricoles et des propriétaires forestiers ;
+exploitants agricoles et des propriétaires forestiers ; 
 
-c) Le financement des charges d'estimation ;
+c) Le financement des charges d'estimation ; 
 
-d) Le financement des charges de gestion des dégâts de sangliers et de grands gibiers ;
+d) Le financement des charges de gestion des dégâts de grand gibier ; 
 
-e) Le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de sangliers et de
-grands gibiers ;
+e) Le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de grand gibier ; 
 
-f) Les charges financières ;
+f) Les charges financières ; 
 
 g) Les frais de contentieux.
 
-Les sommes mentionnées au a du 1° sont déposées dans les conditions prévues à l'article 12 du décret n° 80-854 du 30 octobre
-1980 relatif aux taxes parafiscales.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°80-854 du 30 octobre 1980 - art. 12 (M)
-	  - Code de l'environnement - art. L426-1 (M)
-	  - Code de l'environnement - art. L426-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 3 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L425-11 (V)
+	  - Code de l'environnement - art. L426-1 (V)
+	  - Code de l'environnement - art. L426-4 (V)
+	  - Code de l'environnement - art. L426-5 (V)
 
 	**Cité par**:
 
@@ -81571,31 +81579,32 @@ Les sommes mentionnées au a du 1° sont déposées dans les conditions prévues
 
 ###### Article R426-2
 
-Au sein du fonds géré par la Fédération nationale des chasseurs en application de l'article L. 421-14, les opérations de la
-section de prévention et d'indemnisation des dégâts de grand gibier mentionnée à l'article R. 421-49 font l'objet d'une
-comptabilité distincte, qui retrace notamment :
+Au sein du fonds cynégétique national géré par la Fédération nationale des chasseurs en application de l'article L. 421-14,
+les opérations de la section de prévention et d'indemnisation des dégâts de grand gibier mentionnée à l'article R. 421-49
+font l'objet d'une comptabilité distincte, qui retrace notamment : 
 
-1° En produits :
+1° En produits : 
 
 a) Le produit des cotisations nationales versées par chaque chasseur de grand gibier ayant validé un permis de chasser
-national ;
+national ; 
 
-b) Le produit des placements financiers des ressources susmentionnées.
+b) Le produit des placements financiers des ressources susmentionnées. 
 
-2° En charges :
+2° En charges : 
 
-a) Les versements effectués au profit des fédérations départementales des chasseurs pour la prévention et l'indemnisation des
-dégâts de grand gibier ;
+a) Les versements effectués au profit des fédérations départementales des chasseurs et des fonds départementaux
+d'indemnisation des dégâts de sangliers dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle pour la prévention
+et l'indemnisation des dégâts de grand gibier ; 
 
-b) Le financement des actions de prévention des dégâts de grand gibier menées par la fédération nationale ;
+b) Le financement des actions de prévention des dégâts de grand gibier menées par la fédération nationale ; 
 
-c) Le financement des charges d'expertise et de formation des experts et des estimateurs ;
+c) Le financement des charges d'expertise et de formation des experts et des estimateurs ; 
 
-d) Le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de grand gibier ;
+d) Le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de grand gibier ; 
 
-e) Le financement des charges de gestion des dégâts de grand gibier ;
+e) Le financement des charges de gestion des dégâts de grand gibier ; 
 
-f) Les charges financières ;
+f) Les charges financières ; 
 
 g) Les frais de contentieux.
 
@@ -81605,9 +81614,14 @@ g) Les frais de contentieux.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 4 () JORF 31 août 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L421-14 (M)
+	  - Code de l'environnement - art. L421-14 (V)
 	  - Code de l'environnement - art. R421-49 (V)
 
 	**Cité par**:
@@ -81621,7 +81635,7 @@ g) Les frais de contentieux.
 
 ###### Article R426-3
 
-I. - La Commission nationale d'indemnisation se compose de onze membres :
+I. - La Commission nationale d'indemnisation des dégâts de gibier se compose de onze membres :
 
 1° Un représentant du ministre chargé de la chasse, président ;
 
@@ -81651,9 +81665,8 @@ conditions.
 IV. - Le président peut appeler à participer aux séances, à titre consultatif, toute personne dont il estime opportun de
 recueillir l'avis.
 
-V. - Un membre de la Commission nationale d'indemnisation ne prend pas part au délibéré et au vote lorsque la commission
-examine une décision de commission départementale dont il l'a saisie, ou à laquelle il a, directement ou indirectement, un
-intérêt personnel.
+V. - Un membre de la commission nationale ne prend pas part au délibéré et au vote lorsque celle-ci examine une décision
+d'une commission départementale dont il l'a saisie, ou à laquelle il a, directement ou indirectement, un intérêt personnel.
 
 **Liens relatifs à cet article**
 
@@ -81663,15 +81676,16 @@ intérêt personnel.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 20 () JORF 31 août 2006
 
 
 ###### Article R426-4
 
 La commission se réunit sur convocation de son président, au moins quatre fois par an.
 
-Les décisions de la Commission nationale sont prises à la majorité des voix, celle du président étant prépondérante en cas de
-partage égal des voix.
+Les décisions de la Commission nationale d'indemnisation des dégâts de gibier sont prises à la majorité des voix, celle du
+président étant prépondérante en cas de partage égal des voix.
 
 **Liens relatifs à cet article**
 
@@ -81681,21 +81695,28 @@ partage égal des voix.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 21 () JORF 31 août 2006
 
 
 ###### Article R426-5
 
-La Commission nationale d'indemnisation fixe chaque année, à titre indicatif, au fur et à mesure de sa connaissance des cours
-réels des marchés, les valeurs minimale et maximale des prix des denrées à prendre en compte pour l'établissement des barèmes
-départementaux en fonction desquels est calculé le montant des indemnités. Elle fixe également, chaque année, aux mêmes fins,
-les valeurs minimale et maximale indicatives des frais de remise en état.
+La Commission nationale d'indemnisation des dégâts de gibier établit, chaque année, pour chacune des principales denrées
+agricoles, au fur et à mesure de sa connaissance des cours réels des marchés, les limites supérieures et inférieures des
+fourchettes de prix à l'intérieur desquelles devront être compris les barèmes départementaux d'indemnisation.
+
+Les prix ainsi établis correspondent à la valeur des récoltes, déduction faite des frais de séchage et de transport. Elle
+fixe également, chaque année, les valeurs minimale et maximale des frais de remise en état et le taux horaire du travail de
+remise en état lorsque celle-ci doit être effectuée manuellement, applicables par les fédérations départementales.
 
 Sur proposition de la Fédération nationale des chasseurs, elle établit la liste des experts nationaux auxquels il peut être
 fait appel pour la constatation des dégâts de gibier ; ceux-ci sont choisis parmi les experts nationaux agricoles et fonciers
-inscrits sur la liste des cours d'appel, compte tenu de leurs compétences pour certains types de cultures et en matière de
-dégâts de gibier. Elle détermine les cas dans lesquels il doit être fait appel à des experts nationaux, ainsi que les
-modalités de leur intervention.
+inscrits sur la liste des cours d'appel ainsi que parmi les experts fonciers et agricoles nommés par le ministre de
+l'agriculture en application de l'article L. 171 du code rural, compte tenu de leurs compétences pour certains types de
+cultures et en matière de dégâts de gibier. Elle détermine les cas dans lesquels il doit être fait appel à des experts
+nationaux, ainsi que les modalités de leur intervention.
+
+Le secrétariat de la commission est assuré par l'Office national de la chasse et de la faune sauvage.
 
 **Liens relatifs à cet article**
 
@@ -81705,19 +81726,24 @@ modalités de leur intervention.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 5 () JORF 31 août 2006
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R426-13 (VD)
+
+	**Cite**:
+
+	  - Code rural L171
 
 
 ##### Paragraphe 2 : Commission départementale de la chasse et de la faune sauvage
 
 ###### Article R426-6
 
-La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée "indemnisation des dégâts de
-gibier aux cultures et aux récoltes agricoles" constitue la commission départementale prévue par l'article L. 426-5.
+La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée " indemnisation des dégâts de
+gibier aux cultures et aux récoltes agricoles " constitue la commission départementale prévue par l'article L. 426-5.
 
 **Liens relatifs à cet article**
 
@@ -81727,11 +81753,11 @@ gibier aux cultures et aux récoltes agricoles" constitue la commission départe
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L426-5 (M)
+	  - Code de l'environnement - art. L426-5 (V)
 
 	**Cité par**:
 
@@ -81752,30 +81778,32 @@ président.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
 ###### Article R426-8
 
-La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
-dégâts de gibier aux cultures et aux récoltes agricoles dresse et met à jour la liste des estimateurs chargés des missions
-prévues à l'article R. 426-13, qu'elle choisit parmi ceux qui ont satisfait à la formation dispensée par la fédération
-nationale des chasseurs.
+Dès qu'elle a connaissance des fourchettes de prix retenues par la Commission nationale d'indemnisation des dégâts de gibier,
+la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
+dégâts de gibier aux cultures et aux récoltes agricoles fixe le barème annuel en fonction duquel sont calculées les
+indemnités versées par la fédération départementale des chasseurs. 
 
-Dès qu'elle a connaissance des indications fournies par la commission nationale d'indemnisation pour une denrée ou pour des
-frais de remise en état, la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
-l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles procède à la fixation du barème départemental
-annuel d'indemnisation correspondant. Ce barème est établi en fonction des prix unitaires des denrées endommagées ainsi que
-des frais de remise en état, évalués par la commission départementale de la chasse et de la faune sauvage dans sa formation
-spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles au vu des indications données
-par la commission nationale.
+Si aucune fourchette de prix n'a été retenue par la commission nationale pour des denrées dont la culture est limitée à
+certaines zones de production, la commission départementale fixe un prix correspondant à la valeur de la récolte de ces
+denrées, en fonction des conditions locales du marché. 
+
+Elle peut autoriser une indemnisation des dégâts occasionnés à des cultures sous contrat ou à des cultures biologiques à des
+prix plus élevés que ceux du barème départemental, sous réserve que l'exploitant produise, avec sa réclamation, les
+justificatifs nécessaires. Elle peut également majorer, dans la limite de 20 %, le barème d'indemnisation lorsque
+l'exploitant justifie avoir dû racheter une denrée autoconsommée. 
+
+Elle transmet ses barèmes à la commission nationale dans les vingt jours suivant leur adoption. 
 
 Elle définit les dates extrêmes habituelles d'enlèvement des différentes récoltes, mentionnées au quatrième alinéa de
-l'article R. 426-13.
+l'article R. 426-13. 
 
-Les décisions prises par la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
-l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles en application du présent article sont publiées
-au Recueil des actes administratifs du département.
+Elle dresse et met à jour la liste des estimateurs chargés des missions prévues à l'article R. 426-13, qu'elle désigne parmi
+ceux qui ont suivi la formation dispensée par la Fédération nationale des chasseurs.
 
 **Liens relatifs à cet article**
 
@@ -81785,7 +81813,8 @@ au Recueil des actes administratifs du département.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 6 () JORF 31 août 2006
 
 	**Cité par**:
 
@@ -81795,12 +81824,58 @@ au Recueil des actes administratifs du département.
 	  - Code de l'environnement - art. R426-9 (VD)
 
 
+###### Article R426-8-1
+
+La commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
+dégâts de gibier aux cultures et aux récoltes agricoles statue sur le montant de l'indemnité lorsque la proposition de la
+fédération départementale chargée de l'indemnisation a été refusée par l'exploitant.
+
+Elle statue également sur les demandes d'indemnisation lorsqu'il est constaté que les dégâts ont été causés à des récoltes
+effectuées au-delà des dates extrêmes habituelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 6 () JORF 31 août 2006
+
+
+###### Article R426-8-2
+
+Le secrétariat de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles est assuré par la direction départementale de
+l'agriculture et de la forêt ou, en Ile-de-France, par la direction régionale et interdépartementale de l'agriculture et de
+la forêt d'Ile-de-France.
+
+Les décisions de cette commission relatives à la liste des estimateurs, aux barèmes départementaux, aux dates extrêmes
+habituelles d'enlèvement des récoltes ainsi qu'au délai de déclaration des dégâts dans le cas prévu au III de l'article R.
+426-12 sont publiées au recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 6 () JORF 31 août 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R426-12 (M)
+
+
 ###### Article R426-9
 
 Les membres de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
-l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peuvent saisir la commission nationale des
-décisions mentionnées à l'article R. 426-8, par lettre recommandée avec accusé de réception, dans un délai de quinze jours à
-compter de la délibération correspondante.
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peuvent saisir la commission nationale
+d'indemnisation des dégâts de gibier des décisions mentionnées à l'article R. 426-8, par lettre recommandée avec accusé de
+réception, dans un délai de quinze jours à compter de la délibération correspondante.
 
 **Liens relatifs à cet article**
 
@@ -81810,33 +81885,41 @@ compter de la délibération correspondante.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 21 () JORF 31 août 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. R426-8 (M)
+	  - Code de l'environnement - art. R426-8 (V)
 
 
 ##### Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier
 
 ###### Article R426-10
 
-La fédération départementale des chasseurs ne peut accorder d'indemnité pour des dégâts de grand gibier que lorsque les plans
-de chasse pris en considération conformément à l'article L. 426-1 ont été exécutés sur le fonds dont provient le grand
-gibier. Les plans de chasse sont ceux qui ont été attribués au titre de la dernière campagne accomplie avant la demande
-d'indemnité.
+Au sens des dispositions du présent chapitre, il faut entendre par grand gibier les animaux appartenant aux espèces
+suivantes : 
+
+sanglier, chevreuil, cerf élaphe, cerf sika, daim, chamois, mouflon, isard. 
+
+La fédération départementale ou interdépartementale des chasseurs ne peut accorder d'indemnité pour des dégâts de grand
+gibier que lorsque les plans de chasse pris en considération conformément à l'article L. 426-1 ont été exécutés sur le fonds
+dont provient le grand gibier. Les plans de chasse sont ceux qui ont été attribués au titre de la dernière campagne accomplie
+avant la demande d'indemnité. 
 
 Ils sont regardés comme exécutés dès lors qu'il a été tiré le nombre minimum de têtes de grand gibier fixé par les arrêtés
-qui les attribuent.
+qui les attribuent. 
 
 Lorsque, dans les départements où le plan de chasse a été institué en application de l'article L. 425-6, la provenance des
-animaux ne peut être précisée de façon certaine, les indemnisations sont prises en charge comme si les animaux provenaient
-d'un fonds où le plan de chasse a été réalisé.
+animaux ne peut être précisée de façon certaine, les indemnisations sont prises en charge par la fédération comme si les
+animaux provenaient d'un fonds où le plan de chasse a été réalisé. 
 
 L'indemnisation est également accordée pour les dégâts causés par les animaux des espèces soumises au plan de chasse,
-lorsqu'ils proviennent d'une réserve de chasse et de faune sauvage, d'une réserve approuvée, ou d'une réserve nationale de
-chasse, où ils font l'objet de reprises ou d'un plan de chasse, même en cas de réalisation partielle des reprises prévues ou
-du plan de chasse attribué.
+lorsqu'ils proviennent d'une réserve de chasse et de faune sauvage ou d'une réserve nationale de chasse et de faune sauvage
+où ils font l'objet de reprises ou d'un plan de chasse. 
+
+L'indemnisation d'une perte de récolte n'est due que si la récolte est effectivement réalisée sauf dans le cas où
+l'importance des dommages est telle qu'aucune récolte n'a été possible.
 
 **Liens relatifs à cet article**
 
@@ -81846,12 +81929,13 @@ du plan de chasse attribué.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 7 () JORF 31 août 2006
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L425-6 (V)
-	  - Code de l'environnement - art. L426-1 (M)
+	  - Code de l'environnement - art. L426-1 (V)
 
 	**Cité par**:
 
@@ -81860,11 +81944,17 @@ du plan de chasse attribué.
 
 ###### Article R426-11
 
-Le minimum prévu au premier alinéa de l'article L. 426-3 est fixé à 76 .
+Le minimum prévu au premier alinéa de l'article L. 426-3 est fixé à 76. Ce seuil est appliqué par exploitation et par
+campagne cynégétique. Il peut être réévalué, par arrêté du ministre chargé de la chasse, pour tenir compte de l'évolution des
+prix agricoles. 
 
-L'abattement proportionnel prévu au deuxième alinéa du même article est fixé à 5 % du montant des dommages retenus.
+L'abattement proportionnel prévu au deuxième alinéa du même article est fixé à 5 % du montant des dommages retenus. 
 
-Cet abattement peut atteindre 80 % du montant des dommages retenus dans les cas prévus au troisième alinéa du même article.
+Cet abattement peut atteindre 80 % du montant des dommages retenus dans les cas prévus au troisième alinéa du même article. 
+
+Les modes de prévention des dégâts proposés par la fédération départementale ou interdépartementale des chasseurs en
+application du troisième alinéa de l'article L. 426-3 figurent dans les schémas départementaux de gestion cynégétique
+conformément au 5° de l'article L. 425-2.
 
 **Liens relatifs à cet article**
 
@@ -81874,11 +81964,13 @@ Cet abattement peut atteindre 80 % du montant des dommages retenus dans les cas 
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 8 () JORF 31 août 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L426-3 (M)
+	  - Code de l'environnement - art. L425-2 (V)
+	  - Code de l'environnement - art. L426-3 (V)
 
 	**Cité par**:
 
@@ -81889,23 +81981,31 @@ Cet abattement peut atteindre 80 % du montant des dommages retenus dans les cas 
 
 ###### Article R426-12
 
-I. - Les personnes qui ont subi des dégâts mentionnés à l'article L. 426-1 doivent adresser sans délai au président de la
-fédération départementale des chasseurs, par lettre recommandée avec accusé de réception ou par notification remise contre
-récépissé, une déclaration indiquant :
+I.-Les personnes qui ont subi des dégâts mentionnés à l'article L. 426-1 doivent adresser sans délai au président de la
+fédération départementale des chasseurs, par lettre recommandée avec demande d'avis de réception, une déclaration
+indiquant : 
 
-1° La nature, l'étendue et la localisation des dégâts ainsi que l'évaluation des pertes en volume et le montant de
-l'indemnité sollicitée, compte tenu du dernier barème départemental connu ;
+1° Sous peine du rejet de la demande, la date d'observation des premières manifestations des dégâts, la nature, l'étendue et
+la localisation des dégâts ainsi que l'évaluation des pertes en volume et le montant de l'indemnité sollicitée, compte tenu
+du dernier barème départemental connu ; 
 
-2° Si possible, l'espèce des animaux responsables des dégâts et le fonds de provenance présumée de ceux-ci ;
+2° Si possible, l'espèce des animaux responsables des dégâts et le fonds de provenance présumée de ceux-ci ; 
 
 3° L'étendue des terres possédées ou exploitées par le réclamant dans le département et les cantons limitrophes, ainsi que la
-position des parcelles touchées par rapport à l'ensemble de ces terres.
+position des parcelles touchées par rapport à l'ensemble de ces terres. Il joint à sa déclaration ou, à défaut, tient à la
+disposition de l'estimateur soit un plan cadastral de ses parcelles exploitées, soit le registre parcellaire graphique
+utilisé pour les déclarations de ses parcelles dans le cadre de la politique agricole commune. 
 
-II. - La fédération départementale compétente pour statuer sur la demande d'indemnisation est celle du département de la
-parcelle endommagée.
+II.-La fédération départementale compétente pour statuer sur la demande d'indemnisation est celle du département de la
+parcelle endommagée. 
 
-III. - Pour les cultures annuelles, la déclaration des dégâts par les réclamants est adressée au président de la fédération
-départementale des chasseurs dix jours au moins avant la date de l'enlèvement des récoltes.
+III.-Dans le cas de dégâts occasionnés à des plants de vigne au moment du débourrement, le délai de déclaration des dégâts
+est fixé par la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles en fonction du stade de développement de la
+plante. 
+
+IV.-Pour les cultures annuelles, la déclaration des dégâts doit être reçue à la fédération départementale des chasseurs au
+moins dix jours avant la date de l'enlèvement des récoltes.
 
 **Liens relatifs à cet article**
 
@@ -81915,11 +82015,12 @@ départementale des chasseurs dix jours au moins avant la date de l'enlèvement 
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 9 () JORF 31 août 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L426-1 (M)
+	  - Code de l'environnement - art. L426-1 (V)
 
 	**Cité par**:
 
@@ -81929,34 +82030,41 @@ départementale des chasseurs dix jours au moins avant la date de l'enlèvement 
 ###### Article R426-13
 
 Le président de la fédération départementale des chasseurs désigne l'estimateur chargé de procéder à l'expertise des dégâts
-ayant donné lieu à déclaration parmi les personnes figurant sur la liste prévue à l'article R. 426-8.
+ayant donné lieu à déclaration parmi les personnes figurant sur la liste prévue à l'article R. 426-8. 
 
-Dans les cas prévus par la commission nationale d'indemnisation en application du second alinéa de l'article R. 426-5, il
-demande à la fédération nationale de désigner un expert national parmi les personnes figurant sur la liste prévue au même
-article, pour accompagner l'estimateur.
+Dans les cas prévus par la commission nationale d'indemnisation des dégâts de gibier en application du second alinéa de
+l'article R. 426-5, il demande à la fédération nationale de désigner un expert national parmi les personnes figurant sur la
+liste prévue au même article, pour accompagner l'estimateur. 
 
 L'expertise des dégâts déclarés a lieu dans un délai de dix jours francs à compter de la date de réception de la demande
-d'indemnisation par le président de la fédération départementale des chasseurs.
+d'indemnisation par le président de la fédération départementale des chasseurs. 
 
-Après avoir convoqué les réclamants par lettre recommandée avec demande d'avis de réception ou par notification remise contre
-récépissé, l'estimateur, conjointement avec l'expert national, le cas échéant, constate l'état des lieux et des récoltes,
-l'importance des dommages subis compte tenu de son évaluation du rendement de la parcelle, la cause de ces dommages, la
-nature et si possible, la provenance du gibier. Il recherche éventuellement si les victimes ont, par un procédé quelconque,
-favorisé l'arrivée du gibier sur leur fonds, en particulier en procédant, de façon répétée et sans respecter les assolements
-pratiqués dans la région, à des cultures de nature à l'attirer et si les titulaires de droits de chasse ont exécuté leur plan
-de chasse. Il donne son appréciation, le cas échéant, sur les raisons pour lesquelles les dates extrêmes habituelles
-d'enlèvement des récoltes fixées par la commission départementale de la chasse et de la faune sauvage dans sa formation
-spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles ont été dépassées.
+Après avoir convoqué l'auteur de la réclamation par lettre recommandée avec demande d'avis de réception, l'estimateur
+constate sur place, conjointement, le cas échéant, avec l'expert national, l'état des lieux et des récoltes, estime la date
+des premiers dégâts, l'importance des dommages subis eu égard au rendement de la parcelle tel qu'il l'évalue, la cause des
+dégâts, les espèces de gibier qui en sont responsables et, si possible, leur provenance. Il recherche, éventuellement, si
+l'exploitant a, par un procédé quelconque, favorisé l'arrivée du gibier sur son fonds et si les titulaires de droits de
+chasse ont exécuté leurs plans de chasse. Il donne, le cas échéant, son appréciation sur les raisons pour lesquelles le stade
+optimal de développement de la culture et les dates extrêmes habituelles d'enlèvement des récoltes fixées par la commission
+départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des dégâts de gibier
+aux cultures et aux récoltes agricoles ont été dépassés. 
 
 L'estimateur transmet son rapport au président de la fédération départementale dans un délai de quinze jours suivant
-l'expertise.
+l'expertise. 
 
-En cas de déclaration portant sur des dégâts dans les semis, l'estimateur doit, sans délai, soit établir un constat
-provisoire des dégâts de nature à justifier l'étendue de la perte indemnisable qui sera évaluée au moment de la récolte, soit
-évaluer les frais de premier ensemencement qui seront immédiatement indemnisés, le réclamant conservant, alors, le droit
-d'être indemnisé au cas où la nouvelle culture ferait l'objet de nouveaux dégâts.
+En cas de dégâts occasionnés à des semis, l'estimateur doit, sans délai, en accord avec l'exploitant, soit établir un constat
+provisoire des dégâts de nature à justifier leur lien avec la perte qui sera évaluée au moment de la récolte, soit proposer
+une indemnisation immédiate des frais de premier ensemencement. Le choix d'une telle indemnisation ne fait pas obstacle à une
+indemnisation ultérieure pour perte s'il est constaté, au moment de la récolte, une différence de rendement entre les zones
+ainsi ressemées et celles qui sont indemnes de dégâts ou si les zones ressemées subissent, avant la récolte, de nouveaux
+dégâts. 
 
-Les réclamants peuvent se faire assister ou représenter, à leurs frais, par toute personne de leur choix.
+En cas de dégâts occasionnés à des vergers ou à des prairies utilisées à des fins agricoles, l'estimateur procède, à la
+demande de l'exploitant qui doit réitérer sa réclamation chaque année, à l'évaluation annuelle de la perte de récolte jusqu'à
+ce que les nouvelles plantations ou le couvert végétal réimplanté aient retrouvé un potentiel de production équivalent à
+celui de cultures ou de parcelles de même nature indemnes de dégâts. 
+
+Les réclamants peuvent se faire assister ou représenter, à leurs frais, par toute personne de leur choix. 
 
 La parcelle objet des dommages ne doit pas être récoltée avant l'expertise ou l'expiration du délai prévu pour celle-ci au
 troisième alinéa du présent article. Si l'estimateur ne s'est pas présenté dans ce délai pour constater les dégâts, son
@@ -81970,11 +82078,8 @@ estimation est réputée conforme à celle du demandeur.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R426-5 (M)
+	  - Décret n°2006-1097 du 30 août 2006 - art. 10 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cité par**:
 
@@ -81983,18 +82088,20 @@ estimation est réputée conforme à celle du demandeur.
 
 ###### Article R426-14
 
-Dans les quinze jours suivant la fixation du barème départemental d'indemnisation pour la denrée considérée, le président de
-la fédération départementale des chasseurs notifie au réclamant le montant de l'indemnité qu'il propose, calculé compte tenu
-du barème mentionné à l'article R. 426-8 et des conclusions de l'expertise, en lui demandant si cette proposition recueille
-son accord.
+Dans les quinze jours suivant la notification par le secrétariat de la commission départementale de la chasse et de la faune
+sauvage dans sa formation spécialisée pour l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles au
+président de la fédération départementale des chasseurs du barème départemental d'indemnisation pour la denrée considérée, le
+président de la fédération départementale des chasseurs notifie au réclamant le montant de l'indemnité qu'il propose, calculé
+compte tenu du barème mentionné à l'article R. 426-8 et des conclusions de l'expertise, en lui demandant si cette proposition
+recueille son accord. 
 
 En l'absence de réponse du réclamant dans les dix jours de l'envoi de sa proposition d'indemnisation, le président de la
 fédération départementale réitère celle-ci par lettre recommandée avec accusé de réception, mentionnant qu'en l'absence de
 réponse de la part du demandeur dans le délai d'un mois à compter de la réception de la proposition, celle-ci sera considérée
-comme acceptée.
+comme acceptée. 
 
 L'indemnité est mise en paiement dès réception de l'accord écrit du demandeur de l'indemnisation ou à l'expiration du délai
-mentionné au précédent alinéa.
+mentionné au précédent alinéa. 
 
 En cas de refus par le réclamant du montant de l'indemnité proposée, le président de la fédération départementale des
 chasseurs transmet le dossier à la commission départementale d'indemnisation.
@@ -82007,11 +82114,12 @@ chasseurs transmet le dossier à la commission départementale d'indemnisation.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 11 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. R426-8 (M)
+	  - Code de l'environnement - art. R426-8 (V)
 
 	**Cité par**:
 
@@ -82032,9 +82140,10 @@ Un membre de la commission départementale de la chasse et de la faune sauvage d
 l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles ne prend pas part au délibéré et au vote lorsque
 la commission examine une demande d'indemnisation à laquelle il a, directement ou indirectement, un intérêt personnel.
 
-La décision de la commission départementale est notifiée au réclamant et au président de la fédération départementale des
-chasseurs par lettre recommandée avec accusé de réception mentionnant le délai de recours ouvert contre cette décision devant
-la commission nationale d'indemnisation.
+La décision de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
+l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles est notifiée par son secrétariat au réclamant et
+au président de la fédération départementale des chasseurs par lettre recommandée avec accusé de réception mentionnant le
+délai de recours ouvert contre cette décision devant la Commission nationale d'indemnisation des dégâts de gibier.
 
 **Liens relatifs à cet article**
 
@@ -82044,22 +82153,24 @@ la commission nationale d'indemnisation.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 12 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 
 ###### Article R426-16
 
 La décision de la commission départementale de la chasse et de la faune sauvage dans sa formation spécialisée pour
 l'indemnisation des dégâts de gibier aux cultures et aux récoltes agricoles peut être contestée par le réclamant ou le
-président de la fédération départementale devant la commission nationale d'indemnisation, par lettre recommandée avec accusé
-de réception, dans un délai de quinze jours à compter de la notification de cette décision.
+président de la fédération départementale devant la commission nationale d'indemnisation des dégâts de gibier, par lettre
+recommandée avec accusé de réception, dans un délai de quinze jours à compter de la notification de cette décision.
 
-Le secrétariat de la commission nationale instruit les demandes selon une procédure écrite et contradictoire. Le réclamant et
-le président de la fédération départementale des chasseurs sont informés qu'ils seront entendus par la commission nationale
-s'ils en font la demande. Ils peuvent se faire assister ou représenter.
+Le secrétariat de la commission nationale d'indemnisation des dégâts de gibier instruit les demandes selon une procédure
+écrite et contradictoire. Le réclamant et le président de la fédération départementale des chasseurs sont informés qu'ils
+seront entendus par la commission nationale d'indemnisation des dégâts de gibier s'ils en font la demande. Ils peuvent se
+faire assister ou représenter.
 
-La commission nationale peut demander aux parties de lui communiquer tous documents utiles à l'instruction du dossier. Elle
-peut aussi convoquer les personnes de son choix.
+La commission nationale d'indemnisation des dégâts de gibier peut demander aux parties de lui communiquer tous documents
+utiles à l'instruction du dossier. Elle peut aussi convoquer les personnes de son choix.
 
 **Liens relatifs à cet article**
 
@@ -82069,13 +82180,15 @@ peut aussi convoquer les personnes de son choix.
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 23 () JORF 8 juin 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 21 () JORF 31 août 2006
 
 
 ###### Article R426-17
 
-Dans un délai de deux mois à compter de sa saisine, la commission nationale d'indemnisation fixe le montant de l'indemnité
-qu'elle notifie au réclamant et au président de la fédération départementale par lettre recommandée avec accusé de réception.
+Dans un délai de deux mois à compter de sa saisine, la commission nationale d'indemnisation des dégâts de gibier fixe le
+montant de l'indemnité qu'elle notifie au réclamant et au président de la fédération départementale par lettre recommandée
+avec accusé de réception.
 
 **Liens relatifs à cet article**
 
@@ -82083,12 +82196,17 @@ qu'elle notifie au réclamant et au président de la fédération départemental
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 21 () JORF 31 août 2006
+
 
 ###### Article R426-18
 
 Tout réclamant qui, ayant demandé une indemnisation en application de l'article L. 426-1, obtient des responsables du dommage
 une indemnité à la suite, soit d'une action fondée sur l'article 1382 du code civil, soit d'un accord amiable, est tenu de
-déclarer le montant de cette indemnité, dans les huit jours de sa perception, à la fédération départementale des chasseurs.
+déclarer le montant de cette indemnité, dans les huit jours de sa perception, à la fédération départementale des chasseurs. 
 
 Si la fédération a procédé au règlement de l'indemnité, celle-ci doit lui être reversée, à concurrence des sommes reçues du
 responsable du dommage.
@@ -82099,25 +82217,34 @@ responsable du dommage.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
+
 	**Cite**:
 
 	  - Code civil - art. 1382 (V)
-	  - Code de l'environnement - art. L426-1 (M)
+	  - Code de l'environnement - art. L426-1 (V)
 
 
 ##### Sous-section 5 : Dispositions diverses
 
 ###### Article R426-19
 
-Les modalités de rémunération des estimateurs et experts et de remboursement de leurs frais sont déterminées par arrêté
-conjoint du ministre chargé de la chasse et du ministre chargé du budget, sur proposition de la commission nationale
-d'indemnisation.
+Le montant et les modalités de rémunération et de remboursement des frais des estimateurs et des experts sont déterminés par
+la Fédération nationale des chasseurs. Ils sont communiqués à la Commission nationale d'indemnisation des dégâts de gibier
+dès leur établissement et lors de chacune de leur révision.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 13 () JORF 31 août 2006
+	  - Décret n°2006-1097 du 30 août 2006 - art. 2 () JORF 31 août 2006
 
 	**Cité par**:
 
@@ -82128,14 +82255,18 @@ d'indemnisation.
 
 ###### Article R426-20
 
-Les actions en réparation des dommages causés aux récoltes par un gibier quelconque présentées devant les tribunaux
-judiciaires sont exercées conformément aux dispositions de la présente section.
+Les actions en réparation des dommages causés aux cultures et aux récoltes par un gibier quelconque présentées devant les
+tribunaux judiciaires sont exercées conformément aux dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 14 () JORF 31 août 2006
 
 
 ###### Article R426-21
@@ -82181,14 +82312,18 @@ Le greffier convoque le défendeur aux mêmes fins par lettre recommandée avec 
 ###### Article R426-24
 
 En cas de conciliation, il en est dressé procès-verbal. A défaut de conciliation, le juge désigne un expert chargé de
-constater l'état des récoltes, l'importance des dommages causés par le gibier, d'indiquer d'où ce gibier provient, de
-préciser la cause de ces dommages, de rechercher si le gibier est en nombre excessif et pour quelle raison.
+constater l'état des récoltes, l'importance des dommages causés aux récoltes par le gibier, d'indiquer d'où ce gibier
+provient, de préciser la cause de ces dommages, de rechercher si le gibier est en nombre excessif et pour quelle raison.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 15 () JORF 31 août 2006
 
 
 ###### Article R426-25
@@ -83490,7 +83625,7 @@ encourt une peine complémentaire de suspension, pour une durée de trois ans au
 ###### Article R429-1
 
 Les dispositions du présent titre sont applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle, à l'exception
-de celles des articles R. 422-1 à R. 422-80, R. 424-2, R. 424-7, R. 424-15, R. 426-3 à R. 426-29, R. 428-1 et R. 428-12, et
+de celles des articles R. 422-1 à R. 422-80, R. 424-2, R. 424-7, R. 424-15, R. 426-1 à R. 426-29, R. 428-1 et R. 428-12, et
 sous réserve des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
@@ -83499,6 +83634,10 @@ sous réserve des dispositions du présent chapitre.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 17 () JORF 31 août 2006
+
 	**Cite**:
 
 	  - Code de l'environnement - art. R424-15 (V)
@@ -83506,7 +83645,7 @@ sous réserve des dispositions du présent chapitre.
 	  - Code de l'environnement - art. R424-7 (V)
 	  - Code de l'environnement - art. R428-1 (M)
 	  - Code de l'environnement - art. R428-12 (M)
-	  - Code de l'environnement R422-1 à R422-80, R424-2, R424-7, R424-15, R426-3 à R426-29, R428-1, R428-12
+	  - Code de l'environnement R422-1 à R422-80, R424-2, R424-7, R424-15, R426-1 à R426-29, R428-1, R428-12
 
 
 ##### Section 2 : Exercice de la chasse
@@ -83702,11 +83841,11 @@ définitivement fixés.
 
 ###### Article R429-13
 
-L'estimateur a droit, sur sa demande, à une indemnité fixée dans les conditions prévues à l'article R. 426-10.
+L'estimateur a droit, sur sa demande, à une indemnité fixée dans les conditions prévues à l'article R. 426-19. 
 
 Lorsque des dommages ont été constatés, les honoraires de l'estimateur et les frais sont à la charge de celui qui en est
 responsable ; dans le cas contraire ils sont à la charge des demandeurs en indemnité. Toutefois les honoraires et les frais
-peuvent être imposés en totalité ou en partie à celui qui a subi les dommages lorsque sa demande est manifestement exagérée.
+peuvent être imposés en totalité ou en partie à celui qui a subi les dommages lorsque sa demande est manifestement exagérée. 
 
 Sur la demande de l'estimateur, la commune est tenue de lui payer les sommes prévues au deuxième alinéa du présent article, à
 charge pour elle de se retourner contre la partie à laquelle incombent ces frais.
@@ -83717,9 +83856,13 @@ charge pour elle de se retourner contre la partie à laquelle incombent ces frai
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1097 du 30 août 2006 - art. 18 () JORF 31 août 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. R426-10 (M)
+	  - Code de l'environnement - art. R426-19 (V)
 
 
 ###### Article R429-14
@@ -83737,76 +83880,6 @@ A défaut, le fermier n'est pas nécessairement convoqué à la réunion d'estim
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-
-###### Article R429-15
-
-Pour les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, les sommes du compte mentionné aux articles R. 426-1 et R.
-426-2 sont reversées aux fédérations départementales des chasseurs intéressées pour servir à l'amélioration de la chasse dans
-l'intérêt général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1097 du 30 août 2006 - art. 19 () JORF 31 août 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R426-1 (M)
-	  - Code de l'environnement - art. R426-2 (M)
-
-
-##### Sous-section 2 : Dispositions particulières à l'indemnisation des dégâts causés par les sangliers
-
-###### Article R429-16
-
-Toute demande en indemnité pour dommages causés par les sangliers doit être adressée, dans le plus bref délai après la
-constatation des dégâts, soit au siège du syndicat des chasseurs en forêt, soit au délégué que le syndicat est tenu d'avoir
-dans chaque arrondissement.
-
-Le délégué ou un représentant désigné par lui procède à la visite des lieux avec le demandeur ou son représentant. En cas
-d'accord entre eux sur le montant de l'indemnité, celle-ci est fixée définitivement.
-
-A défaut d'accord, la partie la plus diligente demande, par lettre simple, au président du tribunal de grande instance, de
-désigner un expert choisi parmi les personnes ne faisant pas partie du syndicat des chasseurs et n'ayant ni résidence ni
-propriété dans le canton où le dégât s'est produit. L'expert fixe le montant de l'indemnité qui ne peut être ni supérieur au
-montant de la demande ni inférieur à l'offre du délégué du syndicat.
-
-Il peut être fait appel de la décision de l'expert devant la cour d'appel lorsque la demande excède le taux du dernier
-ressort.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1097 du 30 août 2006 - art. 19 () JORF 31 août 2006
-
-
-###### Article R429-17
-
-Les frais de l'expertise sont partagés proportionnellement à l'écart entre le chiffre fixé et l'indemnité demandée, d'une
-part, offerte, d'autre part.
-
-En cas de contestation par l'une des parties, les frais d'expertise sont fixés par le juge d'instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1097 du 30 août 2006 - art. 19 () JORF 31 août 2006
 
 
 ##### Section 4 : Pénalités
