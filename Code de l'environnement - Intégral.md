@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-08-31
+Version Consolidée au 2006-10-01
 
 # Partie législative
 
@@ -50750,6 +50750,326 @@ R. 122-5 ne font l'objet d'une étude d'impact que lorsqu'ils dépassent les seu
 	  - Code de l'environnement - art. R122-8 (M)
 
 
+###### Article R122-5
+
+Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des dispositions de l'article R. 122-9, les aménagements,
+ouvrages et travaux définis au tableau ci-après, dans les limites et sous les conditions qu'il précise.
+
+<table>
+    <thead>
+      <tr>
+        <th width="234" align="center" bgcolor="#efeff7">
+
+<font size="2">CATÉGORIES D'AMÉNAGEMENTS, D'OUVRAGES ET DE TRAVAUX</font>
+        </th>
+        <th width="221" bgcolor="#efeff7" align="center">
+
+<font size="2">ÉTENDUE DE LA DISPENSE</font>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left">
+
+1
+          <sup>o</sup> Ouvrages et travaux sur le domaine public fluvial et maritime.</td>
+        <td align="left">
+
+Travaux de modernisation.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+2
+          <sup>o</sup> Voies publiques et privées.</td>
+        <td align="left">
+
+Travaux de renforcement et travaux de sécurité, lorsque ces derniers sont localisés et d'un montant inférieur à 1 900 000
+euros.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+3
+          <sup>o</sup> Etablissements conchylicoles, aquacoles et, d'une manière générale, tous établissements de pêche
+concédés sur le domaine public maritime sauf ceux soumis à la réglementation des installations classées pour la protection de
+l'environnement.</td>
+        <td align="left">
+
+Tous travaux ou aménagements.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+4
+          <sup>o</sup> Remontées mécaniques.</td>
+        <td align="left">
+
+Travaux d'installation d'un montant inférieur à 950 000 euros et travaux de modernisation.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+5
+          <sup>o</sup> Transport et distribution d'électricité.</td>
+        <td align="left">
+
+Travaux d'installation ou de modernisation des ouvrages de tension inférieure à 63 kV. Travaux d'électrification des voies
+ferrées.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+6
+          <sup>o</sup> Réseaux de distribution de gaz.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+7
+          <sup>o</sup> Transport de gaz, d'hydrocarbures et de produits chimiques.</td>
+        <td align="left">
+
+Travaux de modernisation des canalisations et ouvrages.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+8
+          <sup>o</sup> Production d'énergie hydraulique.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation des ouvrages dont la puissance maximum n'excède pas 500 kW.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+9
+          <sup>o</sup>
+          _(D. n
+            <sup>o</sup> 2006-649, 2 juin 2006, art. 54)_ Recherches de mines et de carrières.</td>
+        <td align="left">
+
+Mines : travaux soumis à déclaration  en vertu du décret n
+          <sup>o</sup> 2006-649 du 2 juin 2006 ».</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+</td>
+        <td align="left">
+
+Carrières : travaux soumis à autorisation en application des articles 109 et 109-1 du code minier et du décret n
+          <sup>o</sup> 97-181 du 28 février 1997 pris pour son application.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+10
+          <sup>o</sup> Installations classées pour la protection de l'environnement.</td>
+        <td align="left">
+
+Travaux soumis à déclaration.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+11
+          <sup>o</sup> Réseaux d'assainissement, d'évacuation des eaux pluviales et de distribution d'eau.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+12
+          <sup>o</sup> Réservoirs de stockage d'eau.</td>
+        <td align="left">
+
+Travaux concernant les réservoirs de stockage d'eau  sur tour » d'une capacité inférieure à 1 000 m
+          <sup>3</sup> et les autres réservoirs de stockage d'eau d'une superficie inférieure à 10 ha.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+13
+          <sup>o</sup> Gestion, mise en valeur et exploitation des forêts.</td>
+        <td align="left">
+
+Tous travaux et opérations.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+14
+          <sup>o</sup> Correction des torrents, restauration des terrains en montagne, lutte contre les avalanches, fixation
+des dunes, lutte contre l'incendie.</td>
+        <td align="left">
+
+Tous équipements et ouvrages.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+15
+          <sup>o</sup> Défrichements soumis aux dispositions du code forestier et premiers boisements soumis à autorisation
+au titre du code rural.</td>
+        <td align="left">
+
+Défrichements et premiers boisements portant sur une superficie inférieure à 25 hectares.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+16
+          <sup>o</sup> Réseaux et télécommunications.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation intéressant les réseaux de câbles ou de conducteurs.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+17
+          <sup>o</sup> Sémaphores régis par la loi du 11 juillet 1933.</td>
+        <td align="left">
+
+Tous travaux.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+18
+          <sup>o</sup> Terrains de camping.</td>
+        <td align="left">
+
+Travaux d'aménagement de terrains comportant moins de 200 emplacements.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+19
+          <sup>o</sup> Ouvrages destinés à l'épuration des eaux des collectivités locales.</td>
+        <td align="left">
+
+Ouvrages permettant de traiter un flux de matières polluantes inférieur à celui produit par 10 000 habitants au sens de
+l'article R. 780-3 du code de la santé publique.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+20
+          <sup>o</sup>  Production d'énergie éolienne.</td>
+        <td align="left">
+
+Travaux d'installation et de modernisation des ouvrages  dont la hauteur du mât est inférieure ou égale à 50 mètres ».</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+21
+          <sup>o</sup>
+          _(Supprimé à compter du 1
+            <sup>er</sup> octobre 2006 par D. n
+            <sup>o</sup> 2006-880, 17 juill. 2006, art. 34, I et 38)_
+        </td>
+        <td align="left">
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+22
+          <sup>o</sup> Travaux et ouvrages de défense contre la mer.</td>
+        <td align="left">
+
+Travaux d'une emprise totale inférieure à 2 000 mètres carrés.</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+23
+          <sup>o</sup> Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole
+intensive.</td>
+        <td align="left">
+
+Projets portant sur une superficie inférieure à 50 hectares.</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-1141 1977-10-12 art. 3 B alinéa 1er (Annexe I)
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-629 du 30 mai 2006 - art. 2 () JORF 31 mai 2006
+	  - Décret n°2006-649 du 2 juin 2006 - art. 54 () JORF 3 juin 2006
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-649 du 2 juin 2006 - art. 6 (V)
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 9 (VD)
+	  - Arrêté du 23 juin 2015 - art. 13 (VD)
+	  - Décret n°2016-1110 du 11 août 2016 - art. 6
+	  - Décret n°2016-1110 du 11 août 2016 - art. 8
+	  - Arrêté du 13 février 2017 - art. 2 (V)
+	  - Code de l'environnement - art. D181-15-2 (V)
+	  - Code de l'environnement - art. R122-10 (V)
+	  - Code de l'environnement - art. R122-26 (V)
+	  - Code de l'environnement - art. R122-27 (V)
+	  - Code de l'environnement - art. R122-28 (T)
+	  - Code de l'environnement - art. R122-3 (VD)
+	  - Code de l'environnement - art. R122-4 (VD)
+	  - Code de l'environnement - art. R122-7 (V)
+	  - Code de l'environnement - art. R122-9 (V)
+	  - Code de l'environnement - art. R214-32 (V)
+	  - Code de l'environnement - art. R214-6 (V)
+	  - Code de l'environnement - art. R214-62 (VD)
+	  - Code de l'environnement - art. R331-34 (V)
+	  - Code de l'environnement - art. R333-14 (V)
+	  - Code de l'environnement - art. R334-36 (V)
+	  - Code de l'environnement - art. R512-14 (VT)
+	  - Code de l'environnement - art. R512-6 (VT)
+	  - Code de l'environnement - art. R512-8 (VT)
+	  - Code de l'environnement - art. R515-11 (VD)
+	  - Code de l'environnement - art. R555-9 (V)
+	  - Code de l'urbanisme - art. R*311-2 (V)
+	  - Code de l'urbanisme - art. R*443-5 (VD)
+	  - Code de l'urbanisme - art. R113-3 (V)
+	  - Code de l'urbanisme - art. R472-3 (V)
+	  - Code de l'urbanisme - art. R473-2 (V)
+	  - Code des ports maritimes - art. R*122-4 (V)
+	  - Code du domaine de l'Etat - art. R145-1 (VD)
+	  - Code du domaine de l'Etat - art. R58-5 (VD)
+	  - Code du tourisme. - art. D331-2 (VD)
+	  - Code forestier (nouveau) - art. R341-1 (V)
+	  - Code forestier (nouveau) - art. R375-2 (V)
+	  - Code forestier - art. R311-1 (Ab)
+	  - Code rural et de la pêche maritime - art. R123-10 (V)
+	  - Code rural et de la pêche maritime - art. R151-41 (VD)
+	  - Code rural et de la pêche maritime - art. R152-4 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R122-5 (V)
+
+
 ###### Article R122-6
 
 Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des dispositions de l'article R. 122-9, les aménagements,
@@ -51015,7 +51335,8 @@ des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ou
 6° Travaux nécessitant une autorisation en vertu soit de la législation relative aux installations classées pour la
 protection de l'environnement, soit de la réglementation concernant les installations nucléaires de base ;
 
-7° Réservoirs de stockage d'eau autres que les réservoirs enterrés ou semi-enterrés ;
+7° Réservoirs de stockage d'eau "sur tour" d'une capacité égale ou supérieure à 1 000 m3 et autres réservoirs de stockage
+d'eau d'une superficie égale ou supérieure à 10 ha ;
 
 8° Aménagement de terrains de camping ou de stationnement de caravanes comportant 200 emplacements ou plus ;
 
@@ -51047,8 +51368,7 @@ au moins équivalent à celui produit par 10 000 habitants, au sens de l'article
 
 15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât dépasse 50 mètres ;
 
-16° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 431-6 du présent code et définies au premier
-alinéa de l'article R. 431-16 de ce code ;
+16° Supprimé ;
 
 17° Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets
 radioactifs ;
@@ -51070,15 +51390,6 @@ une superficie d'au moins 50 hectares.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L121-1
-	  - Décret n°2006-649 2006-06-02
-	  - Code de la santé publique - art. R1416-3 (M)
-	  - Code de la santé publique R1416-3, R431-16
-	  - Code de l'urbanisme - art. L130-2 (M)
-	  - Code de l'environnement - art. L431-6 (M)
-
 	**Cité par**:
 
 	  - Décret n°59-645 du 16 mai 1959 - art. 4 (Ab)
@@ -51098,52 +51409,62 @@ une superficie d'au moins 50 hectares.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Cite**:
+
+	  - Décret n°2006-649 2006-06-02
+	  - Code de la santé publique - art. R1416-3 (M)
+	  - Code de la santé publique R1416-3, R431-16
+	  - Code de l'urbanisme - art. L130-2 (M)
+	  - Code de l'environnement - art. L431-6 (M)
+	  - Code rural L121-1
+
 	**Modifié par**:
 
-	  - Décret n°2006-649 du 2 juin 2006 - art. 55 () JORF 3 juin 2006
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 
 ###### Article R122-9
 
 Pour les travaux et projets d'aménagements définis au présent article, la dispense, prévue aux articles R. 122-5 à R. 122-8,
 de la procédure d'étude d'impact est subordonnée à l'élaboration d'une notice indiquant les incidences éventuelles de ceux-ci
-sur l'environnement et les conditions dans lesquelles l'opération projetée satisfait aux préoccupations d'environnement :
+sur l'environnement et les conditions dans lesquelles l'opération projetée satisfait aux préoccupations d'environnement : 
 
 1° Travaux ou aménagements d'un coût total inférieur à 1 900 000 euros réalisés sur le domaine public fluvial ou maritime
-sous le régime de la concession prévu à l'article L. 64 du code du domaine de l'Etat, ainsi que les travaux de création ou
-d'extension d'un port de plaisance ;
+sous le régime de la concession prévu aux articles L. 3211-10 et L. 3211-15 du code général de la propriété des personnes
+publiques, ainsi que les travaux de création ou d'extension d'un port de plaisance ; 
 
 2° Travaux d'installations de remontées mécaniques et travaux d'aménagement de pistes pour la pratique de sports d'hiver,
-lorsque leur coût total est inférieur à 950 000 euros ;
+lorsque leur coût total est inférieur à 950 000 euros ; 
 
 3° Travaux d'installation des ouvrages de transport et de distribution d'électricité de tension inférieure à 63 kV, à
-l'exclusion des travaux souterrains ;
+l'exclusion des travaux souterrains ; 
 
 4° Autorisations relatives aux ouvrages utilisant l'énergie hydraulique dont la puissance maximale brute totale est
 inférieure ou égale à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de
-l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
+l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ; 
 
 5° Ouverture de travaux miniers et de travaux de stockage souterrain soumis à déclaration en vertu du décret n° 2006-649 du 2
 juin 2006 et travaux de recherches de carrières soumis à autorisation dans les zones définies aux articles 109 et 109-1 du
-code minier et en application du décret n° 97-181 du 28 février 1997 ;
+code minier et en application du décret n° 97-181 du 28 février 1997 ; 
 
 6° Travaux de défrichement et de premiers boisements soumis à autorisation et portant sur une superficie inférieure à 25
-hectares ;
+hectares ; 
 
 7° Ouvrages et équipements relatifs à la correction des torrents, à la restauration des terrains en montagne, à la lutte
-contre les avalanches, à la fixation des dunes et à la défense contre l'incendie ;
+contre les avalanches, à la fixation des dunes et à la défense contre l'incendie ; 
 
-8° Ouverture de terrains aménagés pour le camping ou le stationnement de caravanes comportant moins de 200 emplacements ;
+8° Ouverture de terrains aménagés pour le camping ou le stationnement de caravanes comportant moins de 200 emplacements ; 
 
 9° Ouvrages destinés à l'épuration des eaux des collectivités locales, d'une capacité de traitement inférieure à celle des
-ouvrages visés au 14° du II de l'article R. 122-8 ;
+ouvrages visés au 14° du II de l'article R. 122-8 ; 
 
-10° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 431-6 et mentionnées au deuxième alinéa de
-l'article R. 431-16 ;
+10° Travaux concernant les réservoirs de stockage d'eau " sur tour " d'une capacité inférieure à 1 000 m3 et les autres
+réservoirs de stockage d'eau d'une superficie égale ou supérieure à 2 ha et inférieure à 10 ha ; 
 
-11° Travaux d'hydraulique agricole dont le coût total est compris entre 950 000 et 1 900 000 euros ;
+11° Travaux d'hydraulique agricole dont le coût total est compris entre 950 000 et 1 900 000 euros ; 
 
-12° Travaux et ouvrages de défense contre la mer d'une emprise totale inférieure à 2 000 mètres carrés ;
+12° Travaux et ouvrages de défense contre la mer d'une emprise totale inférieure à 2 000 mètres carrés ; 
 
 13° Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât est inférieure ou égale à 50
 mètres.
@@ -51159,6 +51480,7 @@ mètres.
 	  - Décret n°97-181 1997-02-28
 	  - Décret n°2006-649 2006-06-02
 	  - Code du domaine de l'Etat - art. L64 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L3211-10 (V)
 	  - Code minier 109, 109-1
 	  - Code de l'environnement - art. L431-6 (M)
 	  - Code de l'environnement - art. R431-16 (Ab)
@@ -51169,7 +51491,8 @@ mètres.
 
 	**Modifié par**:
 
-	  - Décret n°2006-649 du 2 juin 2006 - art. 56 () JORF 3 juin 2006
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 2 (V)
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
@@ -84076,9 +84399,14 @@ associations agréées de pêche et de pisciculture. Copie en est adressée au m
 
 ###### Article R431-7
 
-La création et l'exploitation, dans les eaux visées à l'article L. 431-3, de piscicultures telles que définies à l'article L.
-431-6 sont soumises à autorisation ou font l'objet d'une concession dans les formes et aux conditions définies à la présente
-section.
+Constituent des piscicultures régulièrement autorisées ou déclarées au sens de l'article L. 431-7 les piscicultures qui :
+
+- avant le 1er octobre 2006, ont été autorisées au titre de la législation des installations classées ou au titre de
+l'article L. 431-6 du code de l'environnement ou des textes auquel il s'est substitué ;
+
+- après le 1er octobre 2006, ont été autorisées au titre de la législation des installations classées ou ont fait l'objet
+d'une déclaration comme entrant dans la rubrique 3.2.7.0 de la nomenclature prévue à l'article L. 214-2, à laquelle le préfet
+ne s'est pas opposé.
 
 **Liens relatifs à cet article**
 
@@ -84086,713 +84414,27 @@ section.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+
+	**Transféré par**:
+
+	  - Décret n°2007-978 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L431-3 (M)
+	  - Code de l'environnement - art. L214-2 (M)
 	  - Code de l'environnement - art. L431-6 (M)
+	  - Code de l'environnement - art. L431-7 (M)
 
 	**Nouveaux textes**:
 
+	  - Code de l'environnement - art. R431-8 (Ab)
 	  - Code de l'environnement - art. R431-8 (V)
 
 
-###### Article R431-8
-
-Il ne peut être accordé d'autorisation ou de concession de pisciculture si un inconvénient paraît devoir en résulter pour le
-peuplement piscicole des eaux avec lesquelles cette pisciculture communiquerait, et notamment lorsque sa création aurait pour
-conséquence l'interruption de la libre circulation des espèces piscicoles dans le cours d'eau, une insuffisance du débit ou
-une altération de la qualité de l'eau compromettant la vie de ces espèces.
-
-Sauf dans les cas de piscicultures destinées à la valorisation touristique, l'autorisation ou la concession ne peut être
-accordée que si les modes de récolte du poisson envisagés excluent la capture à l'aide de lignes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-15 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'environnement - art. R431-7 (T)
-
-
-###### Article R431-9
-
-La délivrance de l'autorisation ou de la concession est subordonnée à la justification par l'intéressé qu'il a souscrit les
-déclarations ou formulé les demandes d'autorisations exigées, le cas échéant, pour la création de la pisciculture, par
-d'autres législations ou réglementations, et notamment par celles relatives à l'eau, aux installations classées ou au
-domaine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-10
-
-L'introduction de poissons dans les piscicultures est soumise aux dispositions des articles L. 432-10, L. 432-12 et des
-articles de la section 4 du chapitre II du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L432-10 (M)
-	  - Code de l'environnement - art. L432-12 (M)
-
-
-##### Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture
-
-###### Article R431-11
-
-Les demandes d'autorisation en vue d'aménager en pisciculture une partie d'un cours d'eau, canal ou plan d'eau où le droit de
-pêche appartient à un propriétaire riverain peuvent être formées :
-
-1° Soit par un riverain jouissant en cette qualité du droit de pêche sur la partie de cours d'eau, canal ou plan d'eau
-concernée par l'aménagement ;
-
-2° Soit par toute personne cessionnaire à un titre quelconque du droit de pêche et en même temps munie d'une autorisation
-expresse du riverain pour l'aménagement de la pisciculture.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-13 (Ab)
-	  - Code de l'environnement - art. R431-28 (Ab)
-
-
-###### Article R431-12
-
-Les demandes d'autorisation de pisciculture sont adressées au préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-13
-
-Le dossier de demande comporte les pièces et indications suivantes :
-
-1° L'identité ou la raison sociale et l'adresse du demandeur ;
-
-2° La dénomination et la catégorie piscicole du cours d'eau, canal ou plan d'eau dans lequel la pisciculture serait établie
-ainsi qu'un plan de situation au 1/25 000 ;
-
-3° La justification des titres du demandeur exigés à l'article R. 431-11 et, le cas échéant, la copie du titre conférant un
-droit d'eau ou des autorisations qui lui ont été délivrées au titre de la législation sur l'eau ;
-
-4° Un plan au 1/2 500 de la pisciculture et de ses abords assorti d'une notice précisant sa surface, ses limites, la
-désignation cadastrale des terrains concernés, les aménagements projetés, les points de captage et de rejet, le volume du
-débit prélevé ou le mode d'alimentation en eau ainsi que l'emplacement et la nature des dispositifs permanents de clôture ;
-
-5° L'objet de la pisciculture ;
-
-6° Un mémoire exposant la nature et les méthodes d'élevage piscicole envisagées, les espèces choisies, les objectifs de
-production ou d'expérimentation ainsi que les modes de récolte du poisson ;
-
-7° Les dispositions envisagées pour garantir, dans le lit du cours d'eau ou du canal, le maintien d'un débit suffisant, la
-libre circulation des espèces piscicoles et les mesures projetées afin, notamment, de maintenir la qualité de l'eau et de ne
-pas porter atteinte aux autres peuplements piscicoles ;
-
-8° Le programme des vidanges prévu ;
-
-9° La durée pour laquelle l'autorisation est sollicitée, celle prévue pour réaliser les aménagements nécessaires ainsi qu'une
-note précisant les capacités financières du demandeur eu égard à l'opération projetée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-11 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-17 (Ab)
-	  - Code de l'environnement - art. R431-25 (Ab)
-	  - Code de l'environnement - art. R431-28 (Ab)
-
-
-###### Article R431-14
-
-Dans le mois qui suit l'enregistrement de la demande, le préfet en accuse réception et, s'il y a lieu, demande les
-compléments d'information qui lui paraissent nécessaires à l'établissement du dossier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-28 (Ab)
-
-
-###### Article R431-15
-
-Dans les deux mois qui suivent la réception définitive du dossier, le préfet :
-
-1° Soit notifie le rejet de la demande si elle ne répond pas à la finalité exigée par la loi ou aux conditions définies à
-l'article R. 431-8 ;
-
-2° Soit demande au pétitionnaire de réaliser, dans les conditions fixées à l'article R. 431-16 et dans un délai maximum de
-deux ans à peine d'être réputé avoir renoncé à l'opération, une étude d'impact ou une notice d'impact dans les formes
-définies aux articles R. 122-1 à R. 122-15.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-16 (Ab)
-	  - Code de l'environnement - art. R431-8 (Ab)
-	  - Code de l'environnement R431-8, R431-16, R122-1 à R122-15
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-24 (Ab)
-	  - Code de l'environnement - art. R431-29 (Ab)
-
-
-###### Article R431-16
-
-Font l'objet d'une étude d'impact, d'une part, les créations de salmonicultures et d'élevages à des fins scientifiques ou
-expérimentales, d'autre part, les créations de piscicultures dont la production ou la commercialisation annuelle est égale ou
-supérieure à 2 tonnes ou dont la surface en eau est égale ou supérieure à 3 hectares, ainsi que les extensions de
-piscicultures qui ont pour effet de porter leur production et leur commercialisation annuelles ou leur surface en eau à un
-niveau égal ou supérieur aux seuils ainsi fixés.
-
-Font l'objet d'une notice d'impact les créations de piscicultures autres que celles définies à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R122-9 (V)
-	  - Code de l'environnement - art. R431-15 (Ab)
-	  - Code de l'environnement - art. R431-24 (Ab)
-	  - Code de l'environnement - art. R431-29 (Ab)
-
-
-###### Article R431-17
-
-Lorsqu'une étude d'impact est exigée et dans le mois qui suit la réception de celle-ci, le préfet ordonne l'ouverture d'une
-enquête publique, dans les formes définies par les articles R. 123-1 à R. 123-23. Le dossier d'enquête prévu au 1° du II de
-l'article R. 123-7 comprend les pièces mentionnées à l'article R. 431-13, l'étude d'impact ainsi qu'un rapport du service
-instructeur.
-
-L'enquête porte sur la réalisation de la pisciculture et de ses aménagements ainsi que sur les méthodes d'élevage piscicole
-envisagées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R123-7 (V)
-	  - Code de l'environnement - art. R431-13 (Ab)
-	  - Code de l'environnement R123-1 à R123-23, R123-7, R431-13
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-24 (Ab)
-	  - Code de l'environnement - art. R431-29 (Ab)
-
-
-###### Article R431-18
-
-Lorsque la création simultanée d'un plan d'eau et d'une pisciculture nécessite à la fois une enquête publique au titre de la
-réglementation relative à l'eau et une enquête publique au titre de la réglementation de la pêche, il est procédé à une seule
-enquête dans les conditions prévues par l'article R. 123-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R123-4 (V)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-29 (Ab)
-
-
-###### Article R431-19
-
-L'enquête terminée, ou la notice d'impact produite, le préfet consulte immédiatement la fédération départementale des
-associations agréées de pêche et de pisciculture et la commission départementale de la nature, des paysages et des sites. Si
-ces organismes n'ont pas fait connaître leur avis dans le délai de deux mois, ils sont réputés avoir émis un avis favorable.
-
-Il statue sur la demande et, dans le délai de quatre mois suivant la fin de l'enquête ou la production de la notice d'impact,
-notifie sa décision au demandeur et aux maires des communes concernées qui procèdent, dans les quarante-huit heures suivant
-la notification de cette décision, à son affichage pendant une durée d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-20
-
-L'autorisation délivrée par le préfet détermine :
-
-1° Le titulaire de l'autorisation, l'objet, l'emplacement et les limites de la pisciculture, la nature des dispositifs
-permanents de clôture qui doivent empêcher la circulation du poisson dans les deux sens, les espèces de poissons, les
-méthodes d'élevage piscicole et les modes de récolte du poisson ;
-
-2° En cas de dérivation d'un cours d'eau ou d'un canal, le débit minimal à réserver pour garantir en permanence, dans ce
-canal ou ce cours d'eau, la vie et la reproduction des espèces piscicoles, le programme des vidanges et les conditions de
-leur déclaration préalable, les dispositifs garantissant la libre circulation des peuplements piscicoles sauvages et les
-mesures nécessaires à la protection des milieux aquatiques ;
-
-3° La durée de l'autorisation qui ne peut excéder trente années et le délai de réalisation des travaux d'aménagement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-31 (Ab)
-
-
-###### Article R431-21
-
-Le titulaire de l'autorisation informe le préfet de la fin d'exécution des travaux d'aménagement. Le préfet fait procéder à
-leur récolement dans le délai d'un mois et notifie sous quinzaine le procès-verbal de récolement au permissionnaire.
-L'exploitation de la pisciculture ne peut commencer avant cette notification.
-
-En cas de défaut d'exécution des travaux dans le délai imparti, ou de non-conformité aux prescriptions imposées, le préfet
-met le demandeur en demeure de satisfaire dans un délai déterminé aux conditions de l'autorisation sous peine de son retrait.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-32 (Ab)
-	  - Code de l'environnement - art. R431-33 (Ab)
-
-
-###### Article R431-22
-
-Après avoir recueilli les observations du titulaire de l'autorisation, le préfet peut prononcer son retrait :
-
-1° Lorsque le titulaire de l'autorisation n'a pas déféré dans le délai imparti à une mise en demeure d'avoir à respecter les
-prescriptions imposées ;
-
-2° A tout moment, s'il est constaté que la pisciculture crée des nuisances pour les autres peuplements piscicoles ou les
-milieux aquatiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-33 (Ab)
-
-
-###### Article R431-23
-
-Les modifications de l'objet de la pisciculture, de la nature des espèces piscicoles élevées, des méthodes d'élevage
-piscicole pratiquées ou des modes de capture du poisson tels qu'ils ont été précisés dans l'autorisation sont déclarées au
-préfet, qui fait connaître, le cas échéant, son opposition dans les deux mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-41 (Ab)
-
-
-###### Article R431-24
-
-L'autorisation peut être renouvelée pour une durée maximale de trente années. La demande de renouvellement doit être
-présentée au préfet deux ans au moins avant la date d'expiration de l'autorisation. Il est statué sur cette demande six mois
-au moins avant l'expiration de l'autorisation.
-
-Le préfet se prononce sur la demande de renouvellement selon la procédure définie aux articles R. 431-11 à R. 431-21.
-Toutefois, les formalités prévues au 2° de l'article R. 431-15 et aux articles R. 431-16 et R. 431-17 ne sont pas requises en
-l'absence de modification des conditions générales d'exploitation, à moins que le préfet n'estime que le renouvellement de
-l'autorisation puisse présenter des inconvénients pour les autres peuplements piscicoles.
-
-Lorsque la demande tendant au renouvellement d'une autorisation n'est pas présentée dans le délai requis, le titulaire de
-l'autorisation est réputé renoncer au bénéfice de cette dernière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-15 (Ab)
-	  - Code de l'environnement - art. R431-16 (Ab)
-	  - Code de l'environnement - art. R431-17 (Ab)
-	  - Code de l'environnement R431-11 à R431-21, R431-15, R431-16, R431-17
-
-
-###### Article R431-25
-
-En cours d'autorisation, le changement de titulaire peut être autorisé par le préfet, sur la demande du permissionnaire et du
-postulant qui doivent fournir les pièces et indications mentionnées aux 1° et 3° de l'article R. 431-13.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-13 (Ab)
-
-
-###### Article R431-26
-
-En cas de retrait de l'autorisation ou si celle-ci n'est pas renouvelée à son expiration, le titulaire de l'autorisation est
-tenu de remettre les lieux en état.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-##### Sous-section 3 : Dispositions applicables aux demandes de concession de pisciculture
-
-###### Article R431-27
-
-La demande tendant à obtenir la concession de pisciculture d'une partie d'un cours d'eau, d'un canal ou d'un plan d'eau
-entrant dans le champ de l'article L. 435-1 ou dépendant du domaine privé de l'Etat est adressée au préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L435-1 (M)
-
-
-###### Article R431-28
-
-Le dossier comporte les pièces et indications prévues à l'article R. 431-13 à l'exception des titres exigés à l'article R.
-431-11. Les dispositions de l'article R. 431-14 sont applicables aux concessions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-11 (Ab)
-	  - Code de l'environnement - art. R431-13 (Ab)
-	  - Code de l'environnement - art. R431-14 (Ab)
-
-
-###### Article R431-29
-
-Dans les deux mois qui suivent la réception définitive du dossier, le préfet, après avis des services chargés de la police de
-la pêche et, le cas échéant, des services chargés de la gestion du domaine public fluvial et des services fiscaux :
-
-1° Soit rejette la demande si le projet ne répond pas aux conditions prévues au 1° de l'article R. 431-15, s'il est de nature
-à compromettre la gestion piscicole du cours d'eau, du canal ou du plan d'eau ou s'il n'est pas jugé compatible avec la
-gestion du domaine public ou privé concerné ;
-
-2° Soit demande au pétitionnaire de réaliser une étude d'impact ou une notice d'impact dans les conditions définies au 2° de
-l'article R. 431-15 et à l'article R. 431-16. Dès réception de l'étude d'impact lorsqu'elle est requise, il est procédé à
-l'enquête dans les formes et conditions prévues aux articles R. 431-17 et R. 431-18.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-15 (Ab)
-	  - Code de l'environnement - art. R431-16 (Ab)
-	  - Code de l'environnement - art. R431-17 (Ab)
-	  - Code de l'environnement - art. R431-18 (Ab)
-
-
-###### Article R431-30
-
-L'enquête terminée, ou la notice d'impact produite, le préfet consulte immédiatement les services intéressés ainsi que la
-commission départementale de la nature, des paysages et des sites, et la fédération départementale des associations agréées
-de pêche et de pisciculture. Si ces services et organismes n'ont pas fait connaître leur avis dans le délai de deux mois, ils
-sont réputés avoir émis un avis favorable.
-
-Il adresse une copie du dossier de la demande de concession et le projet d'acte de concession au directeur des services
-fiscaux en vue de la fixation des redevances dues pour la concession du droit de pêche et, s'il y a lieu, pour l'occupation
-du domaine public ou privé concerné et pour l'usage de l'eau.
-
-Il statue sur la demande et, dans le délai de quatre mois suivant la fin de l'enquête ou la production de la notice d'impact,
-notifie sa décision au demandeur et aux maires des communes concernées, qui procèdent, dans les quarante-huit heures suivant
-la notification de cette décision, à son affichage pendant une durée d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Modifié par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-31
-
-I. - L'acte de concession détermine :
-
-1° Les prescriptions prévues à l'article R. 431-20 ;
-
-2° La nature des droits concédés par l'Etat et le montant des redevances à payer par le concessionnaire.
-
-II. - La délivrance du titre de concession est subordonnée à l'acceptation par le demandeur des conditions financières de la
-concession. Les travaux d'aménagement de la pisciculture ne peuvent pas être entrepris avant le paiement du premier terme des
-redevances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-20 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-42 (Ab)
-
-
-###### Article R431-32
-
-Il est procédé au récolement des travaux dans les formes et conditions fixées à l'article R. 431-21. L'exploitation de la
-concession ne peut commencer avant la notification du procès-verbal de récolement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-21 (Ab)
-
-
-###### Article R431-33
-
-Sous réserve des dispositions particulières applicables au domaine public, la concession accordée peut être modifiée,
-suspendue ou retirée par le préfet à tout moment, dans les formes et conditions fixées à l'alinéa 2 de l'article R. 431-21 et
-à l'article R. 431-22. Elle peut également être retirée en cas de défaut de paiement des redevances par le concessionnaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-21 (Ab)
-	  - Code de l'environnement - art. R431-22 (Ab)
-
-
-###### Article R431-34
-
-Les dispositions des articles R. 431-23 à R. 431-26 sont applicables aux concessions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R431-42 (Ab)
-
-	**Cite**:
-
-	  - Code de l'environnement R431-23 à R431-26
-
-
-##### Sous-section 4 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984
+##### Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984
 
 ###### Article R431-35
 
@@ -84805,6 +84447,10 @@ envisagée.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 	**Cite**:
 
@@ -84837,6 +84483,10 @@ ultérieurement au titre du régime des échelles à poissons, soit l'arrêté d
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+
 	**Cite**:
 
 	  - Code de l'environnement - art. R431-35 (M)
@@ -84849,210 +84499,27 @@ Le préfet, après avoir, dans un délai de deux mois, accusé réception de la 
 1° Soit délivre un certificat attestant la validité des droits ou prend un arrêté constatant le changement de titulaire de
 l'autorisation ou de la concession ;
 
-2° Soit, si la validité des droits, de la concession ou de l'autorisation n'a pu être établie, invite le déclarant à déposer
-une demande d'autorisation ou de concession dans les formes prévues aux dispositions de la présente section.
+2° Soit, si la validité des droits, de la concession ou de l'autorisation n'a pu être établie, invite le déclarant à déposer,
+selon le cas, une déclaration ou une demande d'autorisation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
 
 	**Cité par**:
 
 	  - Arrêté du 6 août 2013 - art. 4 (V)
 
 
-##### Sous-section 5 : Dispositions diverses
-
-###### Article R431-38
-
-Les frais de constitution de dossier, d'affichage, de publicité et d'enquête sont à la charge du demandeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-39
-
-Des copies des arrêtés d'autorisation ou de concession ou de retrait de celles-ci sont adressées au ministre chargé de la
-pêche en eau douce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-
-###### Article R431-40
-
-Les enclos qui avaient été autorisés en vertu du décret du 24 octobre 1925 pris pour l'application de l'article 1er de la loi
-du 18 juin 1923 conservent le bénéfice des dispositions qui leur étaient antérieurement applicables jusqu'au renouvellement
-des autorisations ou concessions qui s'effectuera en application de l'article L. 431-6.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L431-6 (M)
-	  - Décret n°1925-10-24
-	  - Loi n°1923-06-18 art. 1
-
-
-###### Article R431-41
-
-Les détenteurs de concessions ou d'autorisations administratives de plans d'eau en cours de validité doivent déclarer, dans
-les conditions prévues par l'article R. 431-23, lorsque leurs plans d'eau sont destinés à des fins de valorisation
-touristique au sens des dispositions du premier alinéa de l'article L. 431-6, que la capture du poisson à l'aide de lignes
-peut y être pratiquée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L431-6 (M)
-	  - Code de l'environnement - art. R431-23 (Ab)
-
-
-##### Sous-section 6 : Dispositions pénales
-
-###### Article R431-42
-
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de ne pas respecter les prescriptions prises en
-application des articles R. 431-20, R. 431-26, du 1° du I de l'article R. 431-31 ou de l'article R. 431-34.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R431-31 (Ab)
-	  - Code de l'environnement - art. R431-34 (Ab)
-
-
-###### Article R431-43
-
-Est puni de l'amende prévue pour les contraventions de la 2e classe le fait de pratiquer la capture du poisson à l'aide de
-lignes dans les plans d'eau d'une superficie égale ou supérieure à 10 000 mètres carrés aménagés en pisciculture à des fins
-de valorisation touristique sans avoir acquitté la taxe prévue par l'article L. 431-6.
-
-Cette disposition ne s'applique pas à la personne physique propriétaire du plan d'eau et aux autres personnes exonérées par
-l'article L. 431-6.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L431-6 (M)
-
-
 #### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole
 
-##### Section 2 : Protection de la faune piscicole et de son habitat.
-
-##### Sous-section 1 : Protection des frayères, des zones de croissance et d'alimentation 
-
-
-
-
-###### Article R432-1
-
-Toute autorisation délivrée en application des articles L. 214-1 à L. 214-6 pour l'installation ou l'aménagement d'ouvrages
-ainsi que pour l'exécution de travaux dans le lit d'un cours d'eau vaut autorisation au titre de l'article L. 432-3,
-lorsqu'ils sont de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation ou de réserves de
-nourriture de la faune piscicole. Dans ce cas, elle fixe les mesures compensatoires visant à remettre en état le milieu
-naturel aquatique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006 rectificatif JORF 16 septembre 2006
-
-	**Cité par**:
-
-	  - Arrêté du 23 avril 2008 - art. 1 (V)
-	  - Arrêté du 23 avril 2008 - art. 2 (V)
-	  - Arrêté du 23 avril 2008 - art. 3 (V)
-	  - Code de l'environnement - art. R432-1-5 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L432-3 (M)
-	  - Code de l'environnement L214-1 à L214-6, L432-3
-
-
 ##### Section 3 : Obligations relatives aux ouvrages
-
-##### Sous-section 1 : Autorisation de vidange
-
-###### Article R432-2
-
-Toute autorisation de vidange délivrée en application des articles L. 214-1 à L. 214-6 vaut autorisation au titre de
-l'article L. 432-9. Dans ce cas, elle fixe les modalités de capture du poisson et la destination de celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006 rectificatif 16 septembre 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L432-9 (M)
-	  - Code de l'environnement L214-1 à L214-6, L432-9
-
 
 ##### Sous-section 2 : Dispositifs pour le passage des poissons migrateurs et classement des cours d'eau
 
