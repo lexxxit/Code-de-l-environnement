@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-10-06
+Version Consolidée au 2006-10-08
 
 # Partie législative
 
@@ -51405,9 +51405,22 @@ transit ou sur l'extension de son emprise ;
 22° Travaux et ouvrages de défense contre la mer d'une emprise totale supérieure à 2 000 mètres carrés ;
 
 23° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive portant sur
-une superficie d'au moins 50 hectares.
+une superficie d'au moins 50 hectares ;
+
+24° Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une
+forêt de protection mentionnés à l'article R. 412-19 du code forestier, à l'exclusion des travaux de recherche.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L121-1
+	  - Décret n°2006-649 2006-06-02
+	  - Code forestier - art. R412-19 (V)
+	  - Code de la santé publique - art. R1416-3 (M)
+	  - Code de la santé publique R1416-3, R431-16
+	  - Code de l'urbanisme - art. L130-2 (M)
+	  - Code de l'environnement - art. L431-6 (M)
 
 	**Cité par**:
 
@@ -51428,19 +51441,9 @@ une superficie d'au moins 50 hectares.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
-	**Cite**:
-
-	  - Décret n°2006-649 2006-06-02
-	  - Code de la santé publique - art. R1416-3 (M)
-	  - Code de la santé publique R1416-3, R431-16
-	  - Code de l'urbanisme - art. L130-2 (M)
-	  - Code de l'environnement - art. L431-6 (M)
-	  - Code rural L121-1
-
 	**Modifié par**:
 
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 34 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
+	  - Décret n°2006-1230 du 6 octobre 2006 - art. 3 () JORF 8 octobre 2006
 
 
 ###### Article R122-9
