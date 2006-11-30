@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-11-24
+Version Consolidée au 2006-12-01
 
 # Partie législative
 
@@ -63041,18 +63041,18 @@ domaine du conservatoire ainsi que les activités qui peuvent y être exercées 
 
 ###### Article R322-15
 
-Les gardes du littoral prêtent serment devant le tribunal d'instance dans le ressort duquel ils exercent leurs fonctions.
-Cette assermentation est enregistrée auprès du greffe des autres tribunaux d'instance si le garde exerce sa compétence sur le
-territoire de plusieurs tribunaux.
+Les gardes du littoral chargés des missions prévues à l'article L. 322-10-1 prêtent serment devant le tribunal d'instance
+dans le ressort duquel ils exercent leurs fonctions. Cette assermentation est enregistrée auprès du greffe des autres
+tribunaux d'instance si le garde exerce sa compétence sur le territoire de plusieurs tribunaux. 
 
-La formule du serment est la suivante :
+La formule du serment est la suivante : 
 
 " Je jure et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je
 jure également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes
-fonctions. "
+fonctions. " 
 
 Le commissionnement délivré en application de l'article L. 322-10-1 peut être retiré par le préfet, le cas échéant à la
-demande du directeur du conservatoire de l'espace littoral et des rivages lacustres.
+demande du directeur du conservatoire de l'espace littoral et des rivages lacustres. 
 
 Le directeur du conservatoire délivre aux gardes du littoral une carte professionnelle sur laquelle sont précisés les chefs
 de commissionnement et la compétence territoriale. Cette carte est signée par le préfet et par le greffier du tribunal
@@ -63064,9 +63064,37 @@ d'instance territorialement compétent.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 2 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L322-10-1 (M)
+	  - Code de l'environnement - art. L322-10-1 (VT)
+
+
+###### Article R322-15-1
+
+Les gardes du littoral qui assurent la surveillance du domaine administré par le Conservatoire du littoral et des rivages
+lacustres en qualité de garde particulier sont commissionnés par le directeur du conservatoire. Ils sont agréés, assermentés
+et exercent leurs fonctions dans les conditions fixées aux articles R. 15-33-24 à R. 15-33-29-2 du code de procédure pénale.
+Les dispositions des deuxième et quatrième alinéas de l'article R. 15-33-29-1 du code de procédure pénale ne leur sont pas
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 2 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-24 (V)
+	  - Code de procédure pénale - art. R15-33-29-1 (V)
 
 
 ###### Article R322-16
@@ -84584,15 +84612,24 @@ La période de destruction à tir des animaux nuisibles doit être comprise entr
 31 mars au plus tard. La période de destruction du pigeon ramier peut commencer à la date de clôture spécifique de la chasse
 de cette espèce.
 
-Toutefois les agents de l'Etat et de ses établissements publics assermentés au titre de la police de la chasse et les gardes
-particuliers sont autorisés à détruire à tir les animaux nuisibles, à l'exclusion du sanglier, du lapin et du pigeon ramier,
-toute l'année, de jour seulement et sous réserve de l'assentiment du détenteur du droit de destruction.
+Toutefois, les fonctionnaires ou agents mentionnés aux 1° et 3° du I de l'article L. 428-20 ainsi que les gardes particuliers
+sur le territoire sur lequel ils sont commissionnés, sont autorisés à détruire à tir les animaux nuisibles, à l'exclusion du
+sanglier, du lapin et du pigeon ramier, toute l'année, de jour seulement et sous réserve de l'assentiment du détenteur du
+droit de destruction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 3 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L428-20 (M)
 
 	**Cité par**:
 
@@ -85358,6 +85395,122 @@ encourt une peine complémentaire de suspension, pour une durée de trois ans au
 	  - Code de l'environnement - art. R428-4 (M)
 	  - Code de l'environnement - art. R428-6 (M)
 	  - Code de l'environnement R428-1, R428-4, R428-6, R428-10, R428-11, R428-16 à R428-18, R428-22
+
+
+##### Section 4 : Constatation des infractions et poursuites
+
+##### Sous-section 1 : Constatation des infractions
+
+##### Paragraphe 1 : Gardes-chasse particuliers
+
+###### Article R428-25
+
+Les gardes-chasse particuliers sont commissionnés, agréés, assermentés et exercent leurs fonctions dans les conditions fixées
+aux articles R. 15-33-24 à R. 15-33-29-2 du code de procédure pénale. La commission délivrée en application de l'article R.
+15-33-24 de ce code précise les territoires pour lesquels le propriétaire ou le titulaire de droits d'usage dispose des
+droits de chasse que le garde-chasse particulier est chargé de surveiller.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 4 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 21 février 2013 - art. (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-24 (V)
+
+
+##### Paragraphe 2 : Agents de développement des fédérations de chasseurs
+
+###### Article R428-26
+
+I.-Par dérogation aux dispositions des articles R. 15-33-24 et R. 15-33-25 du code de procédure pénale, les agents de
+développement des fédérations sont commissionnés par le président de la fédération départementale ou interdépartementale des
+chasseurs, qui adresse la demande d'agrément au préfet du département où se situe le siège de la fédération. 
+
+Outre les pièces prévues à l'article R. 15-33-25 du code de procédure pénale, la demande d'agrément comporte la liste des
+conventions passées entre les propriétaires ou les détenteurs des droits de chasse et la fédération départementale ou inter-
+départementale des chasseurs dont ils sont membres, pour assurer la surveillance de leurs territoires. La fédération
+départementale ou inter-départementale des chasseurs tient à la disposition du préfet un exemplaire de ces conventions. 
+
+II.-Les agents de développement des fédérations sont agréés, assermentés et exercent leurs fonctions dans les conditions
+définies aux articles R. 15-33-24 à R. 15-33-29-2 du code de procédure pénale. Toutefois, outre les mentions prévues à
+l'article R. 15-33-29-1, ils peuvent faire figurer sur leur vêtement la mention : " Agent de développement de la fédération
+départementale (ou inter-départementale) des chasseurs ". 
+
+La carte d'agrément est délivrée par le président de la fédération départementale ou inter-départementale des chasseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 4 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-24 (V)
+	  - Code de procédure pénale - art. R15-33-25 (V)
+	  - Code de procédure pénale - art. R15-33-29-1 (V)
+
+
+###### Article R428-27
+
+Lorsqu'ils interviennent pour l'application de l'article L. 428-21, les agents de développement des fédérations
+départementales ou inter-départementales de chasseurs joignent aux procès-verbaux qu'ils dressent une copie de la convention
+passée entre le propriétaire ou le détenteur de droits de chasse sur le territoire duquel a été constatée l'infraction et la
+fédération qui les emploie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 4 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L428-21 (V)
+
+
+##### Paragraphe 3 : Dispositions communes
+
+###### Article R428-28
+
+Pour exercer leurs missions, les gardes-chasse particuliers et les agents de développement des fédérations départementales ou
+inter-départementales de chasseurs doivent être titulaires du permis de chasser. 
+
+Outre les pièces prévues à l'article R. 15-33-25 du code de procédure pénale, la demande d'agrément comporte une photocopie
+du permis de chasser.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 4 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-25 (V)
 
 
 #### Chapitre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle
@@ -91177,6 +91330,28 @@ service notifie cette suspension au greffe des tribunaux auprès desquels le com
 	**Abrogé par**:
 
 	  - Décret n°2014-813 du 17 juillet 2014 - art. 4
+
+
+###### Article R437-3-1
+
+Les gardes-pêche particuliers sont commissionnés, agréés, assermentés et exercent leurs fonctions dans les conditions fixées
+aux articles R. 15-33-24 à R. 15-33-29-2 du code de procédure pénale. La commission délivrée en application de l'article R.
+15-33-24 de ce code précise les cours d'eau ou les plans d'eau, ou les parties de ceux-ci, où le propriétaire ou le détenteur
+des droits d'usage dispose des droits de pêche que le garde-pêche particulier est chargé de surveiller.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-1100 du 30 août 2006 - art. 5 () JORF 1er septembre 2006 en vigueur le 1er décembre 2006
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R15-33-24 (V)
 
 
 ##### Sous-section 5 : Saisies
