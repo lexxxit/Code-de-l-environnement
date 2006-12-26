@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-12-17
+Version Consolidée au 2006-12-27
 
 # Partie législative
 
@@ -13992,33 +13992,33 @@ l'urbanisme (livre Ier, titre III).
 
 Les dispositions relatives à la Fondation du patrimoine pour sa contribution à la sauvegarde des éléments remarquables des
 espaces naturels ou paysagers menacés de dégradation, de disparition ou de dispersion sont énoncées à l'article L. 143-2 du
-code du patrimoine ci-après reproduit :
+code du patrimoine ci-après reproduit : 
 
-"Art. L. 143-2 - La "Fondation du patrimoine" a pour but de promouvoir la connaissance, la conservation et la mise en valeur
-du patrimoine national. Elle s'attache à l'identification, à la préservation et à la mise en valeur du patrimoine non
-protégé.
+" La "Fondation du patrimoine" a pour but de promouvoir la connaissance, la conservation et la mise en valeur du patrimoine
+national. 
 
-"Elle contribue à la sauvegarde des monuments, édifices, ensembles mobiliers ou éléments remarquables des espaces naturels ou
+Elle s'attache à l'identification, à la préservation et à la mise en valeur du patrimoine non protégé. 
+
+Elle contribue à la sauvegarde des monuments, édifices, ensembles mobiliers ou éléments remarquables des espaces naturels ou
 paysagers menacés de dégradation, de disparition ou de dispersion. Elle concourt ainsi à l'emploi, à l'insertion, à la
 formation et à la transmission des savoir-faire dans les secteurs de la restauration et de la valorisation du patrimoine et
-des sites.
+des sites. 
 
-"Elle apporte son concours à des personnes publiques ou privées, notamment par subvention, pour l'acquisition, l'entretien,
-la gestion et la présentation au public de ces biens, qu'ils aient ou non fait l'objet de mesures de protection prévues par
-le présent code.
+Elle apporte son concours à des personnes publiques ou privées, notamment par subvention, pour l'acquisition, l'entretien, la
+gestion et la présentation au public de ces biens, qu'ils aient ou non fait l'objet de mesures de protection prévues par le
+présent code, ainsi que pour la conservation de biens dans les conditions prévues à l'article L. 143-2-1. 
 
-"Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque cette acquisition est nécessaire aux actions
-de sauvegarde qu'elle met en place.
+Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque cette acquisition est nécessaire aux actions de
+sauvegarde qu'elle met en place. 
 
-"Elle peut attribuer un label au patrimoine non protégé et aux sites. Ce label peut être pris en compte pour l'octroi de
-l'agrément prévu au 1° ter du II de l'article 156 du code général des impôts.
+Elle peut attribuer un label au patrimoine non protégé et aux sites. Ce label peut être pris en compte pour l'octroi de
+l'agrément prévu au 1° ter du II de l'article 156 du code général des impôts. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 156
-	  - Code du patrimoine. - art. L143-2 (M)
 
 	**Codifié par**:
 
@@ -14027,7 +14027,7 @@ l'agrément prévu au 1° ter du II de l'article 156 du code général des impô
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
 
 	**Cité par**:
 
@@ -24879,28 +24879,33 @@ conditions applicables aux permis de chasser délivrés en France.
 
 ###### Article L423-21-1
 
-Le montant des redevances cynégétiques est fixé par arrêté conjoint du ministre chargé de la chasse et du ministre chargé du
-budget, dans la limite des plafonds suivants :
+Le montant des redevances cynégétiques est fixé pour 2007 à :
 
-Redevance cynégétique nationale : 194 euros
+- redevance cynégétique nationale annuelle : 197,50 euros ;
 
-Redevance cynégétique nationale temporaire : 116 euros
+- redevance cynégétique nationale temporaire pour neuf jours :
 
-Redevance cynégétique départementale : 38 euros
+118,10 euros ;
 
-Redevance cynégétique départementale temporaire : 23 euros
+- redevance cynégétique nationale temporaire pour trois jours :
 
-Redevance cynégétique gibier d'eau : 15 euros
+59,00 euros ;
+
+- redevance cynégétique départementale annuelle :
+
+38,70 euros ;
+
+- redevance cynégétique départementale temporaire pour neuf jours : 23,40 euros ;
+
+- redevance cynégétique départementale temporaire pour trois jours : 15,30 euros.
+
+A partir de 2008, les montants mentionnés ci-dessus sont indexés chaque année sur le taux de progression de l'indice des prix
+à la consommation hors tabac prévu dans le rapport économique, social et financier annexé au projet de loi de finances pour
+l'année considérée. Ils sont publiés chaque année par arrêté conjoint des ministres chargés de la chasse et du budget.
 
 Les redevances cynégétiques sont encaissées par un comptable du Trésor ou un régisseur de recettes de l'Etat placé auprès
 d'une fédération départementale ou interdépartementale des chasseurs et habilité, selon les règles et avec les garanties
 applicables en matière de droits de timbre.
-
-**Nota:**
-
-NOTA : L'article 13 de la loi n° 2002-1050 du 6 août 2002, de Finances rectificative pour 2002 énonce :"La redevance
-cynégétique "gibier d'eau", instituée par l'article R. 223-26 du code rural, n'est plus perçue à compter du 1er juillet
-2003."
 
 **Liens relatifs à cet article**
 
@@ -24909,10 +24914,6 @@ cynégétique "gibier d'eau", instituée par l'article R. 223-26 du code rural, 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Modifié par**:
-
-	  - Ordonnance n°2003-719 du 1 août 2003 - art. 4 () JORF 5 août 2003
-
 	**Cité par**:
 
 	  - Arrêté du 28 octobre 2003 - art. 1 (V)
@@ -24920,6 +24921,10 @@ cynégétique "gibier d'eau", instituée par l'article R. 223-26 du code rural, 
 	  - Code de l'environnement - art. R*223-13 (M)
 	  - Code de l'environnement - art. R423-21-1 (V)
 	  - Code rural - art. R*223-13 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 114 () JORF 27 décembre 2006
 
 
 ##### Sous-section 6 : Refus et exclusions
@@ -40296,6 +40301,49 @@ répercutent à l'identique ces coûts unitaires jusqu'au consommateur final et 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R543-205 (V)
+
+
+###### Article L541-10-3
+
+A compter du 1er janvier 2007, toutes les personnes physiques ou morales qui mettent sur le marché national à titre
+professionnel des produits textiles d'habillement, des chaussures ou du linge de maison neufs destinés aux ménages sont
+tenues de contribuer ou de pourvoir au recyclage et au traitement des déchets issus de ces produits.
+
+Les personnes visées au premier alinéa accomplissent cette obligation :
+
+- soit en contribuant financièrement à un organisme agréé par arrêté conjoint des ministres chargés de l'écologie et de
+l'industrie qui passe convention avec les opérateurs de tri et les collectivités territoriales ou leurs groupements en charge
+de l'élimination des déchets et leur verse un soutien financier pour les opérations de recyclage et de traitement des déchets
+visés au premier alinéa qu'ils assurent ;
+
+- soit en mettant en place, dans le respect d'un cahier des charges, un système individuel de recyclage et de traitement des
+déchets visés au premier alinéa approuvé par arrêté conjoint des ministres chargés de l'écologie et de l'industrie.
+
+Les modalités d'application du présent article, notamment le mode de calcul de la contribution, les conditions dans
+lesquelles est favorisée l'insertion des personnes rencontrant des difficultés au regard de l'emploi ainsi que les sanctions
+en cas de non-respect de l'obligation visée au premier alinéa sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 69 () JORF 27 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 10 novembre 2009 - art. 1 (V)
+	  - Code de l'environnement - art. R543-214 (V)
+	  - Code de l'environnement - art. R543-215 (V)
+	  - Code de l'environnement - art. R543-217 (V)
+	  - Code de l'environnement - art. R543-218 (V)
+	  - Code de l'environnement - art. R543-219 (VD)
+	  - Code de l'environnement - art. R543-220 (V)
+	  - Code de l'environnement - art. R543-223 (V)
 
 
 ##### Section 3 : Elimination des déchets
