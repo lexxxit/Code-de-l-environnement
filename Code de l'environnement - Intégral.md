@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -2962,12 +2962,12 @@ directeur est nommé après avis du ministre chargé de l'environnement.
 ###### Article L132-1
 
 L'Agence de l'environnement et de la maîtrise de l'énergie, le Conservatoire de l'espace littoral et des rivages lacustres,
-les agences de l'eau, l'Office national de la chasse et de la faune sauvage et le Centre des monuments nationaux peuvent
-exercer les droits reconnus à la partie civile en ce qui concerne les faits portant un préjudice direct ou indirect aux
-intérêts qu'ils ont pour objet de défendre et constituant une infraction aux dispositions législatives relatives à la
-protection de la nature et de l'environnement, à l'amélioration du cadre de vie, à la protection de l'eau, de l'air, des
-sols, des sites et paysages, à l'urbanisme ou ayant pour objet la lutte contre les pollutions et les nuisances, ainsi qu'aux
-textes pris pour leur application.
+l'Office national de l'eau et des milieux aquatiques, les agences de l'eau, l'Office national de la chasse et de la faune
+sauvage et le Centre des monuments nationaux peuvent exercer les droits reconnus à la partie civile en ce qui concerne les
+faits portant un préjudice direct ou indirect aux intérêts qu'ils ont pour objet de défendre et constituant une infraction
+aux dispositions législatives relatives à la protection de la nature et de l'environnement, à l'amélioration du cadre de vie,
+à la protection de l'eau, de l'air, des sols, des sites et paysages, à l'urbanisme ou ayant pour objet la lutte contre les
+pollutions et les nuisances, ainsi qu'aux textes pris pour leur application.
 
 Sans préjudice de l'indemnisation des autres dommages subis, les personnes morales de droit public mentionnées à l'alinéa
 précédent intervenues matériellement ou financièrement ont droit au remboursement, par le ou les responsables, des frais
@@ -2985,7 +2985,7 @@ Les chambres d'agriculture, les parcs naturels régionaux et les centres région
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 147 () JORF 24 février 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 88 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -3423,6 +3423,9 @@ valorisation comme matière ;
 
 1 ter Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
+1 quater Aux installations classées d'élimination de déchets tels que les bioréacteurs, lorsqu'elles maîtrisent et valorisent
+la totalité de leur production de biogaz ;
+
 2. (Alinéa abrogé)
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
@@ -3451,7 +3454,7 @@ de l'environnement ou de nuire à la santé humaine."
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 40 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -3501,7 +3504,9 @@ Les autres dispositions relatives à la taxe générale sur les activités pollu
 L'eau fait partie du patrimoine commun de la nation. Sa protection, sa mise en valeur et le développement de la ressource
 utilisable, dans le respect des équilibres naturels, sont d'intérêt général.
 
-L'usage de l'eau appartient à tous dans le cadre des lois et règlements ainsi que des droits antérieurement établis.
+Dans le cadre des lois et règlements ainsi que des droits antérieurement établis, l'usage de l'eau appartient à tous et
+chaque personne physique, pour son alimentation et son hygiène, a le droit d'accéder à l'eau potable dans des conditions
+économiquement acceptables par tous.
 
 Les coûts liés à l'utilisation de l'eau, y compris les coûts pour l'environnement et les ressources elles-mêmes, sont
 supportés par les utilisateurs en tenant compte des conséquences sociales, environnementales et économiques ainsi que des
@@ -3533,19 +3538,20 @@ conditions géographiques et climatiques.
 
 	**Modifié par**:
 
-	  - Loi n°2004-338 du 21 avril 2004 - art. 1 () JORF 22 avril 2004
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 
 #### Chapitre Ier : Régime général et gestion de la ressource
 
 ###### Article L211-1
 
-I. - Les dispositions des chapitres Ier à VII du présent titre ont pour objet une gestion équilibrée de la ressource en eau ;
-cette gestion équilibrée vise à assurer :
+I. - Les dispositions des chapitres Ier à VII du présent titre ont pour objet une gestion équilibrée et durable de la
+ressource en eau ; cette gestion prend en compte les adaptations nécessaires au changement climatique et vise à assurer :
 
-1° La préservation des écosystèmes aquatiques, des sites et des zones humides ; on entend par zone humide les terrains,
-exploités ou non, habituellement inondés ou gorgés d'eau douce, salée ou saumâtre de façon permanente ou temporaire ; la
-végétation, quand elle existe, y est dominée par des plantes hygrophiles pendant au moins une partie de l'année ;
+1° La prévention des inondations et la préservation des écosystèmes aquatiques, des sites et des zones humides ; on entend
+par zone humide les terrains, exploités ou non, habituellement inondés ou gorgés d'eau douce, salée ou saumâtre de façon
+permanente ou temporaire ; la végétation, quand elle existe, y est dominée par des plantes hygrophiles pendant au moins une
+partie de l'année ;
 
 2° La protection des eaux et la lutte contre toute pollution par déversements, écoulements, rejets, dépôts directs ou
 indirects de matières de toute nature et plus généralement par tout fait susceptible de provoquer ou d'accroître la
@@ -3554,25 +3560,26 @@ s'agisse des eaux superficielles, souterraines ou des eaux de la mer dans la lim
 
 3° La restauration de la qualité de ces eaux et leur régénération ;
 
-4° Le développement et la protection de la ressource en eau ;
+4° Le développement, la mobilisation, la création et la protection de la ressource en eau ;
 
 5° La valorisation de l'eau comme ressource économique et, en particulier, pour le développement de la production
-d'électricité d'origine renouvelable ainsi que la répartition de cette ressource.
+d'électricité d'origine renouvelable ainsi que la répartition de cette ressource ;
+
+6° La promotion d'une utilisation efficace, économe et durable de la ressource en eau.
 
 Un décret en Conseil d'Etat précise les critères retenus pour l'application du 1°.
 
-II. - La gestion équilibrée doit permettre de satisfaire ou concilier, lors des différents usages, activités ou travaux, les
-exigences :
+II. - La gestion équilibrée doit permettre en priorité de satisfaire les exigences de la santé, de la salubrité publique, de
+la sécurité civile et de l'alimentation en eau potable de la population. Elle doit également permettre de satisfaire ou
+concilier, lors des différents usages, activités ou travaux, les exigences :
 
-1° De la santé, de la salubrité publique, de la sécurité civile et de l'alimentation en eau potable de la population ;
+1° De la vie biologique du milieu récepteur, et spécialement de la faune piscicole et conchylicole ;
 
-2° De la vie biologique du milieu récepteur, et spécialement de la faune piscicole ;
+2° De la conservation et du libre écoulement des eaux et de la protection contre les inondations ;
 
-3° De la conservation et du libre écoulement des eaux et de la protection contre les inondations ;
-
-4° De l'agriculture, des pêches et des cultures marines, de la pêche en eau douce, de l'industrie, de la production
-d'énergie, et en particulier pour assurer la sécurité du système électrique, des transports, du tourisme, de la protection
-des sites, des loisirs et des sports nautiques ainsi que de toutes autres activités humaines légalement exercées.
+3° De l'agriculture, des pêches et des cultures marines, de la pêche en eau douce, de l'industrie, de la production
+d'énergie, en particulier pour assurer la sécurité du système électrique, des transports, du tourisme, de la protection des
+sites, des loisirs et des sports nautiques ainsi que de toutes autres activités humaines légalement exercées.
 
 **Liens relatifs à cet article**
 
@@ -3759,7 +3766,7 @@ des sites, des loisirs et des sports nautiques ainsi que de toutes autres activi
 
 	**Modifié par**:
 
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 41 () JORF 14 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 20 () JORF 31 décembre 2006
 
 
 ###### Article L211-1-1
@@ -3911,18 +3918,45 @@ protection ;
 a) Délimiter des zones dites "zones humides d'intérêt environnemental particulier" dont le maintien ou la restauration
 présente un intérêt pour la gestion intégrée du bassin versant, ou une valeur touristique, écologique, paysagère ou
 cynégétique particulière. Ces zones peuvent englober les zones humides dites "zones stratégiques pour la gestion de l'eau"
-prévues à l'article L. 212-5 ;
+prévues à l'article L. 212-5-1 ;
 
-b) Etablir, en concertation notamment avec les collectivités territoriales et leurs groupements, les représentants des
-propriétaires ou leurs groupements, les exploitants des terrains ou leurs représentants, les associations agréées de
-protection de la nature, les fédérations des associations agréées de pêche, les fédérations des chasseurs, les associations
-agréées de pêcheurs professionnels, réunis en comité de gestion de la zone humide, sous l'égide de la commission locale de
-l'eau lorsqu'elle existe, un programme d'actions visant à restaurer, préserver, gérer et mettre en valeur de façon durable
-les zones définies au a ;
+b) Etablir, dans les conditions prévues à l'article L. 114-1 du code rural, un programme d'actions visant à restaurer,
+préserver, gérer et mettre en valeur de façon durable les zones définies au a du présent article ;
 
-c) Préciser dans ce programme les pratiques à promouvoir ainsi que les moyens prévus pour favoriser leur généralisation,
-rendre obligatoires certaines de ces pratiques et préciser les modalités selon lesquelles ces pratiques peuvent, le cas
-échéant, bénéficier d'aides lorsqu'elles induisent des surcoûts ou des pertes de revenus.
+5° Délimiter, le cas échéant après qu'elles ont été identifiées dans le plan d'aménagement et de gestion durable de la
+ressource en eau et des milieux aquatiques prévu par l'article L. 212-5-1, des zones où il est nécessaire d'assurer la
+protection quantitative et qualitative des aires d'alimentation des captages d'eau potable d'une importance particulière pour
+l'approvisionnement actuel ou futur, ainsi que des zones dans lesquelles l'érosion diffuse des sols agricoles est de nature à
+compromettre la réalisation des objectifs de bon état ou, le cas échéant, de bon potentiel prévus par l'article L. 212-1, et
+y établir, dans les conditions prévues au 4° du présent article, un programme d'actions à cette fin ;
+
+6° Délimiter des périmètres à l'intérieur desquels les autorisations de prélèvement d'eau pour l'irrigation sont délivrées à
+un organisme unique pour le compte de l'ensemble des préleveurs irrigants. Dans les zones de répartition des eaux, l'autorité
+administrative peut constituer d'office cet organisme.
+
+III. - Un décret en Conseil d'Etat détermine :
+
+1° Les règles destinées à assurer la sécurité des ouvrages hydrauliques autres que les ouvrages concédés en application de la
+loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique. Ces règles portent sur les modalités de
+surveillance des ouvrages par le propriétaire ou l'exploitant et peuvent prévoir, pour certains ouvrages, l'intervention, aux
+frais du propriétaire ou de l'exploitant, d'organismes agréés ;
+
+2° Les modalités selon lesquelles l'autorité administrative procède à l'agrément des organismes et assure le contrôle du
+respect des règles visées au 1° ;
+
+3° Les conditions dans lesquelles l'autorité administrative peut demander au propriétaire ou à l'exploitant d'un ouvrage visé
+à l'article L. 214-2 du présent code ou soumis à la loi du 16 octobre 1919 précitée la présentation d'une étude de dangers
+qui expose les risques que présente l'ouvrage pour la sécurité publique, directement ou indirectement en cas d'accident, que
+la cause soit interne ou externe à l'ouvrage. Cette étude prend en compte la probabilité d'occurrence, la cinétique et la
+gravité des accidents potentiels selon une méthodologie qu'elle explicite. Elle définit et justifie les mesures propres à
+réduire la probabilité et les effets de ces accidents ;
+
+4° Les conditions dans lesquelles le propriétaire ou l'exploitant d'un ouvrage mentionné au 3° met en place une signalisation
+adaptée pour assurer la sécurité de la circulation des engins nautiques non motorisés ;
+
+5° Les conditions dans lesquelles est établie et actualisée une liste des ouvrages mentionnés au 3°, pour lesquels est mis en
+place un aménagement adapté permettant leur franchissement ou leur contournement pour assurer la circulation sécurisée des
+engins nautiques non motorisés.
 
 **Liens relatifs à cet article**
 
@@ -3991,13 +4025,18 @@ rendre obligatoires certaines de ces pratiques et préciser les modalités selon
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 128 () JORF 24 février 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 21 () JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 77 () JORF 31 décembre 2006
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L211-1 (M)
 	  - Code de l'environnement - art. L211-2 (V)
+	  - Code de l'environnement - art. L212-1 (M)
 	  - Code de l'environnement - art. L212-5 (M)
+	  - Code de l'environnement - art. L214-2 (M)
+	  - Code rural L114-1
+	  - Loi n°1919-10-16
 
 
 ###### Article L211-4
@@ -4086,6 +4125,27 @@ pénales saisies de poursuites consécutives à l'incident ou à l'accident.
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
+###### Article L211-5-1
+
+Dans le cadre de la lutte contre les pollutions accidentelles des eaux, l'Etat peut agréer un ou plusieurs organismes
+spécialisés dans la recherche, l'expérimentation et la mise en oeuvre des moyens de combattre ces pollutions afin de leur
+confier des missions d'intérêt général d'expertise et d'appui aux autorités.
+
+Les agréments délivrés en application du présent article peuvent être retirés lorsque les organismes ne satisfont plus aux
+conditions qui ont conduit à les délivrer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 38 () JORF 31 décembre 2006
+
+
 ###### Article L211-6
 
 Les décisions prises en application de l'article L. 211-5 peuvent être déférées à la juridiction administrative dans les
@@ -4115,12 +4175,11 @@ conditions prévues à l'article L. 514-6.
 
 ###### Article L211-7
 
-I. - Sous réserve du respect des dispositions des articles 5 et 25 du code du domaine public fluvial et de la navigation
-intérieure, les collectivités territoriales et leurs groupements ainsi que les syndicats mixtes créés en application de
-l'article L. 5721-2 du code général des collectivités territoriales et la communauté locale de l'eau sont habilités à
-utiliser les articles L. 151-36 à L. 151-40 du code rural pour entreprendre l'étude, l'exécution et l'exploitation de tous
-travaux, actions, ouvrages ou installations  présentant un caractère d'intérêt général ou d'urgence, dans le cadre du schéma
-d'aménagement et de gestion des eaux s'il existe, et visant :
+I. -  Les collectivités territoriales et leurs groupements ainsi que les syndicats mixtes créés en application de l'article
+L. 5721-2 du code général des collectivités territoriales sont habilités à utiliser les articles L. 151-36 à L. 151-40 du
+code rural pour entreprendre l'étude, l'exécution et l'exploitation de tous travaux, actions, ouvrages ou installations
+présentant un caractère d'intérêt général ou d'urgence, dans le cadre du schéma d'aménagement et de gestion des eaux s'il
+existe, et visant :
 
 1° L'aménagement d'un bassin ou d'une fraction de bassin hydrographique ;
 
@@ -4150,8 +4209,11 @@ boisées riveraines ;
 aquatiques dans un sous-bassin ou un groupement de sous-bassins, ou dans un système aquifère, correspondant à une unité
 hydrographique.
 
+Les compétences visées aux alinéas précédents peuvent être exercées par l'établissement public Voies navigables de France sur
+le domaine dont la gestion lui a été confiée.
+
 I bis. - Lorsqu'un projet visé aux 1°, 2° et 5° du I dépassant un seuil financier fixé par décret est situé dans le périmètre
-d'un établissement public territorial de bassin visé à l'article L. 213-10, le préfet saisit pour avis le président de cet
+d'un établissement public territorial de bassin visé à l'article L. 213-12, le préfet saisit pour avis le président de cet
 établissement. A défaut de réponse dans un délai de deux mois, l'avis est réputé favorable.
 
 II. - L'étude, l'exécution et l'exploitation desdits travaux peuvent être concédées notamment à des sociétés d'économie
@@ -4175,8 +4237,7 @@ VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 
 	  - Décret n°59-96 1959-01-07
 	  - Code général des collectivités territoriales - art. L5721-2 (M)
-	  - Code de l'environnement - art. L213-10 (M)
-	  - Code de l'environnement L213-10, L214-1 à L214-6
+	  - Code de l'environnement L213-12, L214-1 à L214-6
 	  - Code rural L151-36 à L151-40, L151-36, L151-37, L151-37-1
 	  - Code du domaine public fluvial et de la navigation - art. 25 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 5 (M)
@@ -4247,7 +4308,7 @@ VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 55 () JORF 31 juillet 2003
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 2 () JORF 31 décembre 2006
 
 
 ###### Article L211-8
@@ -4361,11 +4422,11 @@ situés en aval ;
 essentiels ;
 
 3° Préserver ou restaurer des zones humides dites "zones stratégiques pour la gestion de l'eau" délimitées en application de
-l'article L. 212-5.
+l'article L. 212-5-1.
 
 III. - Les zones soumises aux servitudes visées aux 1° et 2° du II sont délimitées par arrêté préfectoral. Celui-ci est pris
 après enquête publique menée conformément au code de l'expropriation pour cause d'utilité publique. Les zones soumises aux
-servitudes visées au 3° du II sont délimitées conformément à l'article L. 212-5.
+servitudes visées au 3° du II sont délimitées conformément à l'article L. 212-5-1.
 
 IV. - Dans les zones de rétention temporaire des eaux de crues ou de ruissellement mentionnées au 1° du II, l'arrêté
 préfectoral peut obliger les propriétaires et les exploitants à s'abstenir de tout acte de nature à nuire au bon
@@ -4506,13 +4567,12 @@ XII. - Un décret en Conseil d'Etat fixe les conditions d'application du présen
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 2005-02-23 art. 132 II, III, IV JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 77 () JORF 31 décembre 2006
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L230-1 (M)
-	  - Code de l'environnement - art. L212-5 (M)
+	  - Code de l'environnement - art. L212-5-1 (V)
 	  - Code rural L361-10
 
 
@@ -4578,10 +4638,10 @@ habitats ou des espèces directement dépendants de l'eau ;
 - les zones de captages, actuelles ou futures, destinées à l'alimentation en eau potable.
 
 III. - Chaque bassin ou groupement de bassins hydrographiques est doté d'un ou de plusieurs schémas directeurs d'aménagement
-et de gestion des eaux fixant les orientations fondamentales d'une gestion équilibrée de la ressource en eau telle que prévue
-à l'article L. 211-1 et des objectifs de qualité et de quantité des eaux. Le schéma prend en compte l'évaluation, par zone
-géographique, du potentiel hydroélectrique établi en application du I de l'article 6 de la loi n° 2000-108 du 10 février 2000
-relative à la modernisation et au développement du service public de l'électricité.
+et de gestion des eaux fixant les objectifs visés au IV du présent article et les orientations permettant de satisfaire aux
+principes prévus aux articles L. 211-1 et L. 430-1. Le schéma prend en compte l'évaluation, par zone géographique, du
+potentiel hydroélectrique établi en application du I de l'article 6 de la loi n° 2000-108 du 10 février 2000 relative à la
+modernisation et au développement du service public de l'électricité.
 
 IV. - Les objectifs de qualité et de quantité des eaux que fixent les schémas directeurs d'aménagement et de gestion des eaux
 correspondent :
@@ -4620,7 +4680,8 @@ domestiques. Ces données sont actualisées lors des mises à jour du schéma di
 
 IX. - Le schéma directeur détermine les aménagements et les dispositions nécessaires pour prévenir la détérioration et
 assurer la protection et l'amélioration de l'état des eaux et milieux aquatiques, pour atteindre et respecter les objectifs
-de qualité et de quantité des eaux mentionnées aux IV à VII.
+de qualité et de quantité des eaux mentionnées aux IV à VII. En particulier, le schéma directeur identifie les sous-bassins
+ou parties de sous-bassins dans lesquels une gestion coordonnée des ouvrages, notamment hydroélectriques, est nécessaire.
 
 X. - Le schéma directeur d'aménagement et de gestion des eaux détermine les eaux maritimes intérieures et territoriales et
 les sous-bassins ou groupements de sous-bassins pour lesquels un schéma d'aménagement et de gestion des eaux défini à
@@ -4836,6 +4897,7 @@ XIII. - Un décret en Conseil d'Etat fixe les modalités d'application du prése
 
 	  - Loi n°2000-108 du 10 février 2000 - art. 6 (M)
 	  - Code de l'environnement - art. L211-1 (M)
+	  - Code de l'environnement - art. L430-1 (V)
 
 	**Codifié par**:
 
@@ -4844,7 +4906,7 @@ XIII. - Un décret en Conseil d'Etat fixe les modalités d'application du prése
 
 	**Modifié par**:
 
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 43 () JORF 14 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 74 () JORF 31 décembre 2006
 
 
 ###### Article L212-2
@@ -4944,16 +5006,20 @@ gestion des eaux. Ce programme ainsi que sa mise à jour périodique sont soumis
 L'autorité administrative établit et met à jour pour chaque bassin ou groupement de bassins, après avis du comité de bassin,
 un programme de surveillance de l'état des eaux.
 
+Les propriétaires riverains de cours d'eau, lacs et plans d'eau non domaniaux sont tenus de laisser le libre passage sur
+leurs terrains aux agents mandatés par l'autorité administrative pour accéder auxdits cours d'eau, lacs et plans d'eau et
+effectuer les mesures nécessaires à la mise en oeuvre et au suivi du programme de surveillance de l'état des eaux, dans la
+mesure nécessaire à l'accomplissement de cette mission.
+
+Les analyses des eaux et des sédiments nécessaires à la mise en oeuvre du programme de surveillance sont effectuées par des
+laboratoires agréés par le ministre chargé de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2004-338 du 21 avril 2004 - art. 4 () JORF 22 avril 2004
 
 	**Cité par**:
 
@@ -4969,6 +5035,11 @@ un programme de surveillance de l'état des eaux.
 	  - Arrêté du 7 août 2015 - art.
 	  - Code de l'environnement - art. R211-76 (V)
 	  - Code de l'environnement - art. R213-12-2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 2 () JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 52 () JORF 31 décembre 2006
 
 
 ###### Article L212-2-3
@@ -5001,13 +5072,19 @@ programmes prévus aux articles L. 212-2-1 et L. 212-2-2, en coordination avec l
 
 ###### Article L212-3
 
-Dans un sous-bassin ou un groupement de sous-bassins correspondant à une unité hydrographique ou à un système aquifère, un
-schéma d'aménagement et de gestion des eaux fixe les objectifs généraux d'utilisation, de mise en valeur et de protection
-quantitative et qualitative des ressources en eau superficielle et souterraine et des écosystèmes aquatiques ainsi que de
-préservation des zones humides, de manière à satisfaire aux principes énoncés à l'article L. 211-1.
+Le schéma d'aménagement et de gestion des eaux institué pour un sous-bassin, pour un groupement de sous-bassins correspondant
+à une unité hydrographique cohérente ou pour un système aquifère fixe les objectifs généraux et les dispositions permettant
+de satisfaire aux principes énoncés aux articles L. 211-1 et L. 430-1. 
 
-Son périmètre est déterminé par le schéma directeur mentionné à l'article L. 212-1 ; à défaut, il est arrêté par le préfet,
-après consultation ou sur proposition des collectivités territoriales, et après consultation du comité de bassin.
+Le schéma d'aménagement et de gestion des eaux doit être compatible avec le schéma directeur d'aménagement et de gestion des
+eaux prévu à l'article L. 212-1 ou rendu compatible avec lui dans un délai de trois ans suivant la mise à jour du schéma
+directeur. 
+
+Le périmètre et le délai dans lequel il est élaboré ou révisé sont déterminés par le schéma directeur d'aménagement et de
+gestion des eaux ; à défaut, ils sont arrêtés par le représentant de l'Etat dans le département, sur proposition ou après
+consultation des collectivités territoriales et après consultation des établissements publics territoriaux de bassin et du
+comité de bassin. Dans ce dernier cas, le représentant de l'Etat dans le département peut compléter la commission locale de
+l'eau dans le respect de la répartition des sièges prévue au II de l'article L. 212-4.
 
 **Liens relatifs à cet article**
 
@@ -5057,9 +5134,14 @@ après consultation ou sur proposition des collectivités territoriales, et apr�
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 75 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L211-1 (M)
+	  - Code de l'environnement - art. L211-1 (V)
+	  - Code de l'environnement - art. L430-1 (V)
 
 
 ###### Article L212-4
@@ -5067,17 +5149,24 @@ après consultation ou sur proposition des collectivités territoriales, et apr�
 I. - Pour l'élaboration, la révision et le suivi de l'application du schéma d'aménagement et de gestion des eaux, une
 commission locale de l'eau est créée par le préfet.
 
-II. - Elle comprend :
+Elle peut confier l'exécution de certaines de ses missions à un établissement public territorial de bassin, à une
+collectivité territoriale ou à un groupement de collectivités territoriales.
 
-1° Pour moitié, des représentants des collectivités territoriales et des établissements publics locaux, qui désignent en leur
-sein le président de la commission ;
+II. - La commission locale de l'eau comprend :
 
-2° Pour un quart, des représentants des usagers, des propriétaires riverains, des organisations professionnelles et des
-associations concernées. Ces associations doivent être régulièrement déclarées depuis au moins cinq ans à la date de la
-création de la commission et se proposer, par leurs statuts, la sauvegarde de tout ou partie des principes visés à l'article
-L. 211-1 ;
+1° Des représentants des collectivités territoriales et de leurs groupements, des établissements publics locaux et, s'il
+existe, de l'établissement public territorial de bassin, situés en tout ou partie dans le périmètre du schéma visé à
+l'article L. 212-3, qui désignent en leur sein le président de la commission ;
 
-3° Pour un quart, des représentants de l'Etat et de ses établissements publics.
+2° Des représentants des usagers, des propriétaires fonciers, des organisations professionnelles et des associations
+concernées, établis dans le périmètre du schéma visé à l'article L. 212-3 ;
+
+3° Des représentants de l'Etat et de ses établissements publics intéressés.
+
+Les représentants de la catégorie mentionnée au 1° détiennent au moins la moitié du nombre total des sièges et ceux de la
+catégorie mentionnée au 2° au moins le quart.
+
+Un décret fixe les règles de désignation des représentants des différentes catégories.
 
 **Liens relatifs à cet article**
 
@@ -5100,9 +5189,9 @@ L. 211-1 ;
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L211-1 (M)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 76 () JORF 31 décembre 2006
 
 
 ###### Article L212-5
@@ -5116,19 +5205,6 @@ sociétés d'économie mixte et des associations syndicales libres de l'ordonnan
 associations syndicales de propriétaires ayant des incidences sur la qualité, la répartition ou l'usage de la ressource en
 eau. Le schéma prend également en compte l'évaluation, par zone géographique, du potentiel hydroélectrique établi en
 application du I de l'article 6 de la loi n° 2000-108 du 10 février 2000 précitée.
-
-Il énonce, ensuite, les priorités à retenir pour atteindre les objectifs définis à l'article L. 212-3, en tenant compte de la
-protection du milieu naturel aquatique, des nécessités de mise en valeur de la ressource en eau, de l'évolution prévisible de
-l'espace rural, de l'environnement urbain et économique et de l'équilibre à assurer entre les différents usages de l'eau. Il
-évalue les moyens économiques et financiers nécessaires à sa mise en oeuvre.
-
-Il peut délimiter, en vue de leur préservation ou de leur restauration, des zones humides dites "zones stratégiques pour la
-gestion de l'eau", situées à l'intérieur des zones humides définies à l'article L. 211-1 et contribuant de manière
-significative à la protection de la ressource en eau potable ou à la réalisation des objectifs du schéma d'aménagement et de
-gestion des eaux en matière de bon état des eaux. Les modalités de délimitation de ces zones stratégiques sont définies par
-décret.
-
-Il doit être compatible avec les orientations fixées par le schéma directeur mentionné à l'article L. 212-1.
 
 **Liens relatifs à cet article**
 
@@ -5150,9 +5226,7 @@ Il doit être compatible avec les orientations fixées par le schéma directeur 
 	**Cite**:
 
 	  - Loi n°2000-108 du 10 février 2000 - art. 6 (M)
-	  - Ordonnance 2004-632 2004-07-01
-	  - Code de l'environnement - art. L212-1 (M)
-	  - Code de l'environnement - art. L212-3 (M)
+	  - Ordonnance n°2004-632 du 1 juillet 2004 (V)
 
 	**Codifié par**:
 
@@ -5161,31 +5235,118 @@ Il doit être compatible avec les orientations fixées par le schéma directeur 
 
 	**Modifié par**:
 
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 43 () JORF 14 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 77 () JORF 31 décembre 2006
+
+
+###### Article L212-5-1
+
+I.-Le schéma d'aménagement et de gestion des eaux comporte un plan d'aménagement et de gestion durable de la ressource en eau
+et des milieux aquatiques définissant les conditions de réalisation des objectifs mentionnés à l'article L. 212-3, notamment
+en évaluant les moyens financiers nécessaires à la mise en oeuvre du schéma. 
+
+Ce plan peut aussi : 
+
+1° Identifier les zones visées aux 4° et 5° du II de l'article L. 211-3 ; 
+
+2° Etablir un inventaire des ouvrages hydrauliques susceptibles de perturber de façon notable les milieux aquatiques et
+prévoir des actions permettant d'améliorer le transport des sédiments et de réduire l'envasement des cours d'eau et des
+canaux, en tenant compte des usages économiques de ces ouvrages ; 
+
+3° Identifier, à l'intérieur des zones visées au a du 4° du II de l'article L. 211-3, des zones stratégiques pour la gestion
+de l'eau dont la préservation ou la restauration contribue à la réalisation des objectifs visés au IV de l'article L.
+212-1 ; 
+
+4° Identifier, en vue de les préserver, les zones naturelles d'expansion de crues. 
+
+II.-Le schéma comporte également un règlement qui peut : 
+
+1° Définir des priorités d'usage de la ressource en eau ainsi que la répartition de volumes globaux de prélèvement par
+usage ; 
+
+2° Définir les mesures nécessaires à la restauration et à la préservation de la qualité de l'eau et des milieux aquatiques,
+en fonction des différentes utilisations de l'eau ; 
+
+3° Indiquer, parmi les ouvrages hydrauliques fonctionnant au fil de l'eau figurant à l'inventaire prévu au 2° du I, ceux qui
+sont soumis, sauf raisons d'intérêt général, à une obligation d'ouverture régulière de leurs vannages afin d'améliorer le
+transport naturel des sédiments et d'assurer la continuité écologique. 
+
+III.-Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 77 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L211-12 (VD)
+	  - Code de l'environnement - art. L211-3 (V)
+	  - Code de l'environnement - art. L212-10 (V)
+	  - Code de l'environnement - art. L212-8 (V)
+	  - Code de l'environnement - art. L216-1 (VT)
+	  - Code de l'environnement - art. L216-3 (VD)
+	  - Code de l'environnement - art. L216-5 (VT)
+	  - Code de l'environnement - art. R212-46 (V)
+	  - Code de l'environnement - art. R212-47 (V)
+	  - Code de l'environnement - art. R213-48-15 (V)
+	  - Livre des procédures fiscales - art. L135 P (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L212-1 (V)
+	  - Code de l'environnement - art. L212-3 (V)
+
+
+###### Article L212-5-2
+
+Lorsque le schéma a été approuvé et publié, le règlement et ses documents cartographiques sont opposables à toute personne
+publique ou privée pour l'exécution de toute installation, ouvrage, travaux ou activité mentionnés à l'article L. 214-2. 
+
+Les décisions applicables dans le périmètre défini par le schéma prises dans le domaine de l'eau par les autorités
+administratives doivent être compatibles ou rendues compatibles avec le plan d'aménagement et de gestion durable de la
+ressource en eau dans les conditions et les délais qu'il précise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 77 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L214-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R212-42 (M)
+	  - Code de l'environnement - art. R214-54 (VD)
 
 
 ###### Article L212-6
 
-Le projet de schéma d'aménagement et de gestion des eaux est élaboré et révisé par la commission locale de l'eau, le cas
-échéant dans le délai fixé par le schéma directeur d'aménagement et de gestion des eaux en application du X de l'article L.
-212-1. Toutefois, si le projet n'a pas été élaboré ou révisé à l'expiration de ce délai, il peut l'être par l'autorité
-administrative. Le projet est soumis à l'avis des conseils généraux, des conseils régionaux, des établissements publics
-territoriaux de bassin, des chambres consulaires et du comité de bassin intéressés. Le comité de bassin assure
-l'harmonisation des schémas d'aménagement et de gestion des eaux entrant dans le champ de sa compétence.
+La commission locale de l'eau soumet le projet de schéma d'aménagement et de gestion des eaux à l'avis des conseils généraux,
+des conseils régionaux, des chambres consulaires, des communes, de leurs groupements compétents et, s'il existe, de
+l'établissement public territorial de bassin ainsi que du comité de bassin intéressés. Hormis celui du comité de bassin, ces
+avis sont réputés favorables s'ils n'interviennent pas dans un délai de quatre mois.
 
-Le projet est rendu public par l'autorité administrative avec, en annexe, les avis des personnes consultées. Ce dossier est
-mis à la disposition du public pendant deux mois.
+Le projet de schéma, éventuellement modifié pour tenir compte des avis recueillis, est soumis à enquête publique. A l'issue
+de l'enquête, le schéma, éventuellement modifié pour tenir compte des observations, est approuvé par le représentant de
+l'Etat dans le département et son arrêté d'approbation est publié. Le schéma est tenu à la disposition du public.
 
-A l'issue de ce délai, le schéma d'aménagement et de gestion des eaux, éventuellement modifié pour tenir compte des
-observations du public, des avis des communes, des conseils généraux, des conseils régionaux et du comité de bassin, est
-approuvé par l'autorité administrative. Il est tenu à la disposition du public.
-
-Lorsque le schéma a été approuvé, les décisions prises dans le domaine de l'eau par les autorités administratives et
-applicables dans le périmètre qu'il définit doivent être compatibles ou rendues compatibles avec ce schéma. Les autres
-décisions administratives doivent prendre en compte les dispositions du schéma.
-
-La commission locale de l'eau connaît des réalisations, documents ou programmes portant effet dans le périmètre du schéma
-d'aménagement et de gestion des eaux et des décisions visées au précédent alinéa.
+Si le schéma n'a pas été élaboré dans le délai imparti en application du X de l'article L. 212-1, le représentant de l'Etat
+dans le département élabore le projet et, après consultation de la commission locale de l'eau, met en oeuvre la procédure
+prévue aux deux alinéas qui précèdent.
 
 **Liens relatifs à cet article**
 
@@ -5211,7 +5372,7 @@ d'aménagement et de gestion des eaux et des décisions visées au précédent a
 
 	**Modifié par**:
 
-	  - Loi n°2004-338 du 21 avril 2004 - art. 5 () JORF 22 avril 2004
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 78 () JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -5220,7 +5381,8 @@ d'aménagement et de gestion des eaux et des décisions visées au précédent a
 
 ###### Article L212-7
 
-Un décret fixe, en tant que de besoin, les modalités d'application des articles L. 212-3 à L. 212-6.
+Le schéma visé à l'article L. 212-3 peut être modifié par le représentant de l'Etat dans le département, après avis ou sur
+proposition de la commission locale de l'eau, si cette modification ne porte pas atteinte aux objectifs de ce schéma.
 
 **Liens relatifs à cet article**
 
@@ -5234,13 +5396,123 @@ Un décret fixe, en tant que de besoin, les modalités d'application des article
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 79 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - Code de l'environnement L212-3 à L212-6
+	  - Code de l'environnement - art. L212-3 (V)
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L4424-36 (VD)
+
+
+###### Article L212-8
+
+Lorsqu'une opération soumise à enquête publique est contraire aux dispositions du règlement visé au II de l'article L.
+212-5-1, le représentant de l'Etat dans le département soumet pour avis à la commission locale de l'eau un projet de
+modification de ce règlement et de ses documents cartographiques. En l'absence de réponse dans un délai de quatre mois, cet
+avis est réputé favorable. La déclaration d'utilité publique ou d'intérêt général de cette opération ne peut être prononcée
+que si l'enquête publique a également porté sur ce projet de modification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 79 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. Annexe de l'article R214-85 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L212-5-1 (V)
+
+
+###### Article L212-9
+
+Il peut être procédé à la révision de tout ou partie du schéma d'aménagement et de gestion des eaux dans les conditions
+définies à l'article L. 212-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 79 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L212-6 (V)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L4424-36 (VD)
+
+
+###### Article L212-10
+
+I. - Un projet de schéma d'aménagement et de gestion des eaux arrêté par la commission locale de l'eau à la date de
+promulgation de la loi n° 2006-1772 du 30 décembre 2006 sur l'eau et les milieux aquatiques peut être approuvé selon la
+procédure prévue par les dispositions législatives et réglementaires antérieures pendant un délai de deux ans à compter de
+cette même date. Le schéma approuvé constitue le plan d'aménagement et de gestion durable de la ressource défini au I de
+l'article L. 212-5-1.
+
+II. - Les schémas d'aménagement et de gestion des eaux approuvés à la date de promulgation de la loi n° 2006-1772 du 30
+décembre 2006 précitée ou en application du I du présent article sont complétés dans un délai de cinq ans à compter de la
+promulgation de ladite loi par le règlement prévu au II de l'article L. 212-5-1, approuvé selon la procédure fixée par
+l'article L. 212-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2006-1772 2006-12-30
+	  - Code de l'environnement - art. L212-5-1 (V)
+	  - Code de l'environnement - art. L212-6 (M)
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 79 () JORF 31 décembre 2006
+
+
+###### Article L212-11
+
+Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 79 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L212-10 (V)
+	  - Code de l'environnement - art. L512-16 (VD)
+	  - Code de l'environnement - art. L555-2 (VD)
 
 
 #### Chapitre III : Structures administratives et financières
@@ -5251,16 +5523,16 @@ Un décret fixe, en tant que de besoin, les modalités d'application des article
 
 Le Comité national de l'eau a pour mission :
 
-1° De donner son avis sur les circonscriptions géographiques des bassins et groupements de bassins qui sont de la compétence
-des comités visés à l'article L. 213-2 ;
+1° De donner son avis sur les circonscriptions géographiques des bassins et groupements de bassins et sur tout problème
+commun à deux ou plusieurs bassins ou groupements de bassin ;
 
 2° De donner son avis sur tous les projets d'aménagement et de répartition des eaux ayant un caractère national ainsi que sur
 les grands aménagements régionaux ;
 
-3° De donner son avis sur tout problème commun à deux ou plusieurs comités de bassin ou agences de l'eau ;
+3° De donner son avis sur les projets de décret concernant la protection des peuplements piscicoles ;
 
-4° D'une façon générale, de rassembler la documentation nécessaire et de formuler des avis sur toutes les questions faisant
-l'objet des chapitres Ier à VII du présent titre.
+4° De donner, sur proposition d'un comité consultatif constitué en son sein, son avis sur le prix de l'eau facturé aux
+usagers et la qualité des services publics de distribution d'eau et d'assainissement.
 
 **Liens relatifs à cet article**
 
@@ -5282,9 +5554,50 @@ l'objet des chapitres Ier à VII du présent titre.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L213-2 (M)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 87 () JORF 31 décembre 2006
+
+
+##### Section 2 : Office national de l'eau et des milieux aquatiques
+
+###### Article L213-4
+
+L'Office national de l'eau et des milieux aquatiques détermine les domaines et les conditions de son action dans un programme
+pluriannuel d'intervention qui indique les montants de dépenses et de recettes nécessaires à sa mise en oeuvre.
+
+L'exécution du programme pluriannuel d'intervention fait l'objet d'un rapport annuel présenté par le Gouvernement au
+Parlement.
+
+**Nota:**
+
+Loi n° 2006-1772, art. 88 II : 
+
+II.-Les dispositions prévues au I entrent en vigueur un mois après la publication du décret visé à l'article L. 213-6 du code
+de l'environnement et au plus tard le 1er juillet 2007. 
+
+Il s'agit du décret n° 2007-443 du 25 mars 2007 publié au Journal officiel du 27 mars 2007.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-3 1992-01-03 art. 44
+	  - Loi n°92-3 du 3 janvier 1992 - art. 44 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 88 (V) JORF 31 décembre 2006 en vigueur le 27 avril 2007
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L652-1 (M)
+	  - Code de l'environnement - art. L652-3 (M)
 
 
 ##### Section 2 : Comités de bassin
@@ -5395,42 +5708,328 @@ missions qui lui sont confiées par les chapitres Ier à VII du présent titre.
 	  - Code de l'environnement - art. L652-1 (M)
 
 
-###### Article L213-4
+##### Section 2 bis : Préfet coordonnateur de bassin
 
-Dans chaque département d'outre-mer, un comité de bassin, outre les compétences qui lui sont conférées par l'article L.
-213-2, est associé à la mise en place des structures administratives qui se révéleraient nécessaires et, s'il y a lieu, à
-l'élaboration des adaptations facilitant l'application, dans le département, des dispositions des chapitres Ier à IV, VI et
-VII du présent titre.
+###### Article L213-7
 
-**Nota:**
+Dans chaque bassin, le préfet de la région où le comité de bassin a son siège anime et coordonne la politique de l'Etat en
+matière de police et de gestion des ressources en eau afin de réaliser l'unité et la cohérence des actions déconcentrées de
+l'Etat en ce domaine dans les régions et départements concernés.
 
-NOTA : Loi n° 2006-1772, art. 88 II :
-
-II. - Les dispositions prévues au I entrent en vigueur un mois après la publication du décret visé à l'article L. 213-6 du
-code de l'environnement et au plus tard le 1er juillet 2007.
-
-Il s'agit du décret n° 2007-443 du 25 mars 2007 publié au Journal officiel du 27 mars 2007.
+Les décrets prévus à l'article L. 211-2 précisent les conditions d'intervention du préfet coordonnateur de bassin, notamment
+en ce qui concerne la gestion des situations de crises, ainsi que les moyens de toute nature nécessaires à l'exercice des
+missions qui lui sont confiées par les chapitres Ier à VII du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Loi n°92-3 1992-01-03 art. 44
-	  - Loi n°92-3 du 3 janvier 1992 - art. 44 (Ab)
+	  - Loi n°64-1245 du 16 décembre 1964 - art. 14-1 (AbD)
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 51 (M)
+	  - Code de la santé publique - art. D1432-53-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 82 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L213-2 (M)
+	  - Code de l'environnement - art. L211-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'environnement - art. L213-3 (T)
+
+
+##### Section 3 : Comités de bassin et agences de l'eau
+
+##### Sous-section 1 : Dispositions générales
+
+###### Article L213-8
+
+Dans chaque bassin ou groupement de bassins hydrographiques visé à l'article L. 212-1, il est créé un comité de bassin
+constitué : 
+
+1° Pour 40 %, d'un premier collège composé de représentants des conseils généraux et régionaux et, majoritairement, de
+représentants des communes ou de leurs groupements compétents dans le domaine de l'eau ; 
+
+2° Pour 40 %, d'un deuxième collège composé de représentants des usagers de l'eau et des milieux aquatiques, des
+organisations socioprofessionnelles, des associations agréées de protection de l'environnement et de défense des
+consommateurs, des instances représentatives de la pêche et de personnes qualifiées ; 
+
+3° Pour 20 %, d'un troisième collège composé de représentants de l'Etat ou de ses établissements publics concernés. 
+
+Le président est élu par les représentants des deux premiers collèges. 
+
+Le comité de bassin est consulté sur l'opportunité des actions significatives d'intérêt commun au bassin envisagées et, plus
+généralement, sur toutes les questions faisant l'objet des chapitres Ier à VII du présent titre. 
+
+Il définit les orientations de l'action de l'agence de l'eau et participe, dans les conditions fixées à l'article L. 213-9-1,
+à l'élaboration des décisions financières de cette agence. 
+
+Les membres des trois collèges visés ci-dessus représentant un sous-bassin peuvent se constituer en commission territoriale.
+Elle a pour mission de proposer au comité de bassin les priorités d'actions nécessaires à ce sous-bassin et de veiller à
+l'application de ces propositions.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 82 () JORF 31 décembre 2006
 
 	**Cité par**:
 
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 102 (V)
+	  - Arrêté du 16 juin 2008 - art. Annexe (Ab)
+	  - Décret n°2014-846 du 28 juillet 2014 - art. 5 (V)
+	  - Arrêté du 6 novembre 2014 - art. (V)
+	  - Arrêté du 25 juin 2015 - art. 5 (V)
+	  - Code de l'environnement - art. D134-26 (V)
+	  - Code de l'environnement - art. D213-17 (V)
+	  - Code de l'environnement - art. D213-21 (V)
+	  - Code de l'environnement - art. D213-22 (V)
+	  - Code de l'environnement - art. L213-8-1 (VD)
+	  - Code de l'environnement - art. L213-8-2 (V)
+	  - Code de l'environnement - art. L213-9-3 (M)
+	  - Code de l'environnement - art. L652-1 (V)
+	  - Code de l'environnement - art. R213-17 (Ab)
+	  - Code général des collectivités territoriales - art. L4424-36 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L212-1 (V)
+	  - Code de l'environnement - art. L213-9-1 (V)
+
+
+###### Article L213-8-1
+
+Dans chaque bassin ou groupement de bassins visé à l'article L. 212-1, une agence de l'eau, établissement public de l'Etat à
+caractère administratif, met en oeuvre les schémas visés aux articles L. 212-1 et L. 212-3, en favorisant une gestion
+équilibrée et économe de la ressource en eau et des milieux aquatiques, l'alimentation en eau potable, la régulation des
+crues et le développement durable des activités économiques. 
+
+L'agence de l'eau est administrée par un conseil d'administration composé : 
+
+1° D'un président nommé par décret ; 
+
+2° De représentants désignés par les personnes visées au 1° de l'article L. 213-8 en leur sein ; 
+
+3° De représentants désignés par les personnes visées au 2° de l'article L. 213-8 en leur sein ; 
+
+4° De représentants de l'Etat ou de ses établissements publics ; 
+
+5° D'un représentant du personnel de l'agence. 
+
+Les catégories mentionnées aux 2°, 3° et 4° du présent article disposent d'un nombre égal de sièges. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 82 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 102 (V)
+	  - Arrêté du 29 octobre 2008 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 48 (V)
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 32 (VD)
+	  - Décret n°2016-32 du 20 janvier 2016 - art. 1 (V)
+	  - Code de l'environnement - art. L213-9-1 (V)
+	  - Code de l'environnement - art. R213-30 (V)
+	  - Code de l'environnement - art. R213-32 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L212-1 (V)
+	  - Code de l'environnement - art. L212-3 (V)
+	  - Code de l'environnement - art. L213-8 (V)
+
+
+##### Sous-section 2 : Dispositions financières
+
+###### Article L213-9
+
+Les ressources financières de l'agence de l'eau sont constituées, notamment, des redevances perçues en application des
+articles L. 213-10 et suivants, des remboursements des avances faites par elle et de subventions versées par des personnes
+publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-3 1992-01-03 art. 7
+	  - Loi n°92-3 du 3 janvier 1992 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 82 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 6 novembre 2014 - art. (V)
 	  - Code de l'environnement - art. L652-1 (M)
-	  - Code de l'environnement - art. L652-3 (M)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L213-10 (V)
+
+
+###### Article L213-9-1
+
+Pour l'exercice des missions définies à l'article L. 213-8-1, le programme pluriannuel d'intervention de chaque agence de
+l'eau détermine les domaines et les conditions de son action et prévoit le montant des dépenses et des recettes nécessaires à
+sa mise en oeuvre. 
+
+Le Parlement définit les orientations prioritaires du programme pluriannuel d'intervention des agences de l'eau et fixe le
+plafond global de leurs dépenses sur la période considérée ainsi que celui des contributions des agences à l'Office national
+de l'eau et des milieux aquatiques. 
+
+Les délibérations du conseil d'administration de l'agence de l'eau relatives au programme pluriannuel d'intervention et aux
+taux des redevances sont prises sur avis conforme du comité de bassin, dans le respect des dispositions encadrant le montant
+pluriannuel global de ses dépenses et leur répartition par grand domaine d'intervention, qui font l'objet d'un arrêté
+conjoint des ministres chargés de l'environnement et des finances, pris après avis du Comité national de l'eau. 
+
+L'exécution du programme pluriannuel d'intervention de l'agence de l'eau faisant état des recettes et des dépenses réalisées
+dans le cadre de ce programme fait l'objet d'un rapport annexé chaque année au projet de loi de finances. 
+
+Les délibérations concernant les taux des redevances sont publiées au Journal officiel. Elles sont tenues à la disposition du
+public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 82 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 11 mai 2007 - art. 1 (VD)
+	  - Décret n°2007-834 du 11 mai 2007 - art. 4 (V)
+	  - Arrêté du 26 février 2013 - art. 1 (V)
+	  - Arrêté du 26 février 2013 - art. 3 (V)
+	  - Code de l'environnement - art. D213-23 (V)
+	  - Code de l'environnement - art. D213-25 (V)
+	  - Code de l'environnement - art. L213-10-5 (VD)
+	  - Code de l'environnement - art. L213-10-6 (V)
+	  - Code de l'environnement - art. L213-8 (VT)
+	  - Code de l'environnement - art. R213-39 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L213-8-1 (V)
+
+
+###### Article L213-9-2
+
+I.-Dans le cadre de son programme pluriannuel d'intervention, l'agence de l'eau apporte directement ou indirectement des
+concours financiers sous forme de subventions, de primes de résultat ou d'avances remboursables aux personnes publiques ou
+privées pour la réalisation d'actions ou de travaux d'intérêt commun au bassin ou au groupement de bassins qui contribuent à
+la gestion équilibrée de la ressource en eau et des milieux aquatiques. 
+
+Les concours de l'agence ne sont définitivement acquis que sous réserve du respect des prescriptions relatives à l'eau
+imposées par la réglementation en vigueur. 
+
+II.-L'agence participe financièrement à l'élaboration des schémas d'aménagement et de gestion des eaux. 
+
+III.-Dans le respect des engagements internationaux de la France et dans le cadre de conventions soumises à l'avis du comité
+de bassin, l'agence peut mener des actions de coopération internationale dans les domaines de l'eau et de l'assainissement,
+dans la limite de 1 % de ses ressources, le cas échéant et suivant les règles statutaires en vigueur pour chaque catégorie de
+personnels, avec le concours de ses agents. 
+
+IV.-L'agence de l'eau peut percevoir, à la demande d'un établissement public territorial de bassin et pour le compte de
+celui-ci, des redevances instituées par cet établissement pour service rendu en application de l'article L. 211-7. Le produit
+des redevances est intégralement reversé au budget de l'établissement public territorial de bassin, déduction faite des frais
+de gestion. 
+
+V.-L'agence de l'eau contribue financièrement aux actions menées par l'Office national de l'eau et des milieux aquatiques
+mentionné à l'article L. 213-2. Le montant de cette contribution est fixé par arrêté conjoint des ministres chargés de
+l'environnement et des finances. Il est calculé en fonction du potentiel économique du bassin hydrographique et de
+l'importance relative de sa population rurale. 
+
+VI.-L'agence attribue des subventions en capital aux collectivités territoriales et à leurs groupements pour l'exécution de
+travaux d'alimentation en eau potable et d'assainissement dans les communes rurales. 
+
+A cette fin, elle détermine le montant global des subventions pouvant être versées sur le territoire des départements situés
+dans le bassin. Lorsqu'un département participe au financement de tels travaux, elle passe avec lui une convention
+définissant les critères de répartition. 
+
+VII.-Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 82 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 83 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+	  - Arrêté du 26 février 2013 - art. 3 (V)
+	  - Code de l'environnement - art. L131-14 (V)
+	  - Code de l'environnement - art. L213-5 (Ab)
+	  - Code de l'environnement - art. R213-32 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L213-2 (V)
+
+
+###### Article L213-9-3
+
+Les articles L. 213-8 à L. 213-9-2 ne s'appliquent pas aux départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 82 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L213-8 (VT)
 
 
 ##### Section 3 : Agences de l'eau
@@ -5527,88 +6126,194 @@ et de gestion des eaux ou par le schéma directeur d'aménagement et de gestion 
 	  - Loi n°2005-157 du 23 février 2005 - art. 196 () JORF 24 février 2005
 
 
-###### Article L213-7
+##### Section 4 : Organismes à vocation de maîtrise d'ouvrage
 
-Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 213-5 à L. 213-6.
+###### Article L213-12
+
+Pour faciliter, à l'échelle d'un bassin ou d'un sous-bassin hydrographique, la prévention des inondations et la gestion
+équilibrée de la ressource en eau ainsi que la préservation et la gestion des zones humides, les collectivités territoriales
+intéressées et leurs groupements peuvent s'associer au sein d'un établissement public territorial de bassin. 
+
+Cet organisme public est constitué et fonctionne, selon les cas, conformément aux dispositions du code général des
+collectivités territoriales régissant les établissements constitués en application des articles L. 5421-1 à L. 5421-6 ou des
+articles L. 5711-1 à L. 5721-9 du même code. 
+
+Le préfet coordonnateur de bassin délimite, par arrêté et après avis du comité de bassin et des collectivités territoriales
+concernées et, s'il y a lieu, après avis de la commission locale de l'eau, le périmètre d'intervention de cet établissement
+public. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°64-1245 1964-12-16 art. 14 al. 8
-	  - Code de l'environnement - art. L213-3 (T)
+	  - Loi n°64-1245 du 16 décembre 1964 - art. 17 (Ab)
+	  - Code de l'environnement - art. L213-10 (M)
+	  - Code de l'environnement - art. L213-10 (T)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cité par**:
 
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 14-1 (AbD)
-	  - Loi n°2000-1207 du 13 décembre 2000 - art. 51 (M)
-	  - Code de la santé publique - art. D1432-53-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cite**:
-
-	  - Code de l'environnement L213-5 à L213-6
-
-
-##### Section 4 : Fonds national de l'eau
-
-###### Article L213-8
-
-Ainsi qu'il est dit à l'article 58 de la loi de finances pour 2000 (loi n° 99-1172 du 30 décembre 1999) ci-après reproduit :
-
-"I. - Abrogé.
-
-II. - Il est institué à partir du 1er janvier 2000 un prélèvement de solidarité pour l'eau versé à l'Etat par les agences de
-l'eau, dont le montant est déterminé chaque année en loi de finances.
-
-Le prélèvement est versé au comptable du Trésor du lieu du siège de chaque agence de l'eau, sous la forme d'un versement
-unique intervenant avant le 15 février de chaque année.
-
-Ce prélèvement est recouvré selon les modalités s'appliquant aux créances de l'Etat étrangères à l'impôt, au domaine, aux
-amendes et autres condamnations pécuniaires.
-
-Le montant du prélèvement de solidarité pour l'eau est inscrit comme dépense obligatoire dans le budget primitif des agences
-de l'eau."
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°99-1172 1999-12-30 art. 58 Finances pour 2000
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Arrêté du 17 mars 2006 - art. 11 (V)
+	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 17 (VD)
+	  - Décret n°2015-1038 du 20 août 2015 (V)
+	  - Décret n°2017-764 du 4 mai 2017 - art. 2 (V)
+	  - Code de l'environnement - art. L211-7 (VT)
+	  - Code de l'environnement - art. L213-10-9 (V)
+	  - Code de l'environnement - art. L213-12-1 (V)
+	  - Code de l'environnement - art. L566-10 (V)
+	  - Code de l'environnement - art. R213-22 (Ab)
+	  - Code de l'environnement - art. R213-49 (M)
+	  - Code de l'environnement - art. R213-49-2 (V)
+	  - Code de l'environnement - art. R213-54 (V)
+	  - Code rural et de la pêche maritime - art. R114-7 (V)
 
 	**Modifié par**:
 
-	  - Loi - art. 38 (V) JORF 31 décembre 2003
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
 
-	**Cité par**:
+	**Cite**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 102 (V)
-	  - Arrêté du 16 juin 2008 - art. Annexe (Ab)
-	  - Décret n°2014-846 du 28 juillet 2014 - art. 5 (V)
-	  - Arrêté du 6 novembre 2014 - art. (V)
-	  - Arrêté du 25 juin 2015 - art. 5 (V)
-	  - Code de l'environnement - art. D134-26 (V)
-	  - Code de l'environnement - art. D213-17 (V)
-	  - Code de l'environnement - art. D213-21 (V)
-	  - Code de l'environnement - art. D213-22 (V)
-	  - Code de l'environnement - art. L213-8-1 (VD)
-	  - Code de l'environnement - art. L213-8-2 (V)
-	  - Code de l'environnement - art. L213-9-3 (M)
-	  - Code de l'environnement - art. L652-1 (V)
-	  - Code de l'environnement - art. R213-17 (Ab)
-	  - Code général des collectivités territoriales - art. L4424-36 (V)
+	  - Code général des collectivités territoriales - art. L5421-1 (V)
+	  - Code général des collectivités territoriales - art. L5711-1 (V)
 
 
 ##### Section 5 : Comités de bassin et offices de l'eau des départements d'outre-mer
+
+###### Article L213-13
+
+I.-Il est créé, dans chacun des départements d'outre-mer, un office de l'eau, établissement public local à caractère
+administratif, rattaché au département. 
+
+En liaison avec le comité de bassin, et conformément aux principes de gestion des ressources et des milieux naturels définis
+à l'article L. 110-1, l'office de l'eau est chargé de faciliter les diverses actions d'intérêt commun dans le domaine de la
+gestion de l'eau et des milieux aquatiques. Sans préjudice des compétences dévolues en la matière à l'Etat et aux
+collectivités territoriales, il exerce les missions suivantes : 
+
+a) L'étude et le suivi des ressources en eau, des milieux aquatiques et littoraux et de leurs usages ; 
+
+b) Le conseil et l'assistance technique aux maîtres d'ouvrage, la formation et l'information dans le domaine de la gestion de
+l'eau et des milieux aquatiques ; 
+
+c) Sur proposition du comité de bassin, la programmation et le financement d'actions et de travaux. 
+
+Dans le respect des engagements internationaux de la France et dans le cadre de conventions soumises à l'avis du comité de
+bassin, l'office de l'eau peut mener des actions de coopération internationale dans les domaines de l'eau et de
+l'assainissement, dans la limite de 1 % de ses ressources, le cas échéant et suivant les règles statutaires en vigueur pour
+chaque catégorie de personnels, avec le concours de ses agents. 
+
+II.-L'office de l'eau est administré par un conseil d'administration qui comprend : 
+
+1° Des représentants de la région, du département et des communes, ainsi que des établissements publics de coopération
+intercommunale ou des syndicats mixtes ayant des compétences dans le domaine de l'eau ; 
+
+2° Des représentants des services de l'Etat dans le département ; 
+
+3° Des représentants d'usagers et des milieux socioprofessionnels ; 
+
+4° Des représentants d'associations agréées de consommateurs et de protection de l'environnement ; 
+
+5° Des personnalités qualifiées dans le domaine de l'eau et des milieux aquatiques et littoraux. 
+
+Les membres nommés au titre du 1° constituent au moins 50 % du conseil d'administration. 
+
+Un représentant du personnel siège au conseil d'administration avec voix consultative. 
+
+La présidence de l'office est assurée par le président du conseil général. 
+
+Le directeur de l'office est nommé, après avis du préfet, par arrêté du président du conseil général. 
+
+Le préfet exerce les fonctions de commissaire du Gouvernement auprès de l'office. 
+
+III.-Le personnel de l'office est recruté et géré dans le cadre des dispositions législatives et réglementaires applicables à
+la fonction publique territoriale. 
+
+IV.-Les ressources de l'office se composent : 
+
+1° De redevances visées à l'article L. 213-14 (1) ; 
+
+2° De redevances pour services rendus ; 
+
+3° De subventions ; 
+
+4° Des ressources financières prévues par les lois et règlements en vigueur. 
+
+Le contrôle de légalité et le contrôle budgétaire des actes de l'office s'exercent conformément aux dispositions de l'article
+L. 3241-1 du code général des collectivités territoriales.
+
+**Nota:**
+
+(1) Ces dispositions entrent en vigueur le 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-1541 du 9 décembre 2005 - art. 1 (Ab)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 74 (V)
+	  - Décret n°2017-401 du 27 mars 2017 (V)
+	  - Code de l'environnement - art. L213-14 (V)
+	  - Code de l'environnement - art. L652-4 (V)
+	  - Code de l'environnement - art. R213-60 (V)
+	  - Code de l'environnement - art. R213-61 (V)
+	  - Code général des collectivités territoriales - art. L3232-1-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 86 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3241-1 (V)
+	  - Code de l'environnement - art. L110-1 (V)
+
+
+###### Article L213-13-1
+
+Dans les départements d'outre-mer, le comité de bassin est composé :
+
+1° De représentants des collectivités territoriales situées en tout ou partie dans le bassin ;
+
+2° De représentants des usagers et de personnalités qualifiées ;
+
+3° De représentants de l'Etat et des milieux socioprofessionnels désignés par l'Etat.
+
+Il est consulté sur l'opportunité des travaux et aménagements d'intérêt commun envisagés dans le bassin et plus généralement
+sur toute question faisant l'objet des chapitres Ier à IV, VI et VII du présent titre.
+
+Il est associé, en tant que de besoin, à l'élaboration des adaptations facilitant l'application, dans le département, des
+dispositions des chapitres Ier à IV, VI et VII du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 86 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2017-401 du 27 mars 2017 (V)
+	  - Code de l'environnement - art. D134-28 (V)
+	  - Code de l'environnement - art. R213-50 (V)
+	  - Code de l'environnement - art. R213-52 (V)
+	  - Code de l'environnement - art. R652-4 (Ab)
+
 
 ###### Article L213-17
 
@@ -5655,48 +6360,118 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	  - Code de l'environnement - art. L213-15 (AbD)
 
 
-##### Section 5 : Communautés locales de l'eau
+###### Article L213-18
 
-###### Article L213-9
-
-Pour faciliter la réalisation des objectifs arrêtés dans un schéma d'aménagement et de gestion des eaux, les collectivités
-territoriales intéressées et leurs groupements exerçant tout ou partie des compétences énumérées à l'article L. 211-7 peuvent
-s'associer dans une communauté locale de l'eau.
-
-Cet établissement public est constitué et fonctionne selon les dispositions régissant l'un des établissements publics
-mentionnés aux titres Ier et II du livre II et aux livres IV et VII de la cinquième partie du code général des collectivités
-territoriales.
-
-Les associations et syndicats de personnes physiques ou morales ayant des activités dans le domaine de l'eau peuvent être
-associés à ses travaux, à titre consultatif.
-
-Dans la limite de son périmètre d'intervention, la communauté locale de l'eau peut exercer tout ou partie des compétences
-énumérées à l'article L. 211-7.
-
-Elle établit et adopte un programme pluriannuel d'intervention après avis conforme de la commission locale de l'eau.
-
-Un décret détermine les conditions d'application du présent article.
+Les omissions totales ou partielles constatées dans l'assiette des redevances, les insuffisances, les inexactitudes ou les
+erreurs d'imposition peuvent être réparées par l'office jusqu'à la fin de la troisième année qui suit celle au titre de
+laquelle la redevance est due.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-3 1992-01-03 art. 7
-	  - Loi n°92-3 du 3 janvier 1992 - art. 7 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
+
 	**Cité par**:
 
-	  - Arrêté du 6 novembre 2014 - art. (V)
-	  - Code de l'environnement - art. L652-1 (M)
+	  - Code de l'environnement - art. D213-75 (VD)
+	  - Code de l'environnement - art. D213-76-2 (VD)
 
-	**Cite**:
 
-	  - Code de l'environnement - art. L211-7 (M)
+###### Article L213-19
+
+L'office peut prononcer d'office le dégrèvement ou la restitution de redevances et pénalités qui n'étaient pas dues.
+
+L'office peut accorder des remises totales ou partielles de redevances et pénalités sur demande motivée du redevable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
+
+
+###### Article L213-20
+
+Le directeur de l'office établit et rend exécutoires les titres de recettes relatifs aux redevances.
+
+Les redevances sont recouvrées par le comptable de l'office comme en matière de contributions directes.
+
+La date de mise en recouvrement est le point de départ des délais du présent article.
+
+La date d'exigibilité est fixée au dernier jour du mois qui suit la mise en recouvrement.
+
+La date limite de paiement est fixée au 15 du deuxième mois qui suit la mise en recouvrement. A défaut de paiement à cette
+date, le montant de la redevance est majoré de 10 %.
+
+Les redevances ou suppléments de redevances inférieurs à 100 euros ne sont pas mis en recouvrement.
+
+Les redevances peuvent donner lieu chaque année au paiement d'acomptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 86 () JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R213-76-4 (V)
+	  - Code de l'environnement - art. R213-76-6 (V)
+
+
+##### Section 6 : Comité technique permanent des barrages et des ouvrages hydrauliques
+
+###### Article L213-21
+
+Il est institué un comité technique permanent des barrages et des ouvrages hydrauliques. Sur demande du ministre intéressé,
+ce comité donne son avis sur toute question relative à la sécurité des barrages et des ouvrages hydrauliques. Les dépenses
+entraînées par le fonctionnement de ce comité pour l'examen d'un projet ou d'un ouvrage particulier sont à la charge du
+maître de l'ouvrage concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
+
+
+###### Article L213-22
+
+Un décret en Conseil d'Etat précise les conditions d'application de la présente section, notamment la constitution, le mode
+de fonctionnement et les ouvrages soumis à l'avis du comité technique permanent des barrages et des ouvrages hydrauliques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
 
 
 ##### Section 6 : Organismes à vocation de maîtrise d'ouvrage
@@ -5764,92 +6539,6 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 
 ##### Section 7 : Offices de l'eau des départements d'outre-mer
-
-###### Article L213-13
-
-I. - Il est créé, dans chacun des départements d'outre-mer, un office de l'eau, établissement public local à caractère
-administratif, rattaché au département.
-
-En liaison avec le comité de bassin, et conformément aux principes de gestion des ressources et des milieux naturels définis
-à l'article L. 110-1, l'office de l'eau est chargé de faciliter les diverses actions d'intérêt commun dans le domaine de la
-gestion de l'eau et des milieux aquatiques. Sans préjudice des compétences dévolues en la matière à l'Etat et aux
-collectivités territoriales, il exerce les missions suivantes :
-
-a) L'étude et le suivi des ressources en eau, des milieux aquatiques et littoraux et de leurs usages ;
-
-b) Le conseil et l'assistance technique aux maîtres d'ouvrage, la formation et l'information dans le domaine de la gestion de
-l'eau et des milieux aquatiques ;
-
-c) Sur proposition du comité de bassin, la programmation et le financement d'actions et de travaux.
-
-II. - L'office de l'eau est administré par un conseil d'administration qui comprend :
-
-1° Des représentants de la région, du département et des communes, ainsi que des établissements publics de coopération
-intercommunale ou des syndicats mixtes ayant des compétences dans le domaine de l'eau ;
-
-2° Des représentants des services de l'Etat dans le département ;
-
-3° Des représentants d'usagers et des milieux socioprofessionnels ;
-
-4° Des représentants d'associations agréées de consommateurs et de protection de l'environnement ;
-
-5° Des personnalités qualifiées dans le domaine de l'eau et des milieux aquatiques et littoraux.
-
-Les membres nommés au titre du 1° constituent au moins 50 % du conseil d'administration.
-
-Un représentant du personnel siège au conseil d'administration avec voix consultative.
-
-La présidence de l'office est assurée par le président du conseil général.
-
-Le directeur de l'office est nommé, après avis du préfet, par arrêté du président du conseil général.
-
-Le préfet exerce les fonctions de commissaire du Gouvernement auprès de l'office.
-
-III. - Le personnel de l'office est recruté et géré dans le cadre des dispositions législatives et réglementaires applicables
-à la fonction publique territoriale.
-
-IV. - Les ressources de l'office se composent :
-
-1° De redevances pour prélèvement d'eau, sur proposition du comité de bassin et dans le cadre d'un programme pluriannuel
-d'intervention ;
-
-2° De redevances pour services rendus ;
-
-3° De subventions ;
-
-4° Des ressources financières prévues par les lois et règlements en vigueur.
-
-Le contrôle de légalité et le contrôle budgétaire des actes de l'office s'exercent conformément aux dispositions de l'article
-L. 3241-1 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2003-660 2003-07-21 art. 54 I, II JORF 22 juillet 2003
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
-
-	**Cité par**:
-
-	  - Décret n°2005-1541 du 9 décembre 2005 - art. 1 (Ab)
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 74 (V)
-	  - Décret n°2017-401 du 27 mars 2017 (V)
-	  - Code de l'environnement - art. L213-14 (V)
-	  - Code de l'environnement - art. L652-4 (V)
-	  - Code de l'environnement - art. R213-60 (V)
-	  - Code de l'environnement - art. R213-61 (V)
-	  - Code général des collectivités territoriales - art. L3232-1-1 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L3241-1 (M)
-	  - Code de l'environnement - art. L110-1 (M)
-
 
 ###### Article L213-14
 
@@ -6003,86 +6692,6 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (M)
-
-
-###### Article L213-18
-
-Les omissions totales ou partielles constatées dans l'assiette des redevances, les insuffisances, les inexactitudes ou les
-erreurs d'imposition peuvent être réparées par l'office jusqu'à la fin de la troisième année qui suit celle au titre de
-laquelle la redevance est due.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. D213-75 (VD)
-	  - Code de l'environnement - art. D213-76-2 (VD)
-
-
-###### Article L213-19
-
-L'office peut prononcer d'office le dégrèvement ou la restitution de redevances et pénalités qui n'étaient pas dues.
-
-L'office peut accorder des remises totales ou partielles de redevances et pénalités sur demande motivée du redevable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
-
-
-###### Article L213-20
-
-Le directeur de l'office établit et rend exécutoires les titres de recettes relatifs à la redevance.
-
-Les redevances sont recouvrées par le comptable de l'office comme en matière de contributions directes.
-
-La date de mise en recouvrement est le point de départ des délais du présent article.
-
-La date d'exigibilité est fixée au dernier jour du mois qui suit la mise en recouvrement.
-
-La date limite de paiement est fixée au 15 du deuxième mois qui suit la mise en recouvrement. A défaut de paiement à cette
-date, le montant de la redevance est majoré de 10 %.
-
-Les redevances ou suppléments de redevances inférieurs à 100 euros ne sont pas mis en recouvrement.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2003-660 2003-07-21 art. 54 I, III JORF 22 juillet 2003
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 54 () JORF 22 juillet 2003
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R213-76-4 (V)
-	  - Code de l'environnement - art. R213-76-6 (V)
 
 
 #### Chapitre IV : Activités, installations et usage
@@ -6322,31 +6931,36 @@ justifier qu'elles soient soumises à autorisation ou à déclaration.
 
 ###### Article L214-3
 
-I. - Sont soumis à autorisation de l'autorité administrative les installations, ouvrages, travaux et activités susceptibles
-de présenter des dangers pour la santé et la sécurité publique, de nuire au libre écoulement des eaux, de réduire la
-ressource en eau, d'accroître notablement le risque d'inondation, de porter gravement atteinte à la qualité ou à la diversité
-du milieu aquatique, notamment aux peuplements piscicoles.
+I.-Sont soumis à autorisation de l'autorité administrative les installations, ouvrages, travaux et activités susceptibles de
+présenter des dangers pour la santé et la sécurité publique, de nuire au libre écoulement des eaux, de réduire la ressource
+en eau, d'accroître notablement le risque d'inondation, de porter gravement atteinte à la qualité ou à la diversité du milieu
+aquatique, notamment aux peuplements piscicoles. 
 
 Les prescriptions nécessaires à la protection des intérêts mentionnés à l'article L. 211-1, les moyens de surveillance, les
 modalités des contrôles techniques et les moyens d'intervention en cas d'incident ou d'accident sont fixés par l'arrêté
-d'autorisation et, éventuellement, par des actes complémentaires pris postérieurement.
+d'autorisation et, éventuellement, par des actes complémentaires pris postérieurement. 
 
-II. - Sont soumis à déclaration les installations, ouvrages, travaux et activités qui, n'étant pas susceptibles de présenter
-de tels dangers, doivent néanmoins respecter les prescriptions édictées en application des articles L. 211-2 et L. 211-3.
+La fédération départementale ou interdépartementale des associations de pêche et de protection du milieu aquatique ainsi que
+les associations départementales ou interdépartementales agréées de la pêche professionnelle en eau douce sont tenues
+informées des autorisations relatives aux ouvrages, travaux, activités et installations de nature à détruire les frayères ou
+les zones de croissance ou d'alimentation de la faune piscicole. 
+
+II.-Sont soumis à déclaration les installations, ouvrages, travaux et activités qui, n'étant pas susceptibles de présenter de
+tels dangers, doivent néanmoins respecter les prescriptions édictées en application des articles L. 211-2 et L. 211-3. 
 
 Dans un délai fixé par décret en Conseil d'Etat, l'autorité administrative peut s'opposer à l'opération projetée s'il
 apparaît qu'elle est incompatible avec les dispositions du schéma directeur d'aménagement et de gestion des eaux ou du schéma
 d'aménagement et de gestion des eaux, ou porte aux intérêts mentionnés à l'article L. 211-1 une atteinte d'une gravité telle
-qu'aucune prescription ne permettrait d'y remédier. Les travaux ne peuvent commencer avant l'expiration de ce délai.
+qu'aucune prescription ne permettrait d'y remédier. Les travaux ne peuvent commencer avant l'expiration de ce délai. 
 
 Si le respect des intérêts mentionnés à l'article L. 211-1 n'est pas assuré par l'exécution des prescriptions édictées en
 application des articles L. 211-2 et L. 211-3, l'autorité administrative peut, à tout moment, imposer par arrêté toutes
-prescriptions particulières nécessaires.
+prescriptions particulières nécessaires. 
 
-III. - Un décret détermine les conditions dans lesquelles les prescriptions prévues au I et au II sont établies, modifiées et
-portées à la connaissance des tiers.
+III.-Un décret détermine les conditions dans lesquelles les prescriptions prévues au I et au II sont établies, modifiées et
+portées à la connaissance des tiers. 
 
-IV. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles plusieurs demandes d'autorisation et déclaration
+IV.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles plusieurs demandes d'autorisation et déclaration
 relatives à des opérations connexes ou relevant d'une même activité peuvent faire l'objet d'une procédure commune.
 
 **Liens relatifs à cet article**
@@ -6449,13 +7063,49 @@ relatives à des opérations connexes ou relevant d'une même activité peuvent 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 3 () JORF 19 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 14 () JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L211-1 (M)
+	  - Code de l'environnement - art. L211-1 (V)
 	  - Code de l'environnement - art. L211-2 (V)
-	  - Code de l'environnement - art. L211-3 (M)
+
+
+###### Article L214-3-1
+
+Lorsque des installations, ouvrages, travaux ou activités sont définitivement arrêtés, l'exploitant ou, à défaut, le
+propriétaire remet le site dans un état tel qu'aucune atteinte ne puisse être portée à l'objectif de gestion équilibrée de la
+ressource en eau défini par l'article L. 211-1. Il informe l'autorité administrative de la cessation de l'activité et des
+mesures prises. Cette autorité peut à tout moment lui imposer des prescriptions pour la remise en état du site, sans
+préjudice de l'application des articles 91 et 92 du code minier.
+
+Les dispositions visées au présent article ne sont pas applicables aux installations, ouvrages et travaux des entreprises
+hydrauliques concédées au titre de la loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°1919-10-16
+	  - Code minier 91, 92
+	  - Code de l'environnement - art. L211-1 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 10 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2014-619 du 12 juin 2014 - art. 4 (VT)
+	  - Code de l'environnement - art. L211-7-1 (VD)
+	  - Code de l'environnement - art. R214-26 (V)
+	  - Code de l'environnement - art. R214-45 (VD)
+	  - Code de l'énergie - art. L531-3 (V)
 
 
 ###### Article L214-4
@@ -6477,6 +7127,12 @@ l'alimentation en eau potable des populations ;
 conditions hydrauliques critiques non compatibles avec leur préservation ;
 
 4° Lorsque les ouvrages ou installations sont abandonnés ou ne font plus l'objet d'un entretien régulier.
+
+II bis. - A compter du 1er janvier 2014, en application des objectifs et des orientations du schéma directeur d'aménagement
+et de gestion des eaux, sur les cours d'eau, parties de cours d'eau ou canaux classés au titre du I de l'article L. 214-17,
+l'autorisation peut être modifiée, sans indemnité de la part de l'Etat exerçant ses pouvoirs de police, dès lors que le
+fonctionnement des ouvrages ou des installations ne permet pas la préservation des espèces migratrices vivant alternativement
+en eau douce et en eau salée.
 
 III. - Tout refus, retrait ou modification d'autorisation doit être motivé auprès du demandeur.
 
@@ -6518,10 +7174,58 @@ décret visé ci-dessus.
 	**Cite**:
 
 	  - Loi n°2005-781 2005-07-13
+	  - Code de l'environnement - art. L214-17 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 48 () JORF 14 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 4 () JORF 31 décembre 2006
+
+
+###### Article L214-4-1
+
+I. - Lorsqu'un ouvrage hydraulique dont l'existence ou l'exploitation est subordonnée à une autorisation ou à une concession
+présente un danger pour la sécurité publique, des servitudes d'utilité publique relatives à l'utilisation du sol peuvent être
+instituées, tant à l'occasion de la demande d'autorisation ou de concession que postérieurement à l'octroi de celles-ci.
+
+II. - Les servitudes prévues au I comportent, en tant que de besoin :
+
+1° La limitation ou l'interdiction du droit d'implanter des constructions ou des ouvrages et d'aménager des terrains de
+camping ou de stationnement de caravanes ;
+
+2° La subordination des autorisations de construire au respect de prescriptions techniques tendant à limiter le danger
+d'exposition des vies humaines à la submersion.
+
+III. - Les servitudes prévues au I tiennent compte de la probabilité d'occurrence, de la cinétique, de la nature et de
+l'intensité des risques encourus et peuvent, dans un même périmètre, s'appliquer de façon modulée. Elles ne peuvent
+contraindre à la démolition ou à l'abandon de constructions existantes édifiées en conformité avec les dispositions
+législatives et réglementaires en vigueur avant l'institution des servitudes.
+
+IV. - Le périmètre et le contenu des servitudes prévues au I sont soumis à enquête publique.
+
+Ces servitudes sont annexées au plan local d'urbanisme dans les conditions prévues à l'article L. 126-1 du code de
+l'urbanisme.
+
+Elles n'ouvrent droit à indemnisation que si elles entraînent un préjudice direct, matériel et certain.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 28 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L126-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R181-20 (VD)
+	  - Code de l'urbanisme - art. (V)
 
 
 ###### Article L214-5
@@ -6559,36 +7263,42 @@ Ces règlements peuvent faire l'objet de modifications, sans toutefois remettre 
 
 ###### Article L214-6
 
-I. - Dans tous les cas, les droits des tiers sont et demeurent réservés.
+I.-Dans tous les cas, les droits des tiers sont et demeurent réservés. 
 
-II. - Les installations, ouvrages et activités déclarés ou autorisés en application d'une législation ou réglementation
+II.-Les installations, ouvrages et activités déclarés ou autorisés en application d'une législation ou réglementation
 relative à l'eau antérieure au 4 janvier 1992 sont réputés déclarés ou autorisés en application des dispositions de la
-présente section. Il en est de même des installations et ouvrages fondés en titre.
+présente section. Il en est de même des installations et ouvrages fondés en titre. 
 
-III. - Les installations, ouvrages et activités qui, n'entrant pas dans le champ d'application du II, ont été soumis à
-compter du 4 janvier 1992, en vertu de la nomenclature prévue par l'article L. 214-2, à une obligation de déclaration ou
+III.-Les installations, ouvrages et activités qui, n'entrant pas dans le champ d'application du II, ont été soumis à compter
+du 4 janvier 1992, en vertu de la nomenclature prévue par l'article L. 214-2, à une obligation de déclaration ou
 d'autorisation à laquelle il n'a pas été satisfait, peuvent continuer à fonctionner ou se poursuivre si l'exploitant, ou, à
 défaut le propriétaire, a fourni à l'autorité administrative les informations prévues par l'article 41 du décret n° 93-742 du
-29 mars 1993, au plus tard le 31 décembre 2006.
+29 mars 1993, au plus tard le 31 décembre 2006. 
 
 Toutefois, s'il apparaît que le fonctionnement de ces installations et ouvrages ou la poursuite de ces activités présente un
 risque d'atteinte grave aux intérêts mentionnés à l'article L. 211-1, l'autorité administrative peut exiger le dépôt d'une
-déclaration ou d'une demande d'autorisation.
+déclaration ou d'une demande d'autorisation. 
 
-IV. - Les installations, ouvrages, travaux ou activités qui, après avoir été régulièrement mis en service ou entrepris,
+Au-delà du 31 décembre 2006, les informations mentionnées au premier alinéa du présent III peuvent être reçues et examinées
+par l'autorité administrative. Si la preuve est apportée de la régularité de la situation de l'installation, ouvrage ou
+activité à la date à laquelle il s'est trouvé soumis à autorisation ou à déclaration par l'effet d'un décret pris en
+application de l'article L. 214-3, si l'exploitation n'a pas cessé depuis plus de deux ans et si ces opérations ne présentent
+pas un danger ou un inconvénient grave pour les intérêts mentionnés à l'article L. 211-1, l'autorité administrative peut
+accepter la continuation du fonctionnement de l'installation ou de l'ouvrage ou la poursuite de l'activité considérée. 
+
+IV.-Les installations, ouvrages, travaux ou activités qui, après avoir été régulièrement mis en service ou entrepris,
 viennent à être soumis à déclaration ou à autorisation en vertu d'une modification de la nomenclature prévue à l'article L.
 214-2 peuvent continuer à fonctionner, si l'exploitant, ou à défaut le propriétaire, s'est fait connaître à l'autorité
 administrative, ou s'il se fait connaître dans le délai d'un an à compter de la date à laquelle l'obligation nouvelle a été
-instituée.
+instituée. 
 
 Les renseignements qui doivent être fournis à l'autorité administrative ainsi que les mesures que celle-ci peut imposer afin
-de sauvegarder les intérêts mentionnés à l'article L. 211-1 sont précisés par décret en Conseil d'Etat.
+de sauvegarder les intérêts mentionnés à l'article L. 211-1 sont précisés par décret en Conseil d'Etat. 
 
-V. - Les dispositions des II et III sont applicables sous réserve des décisions de justice passées en force de chose jugée
-intervenues avant la date de publication de l'ordonnance n° 2005-805 du 18 juillet 2005.
+V.-Les dispositions des II et III sont applicables sous réserve des décisions de justice passées en force de chose jugée
+intervenues avant la date de publication de l'ordonnance n° 2005-805 du 18 juillet 2005. 
 
-VI. - Les installations, ouvrages et activités visés par les II, III et IV sont soumis aux dispositions de la présente
-section.
+VI.-Les installations, ouvrages et activités visés par les II, III et IV sont soumis aux dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -6599,10 +7309,11 @@ section.
 
 	**Cite**:
 
-	  - Décret n°93-742 1993-03-29 art. 41
-	  - Ordonnance 2005-805 2005-07-18
-	  - Code de l'environnement - art. L211-1 (M)
-	  - Code de l'environnement - art. L214-2 (M)
+	  - Décret n°93-742 du 29 mars 1993 - art. 41 (Ab)
+	  - Ordonnance n°2005-805 du 18 juillet 2005 (V)
+	  - Code de l'environnement - art. L211-1 (V)
+	  - Code de l'environnement - art. L214-2 (V)
+	  - Code de l'environnement - art. L214-3 (V)
 
 	**Cité par**:
 
@@ -6624,15 +7335,16 @@ section.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 4 () JORF 19 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 12 (V) JORF 31 décembre 2006
 
 
 ###### Article L214-7
 
 Les installations soumises à autorisation ou à déclaration en application du titre Ier du livre V sont soumises aux
-dispositions des articles L. 211-1, L. 212-1 à L. 212-7, L. 214-8, L. 216-6 et L. 216-13. Les mesures individuelles et
-réglementaires prises en application du titre Ier du livre V fixent les règles applicables aux installations classées ayant
-un impact sur le milieu aquatique, notamment en ce qui concerne leurs rejets et prélèvements.
+dispositions des articles L. 211-1, L. 212-1 à L. 212-11, L. 214-8, L. 216-6 et L. 216-13, ainsi qu'aux mesures prises en
+application des décrets prévus au 1° du II de l'article L. 211-3. Les mesures individuelles et réglementaires prises en
+application du titre Ier du livre V fixent les règles applicables aux installations classées ayant un impact sur le milieu
+aquatique, notamment en ce qui concerne leurs rejets et prélèvements.
 
 **Liens relatifs à cet article**
 
@@ -6646,6 +7358,11 @@ un impact sur le milieu aquatique, notamment en ce qui concerne leurs rejets et 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 30 () JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 79 () JORF 31 décembre 2006
+
 	**Cité par**:
 
 	  - Ordonnance n°2014-355 du 20 mars 2014 - art. 10 (VT)
@@ -6655,10 +7372,11 @@ un impact sur le milieu aquatique, notamment en ce qui concerne leurs rejets et 
 	**Cite**:
 
 	  - Code de l'environnement - art. L211-1 (M)
+	  - Code de l'environnement - art. L211-3 (M)
 	  - Code de l'environnement - art. L214-8 (M)
 	  - Code de l'environnement - art. L216-13 (V)
 	  - Code de l'environnement - art. L216-6 (M)
-	  - Code de l'environnement L211-1, L212-1 à L212-7, L214-8, L216-6, L216-13
+	  - Code de l'environnement L211-1, L212-1 à L212-11, L214-8, L216-6, L216-13, L211-3
 
 
 ###### Article L214-7-1
@@ -6708,12 +7426,11 @@ des fins non domestiques des prélèvements en eau superficielle ou des déverse
 des eaux souterraines, doivent être pourvues des moyens de mesure ou d'évaluation appropriés. Leurs exploitants ou, s'il
 n'existe pas d'exploitants, leurs propriétaires sont tenus d'en assurer la pose et le fonctionnement, de conserver trois ans
 les données correspondantes et de tenir celles-ci à la disposition de l'autorité administrative ainsi que des personnes
-morales de droit public dont la liste est fixée par décret.
+morales de droit public dont la liste est fixée par décret. Lorsque le prélèvement d'eau est réalisé par pompage, la mesure
+est effectuée au moyen d'un compteur d'eau. 
 
 Les installations existantes doivent avoir été mises en conformité avec les dispositions du présent article dans un délai de
 cinq ans à compter du 4 janvier 1992.
-
-Les dispositions de cet article s'appliquent également aux installations classées en application du titre Ier du livre V.
 
 **Liens relatifs à cet article**
 
@@ -6746,33 +7463,72 @@ Les dispositions de cet article s'appliquent également aux installations class�
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 2006-12-30 art. 30 II, III JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 30 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - Code de l'environnement L214-1 à L214-6
+	  - Code de l'environnement - art. L214-1 (V)
 
 
 ###### Article L214-9
 
-I. - Lorsque les travaux d'aménagement hydraulique, autres que ceux concédés ou autorisés en application de la loi du 16
-octobre 1919 précitée, ont pour objet ou pour conséquence la régulation du débit d'un cours d'eau non domanial ou
-l'augmentation de son débit en période d'étiage, tout ou partie du débit artificiel peut être affecté, par déclaration
-d'utilité publique, sur une section de ce cours d'eau et pour une durée déterminée, à certains usages, sans préjudice de
-l'application de l'article L. 211-8.
+I. - Lorsqu'un aménagement hydraulique autre que ceux concédés ou autorisés en application de la loi du 16 octobre 1919
+relative à l'utilisation de l'énergie hydraulique permet la régulation du débit d'un cours d'eau ou l'augmentation de son
+débit en période d'étiage, tout ou partie du débit artificiel peut être affecté, par déclaration d'utilité publique, sur une
+section de ce cours d'eau et pour une durée déterminée, à certains usages, sans préjudice de l'application de l'article L.
+211-8.
 
-II. - L'acte déclaratif d'utilité publique vaut autorisation au titre de la présente sous-section et fixe, dans les
-conditions prévues par décret, outre les prescriptions pour son installation et son exploitation :
+Le premier alinéa est applicable aux aménagements hydrauliques concédés ou autorisés en application de la loi du 16 octobre
+1919 précitée à condition que l'affectation de tout ou partie du débit artificiel soit compatible avec la destination de
+l'aménagement, le maintien d'un approvisionnement assurant la sécurité du système électrique et l'équilibre financier du
+contrat de concession.
+
+II. - Le bénéficiaire de la déclaration d'utilité publique peut être l'Etat, une collectivité territoriale, un groupement de
+collectivités territoriales ou un établissement public.
+
+Le bénéficiaire de la déclaration d'utilité publique peut concéder la gestion de ce débit affecté. Le concessionnaire est
+fondé à percevoir les sommes mises à la charge des usagers en application du 4° du III.
+
+III. - La déclaration d'utilité publique vaut autorisation au titre de la présente section et fixe, dans les conditions
+prévues par décret, outre les prescriptions pour son installation et son exploitation :
 
 1° Un débit affecté, déterminé compte tenu des ressources disponibles aux différentes époques de l'année et attribué en
-priorité au bénéficiaire de l'acte déclaratif d'utilité publique ;
+priorité au bénéficiaire de la déclaration d'utilité publique ;
 
-2° Les prescriptions jugées nécessaires pour assurer le passage de tout ou partie du débit affecté dans la section
-considérée, dans les conditions les plus rationnelles et les moins dommageables pour les autres usagers dudit cours d'eau et
-dans le respect des écosystèmes aquatiques.
+2° Les usages auxquels est destiné le débit affecté ;
 
-III. - Les dispositions du présent article sont également applicables aux travaux d'aménagement hydraulique autorisés
-antérieurement au 4 janvier 1992.
+3° Les prescriptions nécessaires pour assurer le passage de tout ou partie du débit affecté dans la section du cours d'eau
+considérée, dans les conditions les plus rationnelles et les moins dommageables pour les autres usagers de ce cours d'eau et
+dans le respect des écosystèmes aquatiques ;
+
+4° Les conditions dans lesquelles le bénéficiaire de la déclaration d'utilité publique peut mettre à la charge des usagers de
+ce débit tout ou partie des dépenses engagées pour assurer la délivrance du débit affecté et son passage dans le cours
+d'eau ;
+
+5° Le cas échéant, les modifications à apporter au cahier des charges de la concession ou dans l'acte d'autorisation.
+
+IV. - Lorsque les conditions dans lesquelles est délivré le débit affecté causent un préjudice au gestionnaire de l'ouvrage
+concédé ou autorisé en application de la loi du 16 octobre 1919 précitée, le bénéficiaire de la déclaration d'utilité
+publique lui verse une indemnité compensant la perte subie pour la durée de la concession ou de l'autorisation restant à
+courir.
+
+L'indemnisation est subordonnée au maintien dans le cours d'eau du débit minimal résultant de l'application de l'article L.
+214-18 et n'est due que pour les volumes artificiels excédant cette valeur.
+
+La juridiction administrative est compétente pour statuer sur les litiges relatifs à cette indemnité.
+
+V. - Le présent article est applicable aux travaux d'aménagement hydraulique et aux ouvrages hydrauliques quelle que soit la
+date à laquelle ils ont été autorisés ou concédés.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-3 1992-01-03 art. 15
+	  - Loi n°92-3 du 3 janvier 1992 - art. 15 (Ab)
 
 	**Cité par**:
 
@@ -6786,20 +7542,20 @@ antérieurement au 4 janvier 1992.
 	  - Code de l'environnement - art. R214-65-1 (VD)
 	  - Code de l'environnement - art. R214-66 (V)
 
-	**Cite**:
-
-	  - Loi n°1919-10-16
-	  - Code de l'environnement - art. L211-8 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°92-3 1992-01-03 art. 15
-	  - Loi n°92-3 du 3 janvier 1992 - art. 15 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 5 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L211-8 (V)
+	  - Code de l'environnement - art. L214-18 (V)
+	  - Loi n°1919-10-16
 
 
 ###### Article L214-10
@@ -6932,59 +7688,15 @@ jouissance de ses droits.
 	  - Code du tourisme. - art. L343-6 (T)
 
 
-##### Section 3 : Assainissement
+##### Section 3 : Distribution d'eau et assainissement
 
 ###### Article L214-14
 
-Les dispositions relatives à l'assainissement sont énoncées au code de la santé publique (première partie, livre III, titre
-III, chapitre Ier, articles L. 1331-1 à L. 1331-16) et au code général des collectivités territoriales (deuxième partie,
-livre II, titre II, chapitre IV, sections 1 et 2).
+Les dispositions relatives à la distribution d'eau et à l'assainissement sont énoncées à la section 2 du chapitre IV du titre
+II du livre II de la deuxième partie du code général des collectivités territoriales et aux articles L. 1331-1 à L. 1331-16
+du code de la santé publique.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cite**:
-
-	  - Code de la santé publique L1331-1 à L1331-16
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L652-1 (V)
-
-
-##### Section 4 : Prix de l'eau
-
-###### Article L214-15
-
-Toute facture d'eau comprend un montant calculé en fonction du volume réellement consommé par l'abonné à un service de
-distribution d'eau et peut, en outre, comprendre un montant calculé indépendamment de ce volume, compte tenu des charges
-fixes du service et des caractéristiques du branchement.
-
-Toutefois à titre exceptionnel, le préfet peut, dans des conditions prévues par décret en Conseil d'Etat, à la demande du
-maire ou du président de l'établissement public de coopération intercommunale ou des présidents des syndicats mixtes visés à
-l'article L. 5721-2 du code général des collectivités territoriales ayant compétence pour assurer la distribution d'eau, si
-la ressource en eau est naturellement abondante, et si le nombre d'usagers raccordés au réseau est suffisamment faible, ou si
-la commune connaît habituellement de fortes variations de sa population, autoriser la mise en oeuvre d'une tarification ne
-comportant pas de terme directement proportionnel au volume total consommé.
-
-En Corse, la mise en oeuvre du régime de tarification prévu à l'alinéa précédent est autorisée, selon les mêmes conditions,
-par l'Assemblée de Corse, à la demande du maire, du président de l'établissement public de coopération intercommunale ou du
-président du syndicat mixte compétent.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
-
-	**Anciens textes**:
-
-	  - Loi n°92-3 1992-01-03 art. 13 II
-	  - Loi n°92-3 du 3 janvier 1992 - art. 13 (Ab)
 
 	**Codifié par**:
 
@@ -6993,49 +7705,247 @@ président du syndicat mixte compétent.
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 27 () JORF 23 janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 50 () JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5721-2 (M)
+	  - Code général des collectivités territoriales -  Section 2 : Eau et assainissement (V)
+	  - Code de la santé publique - art. L1331-1 (V)
 
 	**Cité par**:
 
-	  - Code de l'environnement - art. L214-16 (Ab)
-	  - Code de l'environnement - art. L652-1 (M)
-	  - Code général des collectivités territoriales - art. R2224-35 (Ab)
+	  - Code de l'environnement - art. L652-1 (V)
 
 
-###### Article L214-16
+##### Section 5 : Obligations relatives aux ouvrages
 
-L'article L. 214-15 n'est pas applicable à la collectivité territoriale de Saint-Pierre-et-Miquelon.
+###### Article L214-17
+
+I.-Après avis des conseils généraux intéressés, des établissements publics territoriaux de bassin concernés, des comités de
+bassins et, en Corse, de l'Assemblée de Corse, l'autorité administrative établit, pour chaque bassin ou sous-bassin : 
+
+1° Une liste de cours d'eau, parties de cours d'eau ou canaux parmi ceux qui sont en très bon état écologique ou identifiés
+par les schémas directeurs d'aménagement et de gestion des eaux comme jouant le rôle de réservoir biologique nécessaire au
+maintien ou à l'atteinte du bon état écologique des cours d'eau d'un bassin versant ou dans lesquels une protection complète
+des poissons migrateurs vivant alternativement en eau douce et en eau salée est nécessaire, sur lesquels aucune autorisation
+ou concession ne peut être accordée pour la construction de nouveaux ouvrages s'ils constituent un obstacle à la continuité
+écologique. 
+
+Le renouvellement de la concession ou de l'autorisation des ouvrages existants, régulièrement installés sur ces cours d'eau,
+parties de cours d'eau ou canaux, est subordonné à des prescriptions permettant de maintenir le très bon état écologique des
+eaux, de maintenir ou d'atteindre le bon état écologique des cours d'eau d'un bassin versant ou d'assurer la protection des
+poissons migrateurs vivant alternativement en eau douce et en eau salée ; 
+
+2° Une liste de cours d'eau, parties de cours d'eau ou canaux dans lesquels il est nécessaire d'assurer le transport
+suffisant des sédiments et la circulation des poissons migrateurs. Tout ouvrage doit y être géré, entretenu et équipé selon
+des règles définies par l'autorité administrative, en concertation avec le propriétaire ou, à défaut, l'exploitant. 
+
+II.-Les listes visées aux 1° et 2° du I sont établies par arrêté de l'autorité administrative compétente, après étude de
+l'impact des classements sur les différents usages de l'eau visés à l'article L. 211-1. 
+
+III.-Les obligations résultant du I s'appliquent à la date de publication des listes. Celles découlant du 2° du I
+s'appliquent, à l'issue d'un délai de cinq ans après la publication des listes, aux ouvrages existants régulièrement
+installés. 
+
+Le cinquième alinéa de l'article 2 de la loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique et
+l'article L. 432-6 du présent code demeurent applicables jusqu'à ce que ces obligations y soient substituées, dans le délai
+prévu à l'alinéa précédent. A l'expiration du délai précité, et au plus tard le 1er janvier 2014, le cinquième alinéa de
+l'article 2 de la loi du 16 octobre 1919 précitée est supprimé et l'article L. 432-6 précité est abrogé. 
+
+Les obligations résultant du I du présent article n'ouvrent droit à indemnité que si elles font peser sur le propriétaire ou
+l'exploitant de l'ouvrage une charge spéciale et exorbitante.
+
+**Nota:**
+
+Dans sa décision n° 2014-396 QPC du 23 mai 2014 (NOR : CSCX1411947S), le Conseil constitutionnel a déclaré le paragraphe I de
+l'article L. 214-17 du code de l'environnement contraire à la Constitution avant le 1er janvier 2013 et conforme à la
+Constitution à compter du 1er janvier 2013. La déclaration d'inconstitutionnalité prévue à l'article 1er prend effet à
+compter de la publication de la décision dans les conditions fixées aux considérants 9 et 10.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°92-3 1992-01-03 art. 45 al. 2
+	  - Loi du 16 octobre 1919 - art. 2 (V)
+	  - Code de l'environnement - art. L211-1 (V)
+	  - Code de l'environnement - art. L432-6 (V)
+
+	**Liens**:
+
+	  - ABROGATION: Loi du 16 octobre 1919 - art. 2 (Ab)
+	  - ABROGATION: Code de l'environnement - art. L432-6 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 6 () JORF 31 décembre 2006
 
-	**Liens**:
+	**Cité par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L214-15 (M)
+	  - Décret n°2007-1760 du 14 décembre 2007 (V)
+	  - Arrêté du 10 juillet 2012 - art. 1 (V)
+	  - Arrêté du 4 décembre 2012 - art. 1 (V)
+	  - Arrêté du 4 décembre 2012 - art. 5 (V)
+	  - Arrêté du 28 décembre 2012 - art. (V)
+	  - Arrêté du 28 décembre 2012 - art. 1 (V)
+	  - Arrêté du 20 décembre 2012 - art. 1 (V)
+	  - Arrêté du 20 décembre 2012 - art. (V)
+	  - Arrêté du 19 juillet 2013 - art. (V)
+	  - Arrêté du 19 juillet 2013 - art. 1 (V)
+	  - Arrêté du 7 octobre 2013 - art. 1 (V)
+	  - Arrêté du 3 décembre 2013 (V)
+	  - Arrêté du 22 novembre 2013 (V)
+	  - Arrêté du 22 novembre 2013 - art. 1 (V)
+	  - Arrêté du 22 novembre 2013 - art. 3 (V)
+	  - Arrêté du 6 novembre 2014 - art. (V)
+	  - Arrêté du 22 janvier 2015 - art. (V)
+	  - Arrêté du 22 janvier 2015 - art. 1 (V)
+	  - Arrêté du 11 septembre 2015 - art. 12 (V)
+	  - Arrêté du 11 septembre 2015 - art. 19 (V)
+	  - Arrêté du 11 septembre 2015 - art. 6 (V)
+	  - Arrêté du 11 septembre 2015 - art. 7 (V)
+	  - Arrêté du 15 septembre 2015 (V)
+	  - Arrêté du 15 septembre 2015 - art. (V)
+	  - Arrêté du 15 septembre 2015 - art. 1 (V)
+	  - Arrêté du 5 novembre 2015 - art. (V)
+	  - Arrêté du 5 novembre 2015 - art. 1 (V)
+	  - Code de l'environnement - art. L211-7-1 (VD)
+	  - Code de l'environnement - art. L214-18 (V)
+	  - Code de l'environnement - art. L214-18-1 (V)
+	  - Code de l'environnement - art. L214-4 (VD)
+	  - Code de l'environnement - art. L215-10 (VD)
+	  - Code de l'environnement - art. L216-1 (VT)
+	  - Code de l'environnement - art. L216-3 (VD)
+	  - Code de l'environnement - art. L216-5 (VT)
+	  - Code de l'environnement - art. L216-7 (V)
+	  - Code de l'environnement - art. L371-1 (M)
+	  - Code de l'environnement - art. L431-7 (V)
+	  - Code de l'environnement - art. L555-2 (VD)
+	  - Code de l'environnement - art. R214-107 (V)
+	  - Code de l'environnement - art. R214-108 (V)
+	  - Code de l'environnement - art. R214-109 (V)
+	  - Code de l'environnement - art. R214-110 (VD)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code des ports maritimes - art. R*122-1 (Ab)
+	  - Code général des collectivités territoriales - art. L4424-10 (V)
+	  - Livre des procédures fiscales - art. L135 P (V)
+
+
+###### Article L214-18
+
+I.-Tout ouvrage à construire dans le lit d'un cours d'eau doit comporter des dispositifs maintenant dans ce lit un débit
+minimal garantissant en permanence la vie, la circulation et la reproduction des espèces vivant dans les eaux au moment de
+l'installation de l'ouvrage ainsi que, le cas échéant, des dispositifs empêchant la pénétration du poisson dans les canaux
+d'amenée et de fuite. 
+
+Ce débit minimal ne doit pas être inférieur au dixième du module du cours d'eau en aval immédiat ou au droit de l'ouvrage
+correspondant au débit moyen interannuel, évalué à partir des informations disponibles portant sur une période minimale de
+cinq années, ou au débit à l'amont immédiat de l'ouvrage, si celui-ci est inférieur. Pour les cours d'eau ou parties de cours
+d'eau dont le module est supérieur à 80 mètres cubes par seconde, ou pour les ouvrages qui contribuent, par leur capacité de
+modulation, à la production d'électricité en période de pointe de consommation et dont la liste est fixée par décret en
+Conseil d'Etat pris après avis du Conseil supérieur de l'énergie, ce débit minimal ne doit pas être inférieur au vingtième du
+module du cours d'eau en aval immédiat ou au droit de l'ouvrage évalué dans les mêmes conditions ou au débit à l'amont
+immédiat de l'ouvrage, si celui-ci est inférieur. Toutefois, pour les cours d'eau ou sections de cours d'eau présentant un
+fonctionnement atypique rendant non pertinente la fixation d'un débit minimal dans les conditions prévues ci-dessus, le débit
+minimal peut être fixé à une valeur inférieure. 
+
+II.-Les actes d'autorisation ou de concession peuvent fixer des valeurs de débit minimal différentes selon les périodes de
+l'année, sous réserve que la moyenne annuelle de ces valeurs ne soit pas inférieure aux débits minimaux fixés en application
+du I. En outre, le débit le plus bas doit rester supérieur à la moitié des débits minimaux précités. 
+
+Lorsqu'un cours d'eau ou une section de cours d'eau est soumis à un étiage naturel exceptionnel, l'autorité administrative
+peut fixer, pour cette période d'étiage, des débits minimaux temporaires inférieurs aux débits minimaux prévus au I. 
+
+III.-L'exploitant de l'ouvrage est tenu d'assurer le fonctionnement et l'entretien des dispositifs garantissant dans le lit
+du cours d'eau les débits minimaux définis aux alinéas précédents. 
+
+IV.-Pour les ouvrages existant à la date de promulgation de la loi n° 2006-1772 du 30 décembre 2006 sur l'eau et les milieux
+aquatiques, les obligations qu'elle institue sont substituées, dès le renouvellement de leur concession ou autorisation et au
+plus tard le 1er janvier 2014, aux obligations qui leur étaient précédemment faites. Cette substitution ne donne lieu à
+indemnité que dans les conditions prévues au III de l'article L. 214-17. 
+
+V.-Le présent article n'est applicable ni au Rhin ni aux parties internationales des cours d'eau partagés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 2 février 1998 - art. 16 (VD)
+	  - Arrêté du 2 février 1998 - art. 31 (VD)
+	  - Loi n°2000-108 du 10 février 2000 - art. 10 (VT)
+	  - Arrêté du 9 novembre 2007 - art. 10 (VT)
+	  - Arrêté du 1er avril 2008 - art. 7 (V)
+	  - Arrêté du 23 juillet 2010 - art. 15 (Ab)
+	  - Arrêté du 8 août 2011 - art. 28 (V)
+	  - Arrêté du 19 décembre 2011 - art. 9 (V)
+	  - Arrêté du 23 mars 2012 - art. 27 (V)
+	  - Arrêté du 26 novembre 2012 - art. 29 (V)
+	  - Arrêté du 26 août 2013 - art. 43 (V)
+	  - Arrêté du 24 septembre 2013 - art. 43 (VD)
+	  - Arrêté du 14 décembre 2013 - art. 26 (V)
+	  - Arrêté du 14 décembre 2013 - art. 26 (VD)
+	  - Arrêté du 14 décembre 2013 - art. 27 (VD)
+	  - Arrêté du 27 décembre 2013 - art. 29 (V)
+	  - Arrêté du 11 septembre 2015 - art. 12 (V)
+	  - Arrêté du 11 septembre 2015 - art. 7 (V)
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+	  - Décret n°2016-691 du 28 mai 2016 - art. 1
+	  - Décret n°2016-691 du 28 mai 2016 - art. 2
+	  - Arrêté du 13 décembre 2016 - art. 12 (V)
+	  - Arrêté du 13 décembre 2016 - art. 14 (V)
+	  - Arrêté du 13 décembre 2016 - art. 4 (V)
+	  - Arrêté du 24 avril 2017 - art. 28 (V)
+	  - Code de l'environnement - art. Annexe de l'article R214-85 (V)
+	  - Code de l'environnement - art. L214-9 (V)
+	  - Code de l'environnement - art. L216-1 (V)
+	  - Code de l'environnement - art. L216-3 (V)
+	  - Code de l'environnement - art. L216-5 (V)
+	  - Code de l'environnement - art. L216-7 (V)
+	  - Code de l'environnement - art. L555-2 (VD)
+	  - Code de l'environnement - art. R213-48-15 (V)
+	  - Code de l'environnement - art. R214-111 (V)
+	  - Code de l'environnement - art. R214-111-1 (V)
+	  - Code de l'environnement - art. R214-111-2 (V)
+	  - Code de l'environnement - art. R214-111-3 (V)
+	  - Code de l'environnement - art. R214-66 (V)
+	  - Code de l'énergie - art. D314-15 (V)
+	  - Code de l'énergie - art. D314-23 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Livre des procédures fiscales - art. L135 P (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L214-15 (M)
+	  - Loi n°2006-1772 du 30 décembre 2006 (V)
+	  - Code de l'environnement - art. L214-17 (VT)
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 6 () JORF 31 décembre 2006
+
+
+###### Article L214-19
+
+Un décret en Conseil d'Etat précise les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 6 () JORF 31 décembre 2006
 
 
 #### Chapitre V : Dispositions propres aux cours d'eau non domaniaux
@@ -7062,14 +7972,14 @@ autorisations émanant de l'administration.
 
 ###### Article L215-2
 
-Le lit des cours d'eau non domaniaux appartient aux propriétaires des deux rives.
+Le lit des cours d'eau non domaniaux appartient aux propriétaires des deux rives. 
 
 Si les deux rives appartiennent à des propriétaires différents, chacun d'eux a la propriété de la moitié du lit, suivant une
-ligne que l'on suppose tracée au milieu du cours d'eau, sauf titre ou prescription contraire.
+ligne que l'on suppose tracée au milieu du cours d'eau, sauf titre ou prescription contraire. 
 
 Chaque riverain a le droit de prendre, dans la partie du lit qui lui appartient, tous les produits naturels et d'en extraire
-de la vase, du sable et des pierres, à la condition de ne pas modifier le régime des eaux et d'en exécuter le curage
-conformément aux règles établies par les articles L. 215-14 à L. 215-24.
+de la vase, du sable et des pierres, à la condition de ne pas modifier le régime des eaux et d'en exécuter l'entretien
+conformément à l'article L. 215-14. 
 
 Sont et demeurent réservés les droits acquis par les riverains ou autres intéressés sur les parties des cours d'eau qui
 servent de voie d'exploitation pour la desserte de leurs fonds.
@@ -7080,6 +7990,10 @@ servent de voie d'exploitation pour la desserte de leurs fonds.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -7093,7 +8007,7 @@ servent de voie d'exploitation pour la desserte de leurs fonds.
 
 	**Cite**:
 
-	  - Code de l'environnement L215-14 à L215-24
+	  - Code de l'environnement - art. L215-14 (V)
 
 
 ###### Article L215-3
@@ -7125,10 +8039,11 @@ riverain en reprend la libre disposition suivant les limites déterminées par l
 
 Lorsqu'un cours d'eau non domanial abandonne naturellement son lit, les propriétaires des fonds sur lesquels le nouveau lit
 s'établit sont tenus de souffrir le passage des eaux sans indemnité ; mais ils peuvent, dans l'année qui suit le changement
-de lit, prendre les mesures nécessaires pour rétablir l'ancien cours des eaux.
+de lit, prendre les mesures nécessaires pour rétablir l'ancien cours des eaux, sous réserve que ces mesures ne fassent pas
+obstacle à la réalisation d'une opération entreprise pour la gestion de ce cours d'eau en application de l'article L. 211-7. 
 
-Les propriétaires riverains du lit abandonné jouissent de la même faculté et peuvent, dans l'année, poursuivre l'exécution
-des travaux nécessaires au rétablissement du cours primitif.
+Les propriétaires riverains du lit abandonné jouissent de la même faculté et peuvent, dans l'année et dans les mêmes
+conditions poursuivre l'exécution des travaux nécessaires au rétablissement du cours primitif.
 
 **Liens relatifs à cet article**
 
@@ -7136,6 +8051,10 @@ des travaux nécessaires au rétablissement du cours primitif.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -7147,45 +8066,9 @@ des travaux nécessaires au rétablissement du cours primitif.
 
 	  - Code rural ancien - art. 100 (Ab)
 
-
-###### Article L215-5
-
-Lorsque par suite de travaux légalement ordonnés, il y a lieu d'élargir le lit ou d'en ouvrir un nouveau, les propriétaires
-des terrains occupés ont droit à une indemnité en contrepartie de la servitude de passage qui en résulte.
-
-Pour la fixation de cette indemnité, il est tenu compte de la situation respective de chacun des riverains par rapport à
-l'axe du nouveau lit, la limite des héritages demeurant fixée conformément aux dispositions du deuxième alinéa de l'article
-L. 215-2, à moins de stipulations contraires.
-
-Les bâtiments, cours et jardins attenant aux habitations sont exempts de la servitude de passage.
-
-Les contestations auxquelles peuvent donner lieu l'application du deuxième alinéa du présent article et le règlement des
-indemnités sont jugées par le tribunal d'instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-	**Cité par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-	  - Code de l'organisation judiciaire - art. R221-17 (VD)
-	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
-
-	**Anciens textes**:
-
-	  - Code rural ancien - art. 101 (Ab)
-
 	**Cite**:
 
-	  - Code de l'environnement - art. L215-2 (M)
+	  - Code de l'environnement - art. L211-7 (V)
 
 
 ###### Article L215-6
@@ -7273,41 +8156,56 @@ joignant qu'à la condition de ne pas préjudicier à l'écoulement et de ne cau
 
 ###### Article L215-10
 
-I. - Les autorisations ou permissions accordées pour l'établissement d'ouvrages ou d'usines sur les cours d'eaux non
-domaniaux peuvent être révoquées ou modifiées sans indemnité de la part de l'Etat exerçant ses pouvoirs de police dans les
-cas suivants :
+I.-Les autorisations ou permissions accordées pour l'établissement d'ouvrages ou d'usines sur les cours d'eaux non domaniaux
+peuvent être révoquées ou modifiées sans indemnité de la part de l'Etat exerçant ses pouvoirs de police dans les cas
+suivants : 
 
 1° Dans l'intérêt de la salubrité publique, et notamment lorsque cette révocation ou cette modification est nécessaire à
-l'alimentation en eau potable de centres habités ou en est la conséquence ;
+l'alimentation en eau potable de centres habités ou en est la conséquence ; 
 
-2° Pour prévenir ou faire cesser les inondations ;
+2° Pour prévenir ou faire cesser les inondations ; 
 
-3° Dans les cas de la réglementation générale prévue à l'article L. 215-8 ;
+3° Dans les cas de la réglementation générale prévue à l'article L. 215-8 ; 
 
 4° Lorsqu'elles concernent les ouvrages établissant ou réglant le plan d'eau ou les établissements ou usines qui, à dater du
 30 mars 1993, n'auront pas été entretenus depuis plus de vingt ans ; toute collectivité publique ou tout établissement public
 intéressé peut, en cas de défaillance du permissionnaire ou du titulaire de l'autorisation, et à sa place, après mise en
 demeure par le préfet, exécuter les travaux qui sont la conséquence de la révocation ou de la modification de la permission
 ou de l'autorisation, et poursuivre, à l'encontre du permissionnaire ou du titulaire de l'autorisation, le remboursement de
-ces travaux ;
+ces travaux ; 
 
-5° Pour des raisons de protection de l'environnement et notamment lorsque ces autorisations soumettent les milieux naturels
-aquatiques à des conditions hydrauliques critiques non compatibles avec leur préservation selon les modalités fixées par
-décret en Conseil d'Etat.
+I bis.-A compter du 1er janvier 2014, en application des objectifs et des orientations du schéma directeur d'aménagement et
+de gestion des eaux, sur les cours d'eau classés au titre du I de l'article L. 214-17, les autorisations ou permissions
+accordées pour l'établissement d'ouvrages ou d'usines peuvent être modifiées, sans indemnité de la part de l'Etat exerçant
+ses pouvoirs de police, dès lors que leur fonctionnement ne permet pas la préservation des espèces migratrices vivant
+alternativement en eau douce et en eau salée. 
 
-II. - Les dispositions du I sont applicables aux permissions ou autorisations accordées en vertu des articles L. 214-1 à L.
-214-6, ou antérieurement à la mise en vigueur de ces dispositions, ainsi qu'aux établissements ayant une existence légale et
-aux entreprises autorisées en application du titre III de la loi du 16 octobre 1919 relative à l'utilisation de l'énergie
-hydraulique.
+II.-Les dispositions du I et du I bis sont applicables aux permissions ou autorisations accordées en vertu des articles L.
+214-1 à L. 214-6, ou antérieurement à la mise en vigueur de ces dispositions, ainsi qu'aux établissements ayant une existence
+légale et aux entreprises concédées ou autorisées en application de la loi du 16 octobre 1919 relative à l'utilisation de
+l'énergie hydraulique. Les modifications apportées en application du I bis du présent article aux concessions visées par la
+loi du 16 octobre 1919 précitée n'ouvrent droit à indemnité que si elles entraînent un bouleversement de l'équilibre
+économique du contrat. 
 
-III. - Les conditions d'application du 4° du I sont fixées par un décret en Conseil d'Etat.
+III.-Les conditions d'application du 4° du I sont fixées par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 16 octobre 1919 (V)
+	  - Code de l'environnement - art. L214-1 (V)
+	  - Code de l'environnement - art. L214-17 (VT)
+	  - Code de l'environnement - art. L215-8 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 4 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -7320,12 +8218,6 @@ III. - Les conditions d'application du 4° du I sont fixées par un décret en C
 
 	  - Code rural ancien - art. 109 (M)
 	  - Code rural ancien - art. 109 (Ab)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L215-8 (V)
-	  - Code de l'environnement L215-8, L214-1 à L214-6
-	  - Loi n°1919-10-16
 
 
 ###### Article L215-11
@@ -7396,17 +8288,16 @@ public, est autorisée par un acte déclarant d'utilité publique les travaux.
 	  - Code rural ancien - art. 113 (Ab)
 
 
-##### Section 3 : Curage, entretien, élargissement et redressement
-
-##### Sous-section 1 : Curage et entretien
+##### Section 3 : Entretien et restauration des milieux aquatiques
 
 ###### Article L215-14
 
-Sans préjudice des articles 556 et 557 du code civil et des dispositions des chapitres Ier, II, IV, VI et VII du présent
-titre, le propriétaire riverain est tenu à un curage régulier pour rétablir le cours d'eau dans sa largeur et sa profondeur
-naturelles, à l'entretien de la rive par élagage et recépage de la végétation arborée et à l'enlèvement des embâcles et
-débris, flottants ou non, afin de maintenir l'écoulement naturel des eaux, d'assurer la bonne tenue des berges et de
-préserver la faune et la flore dans le respect du bon fonctionnement des écosystèmes aquatiques.
+Sans préjudice des articles 556 et 557 du code civil et des chapitres Ier, II, IV, VI et VII du présent titre, le
+propriétaire riverain est tenu à un entretien régulier du cours d'eau. L'entretien régulier a pour objet de maintenir le
+cours d'eau dans son profil d'équilibre, de permettre l'écoulement naturel des eaux et de contribuer à son bon état
+écologique ou, le cas échéant, à son bon potentiel écologique, notamment par enlèvement des embâcles, débris et
+atterrissements, flottants ou non, par élagage ou recépage de la végétation des rives. Un décret en Conseil d'Etat détermine
+les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -7431,10 +8322,13 @@ préserver la faune et la flore dans le respect du bon fonctionnement des écosy
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - Code civil - art. 556 (M)
-	  - Code civil - art. 557 (V)
+	  - Code civil - art. 556 (V)
 
 	**Anciens textes**:
 
@@ -7444,15 +8338,38 @@ préserver la faune et la flore dans le respect du bon fonctionnement des écosy
 
 ###### Article L215-15
 
-Il est pourvu au curage et à l'entretien des cours d'eau non domaniaux ainsi qu'à l'entretien des ouvrages qui s'y rattachent
-de la manière prescrite par les anciens règlements ou d'après les usages locaux.
+I.-Les opérations groupées d'entretien régulier d'un cours d'eau, canal ou plan d'eau et celles qu'impose en montagne la
+sécurisation des torrents sont menées dans le cadre d'un plan de gestion établi à l'échelle d'une unité hydrographique
+cohérente et compatible avec les objectifs du schéma d'aménagement et de gestion des eaux lorsqu'il existe.L'autorisation
+d'exécution de ce plan de gestion au titre des articles L. 214-1 à L. 214-6 a une validité pluriannuelle. 
 
-Toutefois, les propriétaires riverains ne sont assujettis à recevoir sur leurs terrains les matières de curage que si leur
-composition n'est pas incompatible avec la protection des sols et des eaux, notamment en ce qui concerne les métaux lourds et
-autres éléments toxiques qu'elles peuvent contenir.
+Lorsque les collectivités territoriales, leurs groupements ou les syndicats mixtes créés en application de l'article L.
+5721-2 du code général des collectivités territoriales prennent en charge cet entretien groupé en application de l'article L.
+211-7 du présent code, l'enquête publique prévue pour la déclaration d'intérêt général est menée conjointement avec celle
+prévue à l'article L. 214-4. La déclaration d'intérêt général a, dans ce cas, une durée de validité de cinq ans
+renouvelable. 
 
-Les préfets sont chargés, sous l'autorité du ministre compétent, de prendre les dispositions nécessaires pour l'exécution de
-ces règlements et usages.
+Le plan de gestion peut faire l'objet d'adaptations, en particulier pour prendre en compte des interventions ponctuelles non
+prévisibles rendues nécessaires à la suite d'une crue ou de tout autre événement naturel majeur et des interventions
+destinées à garantir la sécurité des engins nautiques non motorisés ainsi que toute opération s'intégrant dans un plan
+d'action et de prévention des inondations. Ces adaptations sont approuvées par l'autorité administrative. 
+
+II.-Le plan de gestion mentionné au I peut comprendre une phase de restauration prévoyant des interventions ponctuelles
+telles que le curage, si l'entretien visé à l'article L. 215-14 n'a pas été réalisé ou si celle-ci est nécessaire pour
+assurer la sécurisation des cours d'eau de montagne. Le recours au curage doit alors être limité aux objectifs suivants :
+
+- remédier à un dysfonctionnement du transport naturel des sédiments de nature à remettre en cause les usages visés au II de
+l'article L. 211-1, à empêcher le libre écoulement des eaux ou à nuire au bon fonctionnement des milieux aquatiques ;
+
+- lutter contre l'eutrophisation ;
+
+- aménager une portion de cours d'eau, canal ou plan d'eau en vue de créer ou de rétablir un ouvrage ou de faire un
+aménagement. 
+
+Le dépôt ou l'épandage des produits de curage est subordonné à l'évaluation de leur innocuité vis-à-vis de la protection des
+sols et des eaux. 
+
+III.-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -7460,6 +8377,10 @@ ces règlements et usages.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -7476,23 +8397,28 @@ ces règlements et usages.
 	  - Code de l'environnement - art. R214-6 (V)
 	  - Code général des collectivités territoriales - art. R3232-1-2 (V)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5721-2 (V)
+	  - Code de l'environnement - art. L211-1 (V)
+	  - Code de l'environnement - art. L211-7 (V)
+	  - Code de l'environnement - art. L214-1 (V)
+	  - Code de l'environnement - art. L214-4 (V)
+	  - Code de l'environnement - art. L215-14 (V)
+
 	**Anciens textes**:
 
 	  - Code rural ancien - art. 115 (M)
 	  - Code rural ancien - art. 115 (Ab)
 
 
-###### Article L215-16
+###### Article L215-15-1
 
-A défaut d'anciens règlements ou usages locaux, il est procédé en conformité des dispositions régissant les associations
-syndicales.
-
-Lorsque le groupement d'associations syndicales, soit autorisées, soit constituées d'office, paraît nécessaire au bon
-aménagement, soit du bassin d'un cours d'eau non domanial ou d'une partie de ce bassin, soit seulement de ce cours d'eau lui-
-même ou d'une section de celui-ci, une union de ces diverses associations peut être constituée d'office dans les conditions
-fixées par décret en Conseil d'Etat nonobstant l'absence de consentement unanime des associations intéressées.
-
-Le présent article s'applique sans préjudice des dispositions de l'article L. 211-7.
+L'entretien régulier peut être effectué selon les anciens règlements et usages locaux relatifs à l'entretien des milieux
+aquatiques pour autant qu'ils soient compatibles avec les objectifs mentionnés aux articles L. 215-14 et L. 215-15. Dans le
+cas contraire, l'autorité administrative met à jour ces anciens règlements ou usages locaux en les validant, en les adaptant
+ou, le cas échéant, en les abrogeant en tout ou partie. A compter du 1er janvier 2014, les anciens règlements et usages
+locaux qui n'ont pas été mis à jour cessent d'être en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -7500,6 +8426,41 @@ Le présent article s'applique sans préjudice des dispositions de l'article L. 
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L215-14 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R. 215-2 (V)
+
+
+###### Article L215-16
+
+Si le propriétaire ne s'acquitte pas de l'obligation d'entretien régulier qui lui est faite par l'article L. 215-14, la
+commune, le groupement de communes ou le syndicat compétent, après une mise en demeure restée infructueuse à l'issue d'un
+délai déterminé dans laquelle sont rappelées les dispositions de l'article L. 435-5, peut y pourvoir d'office à la charge de
+l'intéressé. 
+
+Le maire ou le président du groupement ou du syndicat compétent émet à l'encontre du propriétaire un titre de perception du
+montant correspondant aux travaux exécutés. Il est procédé au recouvrement de cette somme au bénéfice de la commune, du
+groupement ou du syndicat compétent, comme en matière de créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -7513,17 +8474,14 @@ Le présent article s'applique sans préjudice des dispositions de l'article L. 
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L211-7 (M)
+	  - Code de l'environnement - art. L215-14 (V)
+	  - Code de l'environnement - art. L435-5 (V)
 
 
 ###### Article L215-17
 
-Dans tous les cas, les rôles de répartition des sommes nécessaires au paiement des travaux de curage ou d'entretien des
-ouvrages sont dressés sous la surveillance du préfet et rendus exécutoires par lui.
-
-Le recouvrement est fait dans les mêmes formes et avec les mêmes garanties qu'en matière de contributions directes.
-
-Le privilège ainsi créé prend rang immédiatement après celui du Trésor public.
+Toutes les contestations relatives à l'exécution des travaux, à la répartition des dépenses et aux demandes en réduction ou
+en décharge formées par les imposés au titre de la présente section sont portées devant la juridiction administrative.
 
 **Liens relatifs à cet article**
 
@@ -7531,6 +8489,10 @@ Le privilège ainsi créé prend rang immédiatement après celui du Trésor pub
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
 
 	**Anciens textes**:
 
@@ -7543,37 +8505,15 @@ Le privilège ainsi créé prend rang immédiatement après celui du Trésor pub
 
 ###### Article L215-18
 
-Toutes les contestations relatives à l'exécution des travaux, à la répartition de la dépense et aux demandes en réduction ou
-décharge formées par les imposés sont portées devant la juridiction administrative.
+Pendant la durée des travaux visés aux articles L. 215-15 et L. 215-16, les propriétaires sont tenus de laisser passer sur
+leurs terrains les fonctionnaires et les agents chargés de la surveillance, les entrepreneurs ou ouvriers, ainsi que les
+engins mécaniques strictement nécessaires à la réalisation de travaux, dans la limite d'une largeur de six mètres. 
 
-**Liens relatifs à cet article**
+Les terrains bâtis ou clos de murs à la date du 3 février 1995 ainsi que les cours et jardins attenant aux habitations sont
+exempts de la servitude en ce qui concerne le passage des engins. 
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Anciens textes**:
-
-	  - Code rural ancien - art. 118 (M)
-	  - Code rural ancien - art. 118 (Ab)
-
-	**Cité par**:
-
-	  - Code forestier - art. L321-2 (M)
-
-
-###### Article L215-19
-
-Pendant la durée des travaux, les propriétaires sont tenus de laisser passer sur leurs terrains les fonctionnaires et agents
-chargés de la surveillance, les entrepreneurs et ouvriers, ainsi que les engins mécaniques strictement nécessaires à la
-réalisation des travaux, dans la limite d'une largeur de six mètres.
-
-Les terrains bâtis ou clos de murs à la date du 3 février 1995 ainsi que les cours et les jardins attenant aux habitations
-sont exempts de la servitude en ce qui concerne le passage des engins.
-
-Ce droit s'exerce autant que possible en suivant la rive du cours d'eau et en respectant les arbres et les plantations
-existants.
+La servitude instituée au premier alinéa s'applique autant que possible en suivant la rive du cours d'eau et en respectant
+les arbres et plantations existants.
 
 **Liens relatifs à cet article**
 
@@ -7584,161 +8524,20 @@ existants.
 
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 58 () JORF 31 juillet 2003
-
-	**Abrogé par**:
-
 	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
 
 	**Anciens textes**:
 
-	  - Code rural ancien - art. 119 (Ab)
-
-
-##### Sous-section 2 : Elargissement, régularisation et redressement
-
-###### Article L215-20
-
-Sans préjudice des dispositions des articles L. 214-1 à L. 214-9, l'exécution des travaux d'élargissement, de régularisation
-et de redressement des cours d'eau non domaniaux est poursuivie dans les conditions prévues aux articles L. 215-16 à L.
-215-18.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
-
-	**Anciens textes**:
-
-	  - Code rural ancien - art. 120 (Ab)
+	  - Code rural ancien - art. 118 (M)
+	  - Code rural ancien - art. 118 (Ab)
 
 	**Cite**:
 
-	  - Code de l'environnement L214-1 à L214-9, L215-16 à L215-18
-
-
-##### Sous-section 3 : Dispositions communes
-
-###### Article L215-21
-
-I. - Un programme pluriannuel d'entretien et de gestion, dénommé plan simple de gestion, peut être soumis à l'agrément du
-préfet par tout propriétaire riverain d'un cours d'eau non domanial et toute association syndicale de propriétaires
-riverains.
-
-II. - Le bénéfice des aides de l'Etat et de ses établissements publics attachées au curage, à l'entretien et à la
-restauration des cours d'eau est accordé prioritairement aux propriétaires qui établissent un plan simple de gestion ou y
-souscrivent.
-
-III. - Le préfet accorde son agrément après avis, le cas échéant, de la commission locale de l'eau instituée en application
-de l'article L. 212-4.
-
-IV. - Le plan comprend :
-
-1° Un descriptif de l'état initial du cours d'eau, de son lit, des berges, de la faune et de la flore ;
-
-2° Un programme annuel de travaux d'entretien et de curage et, si nécessaire, un programme de travaux de restauration,
-précisant notamment les techniques employées et les conséquences sur l'environnement ;
-
-3° Un plan de financement de l'entretien, de la gestion et, s'il y a lieu, des travaux de restauration.
-
-V. - Le plan est valable pour une période de cinq ans éventuellement renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
-
-	**Anciens textes**:
-
-	  - Code rural ancien - art. 121 (M)
-	  - Code rural ancien - art. 121 (Ab)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L212-4 (M)
+	  - Code de l'environnement - art. L215-15 (V)
 
 	**Cité par**:
 
-	  - Code de l'environnement - art. L435-8 (Ab)
-
-
-###### Article L215-22
-
-Si les travaux de curage, d'entretien, d'élargissement, de régularisation et de redressement intéressent la salubrité
-publique, l'acte qui les ordonne peut, après avis du conseil général et des conseils municipaux intéressés, mettre une partie
-de la dépense à la charge des communes dont le territoire est assaini.
-
-Dans ce cas, le même acte détermine quelles sont les communes intéressées et fixe la part que chacune d'elles doit supporter
-dans la dépense.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
-
-	**Anciens textes**:
-
-	  - Code rural ancien - art. 122 (M)
-	  - Code rural ancien - art. 122 (Ab)
-
-
-###### Article L215-23
-
-Les propriétaires riverains de canaux d'arrosage désaffectés rétrocédés par les associations syndicales autorisées sont tenus
-de les entretenir pour maintenir leur fonction d'écoulement des eaux pluviales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
-
-	**Anciens textes**:
-
-	  - Code rural ancien - art. 122-1 (Ab)
-
-
-###### Article L215-24
-
-Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 8 () JORF 31 décembre 2006
-
-	**Anciens textes**:
-
-	  - Code rural ancien - art. 122-2 (Ab)
+	  - Code forestier - art. L321-2 (M)
 
 
 #### Chapitre VI : Sanctions
@@ -7747,24 +8546,45 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 
 ###### Article L216-1
 
-I. - Indépendamment des poursuites pénales, en cas d'inobservation des dispositions prévues par les articles L. 211-2, L.
-211-3, L. 211-5, L. 211-7, L. 211-12, L. 214-1 à L. 214-9, L. 214-11 et L. 214-12 ou les règlements et décisions
-individuelles pris pour leur application, le préfet met en demeure d'y satisfaire dans un délai déterminé.
+Indépendamment des poursuites pénales éventuellement encourues, en cas de méconnaissance des articles L. 211-2, L. 211-3, L.
+211-5, L. 211-7, L. 211-12, du II de l'article L. 212-5-1 et des articles L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L.
+214-17, L. 214-18, L. 215-14 et L. 215-15 ou des règlements et décisions individuelles pris pour leur application, l'autorité
+administrative met en demeure l'exploitant ou, à défaut, le propriétaire d'y satisfaire dans un délai déterminé. Elle peut
+prescrire tous contrôles, expertises ou analyses qui s'avéreraient nécessaires, les dépenses étant à la charge de
+l'exploitant ou du propriétaire.
 
-II. - Si, à l'expiration du délai fixé, il n'a pas été obtempéré à cette injonction par l'exploitant ou par le propriétaire
-de l'installation s'il n'y a pas d'exploitant, le préfet peut :
+Si, à l'expiration du délai fixé, il n'a pas été obtempéré à cette injonction, l'autorité administrative peut, par décision
+motivée et après avoir invité l'intéressé à faire connaître ses observations :
 
-1° L'obliger à consigner entre les mains d'un comptable public une somme correspondant à l'estimation du montant des travaux
-à réaliser, laquelle sera restituée au fur et à mesure de leur exécution ; il est, le cas échéant, procédé au recouvrement de
-cette somme comme en matière de créances de l'Etat étrangères à l'impôt et au domaine ;
+1° L'obliger à consigner entre les mains d'un comptable public une somme correspondant au montant des travaux à réaliser
+avant une date qu'elle détermine. La somme consignée est restituée à l'exploitant ou au propriétaire au fur et à mesure de
+l'exécution des travaux. A défaut de réalisation des travaux avant l'échéance fixée par l'autorité administrative, la somme
+consignée est définitivement acquise à l'Etat afin de régler les dépenses entraînées par l'exécution des travaux en lieu et
+place de l'intéressé.
 
-2° Faire procéder d'office, sans préjudice de l'article L. 211-5, aux frais de l'intéressé, à l'exécution des mesures
-prescrites. Les sommes consignées en application des dispositions ci-dessus peuvent être utilisées pour régler les dépenses
-entraînées par l'exécution d'office ;
+Cette somme bénéficie d'un privilège de même rang que celui prévu à l'article 1920 du code général des impôts. Il est procédé
+à son recouvrement comme en matière de créances de l'Etat étrangères à l'impôt et au domaine. Le comptable peut engager la
+procédure d'avis à tiers détenteur prévue par l'article L. 263 du livre des procédures fiscales ;
 
-3° Suspendre, s'il y a lieu, l'autorisation jusqu'à exécution des conditions imposées.
+2° Faire procéder d'office, en lieu et place de l'exploitant ou, à défaut, du propriétaire et à ses frais, à l'exécution des
+mesures prescrites ;
+
+3° Suspendre l'exploitation des installations ou ouvrages, la réalisation des travaux ou l'exercice des activités jusqu'à
+l'exécution des conditions imposées et prendre les mesures conservatoires nécessaires, aux frais de l'exploitant ou du
+propriétaire.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1920
+	  - Livre des procédures fiscales - art. L263 (M)
+	  - Code de l'environnement - art. L212-5-1 (V)
+	  - Code de l'environnement - art. L214-17 (V)
+	  - Code de l'environnement - art. L214-18 (V)
+	  - Code de l'environnement - art. L215-14 (M)
+	  - Code de l'environnement - art. L215-15 (M)
+	  - Code de l'environnement L212-5-1, L214-1 à L214-9, L214-11 à L214-13, L214-17, L214-18, L215-14, L215-15
 
 	**Anciens textes**:
 
@@ -7800,24 +8620,55 @@ entraînées par l'exécution d'office ;
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 10 () JORF 31 décembre 2006
+
+
+###### Article L216-1-1
+
+Lorsque des installations ou ouvrages sont exploités ou que des travaux ou activités sont réalisés sans avoir fait l'objet de
+l'autorisation ou de la déclaration requise par l'article L. 214-3, l'autorité administrative met en demeure l'exploitant ou,
+à défaut, le propriétaire de régulariser sa situation dans un délai qu'elle détermine en déposant, suivant le cas, une
+demande d'autorisation ou une déclaration. Elle peut, par arrêté motivé, édicter des mesures conservatoires et, après avoir
+invité l'intéressé à faire connaître ses observations, suspendre l'exploitation des installations ou ouvrages ou la
+réalisation des travaux ou activités jusqu'au dépôt de la déclaration ou jusqu'à la décision relative à la demande
+d'autorisation. 
+
+Si l'exploitant ou, à défaut, le propriétaire ne défère pas à la mise en demeure de régulariser sa situation ou si sa demande
+d'autorisation est rejetée, l'autorité compétente ordonne la fermeture ou la suppression des installations ou ouvrages, la
+cessation définitive des travaux ou activités. Si l'exploitant ou, à défaut, le propriétaire n'a pas obtempéré dans le délai
+imparti, l'autorité compétente fait application des procédures prévues aux 1° et 2° de l'article L. 216-1.
+
+L'autorité administrative, après en avoir préalablement informé le procureur de la République, peut faire procéder par un
+agent de la force publique à l'apposition des scellés sur des installations, ouvrages ou matériels utilisés pour des travaux
+ou activités, maintenus en fonctionnement, soit en infraction à une mesure de suppression, de fermeture ou de suspension
+prise en application des articles L. 214-3 et L. 216-1 ou des deux premiers alinéas du présent article, soit en dépit d'un
+refus d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 10 () JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 17 (V)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L211-12 (M)
-	  - Code de l'environnement - art. L211-2 (V)
-	  - Code de l'environnement - art. L211-3 (M)
-	  - Code de l'environnement - art. L211-5 (V)
-	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L214-11 (V)
-	  - Code de l'environnement - art. L214-12 (V)
-	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11, L214-12, L211-12
+	  - Code de l'environnement - art. L214-3
+	  - Code de l'environnement - art. L216-1
 
 
 ###### Article L216-2
 
-Les décisions prises en application de l'article L. 216-1 peuvent être déférées à la juridiction administrative dans les
-conditions prévues à l'article L. 514-6.
+Les décisions prises en application de la présente section peuvent être déférées à la juridiction administrative dans les
+conditions prévues au I de l'article L. 514-6.
 
 **Liens relatifs à cet article**
 
@@ -7831,10 +8682,17 @@ conditions prévues à l'article L. 514-6.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 10 () JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 17 (V)
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L216-1 (M)
-	  - Code de l'environnement - art. L514-6 (M)
+	  - Code de l'environnement - art. L514-6
 
 	**Cité par**:
 
@@ -7848,12 +8706,13 @@ conditions prévues à l'article L. 514-6.
 ###### Article L216-3
 
 I. - Sont chargés de procéder à la recherche et à la constatation des infractions aux dispositions des articles L. 211-2, L.
-211-3, L. 211-5, L. 211-7, L. 211-12, L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 216-6 à L. 216-8 et L. 216-10 à L.
-216-12, ainsi que des textes et des décisions pris pour leur application :
+211-3, L. 211-5, L. 211-7, L. 211-12, du II de l'article L. 212-5-1 et des articles L. 214-1 à L. 214-9, L. 214-11 à L.
+214-13, L. 214-17, L. 214-18, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12, ainsi que des textes et des décisions pris pour
+leur application :
 
 1° Les fonctionnaires et agents, assermentés et commissionnés à cet effet dans les conditions prévues par décret en Conseil
 d'Etat, appartenant aux services de l'Etat chargés de l'environnement, de l'agriculture, de l'industrie, de l'équipement, des
-transports, de la mer, de la santé, de la défense, de la concurrence, de la consommation et de la répression des fraudes ;
+transports, de la mer, de la santé, de la défense ;
 
 2° Les agents mentionnés à l'article L. 514-5 ;
 
@@ -7861,8 +8720,8 @@ transports, de la mer, de la santé, de la défense, de la concurrence, de la co
 
 4° Les agents des douanes ;
 
-5° Les agents assermentés et commissionnés à cet effet de l'Office national de la chasse et de la faune sauvage et du Conseil
-supérieur de la pêche ;
+5° Les agents assermentés et commissionnés à cet effet de l'Office national de la chasse et de la faune sauvage et de
+l'Office national de l'eau et des milieux aquatiques ;
 
 6° Les chercheurs, ingénieurs et techniciens assermentés de l'Institut français de recherche pour l'exploitation de la mer ;
 
@@ -7917,27 +8776,32 @@ présent article dans des conditions déterminées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 132 () JORF 24 février 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 11 () JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
 	  - Code forestier - art. L122-7 (M)
-	  - Code de l'environnement - art. L211-12 (M)
-	  - Code de l'environnement - art. L211-2 (V)
-	  - Code de l'environnement - art. L211-3 (M)
-	  - Code de l'environnement - art. L211-5 (V)
-	  - Code de l'environnement - art. L211-7 (M)
+	  - Code de l'environnement - art. L212-5-1 (V)
+	  - Code de l'environnement - art. L214-17 (V)
+	  - Code de l'environnement - art. L214-18 (V)
 	  - Code de l'environnement - art. L514-5 (M)
-	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11 à L214-13, L216-6 à L216-8, L216-10 à L216-12, L514-5, L211-12
+	  - Code de l'environnement L212-5-1, L214-1 à L214-9, L214-11 à L214-13, L214-17, L214-18, L216-6 à L216-8, L216-10 à L216-12, L514-5
 
 
 ###### Article L216-4
 
 En vue de rechercher et constater les infractions, les agents mentionnés à l'article L. 216-3 ont accès aux locaux, aux
 installations et lieux où sont réalisées les opérations à l'origine des infractions, à l'exclusion des domiciles et de la
-partie des locaux qui sert de domicile aux intéressés. Les propriétaires et exploitants sont tenus de leur livrer passage.
-Les agents ne peuvent accéder à ces locaux qu'entre 8 heures et 20 heures, ou en dehors de ces heures si l'établissement est
-ouvert au public, ou lorsqu'une activité est en cours.
+partie des locaux qui sert de domicile aux intéressés. Ces agents peuvent consulter tout document utile à la recherche et à
+la constatation des infractions. Les propriétaires et exploitants sont tenus de leur livrer passage et de leur communiquer
+ces documents. Les agents ne peuvent accéder à ces locaux qu'entre 8 heures et 20 heures, ou en dehors de ces heures si
+l'établissement est ouvert au public, ou lorsqu'une activité est en cours.
+
+Les administrations de l'Etat et les collectivités territoriales, les entreprises concessionnaires d'une personne publique et
+les organismes de toute nature soumis au contrôle de l'autorité administrative doivent lui communiquer, à sa demande, les
+documents qu'ils détiennent qui lui sont nécessaires à la recherche et la constatation des infractions mentionnées au premier
+alinéa, sans pouvoir lui opposer le secret professionnel.
 
 Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions. Il
 peut s'opposer à ces opérations.
@@ -7967,6 +8831,11 @@ peut s'opposer à ces opérations.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 2006-12-30 art. 11 II, III JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 11 () JORF 31 décembre 2006
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L216-3 (M)
@@ -7974,16 +8843,17 @@ peut s'opposer à ces opérations.
 
 ###### Article L216-5
 
-Les infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 211-12, L. 214-1 à L. 214-9, L.
-214-11 à L. 214-13, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12 et des textes pris pour leur application sont constatées par
-des procès-verbaux qui font foi jusqu'à preuve contraire.
+Les infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 211-12, du II de l'article L.
+212-5-1 et des articles L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 214-17, L. 214-18, L. 216-6 à L. 216-8 et L. 216-10 à
+L. 216-12 et des textes pris pour leur application sont constatées par des procès-verbaux qui font foi jusqu'à preuve
+contraire.
 
 Les procès-verbaux doivent, sous peine de nullité, être adressés dans les cinq jours qui suivent leur clôture au procureur de
 la République. Une copie en est également remise, dans le même délai, à l'intéressé et à l'autorité administrative. En outre,
 dans le même délai, une copie est adressée au président de la fédération départementale des associations agréées de pêche et
-de pisciculture et au président de l'association agréée de pêcheurs professionnels en eau douce lorsque l'infraction a pour
-conséquence de détruire les frayères, les zones de croissance ou d'alimentation de la faune piscicole, ou de porter atteinte
-à la continuité écologique ou au débit minimal du cours d'eau.
+de protection du milieu aquatique et au président de l'association agréée de pêcheurs professionnels en eau douce lorsque
+l'infraction a pour conséquence de détruire les frayères, les zones de croissance ou d'alimentation de la faune piscicole, ou
+de porter atteinte à la continuité écologique ou au débit minimal du cours d'eau.
 
 **Liens relatifs à cet article**
 
@@ -7999,16 +8869,15 @@ conséquence de détruire les frayères, les zones de croissance ou d'alimentati
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 5 () JORF 19 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 11 () JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L211-12 (M)
-	  - Code de l'environnement - art. L211-2 (V)
-	  - Code de l'environnement - art. L211-3 (M)
-	  - Code de l'environnement - art. L211-5 (V)
-	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement L211-2, L211-3, L211-5, L211-7, L214-1 à L214-9, L214-11 à L214-13, L216-6 à L216-8, L216-10 à L216-12, L211-12
+	  - Code de l'environnement - art. L212-5-1 (V)
+	  - Code de l'environnement - art. L214-17 (V)
+	  - Code de l'environnement - art. L214-18 (V)
+	  - Code de l'environnement L212-5-1, L214-1 à L214-9, L214-11 à L214-13, L214-17, L214-18, L216-6 à L216-8, L216-10 à L216-12
 
 	**Cité par**:
 
@@ -8082,9 +8951,15 @@ rivages de la mer. Ces dispositions ne s'appliquent pas aux rejets en mer effect
 
 ###### Article L216-7
 
-Sans préjudice de la responsabilité encourue vis-à-vis du bénéficiaire du débit affecté, le fait de ne pas respecter les
-prescriptions définies par l'acte déclaratif d'utilité publique mentionné à l'article L. 214-9 est puni de 12 000 euros
-d'amende.
+Est puni de 12 000 euros d'amende le fait : 
+
+1° D'exploiter un ouvrage ne respectant pas les dispositions du 2° du I de l'article L. 214-17, nécessaire pour assurer la
+circulation des poissons migrateurs ; 
+
+2° De ne pas respecter les dispositions relatives au débit minimal prévues par l'article L. 214-18 ; 
+
+3° De ne pas respecter les prescriptions définies par l'acte déclaratif d'utilité publique prévu par l'article L. 214-9, sans
+préjudice de la responsabilité encourue vis-à-vis du bénéficiaire du débit affecté.
 
 **Liens relatifs à cet article**
 
@@ -8100,20 +8975,17 @@ d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 11 () JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L214-9 (M)
+	  - Code de l'environnement - art. L214-17 (V)
+	  - Code de l'environnement - art. L214-18 (V)
+	  - Code de l'environnement - art. L214-9 (V)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L216-9 (VT)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L216-8
@@ -8171,30 +9043,31 @@ ou l'interdiction d'utiliser l'installation ou l'ouvrage, dans le cadre de la pr
 
 ###### Article L216-9
 
-En cas de poursuite pour infraction aux dispositions des articles L. 216-6 et L. 216-8 ou pour infraction à une obligation de
-déclaration ou à toute autre obligation résultant des articles mentionnés à l'article L. 216-5, ou des règlements ou
-décisions individuelles pris pour leur application, le tribunal peut, après avoir déclaré le prévenu coupable, décider
-l'ajournement du prononcé de la peine en lui enjoignant de respecter les prescriptions auxquelles il a été contrevenu.
+En cas de poursuite pour infraction aux dispositions des articles L. 216-6, L. 216-7 et L. 216-8 ou pour infraction à une
+obligation de déclaration ou à toute autre obligation résultant des articles mentionnés à l'article L. 216-5, ou des
+règlements ou décisions individuelles pris pour leur application, le tribunal peut, après avoir déclaré le prévenu coupable,
+décider l'ajournement du prononcé de la peine en lui enjoignant de respecter les prescriptions auxquelles il a été
+contrevenu. 
 
 Le tribunal impartit un délai pour l'exécution de ces prescriptions. Il peut assortir l'injonction d'une astreinte dont il
 fixe le taux et la durée maximum. Son montant est de 15 euros à 3 000 euros par jour de retard dans l'exécution des mesures
-imposées.
+imposées. 
 
 L'ajournement ne peut intervenir qu'une fois. Il peut être ordonné même si le prévenu ne comparaît pas en personne. Dans tous
-les cas, la décision peut être assortie de l'exécution provisoire.
+les cas, la décision peut être assortie de l'exécution provisoire. 
 
 A l'audience de renvoi, lorsque les prescriptions visées par l'injonction ont été exécutées dans le délai fixé, le tribunal
-peut soit dispenser le coupable de peine, soit prononcer les peines prévues.
+peut soit dispenser le coupable de peine, soit prononcer les peines prévues. 
 
 Lorsque les prescriptions ont été exécutées avec retard, le tribunal liquide, s'il y a lieu, l'astreinte et prononce les
-peines prévues.
+peines prévues. 
 
 Lorsqu'il y a eu inexécution des prescriptions, le tribunal liquide, s'il y a lieu, l'astreinte, prononce les peines et peut
-ensuite ordonner que l'exécution de ces prescriptions soit poursuivie d'office aux frais du condamné.
+ensuite ordonner que l'exécution de ces prescriptions soit poursuivie d'office aux frais du condamné. 
 
-La décision sur la peine intervient au plus tard un an après la décision d'ajournement.
+La décision sur la peine intervient au plus tard un an après la décision d'ajournement. 
 
-Le taux d'astreinte tel qu'il a été fixé par la décision d'ajournement ne peut être modifié.
+Le taux d'astreinte tel qu'il a été fixé par la décision d'ajournement ne peut être modifié. 
 
 Pour la liquidation de l'astreinte, la juridiction apprécie l'inexécution ou le retard dans l'exécution des prescriptions, en
 tenant compte, s'il y a lieu, de la survenance d'événements qui ne sont pas imputables au prévenu.
@@ -8208,39 +9081,39 @@ tenant compte, s'il y a lieu, de la survenance d'événements qui ne sont pas im
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 11 () JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 4
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L216-5 (M)
+	  - Code de l'environnement - art. L216-5
+	  - Code de l'environnement - art. L216-7 (M)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L216-6 (VT)
 	  - Code de l'environnement - art. L216-8 (VT)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 
 ###### Article L216-10
 
-Le fait d'exploiter une installation ou un ouvrage ou de réaliser des travaux en violation d'une mesure de mise hors service,
-de retrait ou de suspension d'une autorisation ou de suppression d'une installation ou d'une mesure d'interdiction prononcée
-en application des dispositions mentionnées à l'article L. 216-5, est puni d'une peine de deux ans d'emprisonnement et de 150
-000 euros d'amende.
+Le fait d'exploiter une installation ou un ouvrage ou de réaliser des travaux en violation d'une opposition à une opération
+soumise à déclaration, d'une mesure de mise hors service, de retrait ou de suspension d'une autorisation ou de suppression
+d'une installation ou d'une mesure d'interdiction prononcée en application des dispositions mentionnées à l'article L. 216-5,
+est puni d'une peine de deux ans d'emprisonnement et de 150 000 euros d'amende. 
 
 Est puni des mêmes peines le fait de poursuivre une opération ou l'exploitation d'une installation ou d'un ouvrage sans se
 conformer à l'arrêté de mise en demeure, pris par le préfet, d'avoir à respecter, au terme d'un délai fixé, les prescriptions
 techniques prévues par l'autorisation ou les règlements pris en application des dispositions mentionnées à l'article L.
-216-5.
+216-5. 
 
 Le fait de mettre obstacle à l'exercice des fonctions confiées aux agents mentionnés aux articles L. 211-2 et L. 216-3 est
 puni d'une peine de six mois d'emprisonnement et de 7 500 euros d'amende.
@@ -8257,10 +9130,6 @@ puni d'une peine de six mois d'emprisonnement et de 7 500 euros d'amende.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Décret n°2002-755 du 2 mai 2002 - art. 2 (Ab)
@@ -8271,14 +9140,17 @@ puni d'une peine de six mois d'emprisonnement et de 7 500 euros d'amende.
 	  - Code de l'environnement - art. R214-69 (V)
 	  - Livre des procédures fiscales - art. L135 P (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 12 (V) JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 4
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L211-2 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Code de l'environnement - art. L211-2
 
 
 ###### Article L216-11
@@ -8385,28 +9257,28 @@ Les dispositions du présent article s'appliquent également aux installations c
 
 ###### Article L216-14
 
-L'autorité administrative peut transiger sur la poursuite des contraventions et délits constitués par les infractions aux
-dispositions des chapitres Ier à VII du présent titre et des textes pris pour son application après avoir recueilli l'accord
-du procureur de la République.
+L'autorité administrative peut, tant que l'action publique n'a pas été mise en mouvement, transiger sur la poursuite des
+contraventions et délits constitués par les infractions aux chapitres Ier à VII du présent titre et des textes pris pour leur
+application après avoir recueilli l'accord du procureur de la République.
 
 Cette faculté n'est pas applicable aux contraventions des quatre premières classes pour lesquelles l'action publique est
 éteinte par le paiement d'une amende forfaitaire en application de l'article 529 du code de procédure pénale.
+
+La proposition de transaction est formulée en fonction des circonstances de l'infraction, de la personnalité de son auteur
+ainsi que de ses ressources et de ses charges. Elle précise l'amende transactionnelle que l'auteur de l'infraction devra
+payer, dont le montant ne peut excéder 20 % du montant de l'amende encourue ainsi que, le cas échéant, les obligations qui
+lui seront imposées, tendant à faire cesser l'infraction, à éviter son renouvellement ou à réparer le dommage. Elle fixe
+également les délais impartis pour le paiement et, s'il y a lieu, l'exécution des obligations.
+
+L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
+prescription de l'action publique.
 
 L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans les délais impartis les obligations résultant
 pour lui de l'acceptation de la transaction.
 
 Les modalités d'application du présent article sont, en tant que de besoin, fixées par décret en Conseil d'Etat.
 
-**Nota:**
-
-La décision du Conseil d'Etat n° 283178, en date du 7 juillet 2006 a annulé l'article 6 de l'ordonnance n° 2005-805, lequel
-créait un article L. 216-14 dans le code de l'environnement.
-
 **Liens relatifs à cet article**
-
-	**Annulé par**:
-
-	  - Conseil d'Etat n°283178 2006-07-07
 
 	**Codifié par**:
 
@@ -8415,7 +9287,7 @@ créait un article L. 216-14 dans le code de l'environnement.
 
 	**Créé par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 6 () JORF 19 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 12 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -11400,6 +12272,140 @@ pavillon d'un Etat étranger.
 	**Créé par**:
 
 	  - Loi n°2003-346 du 15 avril 2003 - art. 7 () JORF 16 avril 2003
+
+
+##### Section 8 : Dispositions relatives au contrôle et à la gestion des eaux de ballast et des sédiments des navires
+
+###### Article L218-82
+
+Les dispositions de la présente section ont pour objectif de prévenir, réduire et finalement éliminer le déplacement
+d'organismes aquatiques nuisibles et pathogènes au moyen du contrôle et de la gestion des eaux de ballast et des sédiments
+des navires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 39 () JORF 31 décembre 2006
+
+
+###### Article L218-83
+
+Les navires d'une jauge brute égale ou supérieure à 300 unités du système universel de mesure pénétrant dans les eaux
+territoriales ou intérieures françaises sont tenus, lorsqu'ils proviennent d'une zone extérieure à la zone de cabotage
+international ou d'une zone désignée expressément par l'autorité administrative compétente :
+
+- soit d'attester au moyen des documents de bord qu'ils ont effectué un échange de plus de 95 % de leurs eaux de ballast dans
+les eaux internationales, ou qu'ils ont procédé à la neutralisation biologique des eaux de ballast et des sédiments produits
+au moyen d'équipements embarqués agréés par l'autorité administrative compétente au vu notamment de leur efficacité technique
+et environnementale ;
+
+- soit d'attester que les caractéristiques du navire et les conditions de l'escale ne les conduiront pas à déballaster à
+l'intérieur des eaux territoriales ou intérieures françaises.
+
+Les conditions d'application du présent article et notamment les autorités administratives compétentes sont précisées par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 39 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L218-84 (V)
+	  - Code de l'environnement - art. L218-86 (M)
+	  - Code de l'environnement - art. L612-1 (V)
+	  - Code de l'environnement - art. L622-1 (V)
+	  - Code de l'environnement - art. L632-1 (V)
+
+
+###### Article L218-84
+
+Le fait pour le capitaine d'un navire de ne pas respecter les obligations prévues à l'article L. 218-83 ou de produire une
+fausse attestation est puni d'une amende de 300 000 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 39 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L218-83 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L218-85 (V)
+
+
+###### Article L218-85
+
+Le tribunal compétent peut, compte tenu des circonstances de fait et notamment des conditions de travail de l'intéressé,
+décider que le paiement des amendes prononcées à l'encontre du capitaine ou du responsable à bord, en vertu de l'article L.
+218-84, est en totalité ou en partie à la charge de l'exploitant ou du propriétaire. 
+
+Le tribunal ne peut user de la faculté prévue à l'alinéa précédent que si le propriétaire ou l'exploitant a été cité à
+comparaître à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 39 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L218-84 (V)
+
+
+###### Article L218-86
+
+Les articles L. 218-83 à L. 218-85 ne s'appliquent pas : 
+
+1° Aux navires en situation de difficulté ou d'avarie susceptible de porter atteinte à la sécurité du navire, à celle de
+l'équipage ou des personnes embarquées et à la protection du milieu marin ou en situation d'urgence mettant en danger les
+personnes ou subissant un péril de la mer ; 
+
+2° Aux navires de guerre et autres navires appartenant à l'Etat ou à un Etat étranger ou exploités par l'Etat ou un Etat
+étranger et affectés exclusivement à un service non commercial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 39 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L218-83 (V)
 
 
 ### Titre II : Air et atmosphère
@@ -16272,26 +17278,26 @@ dotation.
 
 ###### Article L331-14
 
-I. - Dans les espaces maritimes compris dans le coeur d'un parc national, les travaux et installations sont interdits, sauf
+I.-Dans les espaces maritimes compris dans le coeur d'un parc national, les travaux et installations sont interdits, sauf
 autorisation spéciale de l'établissement public du parc, à l'exception de la pose de câbles sous-marins et des travaux
-nécessités par les impératifs de la défense nationale.
+nécessités par les impératifs de la défense nationale. 
 
-II. - L'établissement public du parc national peut proposer aux autorités administratives compétentes de soumettre à un
-régime particulier la pêche, la circulation en mer et la gestion du domaine public maritime dans le coeur du parc national,
-dans le respect du droit communautaire et du droit international.
+II.-L'établissement public du parc national peut proposer aux autorités administratives compétentes de soumettre à un régime
+particulier la pêche, la circulation en mer et la gestion du domaine public maritime dans le coeur du parc national, dans le
+respect du droit communautaire et du droit international. 
 
 Le décret en Conseil d'Etat prévu à l'article L. 331-2 peut transférer à l'établissement public du parc national, pour la
 préservation des espaces maritimes compris dans le coeur du parc et dans la mesure nécessaire à celle-ci, les compétences
 attribuées au maire pour la police des activités nautiques prévue à l'article L. 2213-23 du code général des collectivités
-territoriales.
+territoriales. 
 
 Sauf cas d'urgence, les actes réglementaires du directeur pris en application du précédent alinéa doivent avoir été transmis
-pour avis huit jours au moins avant leur date d'entrée en vigueur aux maires des communes intéressées.
+pour avis huit jours au moins avant leur date d'entrée en vigueur aux maires des communes intéressées. 
 
-III. - Lorsqu'une activité est susceptible d'altérer de façon notable l'espace maritime compris dans le coeur d'un parc
-national, l'autorisation à laquelle elle est soumise ne peut être délivrée que sur avis conforme de l'établissement public du
-parc national pris après consultation de son conseil scientifique. Cette procédure n'est pas applicable aux activités
-répondant aux besoins de la défense nationale, de l'ordre public, de la sécurité maritime et de la lutte contre la pollution.
+III.-Lorsqu'une activité est susceptible d'altérer de façon notable le milieu marin compris dans le coeur d'un parc national,
+l'autorisation à laquelle elle est soumise ne peut être délivrée que sur avis conforme de l'établissement public du parc
+national pris après consultation de son conseil scientifique. Cette procédure n'est pas applicable aux activités répondant
+aux besoins de la défense nationale, de l'ordre public, de la sécurité maritime et de la lutte contre la pollution.
 
 **Liens relatifs à cet article**
 
@@ -16299,10 +17305,6 @@ répondant aux besoins de la défense nationale, de l'ordre public, de la sécur
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2006-436 du 14 avril 2006 - art. 9 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -16330,10 +17332,14 @@ répondant aux besoins de la défense nationale, de l'ordre public, de la sécur
 	  - Code de l'urbanisme - art. R*425-6 (V)
 	  - Code rural et de la pêche maritime - art. L921-10 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 40 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2213-23 (M)
-	  - Code de l'environnement - art. L331-2 (M)
+	  - Code général des collectivités territoriales - art. L2213-23 (V)
+	  - Code de l'environnement - art. L331-2 (V)
 
 	**Anciens textes**:
 
@@ -16984,14 +17990,26 @@ la commettre.
 
 ###### Article L331-25
 
-Le directeur de l'établissement public du parc national peut transiger sur la poursuite des délits et contraventions
-constitués par les infractions visées aux articles L. 331-18 et L. 331-19, après avoir recueilli l'accord du procureur de la
-République et, pour les infractions commises en matière de forêt, de pêche en eau douce et de pêche maritime, celui de
-l'autorité administrative chargée de la forêt ou de la pêche, et à l'exception des infractions prévues au chapitre VIII du
-titre Ier du livre II.
+Le directeur de l'établissement public du parc national peut, tant que l'action publique n'a pas été mise en mouvement,
+transiger sur la poursuite des délits et contraventions constitués par les infractions visées aux articles L. 331-18 et L.
+331-19, après avoir recueilli l'accord du procureur de la République et, pour les infractions commises en matière de forêt,
+de pêche en eau douce et de pêche maritime, celui de l'autorité administrative chargée de la forêt ou de la pêche, et à
+l'exception des infractions prévues au chapitre VIII du titre Ier du livre II.
 
 Cette faculté n'est pas applicable aux contraventions des quatre premières classes pour lesquelles l'action publique est
 éteinte par le paiement d'une amende forfaitaire en application de l'article 529 du code de procédure pénale.
+
+La proposition de transaction est formulée en fonction des circonstances de l'infraction, de la personnalité de son auteur
+ainsi que de ses ressources et de ses charges. Elle précise l'amende transactionnelle que l'auteur de l'infraction devra
+payer, dont le montant ne peut excéder 20 % du montant de l'amende encourue ainsi que, le cas échéant, les obligations qui
+lui seront imposées, tendant à faire cesser l'infraction, à éviter son renouvellement ou à réparer le dommage. Elle fixe
+également les délais impartis pour le paiement et, s'il y a lieu, l'exécution des obligations.
+
+L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
+prescription de l'action publique.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté, dans les délais impartis, les obligations résultant
+pour lui de l'acceptation de la transaction.
 
 Les modalités d'application du présent article sont, en tant que de besoin, fixées par décret en Conseil d'État.
 
@@ -17009,7 +18027,7 @@ Les modalités d'application du présent article sont, en tant que de besoin, fi
 
 	**Modifié par**:
 
-	  - Loi n°2006-436 du 14 avril 2006 - art. 10 () JORF 15 avril 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 12 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -18069,7 +19087,7 @@ forestière, de chasse, de pêche, d'inspection sanitaire, de protection des ani
 l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
 
 4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office national de la chasse et de la faune sauvage
-et du Conseil supérieur de la pêche ;
+et de l'Office national de l'eau et des milieux aquatiques ;
 
 4° bis Les gardes champêtres ;
 
@@ -18080,8 +19098,7 @@ territoriales.
 
 **Nota:**
 
-Loi 2003-329 article 131 : Les articles... 77,... 86 à 89,91... sont applicables à Mayotte. Loi n° 2006-1772 2006-12-30 art.
-102 
+Loi n° 2006-1772 2006-12-30 art. 102 II : 
 
 II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps que le I de l'article 88.
 
@@ -18091,10 +19108,6 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 91 () JORF 19 mars 2003
 
 	**Cité par**:
 
@@ -18116,6 +19129,14 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	  - Code de l'environnement - art. R332-68 (V)
 	  - Code rural - art. L942-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 102 II : date d'entrée en vigueur indéterminée
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
+
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 16 (M)
@@ -18134,10 +19155,6 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	**Anciens textes**:
 
 	  - Code rural - art. L242-24 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L332-21
@@ -20388,7 +21405,7 @@ b) Les fonctionnaires et agents commissionnés et assermentés au titre de la pr
 l'environnement ;
 
 c) Les agents commissionnés et assermentés de l'Office national des forêts, de l'Office national de la chasse et de la faune
-sauvage, du Conseil supérieur de la pêche et des parcs nationaux.
+sauvage, de l'Office national de l'eau et des milieux aquatiques et des parcs nationaux.
 
 **Nota:**
 
@@ -20408,6 +21425,14 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 102 II : date d'entrée en vigueur indéterminée
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2213-4 (M)
@@ -20424,10 +21449,6 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	  - Code de l'environnement - art. L362-7 (VT)
 	  - Code de l'environnement - art. R173-1 (V)
 	  - Code de la route. - art. R325-3 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L362-6
@@ -21449,7 +22470,7 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 
 ###### Article L414-1
 
-I. - Les zones spéciales de conservation sont des sites maritimes et terrestres à protéger comprenant :
+I. - Les zones spéciales de conservation sont des sites marins et terrestres à protéger comprenant :
 
 - soit des habitats naturels menacés de disparition ou réduits à de faibles dimensions ou offrant des exemples remarquables
 des caractéristiques propres aux régions alpine, atlantique, continentale et méditerranéenne ;
@@ -21461,10 +22482,10 @@ habitat ou des effets de leur exploitation sur leur état de conservation ;
 
 II. - Les zones de protection spéciale sont :
 
-- soit des sites maritimes et terrestres particulièrement appropriés à la survie et à la reproduction des espèces d'oiseaux
+- soit des sites marins et terrestres particulièrement appropriés à la survie et à la reproduction des espèces d'oiseaux
 sauvages figurant sur une liste arrêtée dans des conditions fixées par décret en Conseil d'Etat ;
 
-- soit des sites maritimes et terrestres qui servent d'aires de reproduction, de mue, d'hivernage ou de zones de relais, au
+- soit des sites marins et terrestres qui servent d'aires de reproduction, de mue, d'hivernage ou de zones de relais, au
 cours de leur migration, à des espèces d'oiseaux autres que celles figurant sur la liste susmentionnée.
 
 III. - Avant la notification à la Commission européenne de la proposition d'inscription d'une zone spéciale de conservation
@@ -21489,18 +22510,19 @@ délimitation. Les sites Natura 2000 font également l'objet de mesures de prév
 de ces mêmes habitats naturels et les perturbations de nature à affecter de façon significative ces mêmes espèces.
 
 Ces mesures sont définies en concertation notamment avec les collectivités territoriales intéressées et leurs groupements
-concernés ainsi qu'avec des représentants de propriétaires et exploitants des terrains inclus dans le site.
+concernés ainsi qu'avec des représentants de propriétaires, exploitants et utilisateurs des terrains et espaces inclus dans
+le site.
 
-Elles tiennent compte des exigences économiques, sociales et culturelles, ainsi que des particularités régionales et locales.
-Elles sont adaptées aux menaces spécifiques qui pèsent sur ces habitats naturels et sur ces espèces. Elles ne conduisent pas
-à interdire les activités humaines dès lors qu'elles n'ont pas d'effets significatifs par rapport aux objectifs mentionnés à
-l'alinéa ci-dessus. Les activités piscicoles, la chasse et les autres activités cynégétiques pratiquées dans les conditions
-et sur les territoires autorisés par les lois et règlement en vigueur, ne constituent pas des activités perturbantes ou ayant
-de tels effets.
+Elles tiennent compte des exigences économiques, sociales, culturelles et de défense, ainsi que des particularités régionales
+et locales. Elles sont adaptées aux menaces spécifiques qui pèsent sur ces habitats naturels et sur ces espèces. Elles ne
+conduisent pas à interdire les activités humaines dès lors qu'elles n'ont pas d'effets significatifs sur le maintien ou le
+rétablissement dans un état de conservation favorable de ces habitats naturels et de ces espèces. La pêche, les activités
+aquacoles, la chasse et les autres activités cynégétiques pratiquées dans les conditions et sur les territoires autorisés par
+les lois et règlement en vigueur, ne constituent pas des activités perturbantes ou ayant de tels effets.
 
 Les mesures sont prises dans le cadre des contrats ou des chartes prévus à l'article L. 414-3 ou en application des
-dispositions législatives ou réglementaires, notamment de celles relatives aux parcs nationaux, aux réserves naturelles, aux
-biotopes ou aux sites classés.
+dispositions législatives ou réglementaires, notamment de celles relatives aux parcs nationaux, aux parcs naturels marins,
+aux réserves naturelles, aux biotopes ou aux sites classés.
 
 **Liens relatifs à cet article**
 
@@ -21554,18 +22576,12 @@ biotopes ou aux sites classés.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 140 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 141 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 142 () JORF 24 février 2005
+	  - Loi n°2006-1772 2006-12-30 art. 40 I, II JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 40 () JORF 31 décembre 2006
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L414-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 79-409 CEE 1979-04-02
-	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
 
 ###### Article L414-2
@@ -21573,15 +22589,15 @@ biotopes ou aux sites classés.
 I. - Pour chaque site Natura 2000, un document d'objectifs définit les orientations de gestion, les mesures prévues à
 l'article L. 414-1, les modalités de leur mise en oeuvre et les dispositions financières d'accompagnement.
 
-Le document d'objectifs peut être élaboré et approuvé à compter de la notification à la Commission européenne de la
-proposition d'inscription d'une zone spéciale de conservation, ou de la désignation d'une zone de protection spéciale.
+Le document d'objectifs peut être approuvé à compter de la notification à la Commission européenne de la proposition
+d'inscription d'une zone spéciale de conservation, ou de la désignation d'une zone de protection spéciale.
 
 II. - Pour l'élaboration et le suivi de la mise en oeuvre du document d'objectifs, un comité de pilotage Natura 2000 est créé
 par l'autorité administrative.
 
 Ce comité comprend les collectivités territoriales intéressées et leurs groupements concernés ainsi que, notamment, des
-représentants de propriétaires et exploitants des terrains inclus dans le site Natura 2000. Les représentants de l'Etat y
-siègent à titre consultatif.
+représentants de propriétaires, exploitants et utilisateurs des terrains et espaces inclus dans le site Natura 2000. Les
+représentants de l'Etat y siègent à titre consultatif.
 
 III. - Les représentants des collectivités territoriales et de leurs groupements désignent parmi eux le président du comité
 de pilotage Natura 2000 ainsi que la collectivité territoriale ou le groupement chargé de l'élaboration du document
@@ -21590,19 +22606,34 @@ d'objectifs et du suivi de sa mise en oeuvre.
 A défaut, la présidence du comité de pilotage Natura 2000 ainsi que l'élaboration du document d'objectifs et l'animation
 nécessaire à sa mise en oeuvre sont assurées par l'autorité administrative.
 
-IV. - Une fois établi, le document d'objectifs est approuvé par l'autorité administrative. Si le document d'objectifs n'a pas
-été soumis à son approbation dans les deux ans qui suivent la création du comité de pilotage Natura 2000, l'autorité
+IV. - Une fois élaboré, le document d'objectifs est approuvé par l'autorité administrative. Si le document d'objectifs n'a
+pas été soumis à son approbation dans les deux ans qui suivent la création du comité de pilotage Natura 2000, l'autorité
 administrative peut prendre en charge son élaboration.
 
-V. - Lorsque le site est entièrement inclus dans un terrain relevant du ministère de la défense, l'autorité administrative
-préside le comité de pilotage Natura 2000 et établit le document d'objectifs en association avec le comité de pilotage Natura
-2000. Lorsque le site est majoritairement situé dans le périmètre du coeur d'un parc national ou dans un parc naturel marin,
-le projet de document d'objectifs est établi par l'établissement public chargé de la gestion du parc. Il est approuvé par
-l'autorité administrative.
-
-VI. - Une convention est conclue entre l'Etat et la collectivité territoriale ou le groupement désigné dans les conditions
+V. - Une convention est conclue entre l'Etat et la collectivité territoriale ou le groupement désigné dans les conditions
 prévues au III afin de définir les modalités et les moyens d'accompagnement nécessaires à l'élaboration du document
 d'objectifs et au suivi de sa mise en oeuvre.
+
+VI. - Nonobstant toutes dispositions contraires, lorsque le site est entièrement inclus dans un terrain relevant du ministère
+de la défense, l'autorité administrative préside le comité de pilotage Natura 2000, établit le document d'objectifs et suit
+sa mise en oeuvre en association avec le comité de pilotage.
+
+VII. - Lorsque le site est majoritairement situé dans le périmètre du coeur d'un parc national et par dérogation aux II à V,
+l'établissement public chargé de la gestion du parc établit le document d'objectifs et en suit la mise en oeuvre.
+
+VIII. - Lorsque le site est majoritairement situé dans le périmètre d'un parc naturel marin et par dérogation aux II à V, le
+conseil de gestion prévu à l'article L. 334-4 élabore le document d'objectifs et en suit la mise en oeuvre. L'établissement
+public chargé de la gestion du parc approuve le document d'objectifs.
+
+Sous réserve de l'alinéa précédent et par dérogation aux III à V, lorsque le site comprend majoritairement des espaces
+marins, l'autorité administrative établit le document d'objectifs et suit sa mise en oeuvre en association avec le comité de
+pilotage Natura 2000. La présidence du comité de pilotage est assurée par l'autorité administrative qui peut la confier à un
+représentant d'une collectivité territoriale ou d'un groupement désigné par ses soins.
+
+IX. - Dans tous les cas, aucune mesure de conservation ou de rétablissement des habitats naturels et des espèces qui ont
+justifié la désignation du site Natura 2000 ne peut figurer dans le document d'objectifs sans l'accord préalable de
+l'autorité militaire lorsque cette mesure est susceptible d'affecter l'exécution de la politique militaire au sens de
+l'article L. 1142-1 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -21621,19 +22652,21 @@ d'objectifs et au suivi de sa mise en oeuvre.
 
 	**Modifié par**:
 
-	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 40 () JORF 31 décembre 2006
 
 	**Cite**:
 
+	  - Code de la défense. - art. L1142-1 (V)
+	  - Code de l'environnement - art. L334-4 (V)
 	  - Code de l'environnement - art. L414-1 (M)
 
 
 ###### Article L414-3
 
 I. - Pour l'application du document d'objectifs, les titulaires de droits réels et personnels portant sur les terrains inclus
-dans le site peuvent conclure avec l'autorité administrative des contrats, dénommés "contrats Natura 2000". Les contrats
-Natura 2000 conclus par les exploitants agricoles peuvent prendre la forme de contrats portant sur des engagements agro-
-environnementaux.
+dans le site ainsi que les professionnels et utilisateurs des espaces marins situés dans le site peuvent conclure avec
+l'autorité administrative des contrats, dénommés "contrats Natura 2000". Les contrats Natura 2000 conclus par les exploitants
+agricoles peuvent prendre la forme de contrats portant sur des engagements agro-environnementaux.
 
 Le contrat Natura 2000 comporte un ensemble d'engagements conformes aux orientations et aux mesures définies par le document
 d'objectifs, portant sur la conservation et, le cas échéant, le rétablissement des habitats naturels et des espèces qui ont
@@ -21643,9 +22676,10 @@ d'un remboursement selon des modalités fixées par décret.
 
 Les litiges relatifs à l'exécution de ce contrat sont portés devant la juridiction administrative.
 
-II. - Les titulaires de droits réels et personnels portant sur les terrains inclus dans le site peuvent adhérer à une charte
-Natura 2000. La charte Natura 2000 comporte un ensemble d'engagements définis par le document d'objectifs et pour lesquels le
-document d'objectifs ne prévoit aucune disposition financière d'accompagnement. Elle est annexée au document d'objectifs.
+II. - Les titulaires de droits réels et personnels portant sur les terrains inclus dans le site ainsi que les professionnels
+et utilisateurs des espaces marins situés dans le site peuvent adhérer à une charte Natura 2000. La charte Natura 2000
+comporte un ensemble d'engagements définis par le document d'objectifs et pour lesquels le document d'objectifs ne prévoit
+aucune disposition financière d'accompagnement.
 
 **Liens relatifs à cet article**
 
@@ -21656,7 +22690,7 @@ document d'objectifs ne prévoit aucune disposition financière d'accompagnement
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 143 () JORF 24 février 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 40 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -21667,11 +22701,6 @@ document d'objectifs ne prévoit aucune disposition financière d'accompagnement
 	  - Code de l'environnement - art. R*214-28 (Ab)
 	  - Code de l'environnement - art. R414-13 (M)
 	  - Code rural - art. R*214-28 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 79-409 CEE 1979-04-02
-	  - TXT_SOURCE: Directive 92-43 CEE 1992-05-21
 
 
 ###### Article L414-4
@@ -21936,22 +22965,22 @@ région et en Corse par le préfet de Corse.
 ###### Article L415-1
 
 Sont habilités à constater les infractions aux dispositions des articles L. 411-1, L. 411-2, L. 411-3, L. 412-1, L. 413-2 à
-L. 413-5, outre les officiers et agents de police judiciaire énumérés aux articles 16, 20 et 21 du code de procédure pénale :
+L. 413-5, outre les officiers et agents de police judiciaire énumérés aux articles 16,20 et 21 du code de procédure pénale : 
 
-1° Les agents des douanes commissionnés ;
+1° Les agents des douanes commissionnés ; 
 
 2° Les fonctionnaires et agents assermentés et commissionnés à cet effet par le ministre chargé de l'environnement et qui
 peuvent être en outre commissionnés pour la constatation des infractions en matière de chasse et de pêche commises dans les
-réserves naturelles ;
+réserves naturelles ; 
 
 3° Les agents de l'Etat et de l'Office national des forêts commissionnés pour constater les infractions en matière
 forestière, de chasse, de pêche, d'inspection sanitaire, de protection des animaux ou de protection des végétaux, dans
-l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
+l'étendue des circonscriptions pour lesquelles ils sont assermentés ; 
 
 4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office national de la chasse et de la faune sauvage
-et du Conseil supérieur de la pêche ;
+et de l'Office national de l'eau et des milieux aquatiques ; 
 
-4° bis Les gardes champêtres ;
+4° bis Les gardes champêtres ; 
 
 5° Lorsque les mesures de protection portent sur le domaine public maritime ou les eaux territoriales, les agents habilités
 par le décret du 9 janvier 1852 sur l'exercice de la pêche maritime à constater les infractions à la réglementation sur
@@ -21960,8 +22989,7 @@ territoriales.
 
 **Nota:**
 
-Loi 2003-329 article 131 : Les articles... 77,... 86 à 89,91... sont applicables à Mayotte. Loi n° 2006-1772 2006-12-30 art.
-102  
+Loi n° 2006-1772 2006-12-30 art. 102 II : 
 
 II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps que le I de l'article 88.
 
@@ -22008,27 +23036,23 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 91 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 91
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 102 II : date d'entrée en vigueur indéterminée
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 16 (M)
-	  - CODE DE PROCEDURE PENALE - art. 20 (M)
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - Décret du 9 janvier 1852 (Ab)
 	  - Code de l'environnement - art. L411-1 (V)
-	  - Code de l'environnement - art. L411-2 (M)
-	  - Code de l'environnement - art. L411-3 (M)
 	  - Code de l'environnement - art. L412-1 (V)
-	  - Code de l'environnement L411-1, L411-2, L411-3, L412-1, L413-2 à L413-5
-	  - Décret n°1852-01-09
+	  - Code de l'environnement - art. L413-2 (V)
 
 	**Anciens textes**:
 
 	  - Code rural - art. L215-5 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L415-2
@@ -26816,6 +27840,32 @@ nuisibles et régulièrement détruits dans les conditions prévues au présent 
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
+##### Section 4 : Sécurité des ouvrages hydrauliques
+
+###### Article L427-11
+
+Sous réserve des dispositions des articles L. 411-1 et L. 411-2, le propriétaire ou le gestionnaire d'un ouvrage hydraulique
+intéressant la sécurité publique peut procéder à la destruction des animaux malfaisants ou nuisibles logés dans cet ouvrage
+et menaçant sa stabilité, dans les conditions définies par les articles L. 427-6 et L. 427-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 29 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L411-1 (V)
+	  - Code de l'environnement - art. L427-6 (V)
+	  - Code de l'environnement - art. L427-8 (V)
+
+
 #### Chapitre VIII : Dispositions pénales
 
 ##### Section 1 : Peines
@@ -27587,49 +28637,31 @@ rapports et procès-verbaux, ou à leur appui.
 
 ###### Article L428-20
 
-I. - Sans préjudice des dispositions de l'article L. 428-21, sont habilités à rechercher et constater les infractions aux
+I.-Sans préjudice des dispositions de l'article L. 428-21, sont habilités à rechercher et constater les infractions aux
 dispositions du présent titre et aux textes pris pour son application, dans l'étendue des circonscriptions pour lesquelles
 ils sont assermentés, outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de
-procédure pénale :
+procédure pénale : 
 
-1° Les agents de l'Etat, de l'Office national de la chasse et de la faune sauvage, du Conseil supérieur de la pêche, du
-domaine national de Chambord, de l'Office national des forêts et des parcs nationaux commissionnés pour constater les
-infractions en matière forestière, de chasse ou de pêche ;
+1° Les agents de l'Etat, de l'Office national de la chasse et de la faune sauvage, de l'Office national de l'eau et des
+milieux aquatiques, du domaine national de Chambord, de l'Office national des forêts et des parcs nationaux commissionnés
+pour constater les infractions en matière forestière, de chasse ou de pêche ; 
 
-2° Les gardes champêtres ;
+2° Les gardes champêtres ; 
 
-3° Les lieutenants de louveterie.
+3° Les lieutenants de louveterie. 
 
-II. - Les procès-verbaux établis par ces fonctionnaires ou agents font foi jusqu'à preuve contraire.
+II.-Les procès-verbaux établis par ces fonctionnaires ou agents font foi jusqu'à preuve contraire.
 
 **Nota:**
 
-Loi n° 2005-157 art. 230 VIII : " Un décret détermine les conditions d'application du présent article (art. 230), notamment
-les modalités d'organisation et de fonctionnement de l'établissement, de conservation du château et de gestion de la forêt.
-" 
-
-Ces dispositions prennent effet à la date d'entrée en vigueur du décret prévu à l'article 230 (VIII) et au plus tard le 1er
-juillet 2005. 
-
-Il s'agit du décret n° 2005-703 du 24 juin 2005 publié au Journal officiel du 25 juin 2005.  Loi n° 2006-1772 2006-12-30 art.
-102 II : 
+Loi n° 2006-1772 2006-12-30 art. 102 II : 
 
 II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps que le I de l'article 88.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 230 (V) JORF 24 février 2005 en vigueur le 26 juin 2005
-
 	**Cité par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 230 (V)
 	  - Arrêté du 26 novembre 2010 - art. 14 (V)
 	  - Code de l'environnement - art. L420-4 (V)
 	  - Code de l'environnement - art. L423-26 (VD)
@@ -27641,6 +28673,7 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	  - Code de l'environnement - art. R425-20 (V)
 	  - Code de l'environnement - art. R427-21 (V)
 	  - Code rural - art. R225-17 (Ab)
+	  - Loi n°2005-157 du 23 février 2005 - art. 230 (V)
 
 	**Cite**:
 
@@ -27651,9 +28684,18 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	  - Code rural - art. L228-27 (Ab)
 	  - Code rural L228-27
 
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 102 II : date d'entrée en vigueur indéterminée
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 
 ###### Article L428-21
@@ -29349,11 +30391,10 @@ Les dispositions du présent titre relatives aux poissons s'appliquent aux crust
 
 ###### Article L431-3
 
-Sous réserve des dispositions des articles L. 431-6 et L. 431-7, les dispositions du présent titre s'appliquent à tous les
-cours d'eau, canaux, ruisseaux ainsi qu'aux plans d'eau avec lesquels ils communiquent.
+Le présent titre s'applique à tous les cours d'eau, canaux, ruisseaux et plans d'eau, à l'exception de ceux visés aux
+articles L. 431-4, L. 431-6 et L. 431-7.
 
-Dans les cours d'eau et canaux affluant à la mer, les dispositions du présent titre s'appliquent en amont de la limite de
-salure des eaux.
+Dans les cours d'eau et canaux affluant à la mer, le présent titre s'applique en amont de la limite de la salure des eaux.
 
 **Liens relatifs à cet article**
 
@@ -29385,25 +30426,25 @@ salure des eaux.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 89 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L431-6 (M)
-	  - Code de l'environnement - art. L431-7 (M)
+	  - Code de l'environnement - art. L431-6 (V)
 
 	**Anciens textes**:
 
 	  - Code rural - art. L231-3 (Ab)
-	  - Code rural L231-3
 
+
+##### Section 2 : Eaux closes
 
 ###### Article L431-4
 
-Les opérations de vidange de plans d'eau destinées exclusivement à la capture du poisson ne constituent pas une mise en
-communication au sens de l'article L. 431-3.
+Les fossés, canaux, étangs, réservoirs et autres plans d'eau dans lesquels le poisson ne peut passer naturellement sont
+soumis aux seules dispositions du chapitre II du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -29411,6 +30452,10 @@ communication au sens de l'article L. 431-3.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 89 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -29420,17 +30465,49 @@ communication au sens de l'article L. 431-3.
 	  - Code de l'environnement - art. L431-5 (V)
 	  - Code de l'environnement - art. R431-7 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
 	**Anciens textes**:
 
 	  - Code rural - art. L231-4 (Ab)
 	  - Code rural L231-4
 
 
-##### Section 2 : Piscicultures
+###### Article L431-5
+
+Les propriétaires des plans d'eau visés à l'article L. 431-4 peuvent demander pour ceux-ci l'application des dispositions du
+présent titre pour une durée minimale de cinq années consécutives, dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 89 (V) JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L431-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R*231-1 (Ab)
+	  - Code de l'environnement - art. R*236-84 (Ab)
+	  - Code de l'environnement - art. R*236-9 (Ab)
+	  - Code de l'environnement - art. R431-1 (V)
+	  - Code de l'environnement - art. R436-69 (V)
+	  - Code de l'environnement - art. R436-9 (V)
+	  - Code rural - art. R*236-9 (Ab)
+
+	**Anciens textes**:
+
+	  - Code rural - art. L231-5 (Ab)
+	  - Code rural L231-5
+
+
+##### Section 3 : Piscicultures
 
 ###### Article L431-6
 
@@ -29438,17 +30515,6 @@ Une pisciculture est, au sens du titre Ier du livre II et du titre III du livre 
 l'élevage de poissons destinés à la consommation, au repeuplement, à l'ornement, à des fins expérimentales ou scientifiques
 ainsi qu'à la valorisation touristique. Dans ce dernier cas, la capture du poisson à l'aide de lignes est permise dans les
 plans d'eau.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-805 2005-07-18 art. 22 :
-
-I. - Un décret relatif à la nomenclature prévue à l'article L. 214-2 du code de l'environnement sera pris dans le délai d'un
-an à compter de la publication de la présente ordonnance.
-
-II. - L'article 7 de la présente ordonnance entrera en vigueur à la même date.
-
-Il s'agit du décret n° 2006-881 publié au Journal officiel du 18 juillet 2006.
 
 **Liens relatifs à cet article**
 
@@ -29493,15 +30559,13 @@ Il s'agit du décret n° 2006-881 publié au Journal officiel du 18 juillet 2006
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 7 () JORF 19 juillet 2005 en vigueur le 18 juillet 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 89 (V) JORF 31 décembre 2006
 
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'environnement - art. L432-10 (M)
 	  - SPEC_APPLI: Code de l'environnement - art. L432-12 (V)
 	  - SPEC_APPLI: Code de l'environnement - art. L432-2 (V)
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Anciens textes**:
 
@@ -29510,17 +30574,16 @@ Il s'agit du décret n° 2006-881 publié au Journal officiel du 18 juillet 2006
 
 ###### Article L431-7
 
-A l'exception des articles L. 432-2, L. 432-10, L. 432-11 et L. 432-12, les dispositions du présent titre ne sont pas
+A l'exception des articles L. 432-2, L. 432-10, L. 436-9 et L. 432-12, les dispositions du présent titre ne sont pas
 applicables aux piscicultures régulièrement autorisées ou déclarées ainsi qu'aux plans d'eau existant au 30 juin 1984,
 établis en dérivation ou par barrage et équipés des dispositifs permanents empêchant la libre circulation du poisson entre
-ces plans d'eau et les eaux avec lesquelles ils communiquent :
+ces plans d'eau et les eaux avec lesquelles ils communiquent : 
 
 1° Soit s'ils ont été créés en vertu d'un droit fondé sur titre comportant le droit d'intercepter la libre circulation du
-poisson ;
+poisson ; 
 
 2° Soit s'ils sont constitués par la retenue d'un barrage établi en vue de la pisciculture avant le 15 avril 1829 en travers
-d'un cours d'eau non domanial n'ayant pas été classé au titre du régime des échelles à poisson, mentionné à l'article L.
-432-7, et ne figurant pas à la liste prévue à l'article L. 432-6 ;
+d'un cours d'eau non domanial ne figurant pas à la liste prévue au 2° du I de l'article L. 214-17 ; 
 
 3° Soit s'ils résultent d'une concession ou d'une autorisation administrative, jusqu'à la fin de la période pour laquelle la
 concession ou l'autorisation a été consentie. Les détenteurs de ces autorisations ou concessions peuvent en demander le
@@ -29554,17 +30617,17 @@ renouvellement en se conformant aux dispositions des articles L. 214-2 à L. 214
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 8 () JORF 19 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 16 () JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 89 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L432-10 (M)
-	  - Code de l'environnement - art. L432-11 (Ab)
-	  - Code de l'environnement - art. L432-12 (M)
-	  - Code de l'environnement - art. L432-2 (M)
-	  - Code de l'environnement - art. L432-6 (M)
-	  - Code de l'environnement - art. L432-7 (Ab)
-	  - Code de l'environnement L432-2, L432-10, L432-11, L432-12, L432-7, L432-6, L214-2 à L214-4
+	  - Code de l'environnement - art. L214-17 (V)
+	  - Code de l'environnement - art. L214-2 (V)
+	  - Code de l'environnement - art. L432-10 (V)
+	  - Code de l'environnement - art. L432-12 (V)
+	  - Code de l'environnement - art. L432-2 (VT)
+	  - Code de l'environnement - art. L436-9 (V)
 
 	**Liens**:
 
@@ -29595,57 +30658,18 @@ concessions ou autorisations qui en ont fait la déclaration auprès de l'autori
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 89 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L431-7 (M)
+	  - Code de l'environnement - art. L431-7 (V)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R*231-35 (Ab)
 	  - Code de l'environnement - art. R431-35 (V)
-
-
-##### Section 2 : Eaux closes
-
-###### Article L431-5
-
-Les propriétaires des plans d'eau autres que ceux mentionnés à l'alinéa 1 de l'article L. 431-3 peuvent demander pour ceux-ci
-l'application des dispositions du présent titre pour une durée minimale de cinq années consécutives, dans des conditions
-fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L431-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R*231-1 (Ab)
-	  - Code de l'environnement - art. R*236-84 (Ab)
-	  - Code de l'environnement - art. R*236-9 (Ab)
-	  - Code de l'environnement - art. R431-1 (V)
-	  - Code de l'environnement - art. R436-69 (V)
-	  - Code de l'environnement - art. R436-9 (V)
-	  - Code rural - art. R*236-9 (Ab)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L231-5 (Ab)
-	  - Code rural L231-5
 
 
 #### Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole
@@ -29659,20 +30683,15 @@ des milieux aquatiques. A cet effet, il ne doit pas leur porter atteinte et, le 
 d'entretien, sur les berges et dans le lit du cours d'eau, nécessaires au maintien de la vie aquatique.
 
 Avec l'accord du propriétaire, cette obligation peut être prise en charge par une association agréée de pêche et de
-pisciculture ou par la fédération départementale des associations agréées de pêche et de pisciculture qui, en contrepartie,
-exerce gratuitement le droit de pêche pendant la durée de la prise en charge de cette obligation. Cette durée peut être fixée
-par convention.
+protection du milieu aquatique ou par la fédération départementale des associations agréées de pêche et de protection du
+milieu aquatique qui, en contrepartie, exerce gratuitement le droit de pêche pendant la durée de la prise en charge de cette
+obligation. Cette durée peut être fixée par convention.
 
 En cas de non-respect de l'obligation de participer à la protection du patrimoine piscicole et des milieux aquatiques, les
 travaux nécessaires peuvent être effectués d'office par l'administration aux frais du propriétaire ou, si celui-ci est
 déchargé de son obligation, aux frais de l'association ou de la fédération qui l'a prise en charge.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 	**Cité par**:
 
@@ -29683,14 +30702,19 @@ déchargé de son obligation, aux frais de l'association ou de la fédération q
 	  - Code de l'environnement - art. R*235-34 (Ab)
 	  - Code de l'environnement - art. R214-91 (VD)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
 	**Anciens textes**:
 
 	  - Code rural - art. L232-1 (Ab)
 	  - Code rural L232-1
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 
 ##### Section 2 : Protection de la faune piscicole et de son habitat
@@ -29741,99 +30765,93 @@ journaux ou plus.
 	  - Code rural - art. L232-2 (Ab)
 
 
-###### Article L432-4
+###### Article L432-3
 
-En cas de condamnation pour infraction aux dispositions des articles L. 432-2 et L. 432-3, le tribunal fixe, s'il y a lieu,
-les mesures à prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures doivent
-être exécutées, ainsi qu'une astreinte définie à l'article L. 437-20.
+Le fait de détruire les frayères ou les zones de croissance ou d'alimentation de la faune piscicole est puni de 20 000 euros
+d'amende, à moins qu'il ne résulte d'une autorisation ou d'une déclaration dont les prescriptions ont été respectées ou de
+travaux d'urgence exécutés en vue de prévenir un danger grave et imminent.
+
+Un décret en Conseil d'Etat fixe les critères de définition des frayères et des zones mentionnées au premier alinéa, les
+modalités de leur identification et de l'actualisation de celle-ci par l'autorité administrative, ainsi que les conditions
+dans lesquelles sont consultées les fédérations départementales ou interdépartementales des associations agréées de pêche et
+de protection du milieu aquatique.
+
+Le tribunal peut en outre ordonner la publication d'un extrait du jugement aux frais de l'auteur de l'infraction dans deux
+journaux qu'il désigne.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code rural L232-4
-	  - Code rural - art. L232-4 (Ab)
+	  - Décret n°93-743 du 29 mars 1993 - art. 2 (M)
+	  - Arrêté du 13 février 2002 - art. 5 (M)
+	  - Arrêté du 24 décembre 2002 - art. 8 (AbD)
+	  - Arrêté du 12 février 2003 - art. 21 (V)
+	  - Arrêté du 12 février 2003 - art. 23 (V)
+	  - Arrêté du 30 avril 2004 - art. 22 (V)
+	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V)
+	  - Arrêté du 17 juillet 2009 - art. 21 (V)
+	  - Arrêté du 26 novembre 2010 - art. 15 (V)
+	  - Code de l'environnement - art. L432-3 (Ab)
+	  - Code de l'environnement - art. L432-4 (VT)
+	  - Code de l'environnement - art. R*232-1 (Ab)
+	  - Code de l'environnement - art. R432-1 (V)
+	  - Code de l'environnement - art. R432-1-5 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Créé par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 13 () JORF 31 décembre 2006
+
+	**Anciens textes**:
+
+	  - Code rural - art. L232-3 (Ab)
+
+
+###### Article L432-4
+
+En cas de condamnation pour infraction aux dispositions des articles L. 432-2 et L. 432-3, le tribunal fixe, s'il y a lieu,
+les mesures à prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures doivent
+être exécutées, ainsi qu'une astreinte définie à l'article L. 437-20. 
+
+Le tribunal peut également ordonner des mesures destinées à rétablir le milieu aquatique dans son état antérieur à
+l'infraction ou à créer un milieu équivalent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 13 () JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 12
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L432-2 (M)
+	  - Code de l'environnement - art. L432-2
 	  - Code de l'environnement - art. L432-3 (M)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L437-20 (VT)
 
-
-##### Section 3 : Obligations relatives aux ouvrages
-
-###### Article L432-5
-
-Tout ouvrage à construire dans le lit d'un cours d'eau doit comporter des dispositifs maintenant dans ce lit un débit minimal
-garantissant en permanence la vie, la circulation et la reproduction des espèces qui peuplent les eaux au moment de
-l'installation de l'ouvrage ainsi que, le cas échéant, des dispositifs empêchant la pénétration du poisson dans les canaux
-d'amenée et de fuite.
-
-Ce débit minimal ne doit pas être inférieur au dixième du module du cours d'eau au droit de l'ouvrage correspondant au débit
-moyen interannuel, évalué à partir des informations disponibles portant sur une période minimale de cinq années, ou au débit
-à l'amont immédiat de l'ouvrage, si celui-ci est inférieur.
-
-Toutefois, pour les cours d'eau ou parties de cours d'eau dont le module est supérieur à 80 mètres cubes par seconde, des
-décrets en Conseil d'Etat peuvent, pour chacun d'eux, fixer à ce débit minimal une limite inférieure qui ne doit pas se
-situer en dessous du vingtième du module.
-
-L'exploitant de l'ouvrage est tenu d'assurer le fonctionnement et l'entretien des dispositifs garantissant dans le lit du
-cours d'eau le débit minimal défini aux deux alinéas précédents.
-
-Les dispositions prévues aux alinéas précédents sont étendues aux ouvrages existant au 30 juin 1984 par réduction progressive
-de l'écart par rapport à la situation actuelle. Ces dispositions s'appliquent intégralement au renouvellement des concessions
-ou autorisations de ces ouvrages.
-
-A compter du 30 juin 1987, leur débit minimal, sauf impossibilité technique inhérente à leur conception, ne peut être
-inférieur au quart des valeurs fixées aux deuxième et troisième alinéas du présent article.
-
-L'application des dispositions du présent article ne donne lieu à aucune indemnité.
-
-Les dispositions du présent article ne s'appliquent pas au Rhin et au Rhône en raison du statut international de ces deux
-fleuves.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 27 août 1999 - art. 6 (V)
-	  - Loi n°2000-108 du 10 février 2000 - art. 10 (M)
-	  - Arrêté du 24 décembre 2002 - art. 8 (AbD)
-	  - Arrêté du 12 février 2003 - art. 21 (V)
-	  - Arrêté du 12 février 2003 - art. 23 (V)
-	  - Arrêté du 30 juillet 2003 - art. 20 (VT)
-	  - Arrêté du 30 avril 2004 - art. 22 (V)
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-	  - Arrêté du 17 juillet 2009 - art. 21 (V)
-	  - Code de l'environnement - art. L432-8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
 	**Anciens textes**:
 
-	  - Code rural - art. L232-5 (Ab)
-	  - Code rural L232-5
+	  - Code rural - art. L232-4 (Ab)
+	  - Code rural L232-4
 
+
+##### Section 3 : Obligations relatives aux plans d'eau
 
 ###### Article L432-6
 
@@ -29878,84 +30896,18 @@ chargé de la pêche en eau douce et, le cas échéant, par le ministre chargé 
 	  - Code de l'environnement - art. R432-3 (VT)
 	  - Code de l'environnement - art. R436-45 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 6 () JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Code de l'environnement - art. L214-17 III (VT)
+
 	**Anciens textes**:
 
 	  - Code rural - art. L232-6 (Ab)
 	  - Code rural L232-6
-
-
-###### Article L432-7
-
-Le classement des cours d'eau, parties de cours d'eau et canaux intervenu au titre du régime des échelles à poissons
-antérieurement au 1er janvier 1986 vaut classement au titre du premier alinéa de l'article L. 432-6.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-	**Cité par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-	  - Code de l'environnement - art. L431-7 (M)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L432-6 (M)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L232-7 (Ab)
-	  - Code rural L232-7
-
-
-###### Article L432-8
-
-Le fait de ne pas respecter les dispositions des articles L. 432-5 et L. 432-6 est puni de 12 000 euros d'amende.
-
-Lorsqu'une personne est condamnée en application du présent article, le tribunal peut décider que le défaut d'exécution, dans
-le délai qu'il fixe, des mesures qu'il prescrit aux fins prévues aux articles susmentionnés entraîne le paiement d'une
-astreinte définie à l'article L. 437-20.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-	**Cité par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-	  - Code de l'environnement - art. L437-20 (M)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L432-5 (Ab)
-	  - Code de l'environnement - art. L432-6 (M)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L232-8 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Section 4 : Contrôle des peuplements
@@ -30018,41 +30970,6 @@ d'Annecy et du Bourget.
 	**Anciens textes**:
 
 	  - Code rural - art. L232-10 (Ab)
-
-
-###### Article L432-11
-
-Le transport des poissons des espèces mentionnées au 1° de l'article L. 432-10 est interdit sans autorisation délivrée dans
-les conditions fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 16 () JORF 31 décembre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L431-6 (M)
-	  - Code de l'environnement - art. L431-7 (M)
-	  - Code de l'environnement - art. R*232-12 (Ab)
-	  - Code de l'environnement - art. R*232-4 (Ab)
-	  - Code de l'environnement - art. R*232-5 (Ab)
-	  - Code de l'environnement - art. R432-6 (M)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L432-10 (M)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L232-11 (Ab)
-	  - Code rural L232-11
 
 
 ###### Article L432-12
@@ -30132,73 +31049,40 @@ l'administration aux frais de la personne physique ou morale qui exerce le droit
 	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 
-##### Section 1 : Orientations de bassin.
-
-###### Article L433-1
-
-Dans chaque bassin hydrographique, une commission comprenant notamment des responsables de la pêche, des personnes
-qualifiées, des représentants de riverains, des collectivités locales, des administrations concernées et des associations de
-protection de l'environnement, est chargée de proposer les orientations de protection et de gestion des milieux aquatiques du
-bassin et de donner son avis sur toutes les questions y afférentes. Ces orientations sont arrêtées par le ministre chargé de
-la pêche en eau douce.
-
-Un décret fixe la composition et les règles de fonctionnement de la commission de bassin.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. D433-1 (Ab)
-	  - Code de l'environnement - art. R*233-1 (Ab)
-	  - Code de l'environnement - art. R436-48 (V)
-	  - Code de l'environnement - art. R651-6 (VD)
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L233-1 (Ab)
-	  - Code rural L233-1
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-
 ##### Section 2 : Schéma départemental de vocation piscicole
 
 ###### Article L433-2
 
-La fédération départementale des associations agréées de pêche et de pisciculture et l'association agréée de pêcheurs
-professionnels participent à l'élaboration du schéma départemental de vocation piscicole en conformité avec les orientations
-de bassin définies par le ministre chargé de la pêche en eau douce.
+La fédération départementale des associations agréées de pêche et de protection du milieu aquatique et l'association agréée
+de pêcheurs professionnels participent à l'élaboration du schéma départemental de vocation piscicole en conformité avec les
+orientations de bassin définies par le ministre chargé de la pêche en eau douce.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
 	  - Arrêté du 17 juillet 2008 - art. (Ab)
 	  - Code de l'environnement - art. D433-2 (Ab)
 	  - Code de l'environnement - art. L141-2 (V)
-	  - Code de l'environnement - art. L142-1 (M)
+	  - Code de l'environnement - art. L142-1 (V)
 	  - Code de l'environnement - art. L654-1 (M)
 	  - Code de l'environnement - art. R*233-2 (Ab)
 	  - Code de l'environnement - art. R331-14 (V)
 	  - Code de l'environnement - art. R333-15 (V)
 	  - Code rural - art. R121-7 (VD)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - Loi n°2016-1087 du 8 août 2016 - art. 144
 
 	**Anciens textes**:
 
@@ -30208,75 +31092,13 @@ de bassin définies par le ministre chargé de la pêche en eau douce.
 
 #### Chapitre IV : Organisation des pêcheurs
 
-##### Section 1 : Conseil supérieur de la pêche
-
-###### Article L434-1
-
-Le Conseil supérieur de la pêche est un établissement public auquel est affecté le produit de la taxe piscicole. Il utilise
-les fonds dont il dispose pour la mise en valeur et la surveillance du domaine piscicole national, notamment par des
-interventions, réalisations, recherches, études et enseignements en faveur de la pêche et de la protection du patrimoine
-piscicole.
-
-En outre, le Conseil supérieur de la pêche constitue un organisme consultatif auprès du ministre chargé de la pêche en eau
-douce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L234-1
-	  - Code rural - art. L234-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 88 II : date de fin de vigueur indéterminée
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L436-3 (AbD)
-
-
-###### Article L434-2
-
-Les agents commissionnés, mentionnés au 1° du I de l'article L. 437-1 sont gérés par le Conseil supérieur de la pêche. Ils
-ont vocation en position normale d'activité à être mis à disposition des fédérations départementales des associations agréées
-de pêche et de protection du milieu aquatique.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L437-1 (VT)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L234-2 (Ab)
-
-
 ##### Section 2 : Organisation de la pêche de loisir
 
 ###### Article L434-3
 
-Les associations agréées de pêche et de pisciculture contribuent à la surveillance de la pêche, exploitent les droits de
-pêche qu'elles détiennent, participent à la protection du patrimoine piscicole et des milieux aquatiques et effectuent des
-opérations de gestion piscicole.
+Les associations agréées de pêche et de protection du milieu aquatique contribuent à la surveillance de la pêche, exploitent
+les droits de pêche qu'elles détiennent, participent à la protection du patrimoine piscicole et des milieux aquatiques et
+effectuent des opérations de gestion piscicole.
 
 Les associations agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public ont les mêmes
 compétences pour les lots de pêche où leurs membres sont autorisés à pêcher.
@@ -30285,12 +31107,27 @@ Dans chaque département, les associations agréées de pêche et de piscicultur
 aux engins et aux filets sur les eaux du domaine public sont obligatoirement regroupées en une fédération départementale des
 associations agréées de pêche et de pisciculture.
 
+Les décisions de chacune de ces fédérations, relatives à la pêche amateur aux engins et aux filets, sont prises, à peine de
+nullité, après avis d'une commission spécialisée créée en leur sein et composée majoritairement de représentants des pêcheurs
+amateurs aux engins et aux filets sur les eaux du domaine public.
+
+Les conditions d'approbation des statuts des fédérations, les conditions dans lesquelles y sont représentées et prises en
+compte les différentes pratiques de pêche, les modalités de désignation de leurs organes dirigeants, les modalités du
+contrôle de l'administration sur les fédérations et sur les associations ainsi que les conditions dans lesquelles
+l'administration peut se substituer aux fédérations lorsque celles-ci se trouvent dans l'impossibilité de fonctionner sont
+fixées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 90 () JORF 31 décembre 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -30303,10 +31140,6 @@ associations agréées de pêche et de pisciculture.
 	  - Code de l'environnement - art. R434-26 (V)
 	  - Code de l'environnement - art. R434-34 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
 	**Anciens textes**:
 
 	  - Code rural - art. L234-3 (Ab)
@@ -30315,13 +31148,15 @@ associations agréées de pêche et de pisciculture.
 
 ###### Article L434-4
 
-Les fédérations départementales des associations agréées de pêche et de pisciculture ont le caractère d'établissement
-d'utilité publique. Elles sont chargées de mettre en valeur et de surveiller le domaine piscicole départemental.
+Les fédérations départementales des associations agréées de pêche et de protection du milieu aquatique ont le caractère
+d'établissement d'utilité publique. Elles sont chargées de mettre en valeur et de surveiller le domaine piscicole
+départemental.
 
 A cet effet, elles participent à l'organisation de la surveillance de la pêche, à la protection du patrimoine piscicole et
-des milieux aquatiques. Elles coordonnent les actions des associations agréées de pêche et de pisciculture. Elles exploitent,
-dans l'intérêt des membres des associations agréées de pêche et de pisciculture du département, les droits de pêche qu'elles
-détiennent. Elles mènent des actions d'information et d'éducation en matière de protection des milieux aquatiques.
+des milieux aquatiques. Elles coordonnent les actions des associations agréées de pêche et de protection du milieu aquatique.
+Elles exploitent, dans l'intérêt des membres des associations agréées de pêche et de protection du milieu aquatique du
+département, les droits de pêche qu'elles détiennent. Elles mènent des actions d'information et d'éducation en matière de
+protection des milieux aquatiques.
 
 Elles peuvent, en outre, être chargées de toute autre mission d'intérêt général en rapport avec leurs activités.
 
@@ -30330,14 +31165,19 @@ ministre chargé de la pêche en eau douce.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Code rural L234-4
+	  - Code rural - art. L234-4 (Ab)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -30345,18 +31185,36 @@ ministre chargé de la pêche en eau douce.
 	  - Code de l'environnement - art. R*234-34 (Ab)
 	  - Code de l'environnement - art. R434-37 (Ab)
 
-	**Anciens textes**:
-
-	  - Code rural - art. L234-4 (Ab)
-	  - Code rural L234-4
-
 
 ###### Article L434-5
 
-Les conditions d'approbation des statuts des fédérations, les modalités de désignation de leurs organes dirigeants, les
-modalités du contrôle de l'administration sur les fédérations et sur les associations ainsi que les conditions dans
-lesquelles l'administration peut se substituer aux fédérations en cas de défaillance sont fixées par décret en Conseil
-d'Etat.
+Une Fédération nationale de la pêche et de la protection du milieu aquatique regroupe les fédérations départementales et
+interdépartementales des associations agréées de pêche et de protection du milieu aquatique pour assurer leur représentation
+au niveau national et coordonner leurs actions.
+
+Elle a le caractère d'un établissement d'utilité publique.
+
+Elle est chargée de la promotion et de la défense de la pêche de loisir aux lignes, aux engins et aux filets. Elle participe
+à la protection et à la gestion durable du milieu aquatique et contribue, notamment financièrement, à des actions de gestion
+équilibrée, de protection et de surveillance du patrimoine piscicole, ainsi qu'à des actions de formation et d'éducation à
+l'environnement.
+
+Elle est consultée sur les mesures réglementaires concernant la pêche de loisir.
+
+Ses décisions relatives à la pêche amateur aux engins et aux filets sont prises, à peine de nullité, après avis d'une
+commission spécialisée créée en son sein et composée majoritairement de représentants des pêcheurs amateurs aux engins et aux
+filets sur les eaux du domaine public.
+
+Ses statuts sont conformes à un modèle arrêté par le ministre chargé de la pêche en eau douce. Ils assurent la représentation
+et la prise en compte des différentes pratiques de pêche.
+
+La Fédération nationale de la pêche et de la protection du milieu aquatique perçoit des cotisations versées par les
+fédérations adhérentes proportionnellement au nombre des pêcheurs adhérant aux associations que ces dernières regroupent.
+Elle assure une péréquation entre ces fédérations en fonction de leurs ressources, de leurs charges et de leurs activités de
+service public.
+
+Elle peut reprendre les biens, droits et obligations de l'Union nationale pour la pêche en France, à la demande de cette
+dernière. Cette opération ne donne pas lieu à la perception de droits, impôts ou taxes de quelque nature que ce soit.
 
 **Liens relatifs à cet article**
 
@@ -30365,6 +31223,10 @@ d'Etat.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 91 () JORF 31 décembre 2006
+
 	**Cité par**:
 
 	  - Arrêté du 27 juin 2008 - art.
@@ -30372,10 +31234,6 @@ d'Etat.
 	  - Arrêté du 9 décembre 1985 - art. Annexe, art. 33 (Ab)
 	  - Arrêté du 9 décembre 1985 - art. Annexe, art. 7 (Ab)
 	  - Code de l'environnement - art. L435-7 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 	**Anciens textes**:
 
@@ -30418,6 +31276,34 @@ l'administration sont fixées par décret en Conseil d'Etat.
 	  - Code rural L234-6
 
 
+###### Article L434-7
+
+Un comité national de la pêche professionnelle en eau douce regroupe les associations agréées de pêcheurs professionnels en
+eau douce.
+
+Il a pour mission de représenter et promouvoir leurs activités au niveau national, de participer à l'organisation de la
+profession et à la réalisation d'actions économiques et sociales en sa faveur, de participer à la préservation du milieu
+aquatique et de contribuer à la gestion équilibrée des ressources qu'elle exploite ainsi qu'à l'amélioration des conditions
+de production.
+
+Il est consulté sur les mesures réglementaires concernant la pêche professionnelle en eau douce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 93 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 5 décembre 2007 - art. 2 (V)
+
+
 #### Chapitre V : Droit de pêche
 
 ##### Section 1 : Droit de pêche de l'Etat
@@ -30426,8 +31312,8 @@ l'administration sont fixées par décret en Conseil d'Etat.
 
 I. - Le droit de pêche appartient à l'Etat et est exercé à son profit :
 
-1° Dans le domaine public défini à l'article 1er du code du domaine public fluvial et de la navigation intérieure, sous
-réserve des cas dans lesquels le droit de pêche appartient à un particulier en vertu d'un droit fondé sur titre ;
+1° Dans le domaine public de l'Etat défini à l'article 1er du code du domaine public fluvial et de la navigation intérieure,
+sous réserve des cas dans lesquels le droit de pêche appartient à un particulier en vertu d'un droit fondé sur titre ;
 
 2° Dans les parties non salées des cours d'eau et canaux non domaniaux affluant à la mer, qui se trouvaient comprises dans
 les limites de l'inscription maritime antérieurement aux 8 novembre et 28 décembre 1926. Ces parties sont déterminées par
@@ -30449,7 +31335,6 @@ qui ne peuvent prendre part directement ou indirectement à la location de ce dr
 
 	  - TXT_SOURCE: Arrêté du 23 juillet 2003
 	  - TXT_SOURCE: Arrêté du 23 juillet 2003 - art. 1 (V)
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 	**Cité par**:
 
@@ -30474,6 +31359,10 @@ qui ne peuvent prendre part directement ou indirectement à la location de ce dr
 	  - Code de l'environnement - art. R436-28 (V)
 	  - Code de l'environnement - art. R436-93 (V)
 	  - Code rural - art. R*261-10 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 15 () JORF 31 décembre 2006
 
 	**Anciens textes**:
 
@@ -30577,27 +31466,23 @@ Dans les plans d'eau autres que ceux prévus à l'article L. 435-1, le droit de 
 
 ###### Article L435-5
 
-Lorsque les propriétaires riverains des eaux mentionnées à l'article L. 435-4 bénéficient sur leur demande de subventions sur
-fonds publics pour la remise en état ou l'aménagement des rives et des fonds, en contrepartie, le droit de pêche est exercé
-gratuitement, pour une durée maximale de vingt ans, soit par une association agréée de pêche et de pisciculture désignée par
-l'administration, soit par la fédération départementale des associations agréées de pêche et de pisciculture.
+Lorsque l'entretien d'un cours d'eau non domanial est financé majoritairement par des fonds publics, le droit de pêche du
+propriétaire riverain est exercé, hors les cours attenantes aux habitations et les jardins, gratuitement, pour une durée de
+cinq ans, par l'association de pêche et de protection du milieu aquatique agréée pour cette section de cours d'eau ou, à
+défaut, par la fédération départementale ou interdépartementale des associations agréées de pêche et de protection du milieu
+aquatique.
 
-Toutefois, lorsqu'une subvention est versée à une collectivité locale ou à un syndicat de collectivités locales à la suite
-d'une déclaration d'utilité publique, le propriétaire peut rembourser la part de subvention correspondant aux travaux
-exécutés sur son fonds. Dans ce cas, les dispositions du présent article ne lui sont pas applicables.
-
-Pour l'application du présent article, la durée pendant laquelle le droit de pêche est exercé gratuitement par l'association
-ou la fédération est fonction de la proportion dans laquelle les travaux ont été financés par subvention sur fonds publics.
-
-L'association ou la fédération qui exerce gratuitement un droit de pêche en application du présent article doit satisfaire
-aux obligations définies aux articles L. 432-1 et L. 433-3.
-
-Pendant la période d'exercice gratuit du droit de pêche par une association ou une fédération, le propriétaire conserve le
-droit d'exercer la pêche pour lui-même, son conjoint, ses ascendants et ses descendants.
+Pendant la période d'exercice gratuit du droit de pêche, le propriétaire conserve le droit d'exercer la pêche pour lui-même,
+son conjoint, ses ascendants et ses descendants.
 
 Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L235-5
+	  - Code rural - art. L235-5 (Ab)
 
 	**Cité par**:
 
@@ -30621,20 +31506,9 @@ Les modalités d'application du présent article sont définies par décret en C
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L432-1 (M)
-	  - Code de l'environnement - art. L433-3 (V)
-	  - Code de l'environnement - art. L435-4 (V)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L235-5 (Ab)
-	  - Code rural L235-5
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 15 () JORF 31 décembre 2006
 
 
 ##### Section 3 : Droit de passage
@@ -30664,9 +31538,8 @@ avec le propriétaire riverain.
 
 ###### Article L435-7
 
-Lorsqu'une association ou une fédération définie aux articles L. 434-3 et L. 434-5 exerce gratuitement un droit de pêche,
-elle est tenue de réparer les dommages subis par le propriétaire riverain ou ses ayants droit à l'occasion de l'exercice de
-ce droit.
+Lorsqu'une association ou une fédération définie à l'article L. 434-3 exerce gratuitement un droit de pêche, elle est tenue
+de réparer les dommages subis par le propriétaire riverain ou ses ayants droit à l'occasion de l'exercice de ce droit.
 
 **Liens relatifs à cet article**
 
@@ -30675,101 +31548,18 @@ ce droit.
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L434-3 (M)
-	  - Code de l'environnement - art. L434-5 (M)
+	  - Code de l'environnement - art. L434-3 (V)
 
 	**Anciens textes**:
 
 	  - Code rural - art. L235-7 (Ab)
 	  - Code rural L235-7
-
-
-###### Article L435-8
-
-L'article L. 215-21 est applicable aux travaux effectués et aux mesures prises en vertu des articles L. 432-1, L. 435-3 et L.
-435-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-	**Cité par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L215-21 (Ab)
-	  - Code de l'environnement - art. L432-1 (M)
-	  - Code de l'environnement - art. L435-3 (V)
-	  - Code de l'environnement - art. L435-5 (M)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L235-8 (Ab)
-	  - Code rural L235-8
-
-
-###### Article L435-9
-
-Tout propriétaire, locataire, fermier ou titulaire d'un droit réel, riverain d'un cours d'eau domanial ou d'un plan d'eau
-domanial, est tenu de laisser à l'usage des pêcheurs, le long de ceux-ci, un espace libre sur 3,25 mètres de largeur.
-
-Lorsque l'exercice de la pêche et les nécessités d'entretien et de surveillance du cours d'eau ou du plan d'eau le
-permettent, les ministres chargés de la pêche en eau douce et de la gestion du domaine public fluvial ou, par délégation, le
-préfet peuvent réduire la largeur de 3,25 mètres précitée jusqu'à 1,50 mètre.
-
-Le long des canaux de navigation, les pêcheurs peuvent user du chemin de halage et de la portion de berge faisant partie du
-domaine public, dans la mesure où le permet l'exploitation de la voie navigable.
-
-Ce droit peut, exceptionnellement, être supprimé soit pour des raisons d'intérêt général, soit pour des raisons de sécurité
-lorsque les berges sont incluses dans des établissements industriels, sur décision des ministres chargés de la pêche en eau
-douce et de la gestion du domaine public fluvial ou, par délégation, du préfet.
-
-En cas de non-respect des dispositions du présent article relatives au droit de passage, le riverain doit, sur injonction de
-l'administration, remettre les lieux en état dans le délai fixé par celle-ci. A défaut d'exécution dans le délai prescrit, la
-remise en état est effectuée d'office par l'administration ou son concessionnaire, aux frais du riverain.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code rural L235-9
-	  - Code rural - art. L235-9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-	  - Code de l'environnement - art. R*235-35 (Ab)
-	  - Code de l'environnement - art. R435-40 (M)
-	  - Code général de la propriété des personnes publiqu - art. L2131-3 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
-
-	**Modifié par**:
-
-	  - Ordonnance 2006-460 2006-07-01 art. 7 II JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 #### Chapitre VI : Conditions d'exercice du droit de pêche
@@ -30904,31 +31694,31 @@ jusqu'au 1er janvier 2008.
 
 ###### Article L436-4
 
-I. - Outre les droits individuels ou collectifs qui peuvent lui appartenir par ailleurs, tout membre d'une association agréée
-de pêche et de pisciculture a le droit de pêche :
+I.-Outre les droits individuels ou collectifs qui peuvent lui appartenir par ailleurs, tout membre d'une association agréée
+de pêche et de protection du milieu aquatique a le droit de pêche : 
 
 1° De la rive ou en marchant dans l'eau, dans les parties classées en première catégorie, en vertu du 10° de l'article L.
-436-5, des cours d'eau du domaine public où le droit de pêche appartient à l'Etat ;
+436-5, des cours d'eau du domaine public où le droit de pêche appartient à l'Etat ; 
 
 2° De la rive ou en marchant dans l'eau ou en bateau, dans les parties desdits cours d'eau classés, en vertu du 10° de
 l'article L. 436-5, en deuxième catégorie ainsi que dans les plans d'eau, quelle que soit leur catégorie, où le droit de
 pêche appartient à l'Etat. Dans ce cas, toutefois, le ministre chargé de la pêche en eau douce ou, par délégation, le préfet
-peut, à titre exceptionnel, interdire à quiconque la pêche à la ligne en bateau ;
+peut, à titre exceptionnel, interdire à quiconque la pêche à la ligne en bateau ; 
 
 3° Et de la rive seulement pour la pêche au saumon, quelle que soit la catégorie du cours d'eau ; toutefois, le ministre
 chargé de la pêche en eau douce ou, par délégation, le préfet peut autoriser les pêcheurs de saumons à marcher dans l'eau sur
-des parcours déterminés.
+des parcours déterminés. 
 
-II. - Le droit de pêche défini par le présent article ne peut s'exercer qu'à l'aide d'une seule ligne.
+II.-Le droit de pêche défini par le présent article ne peut s'exercer qu'à l'aide d'une seule ligne. 
 
-III. - Les dispositions du I et du II sont également applicables dans les eaux qui faisaient partie du domaine public fluvial
+III.-Les dispositions du I et du II sont également applicables dans les eaux qui faisaient partie du domaine public fluvial
 de l'Etat à la date de promulgation de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques
 technologiques et naturels et à la réparation des dommages et qui ont fait l'objet d'un transfert à une collectivité
 territoriale en application de ladite loi.
 
 **Nota:**
 
-NOTA : La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal officiel du 31 juillet 2003.
+La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal officiel du 31 juillet 2003.
 
 **Liens relatifs à cet article**
 
@@ -30939,12 +31729,12 @@ NOTA : La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal offici
 
 	**Cite**:
 
-	  - Loi n°2003-699 2003-07-30
+	  - Loi n°2003-699 du 30 juillet 2003 (V)
 	  - Code de l'environnement - art. L436-5 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 57 () JORF 31 juillet 2003
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -30959,8 +31749,7 @@ NOTA : La loi n° 2003-699 du 30 juillet 2003 a été publiée au Journal offici
 
 ###### Article L436-5
 
-Des décrets en Conseil d'Etat, rendus après avis du Conseil supérieur de la pêche, déterminent les conditions dans lesquelles
-sont fixés, éventuellement par bassin :
+Des décrets en Conseil d'Etat déterminent les conditions dans lesquelles sont fixés, éventuellement par bassin :
 
 1° Les temps, saisons, heures pendant lesquels la pêche est interdite ;
 
@@ -31003,6 +31792,14 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 102 II : date d'entrée en vigueur indéterminée
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
+
 	**Cité par**:
 
 	  - Arrêté du 1er mars 2013 - art. 1 (V)
@@ -31022,10 +31819,6 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 
 	  - Code rural - art. L236-5 (Ab)
 	  - Code rural L236-5
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L436-6
@@ -31136,11 +31929,9 @@ conformer aux prescriptions du présent titre et des textes pris pour son applic
 
 ###### Article L436-9
 
-L'autorité administrative chargée de la pêche en eau douce peut autoriser, pendant le temps où la pêche est interdite, la
-capture ou le transport du poisson destiné à la reproduction ou au repeuplement.
-
-Elle peut autoriser en tout temps la capture de poissons à des fins sanitaires ou scientifiques ou en cas de déséquilibres
-biologiques, ainsi que leur transport et leur vente.
+L'autorité administrative chargée de la pêche en eau douce peut autoriser en tout temps la capture, le transport ou la vente
+de poissons, à des fins sanitaires, scientifiques et écologiques, notamment pour en permettre le sauvetage, le dénombrement,
+la reproduction, favoriser le repeuplement et remédier aux déséquilibres biologiques.
 
 **Liens relatifs à cet article**
 
@@ -31148,6 +31939,10 @@ biologiques, ainsi que leur transport et leur vente.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 16 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -31163,10 +31958,6 @@ biologiques, ainsi que leur transport et leur vente.
 	  - Code de l'environnement - art. R432-7 (V)
 	  - Code de l'environnement - art. R435-11 (M)
 	  - Code de l'environnement - art. R436-78 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
 
 	**Anciens textes**:
 
@@ -31323,11 +32114,10 @@ Les pêcheurs professionnels exerçant à temps plein ou partiel sont seuls auto
 
 ###### Article L436-14
 
-Sous réserve des dispositions de l'article L. 436-15, le fait, pour toute personne, de vendre le produit de sa pêche sans
-avoir la qualité de pêcheur professionnel en eau douce est puni de 3 750 euros d'amende.
+La commercialisation des poissons appartenant aux espèces inscrites sur la liste du 2° de l'article L. 432-10 est autorisée
+lorsqu'il est possible d'en justifier l'origine. 
 
-Le fait d'acheter ou commercialiser sciemment le produit de la pêche d'une personne n'ayant pas la qualité de pêcheur
-professionnel en eau douce est puni des mêmes peines.
+Le fait de vendre ces poissons sans justifier de leur origine est puni de 3 750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -31338,17 +32128,11 @@ professionnel en eau douce est puni des mêmes peines.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 17 () JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L436-15 (M)
+	  - Code de l'environnement - art. L432-10 (V)
 
 	**Cité par**:
 
@@ -31365,18 +32149,11 @@ professionnel en eau douce est puni des mêmes peines.
 
 ###### Article L436-15
 
-I. - Il est interdit de mettre en vente, de vendre, d'acheter, de transporter, de colporter et d'exporter les diverses
-espèces de poissons pendant le temps où la pêche en est interdite.
+Le fait, pour toute personne, de vendre le produit de sa pêche sans avoir la qualité de pêcheur professionnel en eau douce
+est puni de 3 750 euros d'amende.
 
-II. - Cette disposition n'est pas applicable, sous réserve qu'il soit justifié de leur origine :
-
-1° Aux poissons provenant soit des eaux non mentionnées à l'article L. 431-3, soit des eaux définies aux articles L. 431-6 et
-L. 431-7 ;
-
-2° Aux poissons actuellement représentés dans les eaux mentionnées par le présent titre provenant des eaux soumises aux
-règlements maritimes, pendant le temps où leur pêche y est autorisée ;
-
-3° Aux poissons provenant de l'étranger dont l'importation est autorisée.
+Le fait d'acheter ou de commercialiser sciemment le produit de la pêche d'une personne n'ayant pas la qualité de pêcheur
+professionnel en eau douce est puni de la même peine.
 
 **Liens relatifs à cet article**
 
@@ -31385,15 +32162,9 @@ règlements maritimes, pendant le temps où leur pêche y est autorisée ;
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L431-3 (M)
-	  - Code de l'environnement - art. L431-6 (M)
-	  - Code de l'environnement - art. L431-7 (M)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 17 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -31410,13 +32181,21 @@ règlements maritimes, pendant le temps où leur pêche y est autorisée ;
 
 ###### Article L436-16
 
-Il est interdit de colporter, de vendre ou d'acheter des truites, ombres communs, saumons de fontaines et saumons pêchés dans
-les eaux mentionnées par le présent titre.
+Est puni d'une amende de 22 500 euros le fait :
 
-Toutefois, cette disposition ne s'applique pas aux personnes ayant la qualité de pêcheur professionnel en eau douce
-lorsqu'elles exercent la pêche dans les cours d'eau, canaux et plans d'eau du domaine public ou dans les plans d'eau de
-retenue de barrage où le droit de pêche appartient à l'Etat et dans les plans d'eau non domaniaux dont la liste est fixée par
-le ministre chargé de la pêche en eau douce.
+1° De pêcher des espèces dont la liste est fixée par décret dans une zone ou à une période où leur pêche est interdite ;
+
+2° D'utiliser pour la pêche de ces mêmes espèces tout engin, instrument ou appareil interdit ou de pratiquer tout mode de
+pêche interdit pour ces espèces ;
+
+3° De détenir un engin, instrument ou appareil utilisable pour la pêche de ces mêmes espèces à une période et dans une zone
+ou à proximité immédiate d'une zone où leur pêche est interdite, à l'exclusion de ceux entreposés dans des locaux déclarés à
+l'autorité administrative ;
+
+4° De vendre, mettre en vente, transporter, colporter ou acheter ces mêmes espèces, lorsqu'on les sait provenir d'actes de
+pêche effectués dans les conditions mentionnées au 1° ;
+
+5° Pour un pêcheur amateur, de transporter vivantes les carpes de plus de 60 centimètres.
 
 **Liens relatifs à cet article**
 
@@ -31424,6 +32203,10 @@ le ministre chargé de la pêche en eau douce.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 17 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -31433,14 +32216,39 @@ le ministre chargé de la pêche en eau douce.
 	  - Code de l'environnement - art. R*236-97 (Ab)
 	  - Code de l'environnement - art. R436-81 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
 	**Anciens textes**:
 
 	  - Code rural - art. L236-16 (Ab)
 	  - Code rural L236-16
+
+
+###### Article L436-17
+
+Les personnes physiques coupables d'une infraction visée aux articles L. 436-14, L. 436-15 ou L. 436-16 encourent la peine
+complémentaire de confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est
+le produit prévue à l'article 131-21 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 17 () JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21
+	  - Code de l'environnement - art. L436-14
+	  - Code de l'environnement - art. L436-15 (M)
+	  - Code de l'environnement - art. L436-16 (M)
 
 
 #### Chapitre VII : Dispositions pénales complémentaires
@@ -31455,8 +32263,8 @@ I. - Sont habilités à rechercher et à constater les infractions aux dispositi
 application, en quelque lieu qu'elles soient commises, outre les officiers et agents de police judiciaire énumérés aux
 articles 16, 20 et 21 du code de procédure pénale et les agents habilités par des lois spéciales :
 
-1° Les agents du Conseil supérieur de la pêche et du domaine national de Chambord commissionnés à cet effet par décision de
-l'autorité administrative et assermentés ;
+1° Les agents de l'Office national de l'eau et des milieux aquatiques et du domaine national de Chambord commissionnés à cet
+effet par décision de l'autorité administrative et assermentés ;
 
 2° Les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des travaux et les agents qualifiés chargés de la
 police de la pêche dans les directions départementales de l'agriculture et de la forêt et à l'Office national des forêts, les
@@ -31471,9 +32279,9 @@ L. 122-7 du code forestier ;
 5° Les agents de l'Office national de la chasse et de la faune sauvage commissionnés et assermentés dans la circonscription à
 laquelle ils sont affectés.
 
-II. - Les agents commissionnés du Conseil supérieur de la pêche peuvent contrôler les conditions dans lesquelles, au-delà de
-la limite de salure des eaux, est pratiquée la pêche des espèces de poissons vivant alternativement dans les eaux douces et
-dans les eaux salées.
+II. - Les agents commissionnés de l'Office national de l'eau et des milieux aquatiques peuvent contrôler les conditions dans
+lesquelles, au-delà de la limite de salure des eaux, est pratiquée la pêche des espèces de poissons vivant alternativement
+dans les eaux douces et dans les eaux salées.
 
 III. - Peuvent également rechercher et constater les infractions aux dispositions du présent titre et des textes pris pour
 son application les agents des douanes ainsi que les agents autorisés par le décret du 9 janvier 1852 sur l'exercice de la
@@ -31511,9 +32319,13 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	  - Code de l'environnement - art. R437-1 (Ab)
 	  - Code de l'environnement - art. R437-13 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 102 II : date d'entrée en vigueur indéterminée
+
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 9 () JORF 19 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -31527,10 +32339,6 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 
 	  - Code rural - art. L237-1 (Ab)
 	  - Code rural L237-1
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 
 ###### Article L437-2
@@ -31564,8 +32372,8 @@ tribunaux près desquels ils sont assermentés.
 
 ###### Article L437-3
 
-En ce qui concerne l'exercice de leurs attributions de police, les agents commissionnés du Conseil supérieur de la pêche sont
-assimilés aux techniciens de l'Etat chargés des forêts.
+En ce qui concerne l'exercice de leurs attributions de police, les agents commissionnés de l'Office national de l'eau et des
+milieux aquatiques sont assimilés aux techniciens de l'Etat chargés des forêts.
 
 **Nota:**
 
@@ -31575,23 +32383,30 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code rural L237-3
-	  - Code rural - art. L237-3 (Ab)
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Liens**:
 
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 102 II : date d'entrée en vigueur indéterminée
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cité par**:
 
 	  - Décret n°2009-950 du 29 juillet 2009 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 12
+
+	**Anciens textes**:
+
+	  - Code rural - art. L237-3 (Ab)
 
 
 ##### Sous-section 2 : Procès-verbaux
@@ -31625,8 +32440,8 @@ Les procès-verbaux sont, sous peine de nullité, adressés dans les cinq jours 
 République.
 
 Une copie en est transmise dans le même délai à l'intéressé, à l'autorité administrative, au président de la fédération
-départementale des associations agréées de pêche et de pisciculture et au président de l'association agréée de pêcheurs
-professionnels en eau douce.
+départementale des associations agréées de pêche et de protection du milieu aquatique et au président de l'association agréée
+de pêcheurs professionnels en eau douce.
 
 **Liens relatifs à cet article**
 
@@ -31642,7 +32457,11 @@ professionnels en eau douce.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 10 () JORF 19 juillet 2005 rectificatif JORF 23 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 12
 
 	**Cité par**:
 
@@ -31889,13 +32708,23 @@ constaté l'infraction.
 ###### Article L437-13
 
 Les gardes-pêche particuliers assermentés constatent par procès-verbaux les infractions aux dispositions du présent titre et
-des textes pris pour son application qui portent préjudice aux détenteurs de droits de pêche qui les emploient.
+des textes pris pour son application qui portent préjudice aux détenteurs de droits de pêche qui les emploient. 
 
 Les dispositions de l'article 29 du code de procédure pénale sont applicables à ces procès-verbaux qui font foi jusqu'à
-preuve contraire.
+preuve contraire. 
 
 Les dispositions des articles L. 437-7 premier alinéa, L. 437-9, L. 437-10 en tant qu'il concerne la saisie des instruments
-de pêche, L. 437-11 et L. 437-12 sont applicables aux gardes-pêche particuliers assermentés.
+de pêche, L. 437-11 et L. 437-12 sont applicables aux gardes-pêche particuliers assermentés. 
+
+Sur les eaux du domaine public fluvial, les gardes-pêche particuliers assermentés sont commissionnés par chaque association
+agréée de pêcheurs détenant un droit de pêche sur le lot considéré. 
+
+Sur les eaux n'appartenant pas au domaine public fluvial, à la demande des propriétaires et des détenteurs de droits de
+pêche, une convention peut être passée entre eux et la fédération départementale ou interdépartementale des associations
+agréées de pêche et de protection du milieu aquatique pour que la garderie particulière de leurs droits de pêche soit assurée
+par des agents de développement de cette fédération. Les agents ainsi nommés dans cette fonction par la fédération sont
+agréés par le représentant de l'Etat dans le département ; ils interviennent conformément aux dispositions des trois premiers
+alinéas du présent article dans la limite des territoires dont ils assurent la garderie.
 
 **Liens relatifs à cet article**
 
@@ -31908,16 +32737,16 @@ de pêche, L. 437-11 et L. 437-12 sont applicables aux gardes-pêche particulier
 
 	  - Décret n°2004-374 du 29 avril 2004 - art. 78-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 92 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 29 (V)
-	  - Code de l'environnement - art. L437-10 (V)
+	  - Code de procédure pénale - art. 29 (V)
+	  - Code de l'environnement - art. L437-11 (VT)
 	  - Code de l'environnement - art. L437-7 (V)
-	  - Code de l'environnement - art. L437-9 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
+	  - Code de l'environnement - art. L437-9 (VT)
 
 	**Anciens textes**:
 
@@ -31930,11 +32759,20 @@ de pêche, L. 437-11 et L. 437-12 sont applicables aux gardes-pêche particulier
 ###### Article L437-14
 
 Pour les infractions aux dispositions du présent titre et des textes pris pour son application, l'autorité administrative
-chargée de la pêche en eau douce a le droit de transiger, après accord du procureur de la République, selon des modalités
-fixées par décret en Conseil d'Etat.
+peut, tant que l'action publique n'a pas été mise en mouvement, transiger, après accord du procureur de la République, selon
+des modalités fixées par décret en Conseil d'Etat.
 
 Cette faculté n'est pas applicable aux contraventions des quatre premières classes pour lesquelles l'action publique est
 éteinte par le paiement d'une amende forfaitaire en application de l'article 529 du code de procédure pénale.
+
+La proposition de transaction est formulée en fonction des circonstances de l'infraction, de la personnalité de son auteur
+ainsi que de ses ressources et de ses charges. Elle précise l'amende transactionnelle que l'auteur de l'infraction devra
+payer, dont le montant ne peut excéder 20 % du montant de l'amende encourue ainsi que, le cas échéant, les obligations qui
+lui seront imposées, tendant à faire cesser l'infraction, à éviter son renouvellement ou à réparer le dommage. Elle fixe
+également les délais impartis pour le paiement et, s'il y a lieu, l'exécution des obligations.
+
+L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
+prescription de l'action publique.
 
 L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans les délais impartis les obligations résultant
 pour lui de l'acceptation de la transaction.
@@ -31961,7 +32799,7 @@ conditions dans lesquelles l'auteur de l'infraction a appliqué les dispositions
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 11 () JORF 19 juillet 2005
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 12 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -32040,9 +32878,9 @@ dernier ressort.
 
 ###### Article L437-17
 
-Les agents commissionnés du Conseil supérieur de la pêche et les techniciens de l'Etat chargés des forêts peuvent, dans les
-actions et poursuites exercées au nom de l'administration, faire toutes citations et significations d'exploits, sans procéder
-aux saisies-vente.
+Les agents commissionnés de l'Office national de l'eau et des milieux aquatiques et les techniciens de l'Etat chargés des
+forêts peuvent, dans les actions et poursuites exercées au nom de l'administration, faire toutes citations et significations
+d'exploits, sans procéder aux saisies-vente.
 
 **Nota:**
 
@@ -32051,6 +32889,23 @@ Loi n° 2006-1772 2006-12-30 art. 102 II :
 II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps que le I de l'article 88.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2006-1772 2006-12-30 art. 102 II : date d'entrée en vigueur indéterminée
+
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 12
 
 	**Cité par**:
 
@@ -32062,45 +32917,38 @@ II.-... les 1° et 2° du I... de l'article 98 entrent en vigueur en même temps
 	  - Code rural - art. L238-4 (Ab)
 	  - Code rural L238-4
 
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 
 ##### Section 4 : Action civile
 
 ###### Article L437-18
 
-Les fédérations départementales des associations agréées de pêche et de pisciculture et les associations agréées de pêcheurs
-professionnels peuvent exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction
-aux dispositions du présent titre et des textes pris pour son application et portant un préjudice direct ou indirect aux
-intérêts collectifs qu'elles ont pour objet de défendre.
+Les fédérations départementales ou interdépartementales des associations agréées de pêche et de protection du milieu
+aquatique, la Fédération nationale de la pêche et de la protection du milieu aquatique, la commission syndicale de la Grande
+Brière Mottière, les associations agréées de pêcheurs professionnels en eau douce et le Comité national de la pêche
+professionnelle en eau douce peuvent exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant
+une infraction au présent titre et aux textes pris pour son application et portant un préjudice direct ou indirect aux
+intérêts collectifs qu'ils ont pour objet de défendre.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code rural L238-9
+	  - Code rural - art. L238-9 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 95 () JORF 31 décembre 2006
+
 	**Cité par**:
 
 	  - Arrêté du 17 juillet 2008 - art. (Ab)
 	  - Arrêté du 30 mars 2015 - art. (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'environnement - art. L431-2 (V)
-
-	**Anciens textes**:
-
-	  - Code rural - art. L238-9 (Ab)
-	  - Code rural L238-9
 
 
 ##### Section 5 : Sanctions
@@ -32132,19 +32980,13 @@ Les peines peuvent être doublées lorsque les délits sont commis la nuit.
 
 ###### Article L437-20
 
-L'astreinte prononcée par le tribunal en application des articles L. 431-6, L. 432-4, L. 432-8 et L. 436-6 est d'un montant
-de 15 euros à 300 euros par jour de retard dans l'exécution des mesures et obligations imposées.
+L'astreinte prononcée par le tribunal en application des articles L. 431-6, L. 432-4 et L. 436-6 est d'un montant de 15 euros
+à 300 euros par jour de retard dans l'exécution des mesures et obligations imposées.
 
 L'astreinte cesse de courir le jour où ces dernières sont complètement exécutées. Elle est alors liquidée par le tribunal à
 la demande de l'intéressé et recouvrée par le comptable du Trésor comme une amende pénale.
 
 Elle ne donne pas lieu à la contrainte judiciaire.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-805 du 18 juillet 2005 art. 22 II : "La référence faite à l'article L. 431-6 par l'article L. 437-20
-est abrogée à la date de publication du décret prévu au I du présent article." Il s'agit du décret n° 2006-881 publié au
-Journal officiel du 18 juillet 2006.
 
 **Liens relatifs à cet article**
 
@@ -32152,11 +32994,6 @@ Journal officiel du 18 juillet 2006.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
-	  - Ordonnance n°2005-805 du 18 juillet 2005 - art. 22 (V) JORF 19 juillet 2005
 
 	**Cité par**:
 
@@ -32169,14 +33006,13 @@ Journal officiel du 18 juillet 2006.
 	  - Code de l'environnement - art. L436-6 (VT)
 	  - Code général de la propriété des personnes publ... - art. L2132-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006
+
 	**Anciens textes**:
 
 	  - Code rural - art. L238-7 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Sous-section 3 : Confiscation
@@ -34847,11 +35683,11 @@ Il est approuvé, après avis du conseil général, par le préfet. Il est rendu
 Les autorisations d'exploitation de carrières délivrées en application du présent titre doivent être compatibles avec ce
 schéma.
 
+Le schéma départemental des carrières doit être compatible ou rendu compatible dans un délai de trois ans avec les
+dispositions du schéma directeur d'aménagement et de gestion des eaux et du schéma d'aménagement et de gestion des eaux, s'il
+existe.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L112-1
 
 	**Anciens textes**:
 
@@ -34861,11 +35697,6 @@ schéma.
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 34-4 () JORF 2 juillet 2004 en vigueur le 1er juillet 2005
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004 en vigueur le 1er juillet 2005
 
 	**Cité par**:
 
@@ -34882,9 +35713,13 @@ schéma.
 	  - Code de l'environnement - art. R515-8-7 (V)
 	  - Code de l'urbanisme - art. L131-2 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de l'environnement - art. L511-1 (M)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 81 () JORF 31 décembre 2006
+
+	**Cite**:
+
+	  - Code rural L112-1
 
 
 ###### Article L515-4
@@ -37750,31 +38585,32 @@ soumise à des conditions particulières prévues par décret en Conseil d'Etat.
 
 ###### Article L522-8
 
-I. - Les dépenses résultant de la conservation, de l'examen, de l'exploitation et de l'expertise des informations fournies
-dans les dossiers de déclaration visés à l'article L. 522-2 ou lors des demandes d'autorisation mentionnées à l'article L.
-522-4 peuvent être mises à la charge des producteurs, des importateurs ou des responsables de la mise sur le marché.
+I.-Les dépenses résultant de la conservation, de l'examen, de l'exploitation et de l'expertise des informations fournies dans
+les dossiers de déclaration visés à l'article L. 522-2, lors de la demande d'inscription d'une substance active biocide sur
+les listes communautaires visées au premier alinéa de l'article L. 522-3, ou lors des demandes d'autorisation mentionnées à
+l'article L. 522-4 peuvent être mises à la charge des producteurs, des importateurs ou des responsables de la mise sur le
+marché. 
 
-II. - L'autorité administrative peut exiger des producteurs, des importateurs ou des responsables de la mise sur le marché
-des échantillons du produit biocide et de ses composants.
+II.-L'autorité administrative peut exiger des producteurs, des importateurs ou des responsables de la mise sur le marché des
+échantillons du produit biocide et de ses composants. 
 
-III. - Tous renseignements complémentaires ou essais de vérification nécessaires à l'application des dispositions prévues
-dans le présent chapitre peuvent être demandés par l'autorité administrative au responsable de la mise sur le marché et être
-mis à sa charge.
+III.-Tous renseignements complémentaires ou essais de vérification nécessaires à l'application des dispositions prévues dans
+le présent chapitre peuvent être demandés par l'autorité administrative au responsable de la mise sur le marché et être mis à
+sa charge. 
+
+IV.-Le responsable de la mise sur le marché tient à la disposition de l'autorité administrative les quantités de produits
+mises sur le marché. Un décret précise les modalités de mise à disposition de ces informations.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 98-8 CE 1998-02-16
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-321 du 11 avril 2001 - art. 4 () JORF 14 avril 2001
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 33 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -37784,6 +38620,7 @@ mis à sa charge.
 	**Cite**:
 
 	  - Code de l'environnement - art. L522-2 (V)
+	  - Code de l'environnement - art. L522-3 (V)
 	  - Code de l'environnement - art. L522-4 (V)
 
 
@@ -38023,6 +38860,51 @@ celles ne pouvant figurer dans les publicités pour les produits biocides.
 	  - Loi n°2013-619 du 16 juillet 2013 - art. 12
 
 
+###### Article L522-14-1
+
+Les conditions d'exercice de l'activité de vente ou de mise à disposition de l'utilisateur, à titre onéreux ou gratuit, sous
+quelque forme que ce soit, de certaines catégories de produits biocides qui, en raison des risques graves qu'ils représentent
+pour l'homme et l'environnement, figurent sur une liste définie par décret en Conseil d'Etat, peuvent être réglementées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 34 () JORF 31 décembre 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 12
+
+
+###### Article L522-14-2
+
+Les conditions d'exercice de l'activité d'application à titre professionnel de produits biocides peuvent être réglementées en
+vue de prévenir les risques pour l'homme et l'environnement susceptibles de résulter de cette activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 34 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 23 avril 2012 - art. (VT)
+	  - Code de l'environnement - art. R522-32 (M)
+	  - Code de la santé publique - art. R3115-54 (V)
+
+
 ##### Section 4 : Contrôles et sanctions
 
 ###### Article L522-15
@@ -38204,6 +39086,40 @@ Pour les produits biocides présents sur le marché au 14 mai 2000, l'article L.
 
 	  - Code de l'environnement - art. L521-13
 	  - Code de l'environnement - art. L522-3
+
+
+###### Article L522-19
+
+Les personnes qui mettent sur le marché des produits biocides sont tenues de déclarer ces produits au ministre chargé de
+l'environnement, au plus tard le 1er juillet 2008, et préalablement à la première mise sur le marché si elle est postérieure
+à cette date. Un décret en Conseil d'Etat fixe les modalités de cette déclaration et les mentions à apposer sur l'emballage
+des produits, une fois ceux-ci déclarés. Le présent article ne s'applique pas aux produits disposant d'une autorisation de
+mise sur le marché délivrée en application de l'article L. 522-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 34 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 5 février 2008 - art. 1 (V)
+	  - Loi n°2008-757 du 1er août 2008 - art. 9 (VT)
+	  - Code de l'environnement - art. R522-30-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 12
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L522-4
 
 
 ### Titre III : Organismes génétiquement modifiés
@@ -48494,7 +49410,7 @@ conditions fixées par un arrêté du représentant de l'Etat à Mayotte.
 
 ###### Article L652-1
 
-I. - Les articles L. 213-5 à L. 213-7 ne sont pas applicables à Mayotte.
+I. - Les articles L. 213-8 à L. 213-9-3 et L. 213-11 à L. 213-11-16 ne sont pas applicables à Mayotte.
 
 II. - Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port
 adjoints, les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I sont exercés par le représentant de l'Etat
@@ -48516,14 +49432,14 @@ III. - Sont également applicables les dispositions du code de la santé publiqu
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L1515-1 (M)
 	  - Code de l'environnement - art. L211-11 (V)
 	  - Code de l'environnement - art. L214-14 (M)
-	  - Code de l'environnement L213-5 à L213-7, L211-11, L214-14
+	  - Code de l'environnement L213-8 à L213-9-3, L213-11 à L213-11-16, L211-11, L214-14
 
 
 ###### Article L652-2
@@ -48559,9 +49475,8 @@ protéger de la pollution les eaux du lagon, le littoral et le récif corallien.
 
 ###### Article L652-3
 
-Pour l'application des dispositions du titre Ier du livre II, Mayotte constitue un bassin hydrographique. Le Comité de bassin
-de Mayotte exerce les compétences prévues aux articles L. 213-2 et L. 213-4. Il est créé à Mayotte un office de l'eau régi
-par les dispositions des articles L. 213-13 à L. 213-20.
+Pour l'application du titre Ier du livre II, Mayotte constitue un bassin hydrographique. Le comité de bassin et l'office de
+l'eau de Mayotte sont régis par la section 5 du chapitre III du même titre.
 
 **Liens relatifs à cet article**
 
@@ -48576,13 +49491,7 @@ par les dispositions des articles L. 213-13 à L. 213-20.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-869 du 28 juillet 2005 - art. 6 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L213-2 (M)
-	  - Code de l'environnement - art. L213-4 (M)
-	  - Code de l'environnement L213-2, L213-4, L213-13 à L213-20
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Nouveaux textes**:
 
@@ -48923,7 +49832,7 @@ La date du 30 juin 1984 figurant à l'article L. 431-7 est remplacée par la dat
 
 ###### Article L654-5
 
-Les listes prévues aux articles L. 432-6 et L. 432-10 sont fixées par arrêté du représentant de l'Etat.
+La liste prévue à l'article L. 432-10 est fixée par arrêté du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -48934,12 +49843,11 @@ Les listes prévues aux articles L. 432-6 et L. 432-10 sont fixées par arrêté
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 51 () JORF 13 juillet 2001
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 98 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L432-10 (M)
-	  - Code de l'environnement - art. L432-6 (M)
+	  - Code de l'environnement - art. L432-10 (V)
 
 	**Anciens textes**:
 
