@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -6472,70 +6472,6 @@ de fonctionnement et les ouvrages soumis à l'avis du comité technique permanen
 	**Créé par**:
 
 	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
-
-
-##### Section 6 : Organismes à vocation de maîtrise d'ouvrage
-
-###### Article L213-10
-
-Pour faciliter, à l'échelle d'un bassin ou d'un sous-bassin hydrographique, la prévention des inondations et la gestion
-équilibrée de la ressource en eau ainsi que la préservation et la gestion des zones humides, les collectivités territoriales
-intéressées et leurs groupements peuvent s'associer au sein d'un établissement public territorial de bassin.
-
-Cet organisme public est constitué et fonctionne, selon les cas, conformément aux dispositions du code général des
-collectivités territoriales régissant les établissements constitués en application des articles L. 5421-1 à L. 5421-6 ou des
-articles L. 5721-1 à L. 5721-8 du même code.
-
-Le préfet coordonnateur de bassin délimite, par arrêté et après avis du comité de bassin et des collectivités territoriales
-concernées et, s'il y a lieu, après avis de la commission locale de l'eau, le périmètre d'intervention de cet établissement
-public.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°64-1245 du 16 décembre 1964 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cité par**:
-
-	  - Arrêté du 7 février 2005 - art. 3 (V)
-	  - Décret n°2005-115 du 7 février 2005 - art. 4 (Ab)
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 48 (V)
-	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L213-11 (V)
-	  - Code de l'environnement - art. L213-11-15 (V)
-	  - Code de l'environnement - art. L213-11-2 (V)
-	  - Code de l'environnement - art. L213-9 (V)
-	  - Code de l'environnement - art. R213-32 (V)
-	  - Code de l'environnement - art. R213-39 (V)
-	  - Code de l'environnement - art. R213-46 (V)
-	  - Code rural - art. D341-8 (V)
-	  - Livre des procédures fiscales - art. L135 R (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 136 () JORF 24 février 2005
-
-	**Transféré par**:
-
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 22 () JORF 31 décembre 2006
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales L5721-1 à L5721-8
-	  - Code de l'environnement L5421-1 à L5421-6
-
-	**Nouveaux textes**:
-
-	  - Code de l'environnement - art. L213-12 (Ab)
-	  - Code de l'environnement - art. L213-12 (V)
 
 
 ##### Section 7 : Offices de l'eau des départements d'outre-mer
@@ -21116,21 +21052,28 @@ V. - Un décret en Conseil d'Etat fixe les conditions d'application du présent 
 Les dispositions relatives aux zones de protection du patrimoine architectural, urbain et paysager sont énoncées aux articles
 L. 642-1 et L. 642-2 du code du patrimoine ci-après reproduits :
 
-"Art. L. 642-1 - Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du
-patrimoine architectural, urbain et paysager peuvent être instituées autour des monuments historiques et dans les quartiers,
-sites et espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou culturel.
+"Art. L. 642-1 - Sur proposition du conseil municipal des communes intéressées ou de l'organe délibérant de l'établissement
+public de coopération intercommunale compétent en matière de plan local d'urbanisme, des zones de protection du patrimoine
+architectural, urbain et paysager peuvent être instituées autour des monuments historiques et dans les quartiers, sites et
+espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou culturel."
 
 "Art. L. 642-2 - Des prescriptions particulières en matière d'architecture et de paysages sont instituées à l'intérieur de
 ces zones ou parties de zone pour les travaux mentionnés à l'article L. 642-3.
 
-"Après enquête publique, avis de la commission régionale du patrimoine et des sites mise en place par l'article L. 612-1 et
-accord du conseil municipal de la commune intéressée, la zone de protection est créée par décision de l'autorité
-administrative.
+Après enquête publique, avis de la commission régionale du patrimoine et des sites et accord de l'autorité administrative, la
+zone de protection est créée par décision du maire ou du président de l'établissement public de coopération intercommunale
+compétent en matière de plan local d'urbanisme.
 
-"Le ministre compétent peut évoquer tout projet de zone de protection.
+Le ministre compétent peut évoquer tout projet de zone de protection.
 
-"Les dispositions de la zone de protection sont annexées au plan local d'urbanisme, dans les conditions prévues à l'article
-L. 126-1 du code de l'urbanisme."
+Les dispositions de la zone de protection sont annexées au plan local d'urbanisme, dans les conditions prévues à l'article L.
+126-1 du code de l'urbanisme.
+
+La révision de tout ou partie d'une zone de protection du patrimoine architectural, urbain et paysager a lieu dans les formes
+prévues pour son élaboration. Toutefois, à condition qu'il ne soit pas porté atteinte à son économie générale, ni que soient
+réduits les espaces boisés classés, une zone de protection du patrimoine architectural, urbain et paysager peut être modifiée
+par arrêté de l'autorité compétente et après accord de l'autorité administrative. Le projet de modification est soumis à
+enquête publique."
 
 **Liens relatifs à cet article**
 
@@ -21141,15 +21084,17 @@ L. 126-1 du code de l'urbanisme."
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 28 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 29 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code du patrimoine. - art. L612-1 (V)
-	  - Code du patrimoine. - art. L642-1 (M)
-	  - Code du patrimoine. - art. L642-2 (M)
-	  - Code du patrimoine. - art. L642-3 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du patrimoine. - art. L642-1 (M)
+	  - PILOTE_SUIVEUR: Code du patrimoine. - art. L642-2 (M)
 
 
 ### Titre VI : Accès à la nature
@@ -33976,7 +33921,7 @@ l'arrêté préfectoral d'autorisation.
 ###### Article L512-6
 
 Dans les communes comportant une aire de production de vins d'appellation d'origine, l'autorité compétente pour délivrer
-l'autorisation consulte l'Institut national des appellations d'origine.
+l'autorisation consulte l'Institut national de l'origine et de la qualité.
 
 Cet institut est en outre consulté, sur sa demande, lorsqu'une installation soumise à l'autorisation visée ci-dessus doit
 être ouverte dans une commune limitrophe d'une commune comportant une aire de production de vins d'appellation d'origine.
@@ -33985,14 +33930,13 @@ Il est également consulté, sur sa demande, lorsqu'une installation soumise à 
 dans une commune ou une commune limitrophe d'une commune comportant une aire de production d'un produit d'appellation
 d'origine contrôlée autre que le vin.
 
-L'Institut national des appellations d'origine dispose d'un délai de trois mois pour donner son avis. Ce délai court à partir
-de la date à laquelle il a été saisi par l'autorité compétente. Cet avis est réputé favorable au-delà de ce délai.
+L'Institut national de l'origine et de la qualité dispose d'un délai de trois mois pour donner son avis. Ce délai court à
+partir de la date à laquelle il a été saisi par l'autorité compétente. Cet avis est réputé favorable au-delà de ce délai.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°76-663 du 19 juillet 1976 - art. 9 (M)
 	  - Loi n°76-663 du 19 juillet 1976 - art. 9 (Ab)
 
 	**Cité par**:
@@ -34009,6 +33953,14 @@ de la date à laquelle il a été saisi par l'autorité compétente. Cet avis es
 
 	  - Ordonnance 2000-914 2000-09-18 JORF 21 septembre 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 6 (V) JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 5
 
 	**Liens**:
 
@@ -35625,22 +35577,16 @@ après avis conforme de la commission départementale compétente en matière de
 L'autorisation est renouvelable dans les formes prévues à l'article L. 512-2.
 
 Toute autorisation d'exploitation de carrières est soumise, dans les vignobles classés appellation d'origine contrôlée, vin
-délimité de qualité supérieure, et dans les aires de production de vins de pays, à l'avis de l'Institut national des
-appellations d'origine et de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
+délimité de qualité supérieure, et dans les aires de production de vins de pays, à l'avis de l'Institut national de l'origine
+et de la qualité et de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 
 La durée nécessaire à la réalisation des diagnostics et des opérations de fouilles d'archéologie préventive interrompt la
 durée de l'autorisation administrative d'exploitation de carrière.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-1129 du 8 septembre 2005 : Les dispositions de l'article 1er de l'ordonnance 2005-1129 sont
-applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°76-663 du 19 juillet 1976 - art. 16-1 (M)
 	  - Loi n°76-663 du 19 juillet 1976 - art. 16-1 (Ab)
 
 	**Codifié par**:
@@ -35649,7 +35595,7 @@ applicables à Mayotte.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1780 du 30 décembre 2005 - art. 3 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 6 (V) JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
