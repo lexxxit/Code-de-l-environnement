@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-01-05
 
 # Partie législative
 
@@ -74014,16 +74014,23 @@ remarquables, du paysage, de la faune et de la flore dans les conditions fixées
 
 ###### Article R411-1
 
-La liste prévue au 1° de l'article L. 411-2 des espèces animales non domestiques et des espèces végétales non cultivées qui
-font l'objet des interdictions définies à l'article L. 411-1 est établie par arrêtés conjoints du ministre chargé de la
-protection de la nature et du ministre chargé de l'agriculture ou, lorsqu'il s'agit d'espèces marines, du ministre chargé des
-pêches maritimes.
+Les listes des espèces animales non domestiques et des espèces végétales non cultivées faisant l'objet des interdictions
+définies par les articles L. 411-1 et L. 411-3 sont établies par arrêté conjoint du ministre chargé de la protection de la
+nature et soit du ministre chargé de l'agriculture, soit, lorsqu'il s'agit d'espèces marines, du ministre chargé des pêches
+maritimes. 
+
+Les espèces sont indiquées par le nom de l'espèce ou de la sous-espèce ou par l'ensemble des espèces appartenant à un taxon
+supérieur ou à une partie désignée de ce taxon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
 
 	**Cité par**:
 
@@ -74036,7 +74043,7 @@ pêches maritimes.
 	**Cite**:
 
 	  - Code de l'environnement - art. L411-1 (V)
-	  - Code de l'environnement - art. L411-2 (M)
+	  - Code de l'environnement - art. L411-3 (V)
 
 
 ###### Article R411-2
@@ -74058,9 +74065,9 @@ arrêtés sont publiés au Journal officiel de la République française.
 
 ###### Article R411-3
 
-Pour chaque espèce, les arrêtés interministériels prévus à l'article R. 411-1 précisent :
+Pour chaque espèce, les arrêtés interministériels prévus à l'article R. 411-1 précisent : 
 
-1° La nature des interdictions mentionnées à l'article L. 411-1 qui sont applicables ;
+1° La nature des interdictions mentionnées aux articles L. 411-1 et L. 411-3 qui sont applicables ; 
 
 2° La durée de ces interdictions, les parties du territoire et les périodes de l'année où elles s'appliquent.
 
@@ -74070,10 +74077,15 @@ Pour chaque espèce, les arrêtés interministériels prévus à l'article R. 41
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
+
 	**Cite**:
 
 	  - Code de l'environnement - art. L411-1 (V)
-	  - Code de l'environnement - art. R411-1 (M)
+	  - Code de l'environnement - art. L411-3 (V)
+	  - Code de l'environnement - art. R411-1 (V)
 
 	**Cité par**:
 
@@ -74119,32 +74131,39 @@ III.-L'arrêté préfectoral est, à la diligence du préfet :
 Sont considérées comme espèces animales non domestiques celles qui n'ont pas subi de modification par sélection de la part de
 l'homme.
 
+Sont considérées comme des espèces végétales non cultivées celles qui ne sont ni semées, ni plantées à des fins agricoles ou
+forestières.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
 
-##### Sous-section 2 : Autorisation de capture des espèces protégées
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
+
+
+##### Sous-section 2 : Dérogations aux mesures de protection
 
 ###### Article R*411-7
 
-Les autorisations exceptionnelles de prélèvement, de capture, de destruction ou de transport en vue d'une réintroduction dans
-la nature, à des fins scientifiques, d'animaux appartenant à une espèce protégée au titre de l'article L. 411-1, sont
-délivrées par le ministre chargé de la protection de la nature lorsqu'elles concernent des opérations conduites par des
-personnes morales placées sous la tutelle ou le contrôle de l'Etat, dont les attributions ou les activités s'exercent au plan
-national.
+Lorsqu'elles concernent des opérations conduites par des personnes morales placées sous la tutelle ou le contrôle de l'Etat
+et dont les attributions ou les activités s'exercent au plan national, les dérogations définies au 4° de l'article L. 411-2
+sont accordées par le ministre chargé de la protection de la nature. Elles précisent les modalités d'exécution des opérations
+autorisées.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2005-934 2005-08-02 Annexe I JORF 5 août 2005
 
 	**Codifié par**:
 
 	  - Décret n°2005-934 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-15 2007-01-04 art. 1 IV, VI JORF 5 janvier 2007
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
 
 	**Cité par**:
 
@@ -74157,28 +74176,29 @@ national.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L411-1 (V)
+	  - Code de l'environnement - art. L411-2 (M)
 
 
 ###### Article R*411-8
 
-Les autorisations exceptionnelles de prélèvement, de capture, de destruction ou de transport en vue d'une réintroduction dans
-la nature, à des fins scientifiques, d'animaux appartenant à une espèce de vertébrés, protégée au titre de l'article L.
-411-1, menacée d'extinction en France en raison de la faiblesse observée ou prévisible de ses effectifs et dont l'aire de
-répartition excède le territoire d'un département, sont délivrées par le ministre chargé de la protection de la nature.
+Lorsqu'elles concernent des animaux appartenant à une espèce de vertébrés protégée au titre de l'article L. 411-1, menacée
+d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de répartition
+excède le territoire d'un département, les dérogations définies au 4° de l'article L. 411-2 sont délivrées par le ministre
+chargé de la protection de la nature, pour les opérations suivantes : prélèvement, capture, destruction, transport en vue
+d'une réintroduction dans le milieu naturel, destruction, altération ou dégradation du milieu particulier de l'espèce.
 
-La liste des espèces visées au précédent alinéa est fixée par arrêté des ministres chargés de la protection de la nature, de
-l'agriculture et des pêches maritimes après avis du Conseil national de la protection de la nature.
+Les autorisations précisent les modalités d'exécution de l'opération.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2005-934 2005-08-02 Annexe I JORF 5 août 2005
 
 	**Codifié par**:
 
 	  - Décret n°2005-934 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-15 2007-01-04 art. 1 IV, VII JORF 5 janvier 2007
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
 
 	**Cité par**:
 
@@ -74194,15 +74214,13 @@ l'agriculture et des pêches maritimes après avis du Conseil national de la pro
 	**Cite**:
 
 	  - Code de l'environnement - art. L411-1 (V)
+	  - Code de l'environnement - art. L411-2 (M)
 
 
 ###### Article R*411-9
 
-Lorsqu'elles concernent des espèces marines, les autorisations mentionnées aux article R.* 411-7 et R.* 411-8 sont délivrées
-par décision conjointe du ministre chargé de la protection de la nature et du ministre chargé des pêches maritimes.
-
-Lorsque l'arrêté mentionné à l'article R. 411-3 le précise, ces autorisations sont délivrées conjointement avec le ministre
-chargé de l'agriculture.
+Lorsqu'elles concernent des espèces marines, les dérogations définies aux articles R. 411-7 et R. 411-8 sont délivrées
+conjointement par le ministre chargé de la protection de la nature et le ministre chargé des pêches maritimes.
 
 **Liens relatifs à cet article**
 
@@ -74211,32 +74229,35 @@ chargé de l'agriculture.
 	  - Décret n°97-1204 du 19 décembre 1997 - art. Annexe (VD)
 	  - Décret n°2007-15 du 4 janvier 2007 - art. 6 (Ab)
 
-	**Créé par**:
-
-	  - Décret n°2005-934 2005-08-02 Annexe I JORF 5 août 2005
-
 	**Codifié par**:
 
 	  - Décret n°2005-934 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-15 2007-01-04 art. 1 IV, IX JORF 5 janvier 2007
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
+
 	**Cite**:
 
-	  - Code de l'environnement - art. R411-3 (M)
-	  - Code de l'environnement R411-8, R411-3
+	  - Code de l'environnement R411-7, R411-8
 
 
 ###### Article R411-6
 
-Les autorisations de prélèvement, de capture, de destruction, de transport ou d'utilisation à des fins scientifiques
-d'animaux ou de végétaux appartenant à une espèce protégée au titre de l'article L. 411-1 et les autorisations de
-naturalisation ou d'exposition d'animaux naturalisés appartenant à de telles espèces protégées sont délivrées par le préfet,
-sauf dans les cas mentionnés aux articles R.* 411-7 et R.* 411-8.
+Les dérogations définies au 4° de l'article L. 411-2 sont accordées par le préfet, sauf dans les cas prévus aux articles R.
+411-7 et R. 411-8. Elles précisent les modalités d'exécution des opérations autorisées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-15 2007-01-04 art. 1 IV, V JORF 5 janvier 2007
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
 
 	**Cité par**:
 
@@ -74261,8 +74282,34 @@ sauf dans les cas mentionnés aux articles R.* 411-7 et R.* 411-8.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L411-1 (V)
-	  - Code de l'environnement L411-1, R411-8
+	  - Code de l'environnement - art. L411-2 (M)
+	  - Code de l'environnement L411-2, R411-7, R411-8
+
+
+###### Article R411-8-1
+
+La liste des espèces mentionnées à l'article R. 411-8 est fixée par arrêté conjoint des ministres chargés, respectivement, de
+la protection de la nature et de l'agriculture et, lorsqu'elle concerne des espèces marines, par le ministre chargé des
+pêches maritimes, après avis du Conseil national de la protection de la nature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-934 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R181-28 (VD)
+	  - Code de l'environnement - art. R411-34 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R411-8 (V)
 
 
 ###### Article R411-10
@@ -74281,6 +74328,10 @@ personnes physiques.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
+
 	**Cite**:
 
 	  - Code de l'environnement R411-6 à R411-8
@@ -74297,6 +74348,10 @@ subordonnées à la tenue d'un registre.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
 
 	**Cité par**:
 
@@ -74319,6 +74374,10 @@ entendu, si les conditions fixées ne sont pas respectées.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
+
 	**Cite**:
 
 	  - Code de l'environnement R411-6 à R411-8
@@ -74334,6 +74393,10 @@ de l'autorisation.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
 
 	**Cité par**:
 
@@ -74352,6 +74415,10 @@ chapitre, en vue de leur baguage ou de leur marquage à des fins scientifiques.
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
 
 	**Cité par**:
 
@@ -74744,6 +74811,386 @@ la part du préfet ".
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+
+##### Section 4 : Introduction dans le milieu naturel de spécimens appartenant à des espèces animales non domestiques ou à des espèces végétales non cultivées
+
+###### Article R411-31
+
+Toute personne qui, à des fins agricoles, piscicoles, forestières ou pour des motifs d'intérêt général, se propose de
+procéder à l'introduction dans le milieu naturel d'animaux ou de végétaux appartenant à des espèces figurant sur les listes
+établies en application du I de l'article L. 411-3 doit disposer d'une autorisation délivrée dans les conditions définies à
+la sous-section 1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Cité par**:
+
+	  - Arrêté du 9 avril 2010 - art. 3 (V)
+	  - Arrêté du 30 juillet 2010 - art. 3 (V)
+	  - Code de l'environnement - art. R411-32 (V)
+	  - Code de l'environnement - art. R411-36 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L411-3 (M)
+
+
+##### Sous-section 1 : Instruction des demandes d'autorisation d'une introduction menée par une personne autre que l'Etat
+
+##### Paragraphe 1 : Présentation du projet d'introduction
+
+###### Article R411-32
+
+I. - La demande d'autorisation est adressée au préfet du département du lieu où doivent être, selon le cas, lâchés les
+animaux ou plantés ou semés les végétaux. Elle peut être transmise par voie électronique.
+
+II. - Cette demande est accompagnée d'un dossier qui comprend, outre l'indication, s'il s'agit d'une personne physique, de
+ses nom, prénoms et domicile, et, s'il s'agit d'une personne morale, de sa dénomination ou de sa raison sociale, de sa forme
+juridique, de l'adresse de son siège ainsi que de la qualité du signataire de la demande, l'information la plus complète
+sur :
+
+1° L'aptitude technique du demandeur à conduire l'opération d'introduction ou, s'il ne l'exécute pas lui-même, à la faire
+conduire ;
+
+2° Les fins agricoles, piscicoles, forestières ou les motifs d'intérêt général qui justifient cette opération ;
+
+3° Si elle est envisagée en vue de la réintroduction ou du renforcement de la population d'une espèce, l'évaluation de son
+incidence sur l'état de conservation de l'espèce ;
+
+4° Le nombre, l'origine ainsi que la provenance géographique des animaux ou des végétaux qui devront être introduits dans le
+milieu naturel ;
+
+5° La situation sanitaire de la région d'origine des animaux ou des végétaux introduits au regard des maladies contagieuses
+et leur état de santé ;
+
+6° Les circonstances de temps et de lieu ainsi que l'ensemble des conditions générales d'exécution de la capture ou de
+l'enlèvement, du transport et de l'introduction des animaux ou des végétaux dans le milieu naturel, notamment au regard du
+droit de propriété ;
+
+7° L'évaluation de ses conséquences, d'une part, sur les milieux naturels où elle doit avoir lieu ainsi que sur la faune et
+la flore qu'ils hébergent, d'autre part, sur la sécurité des personnes et des biens ainsi que sur les conditions dans
+lesquelles s'exercent, dans le territoire affecté par l'introduction, les activités humaines ;
+
+8° La nature des mesures prévues pour accompagner et suivre dans le temps l'opération ainsi que des dispositions nécessaires
+pour réduire au maximum les risques qu'elle pourrait faire peser sur la sécurité des personnes et des biens ou sur la santé
+publique et, selon les cas, pour supprimer, réduire ou compenser les dommages qu'elle pourrait causer aux activités humaines,
+notamment, agricoles, forestières, aquacoles et touristiques ;
+
+9° L'évaluation de son coût total et la capacité financière du demandeur à y procéder ou à y faire procéder.
+
+III. - Ce dossier est fourni en autant d'exemplaires que demandé par le préfet en fonction de la nature de l'opération
+d'introduction prévue.
+
+Lorsque le préfet estime que l'un des éléments du dossier est insuffisant ou irrégulier, il invite le demandeur à le
+compléter ou à le régulariser.
+
+IV. - Dès que le dossier est complet, le préfet délivre au demandeur un accusé de réception mentionnant sa date
+d'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R411-40 (M)
+
+
+##### Paragraphe 2 : Information du public et des collectivités territoriales
+
+###### Article R411-33
+
+Le préfet détermine, par arrêté, au plus tard trente jours après la date d'enregistrement du dossier, les conditions dans
+lesquelles celui-ci sera mis à la disposition du public et des collectivités territoriales intéressées.
+
+Lorsque l'opération est susceptible d'affecter le territoire de plusieurs départements, le préfet du lieu d'introduction en
+informe les préfets des autres départements qui procèdent ainsi qu'il est dit à l'alinéa précédent, dans un délai de trente
+jours à compter de la date où le dossier leur a été transmis.
+
+Lorsqu'elle est susceptible d'affecter le territoire d'un pays étranger, le préfet du département du lieu d'introduction en
+informe sans délai le ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R411-38 (M)
+	  - Code de l'environnement - art. R411-40 (M)
+
+
+###### Article R411-34
+
+La durée de la mise à la disposition du public et des collectivités territoriales du dossier ne peut être inférieure à un
+mois. Durant cette période, toute personne peut adresser au préfet ses observations sur l'opération d'introduction envisagée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1510 du 15 décembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R411-31 (V)
+
+
+##### Paragraphe 3 : Délivrance de l'autorisation
+
+###### Article R*411-36
+
+I. - Par dérogation à l'article R. 411-35, l'autorisation d'introduction est délivrée :
+
+1° Par le ministre chargé de la protection de la nature, après consultation du Conseil national de la protection de la
+nature, lorsque l'introduction concerne des animaux appartenant à une espèce de vertébrés protégée au titre de l'article L.
+411-1, menacée d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de
+répartition excède le territoire d'un département ;
+
+2° Conjointement par le ministre chargé de la protection de la nature et soit par le ministre chargé de l'agriculture, soit,
+lorsqu'il s'agit d'espèces marines, par le ministre chargé des pêches maritimes, après consultation du Conseil national de la
+protection de la nature :
+
+a) Lorsque cette opération est conduite par des personnes morales placées sous la tutelle ou le contrôle de l'Etat, dont les
+attributions ou les activités s'exercent au plan national ;
+
+b) Lorsqu'elle concerne des animaux ou des végétaux appartenant à des espèces qui, compte tenu de leur fort pouvoir de
+dissémination ou de colonisation, peuvent faire courir un risque particulièrement important au patrimoine naturel et à la
+diversité biologique ;
+
+3° Conjointement par les ministres chargés, respectivement, de la protection de la nature et de l'agriculture, après
+consultation du Conseil national de la protection de la nature et du comité consultatif de la protection des végétaux,
+lorsque les espèces dont l'introduction dans le milieu naturel est envisagée sont des agents utilisés dans la lutte
+biologique contre les organismes nuisibles, au sens de la deuxième phrase du premier alinéa de l'article L. 251-3 du code
+rural.
+
+II. - L'autorisation d'introduction vaut, le cas échéant, autorisation de transport des animaux et des végétaux, prévue aux
+articles R. 411-7 et R. 411-8. Dans ce cas, elle peut imposer des conditions particulières à l'exécution de ce transport.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1204 du 19 décembre 1997 - art. Annexe (VD)
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 6 (Ab)
+	  - Code de l'environnement - art. R*411-36 (VD)
+	  - Code de l'environnement - art. R411-35 (M)
+	  - Code de l'environnement - art. R411-37 (M)
+	  - Code de l'environnement - art. R411-40 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L411-1 (V)
+	  - Code de l'environnement R411-35, L411-1, R411-7, R411-8
+	  - Code rural L251-3
+
+
+###### Article R411-35
+
+L'autorisation d'introduction est délivrée par le préfet du département dans lequel l'opération doit être réalisée, après
+consultation du conseil scientifique régional du patrimoine naturel et de la commission départementale de la nature, des
+paysages et des sites siégeant en formation spécialisée dite " de la nature ", sauf dans les cas mentionnés à l'article R.
+411-36. 
+
+Cette autorisation vaut, le cas échéant, autorisation de transport des animaux et des végétaux, prévue à l'article R. 411-6.
+Dans ce cas, elle peut fixer des conditions particulières à l'exécution de ce transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R*411-36 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R411-6 (V)
+
+
+###### Article R411-37
+
+Un arrêté conjoint des ministres chargés, respectivement, de la protection de la nature et de l'agriculture ainsi que,
+lorsqu'elles concernent des espèces marines, du ministre chargé des pêches maritimes fixe les listes des espèces mentionnées
+au 1° et au b du 2° du I ci-dessus, après consultation du Conseil national de protection de la nature.
+
+Un arrêté conjoint des ministres chargés, respectivement, de la protection de la nature et de l'agriculture fixe la liste des
+espèces mentionnées au 3° du I ci-dessus, après consultation du Conseil national de protection de la nature et du comité
+consultatif de la protection des végétaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+
+###### Article R411-38
+
+L'autorisation d'introduction est délivrée dans un délai de six mois à compter de l'enregistrement du dossier. Cette
+autorisation peut être assortie de prescriptions spéciales, notamment pour tenir compte des observations présentées au cours
+de la mise à disposition, prévue à l'article R. 411-33, du projet d'introduction. 
+
+Cette autorisation peut être refusée pour tout motif, notamment, si, compte tenu du projet présenté, l'opération envisagée
+n'est pas conciliable avec l'intérêt général qui s'attache à la protection de la santé et de la sécurité publiques ainsi qu'à
+la préservation des activités humaines ou des habitats naturels. 
+
+Le silence gardé par l'autorité administrative compétente pendant plus de six mois à compter de l'enregistrement de la
+demande vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R411-33 (V)
+
+
+###### Article R411-39
+
+L'exécution de l'opération d'introduction, y compris celle des prescriptions spéciales dont l'autorisation peut être
+assortie, est entièrement aux frais du bénéficiaire de cette autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+
+##### Sous-section 2 : Introduction par l'Etat de spécimens appartenant à des espèces animales non domestiques ou à des espèces végétales non cultivées et mesures d'urgence
+
+##### Paragraphe 1 : Procédure applicable à l'introduction
+
+###### Article R411-40
+
+I.-Lorsqu'à des fins agricoles, piscicoles, forestières ou pour des motifs d'intérêt général, l'Etat envisage d'introduire,
+dans le milieu naturel, des animaux ou des végétaux appartenant à des espèces figurant sur les listes établies pour
+l'application du I de l'article L. 411-3, le préfet du département dans lequel cette opération doit être réalisée procède à
+l'évaluation de ses conséquences et met le dossier de présentation du projet à la disposition du public et des collectivités
+territoriales intéressées, dans les conditions fixées aux articles R. 411-33 et R. 411-34. 
+
+Ce dossier comporte les éléments d'information prévus aux 2° à 8° du II de l'article R. 411-32. 
+
+II.-La décision de procéder à l'introduction, dans le milieu naturel, des animaux ou des végétaux ne peut intervenir avant
+l'expiration d'un délai de trois mois à compter de la mise à la disposition du public et des collectivités territoriales de
+ce dossier. 
+
+Cette décision est prise dans les conditions prévues à l'article R. 411-36.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L411-3 (V)
+	  - Code de l'environnement - art. R*411-36 (V)
+	  - Code de l'environnement - art. R411-32 (V)
+	  - Code de l'environnement - art. R411-33 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R411-42 (V)
+
+
+##### Paragraphe 2 : Procédure applicable aux mesures d'urgence
+
+###### Article R411-41
+
+En cas d'urgence, notamment, à des fins de préservation de la sécurité publique, de prévention des dommages aux activités
+agricoles, forestières et aquacoles et de protection de la faune, de la flore et des habitats naturels, l'autorité
+administrative qui a autorisé une opération d'introduction dans le milieu naturel d'animaux appartenant à des espèces
+figurant sur les listes établies en application du I de l'article L. 411-3, peut, en se substituant, le cas échéant, au
+bénéficiaire de l'autorisation, faire capturer puis relâcher les animaux concernés. 
+
+Le lâcher des animaux est effectué après une évaluation de ses conséquences par le préfet du département où il a lieu. Le
+public et les communes intéressés par cette opération en sont informés. 
+
+La procédure décrite à l'alinéa précédent peut également être appliquée lorsque l'autorité administrative doit relâcher dans
+un nouveau territoire des animaux n'ayant pas été l'objet d'une introduction et appartenant à des espèces figurant sur les
+listes établies en application du 3° du I de l'article L. 411-3, dont l'évolution ou le comportement peuvent porter atteinte
+à la sécurité publique, aux activités agricoles, forestières et aquacoles ainsi qu'aux milieux naturels. Cette décision est
+prise par le préfet du département où a lieu l'opération sauf dans le cas prévu à l'article R. 411-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Créé par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 2 () JORF 5 janvier 2007
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L411-3 (V)
+	  - Code de l'environnement - art. R411-8 (V)
 
 
 #### Chapitre II : Activités soumises à autorisation
@@ -77166,8 +77613,14 @@ Les dispositions de la présente section ne s'appliquent pas dans les départeme
 
 ###### Article R415-1
 
-Est puni de l'amende prévue pour les contraventions de la 4e classe le fait de contrevenir aux dispositions des arrêtés
-préfectoraux pris en application des articles R. 411-15 et R. 411-17.
+Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de : 
+
+1° Perturber de manière intentionnelle des espèces animales non domestiques protégées au titre de l'article L. 411-1 ; 
+
+2° Introduire dans le milieu naturel, par négligence ou par imprudence, tout spécimen d'une des espèces, animale ou végétale,
+mentionnées à l'article L. 411-3 ; 
+
+3° Contrevenir aux dispositions des arrêtés préfectoraux pris en application des articles R. 411-15 et R. 411-17.
 
 **Liens relatifs à cet article**
 
@@ -77175,12 +77628,18 @@ préfectoraux pris en application des articles R. 411-15 et R. 411-17.
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
+	**Modifié par**:
+
+	  - Décret n°2007-15 du 4 janvier 2007 - art. 1 () JORF 5 janvier 2007
+
 	**Cité par**:
 
 	  - Arrêté du 10 octobre 2016 - art. 3 (V)
 
 	**Cite**:
 
+	  - Code de l'environnement - art. L411-1 (V)
+	  - Code de l'environnement - art. L411-3 (V)
 	  - Code de l'environnement - art. R411-15 (V)
 	  - Code de l'environnement - art. R411-17 (V)
 
