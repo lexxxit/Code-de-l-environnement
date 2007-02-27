@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-02-28
 
 # Partie législative
 
@@ -68683,7 +68683,9 @@ Les dispositions relatives à chacun des parcs nationaux sont énoncées aux dé
 
 6° Décret n° 79-696 du 18 août 1979 créant le parc national du Mercantour ;
 
-7° Décret n° 89-144 du 20 février 1989 créant le parc national de la Guadeloupe.
+7° Décret n° 89-144 du 20 février 1989 créant le parc national de la Guadeloupe ;
+
+8° Décret n° 2007-266 du 27 février 2007 créant le parc amazonien de Guyane.
 
 **Liens relatifs à cet article**
 
@@ -68696,14 +68698,15 @@ Les dispositions relatives à chacun des parcs nationaux sont énoncées aux dé
 	  - Décret n°73-378 1973-03-27
 	  - Décret n°79-696 1979-08-18
 	  - Décret n°89-144 1989-02-20
+	  - Décret n°2007-266 2007-02-27
 
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-944 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+	  - Décret n°2007-266 du 27 février 2007 - art. 31 () JORF 28 février 2007
 
 	**Cité par**:
 
