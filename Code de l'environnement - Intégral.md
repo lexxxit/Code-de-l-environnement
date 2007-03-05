@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2007-02-28
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -68685,7 +68685,9 @@ Les dispositions relatives à chacun des parcs nationaux sont énoncées aux dé
 
 7° Décret n° 89-144 du 20 février 1989 créant le parc national de la Guadeloupe ;
 
-8° Décret n° 2007-266 du 27 février 2007 créant le parc amazonien de Guyane.
+8° Décret n° 2007-266 du 27 février 2007 créant le parc amazonien de Guyane ;
+
+9° Décret n° 2007-296 du 5 mars 2007 créant le parc national de la Réunion.
 
 **Liens relatifs à cet article**
 
@@ -68699,6 +68701,7 @@ Les dispositions relatives à chacun des parcs nationaux sont énoncées aux dé
 	  - Décret n°79-696 1979-08-18
 	  - Décret n°89-144 1989-02-20
 	  - Décret n°2007-266 2007-02-27
+	  - Décret n°2007-296 2007-03-05
 
 	**Codifié par**:
 
@@ -68706,7 +68709,7 @@ Les dispositions relatives à chacun des parcs nationaux sont énoncées aux dé
 
 	**Modifié par**:
 
-	  - Décret n°2007-266 du 27 février 2007 - art. 31 () JORF 28 février 2007
+	  - Décret n°2007-296 du 5 mars 2007 - art. 29 () JORF 6 mars 2007
 
 	**Cité par**:
 
