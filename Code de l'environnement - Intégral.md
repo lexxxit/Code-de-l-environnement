@@ -1,5 +1,5 @@
 # Code de l'environnement  
-Version Consolidée au 2007-03-06
+Version Consolidée au 2007-03-07
 
 # Partie législative
 
@@ -21425,9 +21425,9 @@ peine de nullité, au plus tard cinq jours francs après celui où l'infraction 
 
 ###### Article L362-7
 
-Les dispositions des articles L. 121-4, L. 234-1, L. 325-2, L. 325-3, L. 325-6 à L. 325-8, L. 325-10 et L. 417-1 du code de
-la route sont applicables aux véhicules circulant en infraction aux dispositions du présent chapitre et des arrêtés pris pour
-son application, selon des modalités déterminées par décret en Conseil d'Etat.
+Les dispositions des articles L. 121-4, L. 234-1, L. 325-2, L. 325-3, L. 325-6 à L. 325-8 et L. 417-1 du code de la route
+sont applicables aux véhicules circulant en infraction aux dispositions du présent chapitre et des arrêtés pris pour son
+application, selon des modalités déterminées par décret en Conseil d'Etat. 
 
 Les agents mentionnés à l'article L. 362-5 sont habilités à mettre en oeuvre les dispositions de l'article L. 325-2 du code
 de la route.
@@ -21436,7 +21436,6 @@ de la route.
 
 	**Anciens textes**:
 
-	  - Loi n°91-2 1991-01-03 art. 10
 	  - Loi n°91-2 du 3 janvier 1991 - art. 10 (Ab)
 
 	**Codifié par**:
@@ -21446,18 +21445,15 @@ de la route.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-930 du 22 septembre 2000 - art. 2 (V) JORF 24 septembre 2000 en vigueur le 1er juin 2001
-	  - Ordonnance n°2000-930 du 22 septembre 2000 - art. 5 (V) JORF 24 septembre 2000 en vigueur le 1er juin 2001
+	  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L362-5 (V)
-	  - Code de la route L121-4, L234-1, L325-2, L325-3, L325-6 à L325-8, L325-10, L417-1
+	  - Code de l'environnement - art. L362-5 (VT)
 	  - Code de la route. - art. L121-4 (V)
-	  - Code de la route. - art. L234-1 (M)
-	  - Code de la route. - art. L325-10 (Ab)
-	  - Code de la route. - art. L325-2 (M)
-	  - Code de la route. - art. L325-3 (M)
+	  - Code de la route. - art. L234-1 (V)
+	  - Code de la route. - art. L325-2 (V)
+	  - Code de la route. - art. L325-6 (V)
 	  - Code de la route. - art. L417-1 (V)
 
 
@@ -59192,7 +59188,7 @@ a) Dix-neuf membres représentant les administrations centrales et organismes pu
 
 - le directeur général des stratégies industrielles ;
 
-- le commissaire au Plan ;
+- le directeur général du Centre d'analyse stratégique ;
 
 - le directeur général de l'Institut national de la statistique et des études économiques ;
 
@@ -59241,6 +59237,10 @@ ans, par arrêté du ministre chargé de l'environnement, à raison :
 	**Codifié par**:
 
 	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+
+	**Modifié par**:
+
+	  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
 
 	**Cité par**:
 
