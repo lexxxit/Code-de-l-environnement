@@ -19,7 +19,7 @@ SEUILS ET CRITÈRES
     <tr>
       <td valign="top">
 
-1 
+1
           <sup>o </sup>Aménagements fonciers agricoles et forestiers 
 
 </td>
@@ -32,7 +32,7 @@ Toutes opérations quel que soit leur montant
     <tr>
       <td valign="top">
 
-2 
+2
           <sup>o </sup>Supprimé 
 
 </td>
@@ -41,7 +41,7 @@ Toutes opérations quel que soit leur montant
     <tr>
       <td valign="top">
 
-3 
+3
           <sup>o </sup>Supprimé 
 
 </td>
@@ -50,7 +50,7 @@ Toutes opérations quel que soit leur montant
     <tr>
       <td valign="top">
 
-4 
+4
           <sup>o </sup>Défrichements mentionnés aux articles L. 311-1 (bois des particuliers) et L. 312-1 (bois des
 collectivités et de certaines personnes morales) du code forestier. 
 
@@ -65,9 +65,9 @@ abaissé à 10 hectares si un arrêté préfectoral a constaté que le taux de b
     <tr>
       <td valign="top">
 
-5 
-          <sup>o </sup>Travaux d'hydraulique agricole mentionnés du 2 
-          <sup>o </sup>au 7 
+5
+          <sup>o </sup>Travaux d'hydraulique agricole mentionnés du 2
+          <sup>o </sup>au 7
           <sup>o </sup>de l'article  
 L. 151-36 du code rural. 
 
@@ -147,14 +147,14 @@ L. 334-3 ;
 
 b) 160 000 euros lorsque ces travaux sont entrepris en tout ou partie dans les espaces et milieux mentionnés au 1 
           <sup>er </sup>alinéa de l'article  
-L. 146-6 du code de l'urbanisme.
+L. 146-6 du code de l'urbanisme. 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-6 
+6
           <sup>o </sup>Travaux de défense contre les eaux. 
 
 </td>
@@ -169,7 +169,7 @@ Sous réserve des dispositions du 5
     <tr>
       <td valign="top">
 
-7 
+7
           <sup>o </sup>Travaux d'installation des ouvrages utilisant l'énergie hydraulique. 
 
 </td>
@@ -182,7 +182,7 @@ Travaux d'installation des ouvrages de production d'énergie hydraulique dont la
     <tr>
       <td valign="top">
 
-8 
+8
           <sup>o </sup>Voirie routière. 
 
 </td>
@@ -196,7 +196,7 @@ la modification d'assiette d'ouvrages existants.
     <tr>
       <td valign="top">
 
-9 
+9
           <sup>o </sup>Voies ferrées.
 
 </td>
@@ -229,7 +229,7 @@ d'une longueur supérieure ou égale à 100 mètres ou d'un tunnel d'une longueu
     <tr>
       <td valign="top">
 
-10 
+10
           <sup>o </sup>Remontées mécaniques. 
 
 </td>
@@ -245,7 +245,7 @@ secteurs réservés aux remontées mécaniques n'ont pas été délimités.
     <tr>
       <td valign="top">
 
-11 
+11
           <sup>o </sup>Aérodromes.
 
 </td>
@@ -286,7 +286,7 @@ civile, d'un aérodrome dont la réalisation est soumise à enquête en vertu du
     <tr>
       <td valign="top">
 
-12 
+12
           <sup>o </sup>Voies navigables. 
 
 </td>
@@ -300,7 +300,7 @@ euros.
     <tr>
       <td valign="top">
 
-13 
+13
           <sup>o </sup>Ports fluviaux.
 
 </td>
@@ -322,7 +322,7 @@ portant sur au moins 150 places.
     <tr>
       <td valign="top">
 
-14 
+14
           <sup>o </sup>Ports maritimes de commerce ou de pêche.
 
 </td>
@@ -360,7 +360,7 @@ au-delà du tirant d'eau de référence.
     <tr>
       <td valign="top">
 
-15 
+15
           <sup>o </sup>Ports maritimes de plaisance et autres ports de plaisance situés dans les communes littorales
 mentionnées à l'article L. 321-2.
 
@@ -382,7 +382,7 @@ mentionnées à l'article L. 321-2.
     <tr>
       <td rowspan="2" valign="top">
 
-16 
+16
           <sup>o </sup>Travaux réalisés sur le rivage, le sol ou le sous-sol de la mer en dehors des ports (endigages,
 exondements, affouillements, constructions, édification d'ouvrages de défense contre la mer, réalisation de plages
 artificielles). 
@@ -421,7 +421,7 @@ les cultures marines, la construction et la réparation navales et la défense c
     <tr>
       <td valign="top">
 
-17 
+17
           <sup>o </sup>Installations classées pour la protection de l'environnement. 
 
 </td>
@@ -434,7 +434,7 @@ Toutes installations soumises à autorisation.
     <tr>
       <td valign="top">
 
-18 
+18
           <sup>o </sup>Stations d'épuration des eaux usées des collectivités locales. 
 
 </td>
@@ -448,13 +448,13 @@ moins équivalent à celui produit par 10 000 habitants, au sens de l'article R.
     <tr>
       <td valign="top">
 
-19 
+19
           <sup>o </sup>Réservoirs de stockage d'eau. 
 
 </td>
       <td valign="top">
 
-Réservoirs sur tour » d'une capacité supérieure ou égale à 1 000 mètres cubes et autres réservoirs d'une superficie égale ou
+Réservoirs sur tour d'une capacité supérieure ou égale à 1 000 mètres cubes et autres réservoirs d'une superficie égale ou
 supérieure à 10 ha. 
 
 </td>
@@ -462,7 +462,7 @@ supérieure à 10 ha.
     <tr>
       <td valign="top">
 
-20 
+20
           <sup>o </sup>Canalisations d'adduction d'eau potable. 
 
 </td>
@@ -476,7 +476,7 @@ canalisations par leur longueur est supérieur ou égal à 5 000 mètres carrés
     <tr>
       <td valign="top">
 
-21 
+21
           <sup>o </sup>Constructions soumises à permis de construire. 
 
 </td>
@@ -516,7 +516,7 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
     <tr>
       <td valign="top">
 
-22 
+22
           <sup>o </sup>Lotissements. 
 
 </td>
@@ -531,7 +531,7 @@ document en tenant lieu ayant fait l'objet d'une enquête publique.
     <tr>
       <td valign="top">
 
-23 
+23
           <sup>o </sup>Aménagement de terrains de camping et de caravanage. 
 
 </td>
@@ -546,10 +546,10 @@ d'urbanisme en tenant lieu ayant fait l'objet d'une enquête publique.
     <tr>
       <td valign="top">
 
-24 
-          <sup>o </sup>Ouverture de travaux miniers et de travaux de stockage souterrain soumis à autorisation en vertu du
-décret n 
-          <sup>o </sup>2006-649 du 2 juin 2006. 
+24
+          <sup>o </sup>Ouverture de travaux miniers et de travaux de stockage souterrain soumis à autorisation en vertu du 
+          <sup>
+décret n o 2006-649 du 2 juin 2006. </sup>
 
 </td>
       <td valign="top">
@@ -562,20 +562,19 @@ certaines couches du sous-sol, ou effectués sur des terrains humides ou des mar
     <tr>
       <td valign="top">
 
-25 
+25
           <sup>o </sup>Ouvrages de transport et de distribution d'électricité. 
 
 </td>
-      <td valign="top">
-
-Ouvrages d'une tension supérieure ou égale à 63 kV. 
-
-</td>
+      <td valign="top">Ouvrages aériens d'une tension supérieure ou égale à 63 kV. Constructions et travaux d'installation ou
+de modernisation concernant les liaisons souterraines de tension égale à 225 kV d'une longueur supérieure à 15 km.
+Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension supérieure à 225
+kV. </td>
     </tr>
     <tr>
       <td valign="top">
 
-26 
+26
           <sup>o </sup>Canalisations de transport de gaz. 
 
 </td>
@@ -588,7 +587,7 @@ Canalisations dont le produit du diamètre extérieur par la longueur est supér
     <tr>
       <td valign="top">
 
-27 
+27
           <sup>o </sup>Canalisations de transport d'hydrocarbures. 
 
 </td>
@@ -601,7 +600,7 @@ Canalisations dont le produit du diamètre extérieur par la longueur est supér
     <tr>
       <td valign="top">
 
-28 
+28
           <sup>o </sup>Canalisations de transport de produits chimiques déclarées d'intérêt général en application de
 l'article 1 
           <sup>er </sup>du décret n 
@@ -618,21 +617,22 @@ Canalisations dont le produit du diamètre extérieur par la longueur est supér
     <tr>
       <td valign="top">
 
-29 
+29
           <sup>o </sup>Installations nucléaires de base. 
 
 </td>
       <td valign="top">
 
-Installations définies par le décret n 
-          <sup>o </sup>2007-830 du 11 mai 2007 relatif à la nomenclature des installations nucléaires de base. 
+Installations définies par le 
+          <sup>
+décret n o 2007-830 du 11 mai 2007 relatif à la nomenclature des installations nucléaires de base. </sup>
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-30 
+30
           <sup>o </sup>(Supprimé à compter du 1 
           <sup>er </sup>octobre 2006) 
 
@@ -642,7 +642,7 @@ Installations définies par le décret n
     <tr>
       <td valign="top">
 
-31 
+31
           <sup>o </sup>Travaux, ouvrages et aménagements dans les espaces et milieux littoraux faisant l'objet d'une
 protection particulière : 
 
@@ -711,7 +711,7 @@ Tous travaux.
     <tr>
       <td valign="top">
 
-32 
+32
           <sup>o </sup>Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au
 stockage des déchets radioactifs. 
 
@@ -725,7 +725,7 @@ Tous travaux.
     <tr>
       <td valign="top">
 
-33 
+33
           <sup>o </sup>Travaux, installations et aménagements soumis à permis d'aménager prévu à l'article  R. 421-19 
 
 </td>
@@ -755,7 +755,7 @@ c) terrains aménagés pour la pratique de sports ou loisirs motorisés dont l'e
     <tr>
       <td valign="top">
 
-34 
+34
           <sup>o </sup>Travaux d'installation des ouvrages utilisant l'énergie éolienne. 
 
 </td>
@@ -768,7 +768,7 @@ Travaux d'installation des ouvrages de production d'énergie éolienne dont la h
     <tr>
       <td valign="top">
 
-35 
+35
           <sup>o </sup>Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural. 
 
 </td>
@@ -781,7 +781,7 @@ Premiers boisements d'un seul tenant portant sur une superficie d'au moins 25 he
     <tr>
       <td valign="top">
 
-36 
+36
           <sup>o </sup>Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole
 intensive. 
 
@@ -795,7 +795,7 @@ Projets portant sur une superficie d'au moins 50 hectares.
     <tr>
       <td valign="top">
 
-37 
+37
           <sup>o </sup>Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation
 humaine dans une forêt de protection mentionnés à l'article R. 412-19 du code forestier. 
 
@@ -812,28 +812,22 @@ recherche.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2005-935 2005-08-02 JORF 5 août 2005
+	  - Décret n°2006-649 du 2 juin 2006
+	  - Décret n°2007-830 du 11 mai 2007
+	  - Code rural - art. L151-36
+	  - Code de l'urbanisme - art. L146-4
+	  - Code de l'urbanisme - art. L146-6
+	  - Code de l'environnement - art. L123-1
+	  - Code de l'environnement - art. L331-2
+	  - Code de l'environnement - art. L332-1
+	  - Code de l'environnement - art. L333-1
+	  - Code de l'environnement - art. L334-3
+	  - Code de l'aviation civile - art. L321-2
+	  - Code de l'aviation civile - art. R222-5
+	  - Code de l'aviation civile - art. R227-7
 
 	**Modifié par**:
 
-	  - Décret n°2006-394 du 30 mars 2006 - art. 26 () JORF 1er avril 2006
-	  - Décret n°2006-629 du 30 mai 2006 - art. 3 () JORF 31 mai 2006
-	  - Décret n°2006-649 du 2 juin 2006 - art. 57 () JORF 3 juin 2006
-	  - Décret n°2006-880 du 17 juillet 2006 - art. 33 () JORF 18 juillet 2006 en vigueur le 1er octobre 2006
-	  - Décret n°2006-1230 du 6 octobre 2006 - art. 4 () JORF 8 octobre 2006
-	  - Décret n°2006-1266 du 16 octobre 2006 - art. 2 () JORF 17 octobre 2006
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 18 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-397 du 22 mars 2007 - art. 9 () JORF 23 mars 2007
-	  - Décret n°2007-830 du 11 mai 2007 - art. 4 () JORF 12 mai 2007
-
-	**Cite**:
-
-	  - Code rural - art. L151-36 (V)
-	  - Code de l'urbanisme - art. L146-4 (V)
-	  - Code de l'urbanisme - art. L146-6 (V)
-	  - Code de l'environnement - art. L331-2 (V)
-	  - Code de l'environnement - art. L332-1 (V)
-	  - Code de l'environnement - art. L333-1 (V)
-	  - Code de l'environnement - art. L334-3 (V)
+	  - Décret n°2009-368 du 1er avril 2009 - art. 1
