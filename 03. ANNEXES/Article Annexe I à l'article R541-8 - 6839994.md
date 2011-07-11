@@ -59,11 +59,15 @@ défauts génétiques héréditaires ou en augmenter la fréquence.
 
 H12 Substances et préparations qui, au contact de l'eau, de l'air ou d'un acide, dégagent un gaz toxique ou très toxique.
 
-H13 Substances et préparations susceptibles, après élimination, de donner naissance, par quelque moyen que ce soit, à une
-autre substance, par exemple un produit de lixiviation, qui possède l'une des caractéristiques énumérées ci-avant.
+H13 "Sensibilisant" : substances et préparations qui, par inhalation ou pénétration cutanée, peuvent donner lieu à une
+réaction d'hypersensibilisation telle qu'une nouvelle exposition à la substance ou à la préparation produit des effets
+néfastes caractéristiques. Cette propriété n'est à considérer que si les méthodes d'essai sont disponibles.
 
 H14 " Ecotoxique " : substances et préparations qui présentent ou peuvent présenter des risques immédiats ou différés pour
 une ou plusieurs composantes de l'environnement.
+
+H15 Substances et préparations susceptibles, après élimination, de donner naissance, par quelque moyen que ce soit, à une
+autre substance, par exemple un produit de lixiviation, qui possède l'une des caractéristiques énumérées ci-avant.
 
 **Liens relatifs à cet article**
 
@@ -73,4 +77,12 @@ une ou plusieurs composantes de l'environnement.
 
 	**Codifié par**:
 
-	  - Décret n°2007-1467 2007-10-12 JORF 16 octobre 2007
+	  - Décret n°2007-1467 du 12 octobre 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-828 du 11 juillet 2011 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2016-288 du 10 mars 2016 - art. 6
