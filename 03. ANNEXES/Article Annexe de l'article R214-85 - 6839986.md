@@ -701,11 +701,11 @@ sécurité civile. "
 naturel, il sera ajouté, outre l'alinéa précédent (41), un deuxième alinéa ainsi rédigé : 
 
 " Le permissionnaire est soumis aux obligations imposées au maître d'ouvrage par le décret n° 2005-1157 du 13 septembre 2005
-relatif au plan ORSEC et pris pour application de l'article 14 de la loi n° 2004-811 du 13 août 2004 de modernisation de la
-sécurité civile et par le décret n° 92-997 du 15 septembre 1992 relatif à la prévention des risques liés aux ouvrages
-hydrauliques. Faute pour le permissionnaire de se conformer en temps voulu aux obligations qui lui incombent en exécution de
-ces décrets et des mesures prises pour leur application, il y sera pourvu d'office et à ses frais par les soins du préfet,
-sur la proposition du service chargé du contrôle de l'ouvrage. " 
+relatif au plan ORSEC et pris pour application des articles L741-1 à L741-5 du code de la sécurité intérieure et par le
+décret n° 92-997 du 15 septembre 1992 relatif à la prévention des risques liés aux ouvrages hydrauliques. Faute pour le
+permissionnaire de se conformer en temps voulu aux obligations qui lui incombent en exécution de ces décrets et des mesures
+prises pour leur application, il y sera pourvu d'office et à ses frais par les soins du préfet, sur la proposition du service
+chargé du contrôle de l'ouvrage. " 
 
 (43) Indiquer ici les clauses concernant l'occupation du domaine public. Sur les cours d'eau non domaniaux, l'article portera
 la mention " Néant ". 
@@ -759,6 +759,6 @@ confiée à l'établissement public Voies navigables de France.
 	  - Code de l'environnement - art. R214-71 (V)
 	  - Code de l'environnement - art. R214-77 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-397 2007-03-22 JORF 23 mars 2007
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
