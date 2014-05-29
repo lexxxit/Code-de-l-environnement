@@ -481,7 +481,8 @@ Article 29
 Redevance domaniale (50) 
 
 Sur le domaine non confié à Voies navigables de France, le permissionnaire sera tenu de verser à la caisse du directeur
-départemental des services fiscaux de la situation de l'usine une redevance annuelle de...... Euros. 
+départemental ou, le cas échéant, régional des finances publiques ou, à Saint-Pierre-et-Miquelon, du directeur des finances
+publiques de la situation de l'usine une redevance annuelle de...... Euros. 
 
 Elle sera payable d'avance en une seule fois et exigible à partir de la date du procès-verbal de récolement ou, au plus tard,
 à partir de l'expiration du délai fixé par l'article 23 pour l'achèvement des travaux. 
@@ -744,21 +745,16 @@ confiée à l'établissement public Voies navigables de France.
 
 	**Cite**:
 
-	  - Loi n°46-628 du 8 avril 1946 - art. 8 bis (Ab)
-	  - Décret n°86-203 du 7 février 1986 (V)
-	  - Décret n°92-997 du 15 septembre 1992 (V)
-	  - Loi n°2004-811 du 13 août 2004 - art. 14 (Ab)
-	  - Décret n°2005-1157 du 13 septembre 2005 (V)
-	  - Code de l'environnement - art. L211-1 (V)
-	  - Code de l'environnement - art. L211-3 (VT)
-	  - Code de l'environnement - art. L212-3 (V)
-	  - Code de l'environnement - art. L212-8 (V)
-	  - Code de l'environnement - art. L214-18 (V)
-	  - Code de l'environnement - art. L216-1 (VT)
-	  - Code de l'environnement - art. R214-1 (V)
-	  - Code de l'environnement - art. R214-71 (V)
-	  - Code de l'environnement - art. R214-77 (V)
+	  - Loi n°46-628 du 8 avril 1946 - art. 8 bis
+	  - Loi n°2004-811 du 13 août 2004 - art. 14
+	  - Code de l'environnement - art. L211-3
+	  - Code de l'environnement - art. L212-8
+	  - Code de l'environnement - art. R214-71
+
+	**Codifié par**:
+
+	  - Décret n°2007-397 du 22 mars 2007
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+	  - Décret n°2014-551 du 27 mai 2014 - art. 13
