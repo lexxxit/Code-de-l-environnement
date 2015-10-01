@@ -12,7 +12,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 N°
 
 </td>
-      <td width="498" colspan="3">
+      <td colspan="3" width="498">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
@@ -51,7 +51,7 @@ Coef.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="21" rowspan="3">
+      <td width="21" valign="top" rowspan="3">
 
 47 
 
@@ -61,19 +61,19 @@ Coef.
 Aluminium (fabrication du sulfate d') et fabrication d'aluns 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td rowspan="4" width="148" valign="top">
-      </td><td width="33" rowspan="4" valign="top">
+      <td valign="top" rowspan="4" width="148">
+      </td><td valign="top" width="33" rowspan="4">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 1° par le lavage des terres alumineuses grillées 
 
@@ -90,12 +90,12 @@ A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="433">
+      <td width="433" valign="top">
 
 2° par l'action de l'acide sulfurique sur la bauxite (voir 2546) 
 
 </td>
-      <td width="31" valign="top">
+      <td valign="top" width="31">
 
 </td>
       <td valign="top" width="34">
@@ -113,7 +113,7 @@ A
 Bains et boues provenant du dérochage des métaux (traitement des) par l'acide nitrique 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 A
 
@@ -127,39 +127,15 @@ A
     <tr>
       <td width="21" valign="top">
 
-187 
+195 
 
 </td>
       <td valign="top" width="433">
 
-Etamage des glaces (ateliers d') 
-
-</td>
-      <td valign="top" width="31">
-
-D
-
-</td>
-      <td valign="top" width="34">
-
-</td>
-      <td valign="top" width="148">
-      </td><td valign="top" width="33">
-
-</td>
-    </tr>
-    <tr>
-      <td width="21" valign="top">
-
-195 
-
-</td>
-      <td width="433" valign="top">
-
 Ferro-silicium (dépôts de) 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 D
 
@@ -167,13 +143,13 @@ D
       <td valign="top" width="34">
 
 </td>
-      <td valign="top" width="148">
+      <td width="148" valign="top">
       </td><td valign="top" width="33">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="21" rowspan="2">
+      <td width="21" valign="top" rowspan="2">
 
 1312 
 
@@ -184,14 +160,14 @@ Produits explosifs (mise en œuvre de) à des fins industrielles telles que déc
 métaux. 
 
 </td>
-      <td valign="top" width="31">
+      <td width="31" valign="top">
 
 </td>
-      <td valign="top" width="34">
+      <td width="34" valign="top">
 
 </td>
-      <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      <td width="148" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -206,13 +182,13 @@ La quantité unitaire étant supérieure à 10 g
 A
 
 </td>
-      <td width="34" valign="top">
+      <td valign="top" width="34">
 
 3
 
 </td>
       <td valign="top" width="148">
-      </td><td width="33" valign="top">
+      </td><td valign="top" width="33">
 
 </td>
     </tr>
@@ -237,5 +213,4 @@ et 2798.
 
 	**Modifié par**:
 
-	  - Décret n°2014-285 du 3 mars 2014 - art.
-	  - Décret n°2014-285 du 3 mars 2014 - art. 1
+	  - Décret n°2015-1200 du 29 septembre 2015 - art.
