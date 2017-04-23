@@ -12,7 +12,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 N°
 
 </td>
-      <td colspan="3">
+      <td rowspan="2">
+      </td><td colspan="3">
 
 A-NOMENCLATURE DES INSTALLATIONS CLASSEES
 
@@ -56,7 +57,8 @@ Coef.
 1630
 
 </td>
-      <td>
+      <td rowspan="5">
+      </td><td>
 
 Soude ou potasse caustique (emploi ou stockage de lessives de).
 
@@ -137,6 +139,7 @@ D
 
 </td>
       <td>
+      </td><td>
 
 Substances radioactives sous forme non scellée (activités nucléaires mettant en oeuvre des) mises en œuvre dans un
 établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
@@ -161,7 +164,8 @@ substances radioactives non scellées.
 1716
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 dès lors que leur
 quantité susceptible d'être présente est supérieure à 10 m
@@ -231,6 +235,7 @@ mentionnées à l'annexe 13-8 de la première partie du code de la santé publiq
 
 </td>
       <td>
+      </td><td>
 
 Substances radioactives (dépôt, entreposage ou stockage de) sous forme de résidus solides de minerai d'uranium, de thorium ou
 de radium, ainsi que leurs produits de traitement ne contenant pas d'uranium enrichi en isotope 235 et dont la quantité
@@ -264,7 +269,8 @@ La quantité étant supérieure ou égale à 1 tonne
 2101
 
 </td>
-      <td>
+      <td rowspan="13">
+      </td><td>
 
 Bovins (activité d'élevage, transit, vente, etc. de).
 
@@ -450,7 +456,8 @@ Capacité égale ou supérieure à 50 places
 2102
 
 </td>
-      <td>
+      <td rowspan="6">
+      </td><td>
 
 Porcs (activité d'élevage, vente, transit, etc.) en stabulation ou en plein air, à l'exclusion d'activités spécifiques visées
 à d'autres rubriques :
@@ -545,7 +552,8 @@ Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement
 2110
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Lapins (activité d'élevage, transit, vente, etc., de).
 
@@ -595,7 +603,8 @@ D
 2111
 
 </td>
-      <td>
+      <td rowspan="5">
+      </td><td>
 
 Volailles, gibier à plumes (activité d'élevage, vente, etc. de), à l'exclusion d'activités spécifiques visées à d'autres
 rubriques.
@@ -684,7 +693,8 @@ reproductrice, oie = 3 ; dinde lourde = 3,50 ; palmipèdes gras en gavage = 7.
 2112
 
 </td>
-      <td>
+      <td rowspan="2">
+      </td><td>
 
 Couvoirs
 
@@ -715,7 +725,8 @@ D
 2113
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Carnassiers à fourrure (établissements d'élevage, vente, transit, etc., d'animaux)
 
@@ -765,7 +776,8 @@ D
 2120
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Chiens (établissements d'élevage, vente, transit, garde, fourrières, etc., de) à l'exclusion des établissements de soins et
 de toilettage et des rassemblements occasionnels tels que foires, expositions et démonstrations canines.
@@ -827,7 +839,8 @@ Nota : ne sont pris en compte que les chiens âgés de plus de 4 mois
 2130
 
 </td>
-      <td>
+      <td rowspan="5">
+      </td><td>
 
 Piscicultures
 
@@ -908,7 +921,8 @@ D
 2140
 
 </td>
-      <td>
+      <td rowspan="2">
+      </td><td>
 
 Animaux d'espèces non domestiques (installations fixes et permanentes de présentation au public de), à l'exclusion des
 magasins de vente au détail et des installations présentant au public des animaux d'espèces non domestiques correspondant aux
@@ -955,6 +969,7 @@ l'activité de présentation au public est d'au moins 7 jours par an sur ce site
 
 </td>
       <td>
+      </td><td>
 
 Verminières (élevage de larves de mouches, asticots)
 
@@ -978,7 +993,8 @@ A
 2160
 
 </td>
-      <td>
+      <td rowspan="8">
+      </td><td>
 
 Silos et installations de stockage en vrac de céréales, grains, produits alimentaires ou tout produit organique dégageant des
 poussières inflammables, y compris les stockages sous tente ou structure gonflable.
@@ -1092,7 +1108,8 @@ Les critères caractérisant les termes silo, silo plat, tente et structure gonf
 2170
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Engrais, amendements et supports de culture (fabrication des) à partir de matières organiques, à l'exclusion des rubriques
 2780 et 2781 :
@@ -1143,7 +1160,8 @@ D
 2171
 
 </td>
-      <td>
+      <td rowspan="2">
+      </td><td>
 
 Fumiers, engrais et supports de culture (dépôts de) renfermant des matières organiques et n'étant pas l'annexe d'une
 exploitation agricole
@@ -1175,7 +1193,8 @@ D
 2175
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou égale à 3 000 l, lorsque la capacité totale est :
 
@@ -1225,7 +1244,8 @@ D
 2180
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Etablissements de fabrication et dépôts de tabac
 
@@ -1286,7 +1306,8 @@ D
 2210
 
 </td>
-      <td>
+      <td rowspan="6">
+      </td><td>
 
 Abattage d'animaux
 
@@ -1389,7 +1410,8 @@ D
 2220
 
 </td>
-      <td>
+      <td rowspan="6">
+      </td><td>
 
 Préparation ou conservation de produits alimentaires d'origine végétale, par cuisson, appertisation, surgélation,
 congélation, lyophilisation, déshydratation, torréfaction, etc., à l'exclusion du sucre, de la fécule, du malt, des huiles,
@@ -1492,7 +1514,8 @@ DC
 2221
 
 </td>
-      <td>
+      <td rowspan="5">
+      </td><td>
 
 Préparation ou conservation de produits alimentaires d'origine animale, par découpage, cuisson, appertisation, surgélation,
 congélation, lyophilisation, déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des produits issus du
@@ -1570,7 +1593,8 @@ D
 2225
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Sucreries, raffineries de sucre, malteries
 
@@ -1628,7 +1652,8 @@ b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 2226
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Amidonneries, féculeries, dextrineries
 
@@ -1681,18 +1706,36 @@ b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 </td>
     </tr>
     <tr>
-      <td rowspan="3">
+      <td rowspan="6">
 
 2230
 
 </td>
-      <td>
+      <td rowspan="6">
+      </td><td>
 
-Lait (Réception, stockage, traitement, transformation, etc. du) ou des produits issus du lait
-
-La capacité journalière de traitement exprimée en litre de lait ou équivalent-lait étant :
+Traitement et transformation du lait ou produits issus du lait, à l'exclusion du seul conditionnement.
 
 </td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td align="center">
+
+A) Installations dont les activités sont classées au titre des rubriques 3642 ou 3643</td>
+      <td align="center">A</td>
+      <td align="center">3</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+
+B) Autres installations que celles visées en A, la capacité journalière de traitement exprimée en litre de lait ou
+équivalent-lait étant :</td>
       <td>
       </td><td>
       </td><td>
@@ -1706,12 +1749,12 @@ La capacité journalière de traitement exprimée en litre de lait ou équivalen
 </td>
       <td>
 
-A
+E
 
 </td>
       <td>
 
-1
+-
 
 </td>
       <td>
@@ -1729,22 +1772,12 @@ A
     <tr>
       <td>
 
-2. supérieure à 7 000 l/j, mais inférieure ou égale à 70 000 l/j
-
-Equivalences sur les produits entrant dans l'installation :
-
-1 litre de crème = 8 l équivalent-lait
-
-1 litre de lait écrémé, de sérum, de beurre non concentré = 1 l équivalent-lait
-
-1 litre de lait écrémé, de sérum, de beurre préconcentré = 6 l équivalent-lait
-
-1 kg de fromage = 10 l équivalent-lait
+2. Supérieure à 7 000 l/ j, mais inférieure ou égale à 70 000 l/ j
 
 </td>
       <td>
 
-D
+DC
 
 </td>
       <td>
@@ -1752,15 +1785,47 @@ D
       </td><td>
     </td></tr>
     <tr>
-      <td rowspan="5">
+      <td>Nota :
+
+1) Equivalences sur les produits entrant dans l'installation :
+
+1 litre de crème = 8 l équivalent-lait
+
+1 litre de lait écrémé, de sérum, de babeurre non concentrés = 1 l équivalent-lait
+
+1 litre de lait écrémé, de sérum, de babeurre préconcentrés = 6 l équivalent-lait
+
+1 kg de fromage = 10 l équivalent-lait
+
+1 kg de poudre = 9 l équivalent-lait
+
+2) Traitement et transformation, à l'exclusion du seul conditionnement : Cette définition inclut toute modification
+(thermique, mécanique, physico chimique …) du lait ou produits issus du lait. Ne sont pas considérées comme traitement et
+transformation les opérations suivantes :
+
+- le seul conditionnement et/ ou la découpe sans autre opération (du type broyage, râpage, tamisage, filtration, etc.) en vue
+du transport ou de la commercialisation ;
+
+- le simple stockage ou transit sans autre opération que la réfrigération (les quantités d'équivalent-lait concernées sont à
+déduire du classement sous la rubrique 2230) ;
+
+- la simple maturation et/ ou l'affinage du produit).</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td rowspan="10">
 
 2240
 
 </td>
-      <td>
+      <td rowspan="7">
+      </td><td>
 
-Huiles végétales, huiles animales, corps gras (extraction ou traitement des), fabrication des acides stéariques, palmitiques
-et oléiques, à l'exclusion de l'extraction des huiles essentielles des plantes aromatiques
+Huiles et corps gras d'origine animale ou végétale (extraction ou traitement des), fabrication des acides stéariques,
+palmitiques et oléiques, à l'exclusion de l'extraction des activités visées par les rubriques 2631 et 2791
 
 </td>
       <td>
@@ -1771,12 +1836,13 @@ et oléiques, à l'exclusion de l'extraction des huiles essentielles des plantes
     <tr>
       <td>
 
-La capacité de production étant :
+A) Installations dont les activités sont classées au titre des rubriques 3642 ou 3410 ou site de production industrielle
+réalisant l'extraction à l'aide de solvants inflammables :
 
 </td>
+      <td align="center">A</td>
+      <td align="center">3</td>
       <td>
-      </td><td>
-      </td><td>
 
 1. La capacité de production étant :
 
@@ -1786,17 +1852,13 @@ La capacité de production étant :
     <tr>
       <td>
 
-1. supérieure à 2 t/j
+B) Autres installations que celles visées au A, la capacité de production étant :
 
 </td>
       <td>
 
-A
-
 </td>
       <td>
-
-1
 
 </td>
       <td>
@@ -1812,7 +1874,9 @@ a) supérieure à 100 t/j
     </tr>
     <tr>
       <td>
-      </td><td>
+
+1-Lorsque l'installation fonctionne pendant une durée maximale de 90 jours par an (*)</td>
+      <td>
       </td><td>
       </td><td>
 
@@ -1826,17 +1890,60 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 100 t/j
 </td>
     </tr>
     <tr>
+      <td>a) Supérieure à 20 t/ j</td>
+      <td align="center">E</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>b) Supérieure à 200 kg/ j, mais inférieure ou égale à 20 t/ j</td>
+      <td align="center">DC</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
       <td>
 
-2. supérieure à 200 kg/j, mais inférieure ou égale à 2 t/j
+2-Autres installations
 
 </td>
       <td>
 
-D
-
 </td>
       <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+a) Supérieure à 10 t/ j</td>
+      <td align="center">E</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+b) Supérieure à 200 kg/ j, mais inférieure ou égale à 10 t/ j</td>
+      <td align="center">DC</td>
+      <td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
+      </td><td>
+
+(*) Pour toute activité saisonnière, la capacité journalière de production est estimée sur la base de la moyenne mensuelle.</
+td>
+      <td>
+      </td><td>
       </td><td>
       </td><td>
     </td></tr>
@@ -1846,7 +1953,8 @@ D
 2250
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Production par distillation d'alcools de bouche d'origine agricole
 
@@ -1924,7 +2032,8 @@ capacité de production d'alcool pur est remplacé par un seuil de 50 hl de capa
 2251
 
 </td>
-      <td>
+      <td rowspan="5">
+      </td><td>
 
 Préparation, conditionnement de vins.
 
@@ -2000,7 +2109,8 @@ D
 2252
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Cidre (préparation, conditionnement de)
 
@@ -2069,7 +2179,8 @@ D
 2253
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Boissons (préparation, conditionnement de) bière, jus de fruits, autres boissons, à l'exclusion des eaux minérales, eaux de
 source, eaux de table et des activités visées par les rubriques 2230, 2250, 2251 et 2252
@@ -2139,7 +2250,8 @@ D
 2260
 
 </td>
-      <td>
+      <td rowspan="6">
+      </td><td>
 
 Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, nettoyage, tamisage, blutage, mélange,
 épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication
@@ -2259,7 +2371,8 @@ D
 2265
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
@@ -2321,6 +2434,7 @@ D
 
 </td>
       <td>
+      </td><td>
 
 Acides butyrique, citrique, glutamique, lactique et autres acides organiques alimentaires (fabrication d')
 
@@ -2345,6 +2459,7 @@ A
 
 </td>
       <td>
+      </td><td>
 
 Levure (fabrication de)
 
@@ -2369,6 +2484,7 @@ A
 
 </td>
       <td>
+      </td><td>
 
 Rouissage (hors rouissage à terre) ou teillage du lin, du chanvre et autres plantes textiles
 
@@ -2392,7 +2508,8 @@ A
 2311
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Fibres d'origine végétale, cocons de vers à soie, fibres artificielles ou synthétiques (traitement de, par battage, cardage,
 lavage, etc.)
@@ -2454,7 +2571,8 @@ D
 2315
 
 </td>
-      <td>
+      <td rowspan="2">
+      </td><td>
 
 Fabrication de fibres végétales artificielles et produits manufacturés dérivés
 
@@ -2489,7 +2607,8 @@ A
 2321
 
 </td>
-      <td>
+      <td rowspan="2">
+      </td><td>
 
 Ateliers de fabrication de tissus, feutre, articles de maille, dentelle mécanique, cordages, cordes et ficelles
 
@@ -2520,7 +2639,8 @@ D
 2330
 
 </td>
-      <td>
+      <td rowspan="5">
+      </td><td>
 
 Teinture, impression, apprêt, enduction, blanchiment et délavage de matières textiles :
 
@@ -2608,7 +2728,8 @@ D
 2340
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Blanchisserie, laverie de linge à l'exclusion du nettoyage à sec visé par la rubrique 2345.
 
@@ -2656,7 +2777,8 @@ D
 2345
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Utilisation de solvants pour le nettoyage à sec et le traitement des textiles ou vêtements ; la capacité nominale (1) totale
 des machines présentes dans l'installation étant :
@@ -2720,7 +2842,8 @@ de consommation d'une machine."
 2350
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Tanneries, mégisseries, et toute opération de préparation des cuirs et peaux à l'exclusion des opérations de salage en annexe
 des abattoirs et de la teinture
@@ -2779,7 +2902,8 @@ b) supérieure à 1 t/j, mais inférieure ou égale à 5 t/j
 2351
 
 </td>
-      <td>
+      <td rowspan="5">
+      </td><td>
 
 Teinture et pigmentation de peaux
 
@@ -2868,6 +2992,7 @@ DC
 
 </td>
       <td>
+      </td><td>
 
 Fabrication d'extraits tannants
 
@@ -2891,7 +3016,8 @@ A
 2355
 
 </td>
-      <td>
+      <td rowspan="2">
+      </td><td>
 
 Dépôts de peaux y compris les dépôts de peaux salées en annexe des abattoirs
 
@@ -2922,7 +3048,8 @@ D
 2360
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Ateliers de fabrication de chaussures, maroquinerie ou travail des cuirs et des peaux
 
@@ -2983,7 +3110,8 @@ D
 2410
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Ateliers ou l'on travaille le bois ou matériaux combustibles analogues :
 
@@ -3044,7 +3172,8 @@ D
 2415
 
 </td>
-      <td>
+      <td rowspan="3">
+      </td><td>
 
 Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
 
@@ -3104,7 +3233,8 @@ DC
 2420
 
 </td>
-      <td>
+      <td rowspan="5">
+      </td><td>
 
 Charbon de bois (fabrication du)
 
@@ -3185,7 +3315,8 @@ D
 2430
 
 </td>
-      <td>
+      <td rowspan="9">
+      </td><td>
 
 Préparation de la pâte à papier
 
@@ -3353,7 +3484,8 @@ c) inférieure ou égale à 100 t/j
 2440
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Fabrication de papier, carton
 
@@ -3426,7 +3558,8 @@ c) supérieure à 20 t/j, mais inférieure ou égale à 100 t/j
 2445
 
 </td>
-      <td>
+      <td rowspan="4">
+      </td><td>
 
 Transformation du papier, carton
 
@@ -3487,7 +3620,8 @@ D
 2450
 
 </td>
-      <td>
+      <td rowspan="13">
+      </td><td>
 
 Imprimeries ou ateliers de reproduction graphique sur tout support tel que métal, papier, carton, matières plastiques,
 textiles, etc. utilisant une forme imprimante
@@ -3719,7 +3853,8 @@ deux.
 2510
 
 </td>
-      <td>
+      <td rowspan="19">
+      </td><td>
 
 Carrières (exploitation de).
 
@@ -4038,18 +4173,10 @@ DC
   </tbody>
 </table>
 
-(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle
-périodique prévu par l'article L. 512-11 du code de l'environnement.
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du
+code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
-
-Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles
-mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités
-mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
-
-Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en vigueur le jour de la publication de l'arrêté
-ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces
-deux rubriques.
 
 **Liens relatifs à cet article**
 
@@ -4065,4 +4192,4 @@ deux rubriques.
 
 	**Modifié par**:
 
-	  - Décret n°2017-456 du 29 mars 2017 - art. 8
+	  - Décret n°2017-594 du 21 avril 2017 - art.
