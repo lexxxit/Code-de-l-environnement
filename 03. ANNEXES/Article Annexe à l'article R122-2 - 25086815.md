@@ -35,13 +35,13 @@ Installations classées pour la protection de l'environnement (ICPE)
 </td>
     </tr>
     <tr>
-      <td rowspan="6" align="left">
+      <td align="left" rowspan="6">
 
 1. Installations classées pour la protection de l'environnement</td>
       <td align="left">
 
 a) Installations mentionnées à l'article L. 515-28 du code de l'environnement.</td>
-      <td rowspan="6" align="left">
+      <td align="left" rowspan="6">
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
@@ -145,7 +145,7 @@ profondes au stockage souterrain des déchets radioactifs.</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Infrastructures de transport
 
@@ -204,7 +204,7 @@ c) Construction de pistes cyclables et voies vertes de plus de 10 km.
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 7. Transports guidés de personnes (les ponts, tunnels et tranchées couvertes supportant des transports guidés de personnes
 doivent être étudiés au titre de cette rubrique).</td>
@@ -246,7 +246,7 @@ Milieux aquatiques, littoraux et maritimes
 </td>
     </tr>
     <tr>
-      <td align="left" rowspan="4">
+      <td rowspan="4" align="left">
 
 9. Infrastructures portuaires, maritimes et fluviales.</td>
       <td align="left">
@@ -359,10 +359,10 @@ Tous travaux, ouvrages ou aménagements.</td>
 Création de récifs artificiels.</td>
     </tr>
     <tr>
-      <td rowspan="3" align="left">
+      <td align="left" rowspan="3">
 
 16. Projets d'hydraulique agricole, y compris projets d'irrigation et de drainage de terres.</td>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
       </td><td align="left">
 
 a) Projets d'hydraulique agricole y compris projets d'irrigation et de drainage de terres, sur une superficie supérieure ou
@@ -495,7 +495,7 @@ Canalisation d'eau dont le produit du diamètre extérieur avant revêtement par
         <sup>2</sup>.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 23. Ouvrages servant au transvasement des ressources hydrauliques entre bassins fluviaux au sens de la directive 2000/60/ CE.
 
@@ -589,7 +589,7 @@ l'environnement réalisé par le propriétaire riverain, le volume des sédiment
       <td rowspan="2" align="left">
 
 26. Stockage et épandages de boues et d'effluents.</td>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
       </td><td align="left">
 
 a) Plan d'épandage de boues relevant de l'article R. 214-1 du même code et comprenant l'ensemble des installations liées à
@@ -692,7 +692,7 @@ Ouverture de travaux de recherche de mines non mentionnés précédemment, lorsq
 humides ou des marais.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Energie
 
@@ -818,7 +818,7 @@ Canalisations dont le produit du diamètre extérieur avant revêtement par la l
 carrés ou dont la longueur est égale ou supérieure à 2 kilomètres.</td>
     </tr>
     <tr>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Travaux, ouvrages, aménagements ruraux et urbains
 
@@ -845,7 +845,7 @@ créée est inférieure à 40 000 m
         <sup>2</sup>.</td>
     </tr>
     <tr>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Les composantes d'un projet donnant lieu à un permis d'aménager, un permis de construire, ou à une procédure de zone
 d'aménagement concerté ne sont pas concernées par la présente rubrique si le projet dont elles font partie fait l'objet d'une
@@ -865,11 +865,11 @@ Villages de vacances et aménagements associés dont les travaux créent une sur
         <sup>2</sup> ou dont le terrain d'assiette couvre une superficie supérieure ou égale 3 ha.</td>
     </tr>
     <tr>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 41. Aires de stationnement ouvertes au public, dépôts de véhicules et garages collectifs de caravanes ou de résidences
 mobiles de loisirs.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td align="left">
 
 a) Aires de stationnement ouvertes au public de 50 unités et plus.</td>
@@ -880,10 +880,10 @@ a) Aires de stationnement ouvertes au public de 50 unités et plus.</td>
 b) Dépôts de véhicules et garages collectifs de caravanes ou de résidences mobiles de loisirs de 50 unités et plus.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 42. Terrains de camping et caravanage.</td>
-      <td rowspan="2" align="left">
+      <td align="left" rowspan="2">
 
 Terrains de camping et de caravanage permettant l'accueil de plus de 200 emplacements de tentes, caravanes, résidences
 mobiles de loisirs ou d'habitations légères de loisirs.</td>
@@ -936,7 +936,9 @@ superficie inférieure à 4 hectares hors site vierge.</td>
       </td><td colspan="2" align="left">
 
 Pour la rubrique 43, est considéré comme "site vierge" un site non accessible gravitairement depuis les remontées mécaniques
-ou du fait de la difficulté du relief.</td>
+ou du fait de la difficulté du relief, ou accessible gravitairement depuis les remontées mécaniques mais ne revenant pas
+gravitairement sur une piste de ski ou un départ de remontée mécanique du même domaine skiable au sens de l'article R. 122-10
+du code de l'urbanisme.</td>
     </tr>
     <tr>
       <td align="left">
@@ -969,7 +971,7 @@ Toutes opérations.</td>
       <td align="left" rowspan="2">
 
 46. Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td align="left">
 
 a) Projets d'affectation de plus de 4 hectares de terres non cultivées à l'exploitation agricole intensive.</td>
@@ -980,7 +982,7 @@ a) Projets d'affectation de plus de 4 hectares de terres non cultivées à l'exp
 b) Projets d'affectation de plus de 4 hectares d'étendues semi-naturelles à l'exploitation agricole intensive.</td>
     </tr>
     <tr>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
 
 47. Premiers boisements et déboisements en vue de la reconversion de sols.</td>
       <td align="left">
@@ -1066,7 +1068,7 @@ disposition du public est publié après le premier jour du mois suivant la publ
 
 	**Modifié par**:
 
-	  - Décret n°2017-626 du 25 avril 2017 - art. 3
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 8
 
 	**Cité par**:
 
